@@ -1,0 +1,14 @@
+TCGA-33-4532, TCGA-33-4532SENT_1,{},{GA,?,33,?,4532},{ga,?,33,?,4532},{NN,CD,CD,CD,CD},{}
+TCGA-33-4532, TCGA-33-4532SENT_2,{},{E.,.},{E.,.},{NNP,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_3,{},{AL,DIAGNOSIS,Pathologist,:,I.,RIGHT,LOWER,LOBE,,,LUNG,{,RESECTION,),:,MODERATELY,DIFFERENTIATED,SQUAMOUS,CELL,CARCINOMA,(,4.5,CM,),.},{AL,DIAGNOSIS,Pathologist,:,i.,RIGHT,LOWER,LOBE,,,lung,{,resection,),:,moderately,differentiate,SQUAMOUS,CELL,CARCINOMA,(,4.5,cm,),.},{NNP,NNP,NNP,:,NN,NNP,NNP,NNP,,,NN,CD,NN,NN,:,RB,VBN,NNP,NNP,NNP,VBD,CD,NN,NN,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_4,{},{THE,TUMOR,EXTENDS,SUBPLEURALLY,BUT,DOES,NOT,INVADE,THROUGH,THE,VISCERAL,PLEURA,.},{the,tumor,extend,SUBPLEURALLY,BUT,DOES,NOT,invade,through,the,visceral,pleuron,.},{DT,NN,VBZ,NNP,NNP,NNP,NNP,VB,IN,DT,JJ,NN,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_5,{},{THE,.},{the,.},{DT,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_6,{},{VASCULAR,AND,?,BRONCHIAL,SURGICAL,MARGINS,ARE,NEGATIVE,FOR,TUMOR,.},{vascular,and,?,bronchial,surgical,margin,be,negative,for,tumor,.},{JJ,CC,JJ,JJ,JJ,NNS,VBP,JJ,IN,NN,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_7,{},{THREE,(,3,),LYMPH,NODES,,,NEGATIVE,FOR,TUMOR,.},{three,(,3,),LYMPH,NODES,,,NEGATIVE,for,tumor,.},{CD,CD,CD,NN,NNP,NNP,,,NNP,IN,NN,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_8,{},{THE,PATHOLOGIC,STAGE,IS,TZNOMX,.},{the,PATHOLOGIC,STAGE,be,TZNOMX,.},{DT,NNP,NNP,VBZ,NNP,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_9,{},{NOTE,:,Although,we,favor,that,this,tumor,represents,a,primary,lung,carcinoma,,,we,can,not,exclude,the,possibility,of,.},{note,:,although,we,favor,that,this,tumor,represent,a,primary,lung,carcinoma,,,we,can,not,exclude,the,possibility,of,.},{VB,:,IN,PRP,VBP,IN,DT,NN,VBZ,DT,JJ,NN,NN,,,PRP,MD,RB,VB,DT,NN,IN,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_10,{},{a,lung,metastasis,on,morphologic,grounds,.},{a,lung,metastasis,on,morphologic,grounds,.},{DT,NN,NN,IN,JJ,NNS,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_11,{},{2,.},{2,.},{LS,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_12,{},{STATION,7,LYMPH,NODE,(,EXCISION,),:,ONE,(,1,),LYMPH,NODE,AND,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,FOR,TUMOR,.},{station,7,lymph,node,(,excision,),:,one,(,1,),LYMPH,NODE,and,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,for,tumor,.},{NN,CD,NN,NN,CD,NN,CD,:,CD,NN,CD,CD,NNP,NNP,CC,NNP,NNP,NNP,,,NNP,IN,NN,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_13,{},{3,.},{3,.},{LS,.},{}
+TCGA-33-4532, TCGA-33-4532SENT_14,{},{R4,LYMPH,NODE,(,EXCISION,),:,ONE,(,1,),LYMPH,NODE,AND,ASSOCIATED},{r4,lymph,node,(,excision,),:,one,(,1,),lymph,node,and,associated},{NN,NN,NN,CD,NN,CD,:,CD,NN,CD,CD,NN,NN,CC,NN},{}

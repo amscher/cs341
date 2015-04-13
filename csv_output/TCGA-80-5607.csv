@@ -1,0 +1,9 @@
+TCGA-80-5607, TCGA-80-5607SENT_1,{},{A,description,for,each,data,field,can,be,found,in,the,?,Data,description,?,worksheet,(,yellow,tab,),.},{a,description,for,each,datum,field,can,be,find,in,the,?,Data,description,?,worksheet,(,yellow,tab,),.},{DT,NN,IN,DT,NNS,NN,MD,VB,VBN,IN,DT,NNP,NNP,NN,NN,NN,CD,JJ,NN,NN,.},{}
+TCGA-80-5607, TCGA-80-5607SENT_2,{},{Sample,Collection,Details,Sample,Number,Sample,Type},{sample,Collection,Details,Sample,Number,Sample,type},{VB,NNP,NNP,NNP,NNP,NNP,NN},{}
+TCGA-80-5607, TCGA-80-5607SENT_3,{},{BUFFY},{buffy},{NN},{}
+TCGA-80-5607, TCGA-80-5607SENT_4,{},{Histology,and,staging},{Histology,and,staging},{NNP,CC,NN},{}
+TCGA-80-5607, TCGA-80-5607SENT_5,{},{Sample,Site,of,Year,of,Age,at,Sample,Days,to,Days,to,Type,of,Site,of,Preparatio,Tissue,Sample,Sample,Comments,Procedure,Diagnosis,Procedure,Primary,n,Collection,Collection,Date,(,Histology,)},{sample,site,of,year,of,age,at,Sample,day,to,day,to,type,of,site,of,Preparatio,tissue,sample,sample,comment,Procedure,diagnosis,Procedure,primary,n,Collection,Collection,Date,(,Histology,)},{NN,NN,IN,NN,IN,NN,IN,NNP,NNS,TO,NNS,TO,NN,IN,NN,IN,NNP,NN,NN,NN,NNS,NNP,NN,NNP,JJ,NN,NNP,NNP,NNP,CD,NNP,CD},{}
+TCGA-80-5607, TCGA-80-5607SENT_6,{},{(,yrs,)},{(,yr,)},{RB,VBZ,CD},{}
+TCGA-80-5607, TCGA-80-5607SENT_7,{},{FF,Adenoca,rci,RESECT},{ff,Adenoca,rci,RESECT},{NN,NNP,NNP,NNP},{}
+TCGA-80-5607, TCGA-80-5607SENT_8,{},{Tumour,Histology,Gradel,Pathologic,Pathologic,C,|,inica,|,M,VALCSG,Histology,Slide,URL,Size,(,cm,),Differentiat,al,T,al,N,Stage,Comments,ion},{tumour,Histology,Gradel,Pathologic,pathologic,c,|,inica,|,m,VALCSG,Histology,Slide,url,size,(,cm,),Differentiat,al,t,al,N,Stage,comment,ion},{NN,NNP,NNP,NNP,JJ,NN,NN,NN,CD,NN,NNP,NNP,NNP,NN,NN,CD,NN,NN,NNP,NNP,NN,NNP,NNP,NNP,NNS,NN},{}
+TCGA-80-5607, TCGA-80-5607SENT_9,{},{LUL,3.50,03,|,|,T2,,,NOS,N1,Mo},{LUL,3.50,03,|,|,t2,,,no,n1,mo},{NNP,CD,CD,NNS,VBP,NN,,,NN,NN,NN},{}

@@ -1,0 +1,10 @@
+TCGA-63-A5MR, TCGA-63-A5MRSENT_1,{},{uurn,:,razaaxza-A333-4,:13,-94,?,:,-9},{uurn,:,razaaxza-a333-4,:13,-94,?,:,-9},{NN,:,NN,CD,CD,NN,:,CD},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_2,{},{TCGA-63-ASMR-91A-PR,mmEFE7e7da,ll,lllllllllllllllllllllllllllIll,?,!},{tcga-63-asmr-91a-pr,mmefe7e7da,ll,lllllllllllllllllllllllllllill,?,!},{NN,NN,NN,NN,NN,.},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_3,{},{Illllllllllllllllllllllllllilllfed,llllllllllllllllllllllllllll,llllllllllllllllllllllllllll,llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll},{illllllllllllllllllllllllllilllfed,llllllllllllllllllllllllllll,llllllllllllllllllllllllllll,llllllllllllllllllllllllllllllllllllllllllllllllllllllllllll},{JJ,NN,NN,NN},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_4,{},{Sample,Number,Sample,Type,TUMOUR},{sample,Number,Sample,type,tumour},{VB,NNP,NNP,NN,NN},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_5,{},{RESECT,Leftupperlobe,Squamous,carcinoma},{RESECT,Leftupperlobe,Squamous,carcinoma},{NNP,NNP,NNP,NN},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_6,{},{Sample,Number,Sample,Type,BUFFY},{sample,Number,Sample,type,buffy},{VB,NNP,NNP,NN,NN},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_7,{},{fd2,>,?,o,?,3},{fd2,>,?,o,?,3},{NN,JJR,CD,NN,CD,CD},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_8,{},{iriterh,Q,J,!},{iriterh,Q,J,!},{JJ,NNP,NNP,.},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_9,{},{z,T,+,llagnosis,Dlsuepantv,tnmary,Emu,!},{z,t,+,llagnosis,dlsuepantv,tnmary,emu,!},{SYM,NN,CC,NN,NN,JJ,NN,.},{}
+TCGA-63-A5MR, TCGA-63-A5MRSENT_10,{},{Sm,:,Discrepancy,HPAA,Dlscrepancv,?,nor,Malignancy,History},{sm,:,discrepancy,hpaa,dlscrepancv,?,nor,malignancy,history},{NN,:,NN,NN,NN,NN,CC,NN,NN},{}

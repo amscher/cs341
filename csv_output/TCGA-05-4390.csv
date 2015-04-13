@@ -1,0 +1,9 @@
+TCGA-05-4390, TCGA-05-4390SENT_1,{},{Main,diagnosis/diagnoses,:,Peripheral,bronehopulmonary,.},{Main,diagnosis/diagnoses,:,peripheral,bronehopulmonary,.},{NNP,VBZ,:,JJ,JJ,.},{}
+TCGA-05-4390, TCGA-05-4390SENT_2,{},{histologicaily,mixed,aclenoeareinouta,of,the,right,upper,lobe,of,the,lung,with,predominant,aeiuar,and,a,smaller,|,arge,?,eeli,solid,component,and,localization,in,S2,.},{histologicaily,mixed,aclenoeareinouta,of,the,right,upper,lobe,of,the,lung,with,predominant,aeiuar,and,a,smaller,|,arge,?,eelus,solid,component,and,localization,in,s2,.},{RB,JJ,NN,IN,DT,JJ,JJ,NN,IN,DT,NN,IN,JJ,NN,CC,DT,JJR,NN,NN,CD,NNS,JJ,NN,CC,NN,IN,NN,.},{}
+TCGA-05-4390, TCGA-05-4390SENT_3,{},{TNM,classi?cation,:,pT2,,,pNO,,,Ro,,,stage,IB,.},{tnm,classi?cation,:,pt2,,,pno,,,ro,,,stage,IB,.},{NN,NN,:,NN,,,NN,,,NN,,,NN,NNP,.},{}
+TCGA-05-4390, TCGA-05-4390SENT_4,{},{.},{.},{.},{}
+TCGA-05-4390, TCGA-05-4390SENT_5,{},{C,34.1,;,M,8255/3,.},{c,34.1,;,m,8255/3,.},{NN,CD,:,NN,CD,.},{}
+TCGA-05-4390, TCGA-05-4390SENT_6,{},{Comment/supplementary,remarli,:,the,tumor,lies,at,the,jtluetion,with,SI,and,has,in?ltrated,the,retracted,visceral,pleura,that,is,enlarged,with,fibrosis,.},{comment/supplementary,remarlus,:,the,tumor,lie,at,the,jtluetion,with,si,and,have,in?ltrated,the,retract,visceral,pleuron,that,be,enlarged,with,fibrosis,.},{JJ,NNS,:,DT,NN,VBZ,IN,DT,NN,IN,NN,CC,VBZ,VBN,DT,VBN,JJ,NN,WDT,VBZ,JJ,IN,NN,.},{}
+TCGA-05-4390, TCGA-05-4390SENT_7,{},{The,resection,margin,ofthe,bronchus,and,vessels,and,all,the,lymph,nodes,removed,(,samples,1,.,)},{the,resection,margin,ofthe,bronchus,and,vessel,and,all,the,lymph,node,remove,(,sample,1,.,)},{DT,NN,NN,NN,NNS,CC,NNS,CC,PDT,DT,NN,NNS,VBD,CD,NNS,CD,.,SYM},{}
+TCGA-05-4390, TCGA-05-4390SENT_8,{},{to,',I,?,.,),)},{to,',I,?,.,),)},{TO,'',PRP,VBP,.,CD,CD},{}
+TCGA-05-4390, TCGA-05-4390SENT_9,{},{are,tumor-Free,.},{be,tumor-free,.},{VBP,JJ,.},{}

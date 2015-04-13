@@ -1,0 +1,9 @@
+TCGA-58-8388, TCGA-58-8388SENT_1,{},{Tss,TSS,IdentifierTSS,Unique,Patient,#,2},{Tss,TSS,IdentifierTSS,unique,patient,#,2},{NNP,NNP,NNP,JJ,NN,#,CD},{}
+TCGA-58-8388, TCGA-58-8388SENT_2,{},{Pathology,Report-Summary,:},{pathology,report-summary,:},{NN,JJ,:},{}
+TCGA-58-8388, TCGA-58-8388SENT_3,{},{Lung,,,left,,,upper,lobe,:,21.5,x,16.5,X,4.5,cm,Tumor,:,3.5,x,3.0,X,4.5,cm},{lung,,,leave,,,upper,lobe,:,21.5,x,16.5,x,4.5,cm,tumor,:,3.5,x,3.0,x,4.5,cm},{NN,,,VBD,,,JJ,NN,:,CD,CC,CD,NN,CD,NN,NN,:,CD,CC,CD,NN,CD,NN},{}
+TCGA-58-8388, TCGA-58-8388SENT_4,{},{%,@is,=,Squamous,Cell,Carcinoma,,,mostly,basaloid,pT2a,,,pNO,(,0/35,),,,pMX,,,G3},{%,@is,=,squamous,cell,carcinoma,,,mostly,basaloid,pt2a,,,pno,(,0/35,),,,pmx,,,g3},{NN,NN,JJ,JJ,NN,NN,,,RB,JJ,NN,,,NN,CD,CD,NN,,,NN,,,NN},{}
+TCGA-58-8388, TCGA-58-8388SENT_5,{},{Sugglementary,examinations,:,IHC,:,Tumor,positiv,for,p63,,,CK5/6,,,some,cells,for,CK14,.},{sugglementary,examination,:,IHC,:,tumor,positiv,for,p63,,,ck5/6,,,some,cell,for,ck14,.},{JJ,NNS,:,NNP,:,NN,NN,IN,NN,,,NN,,,DT,NNS,IN,NN,.},{}
+TCGA-58-8388, TCGA-58-8388SENT_6,{},{Tumor,cells,negative,for,:,CD56,,,Chromogranin,A,,,SPA,,,synaptophysin,,,TTF1,.},{tumor,cell,negative,for,:,cd56,,,chromogranin,a,,,SPA,,,synaptophysin,,,ttf1,.},{NN,NNS,JJ,IN,:,NN,,,NN,NN,,,NNP,,,NN,,,NN,.},{}
+TCGA-58-8388, TCGA-58-8388SENT_7,{},{Proliferation,rate,:,40,?,60,%},{proliferation,rate,:,40,?,60,%},{NN,NN,:,CD,CD,CD,NN},{}
+TCGA-58-8388, TCGA-58-8388SENT_8,{},{Pathologist,:,?},{pathologist,:,?},{NN,:,CD},{}
+TCGA-58-8388, TCGA-58-8388SENT_9,{},{Signature,:,Date,:},{signature,:,date,:},{NN,:,NN,:},{}

@@ -1,0 +1,16 @@
+TCGA-49-4506, TCGA-49-4506SENT_1,{},{INAL,DIAGNOSIS,~,~,~,~,~,~,~,~,~,-,Patholpgist},{INAL,DIAGNOSIS,~,~,~,~,~,~,~,~,~,-,patholpgist},{NNP,NNP,FW,FW,FW,FW,FW,FW,FW,FW,SYM,:,NN},{}
+TCGA-49-4506, TCGA-49-4506SENT_2,{},{LYMPH,NODE,,,AP,WINDOW,(,EXCISION,),:,HYALINIZED,INACTIVE},{lymph,node,,,AP,WINDOW,(,excision,),:,HYALINIZED,INACTIVE},{NN,NN,,,NNP,NNP,VBD,NN,CD,:,NNP,NNP},{}
+TCGA-49-4506, TCGA-49-4506SENT_3,{},{KANULOMAS,.},{KANULOMAS,.},{NNP,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_4,{},{NEGATIVE,FOR,TUMOR,.},{negative,for,tumor,.},{JJ,IN,NN,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_5,{},{RIB,(,EXCISION,),:,PORTION,OF,UNREMARKABLE,RIB,.},{rib,(,excision,),:,PORTION,of,UNREMARKABLE,rib,.},{NN,CD,NN,CD,:,NNP,IN,NNP,NN,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_6,{},{(,GROSS,DIAGNOSIS},{(,gross,diagnosis},{NN,NNS,NN},{}
+TCGA-49-4506, TCGA-49-4506SENT_7,{},{ILY,),.},{ily,),.},{NN,NN,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_8,{},{LYMPH,NODE,,,STATION,5,(,EXCISION,),:,ONE,LYMPH,NODE,AND,ASSOCIATED},{lymph,node,,,station,5,(,excision,),:,one,lymph,node,and,associated},{NN,NN,,,NN,CD,CD,NN,CD,:,CD,NN,NN,CC,NN},{}
+TCGA-49-4506, TCGA-49-4506SENT_9,{},{IBROADIPOSE,TISSUE,,,NEGATIVE,FOR,TUMOR,.},{ibroadipose,tissue,,,NEGATIVE,for,tumor,.},{JJ,NN,,,NNP,IN,NN,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_10,{},{LYMPH,NODE,,,STATION,7,(,EXCISION,),:,FIBROADIPOSE,AND,FIBROUS,)},{lymph,node,,,station,7,(,excision,),:,fibroadipose,and,fibrous,)},{NN,NN,,,NN,CD,CD,NN,CD,:,NNS,CC,NNS,IN},{}
+TCGA-49-4506, TCGA-49-4506SENT_11,{},{NNECTIVE,TISSUE,,,NEGATIVE,FOR,TUMOR,.},{nnective,tissue,,,NEGATIVE,for,tumor,.},{JJ,NN,,,NNP,IN,NN,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_12,{},{PERIAORTIC,TISSUE,(,EXCISION,),:,-,ONE,LYMPH,NODE,,,NEGATIVE,FOR},{periaortic,tissue,(,excision,),:,-,one,lymph,node,,,NEGATIVE,for},{NN,NN,CD,NN,CD,:,:,CD,NN,NN,,,NNP,IN},{}
+TCGA-49-4506, TCGA-49-4506SENT_13,{},{IMOR,.},{imor,.},{NN,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_14,{},{LYMPH,NODE,,,L11,(,EXCISION,),:,ONE,LYMPH,NODE,AND,ASSOCIATED},{lymph,node,,,l11,(,excision,),:,one,lymph,node,and,associated},{NN,NN,,,NN,CD,NN,CD,:,CD,NN,NN,CC,NN},{}
+TCGA-49-4506, TCGA-49-4506SENT_15,{},{[,BROADIPOSE,TISSUE,,,NEGATIVE,FOR,TUMOR,.},{[,broadipose,tissue,,,NEGATIVE,for,tumor,.},{NN,NN,NN,,,NNP,IN,NN,.},{}
+TCGA-49-4506, TCGA-49-4506SENT_16,{},{CGA,-,49,-4505},{cga,-,49,-4505},{SYM,:,CD,CD},{}

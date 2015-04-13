@@ -1,0 +1,11 @@
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_1,{},{UUID,B,-,E4158FBCEa7e2d,a,ct,ed,ll,IHIIH,ii,I,illll,II,I,llll?,I,llllll,I,ll,llllllillii,I,H,",lllllill,ill,I,I,|,|,|,|,|,|,|,|,|,|,l,|,|,|,|,|,|,|,|,l,|,l,|,|,|,|,|,|,I,|,|,l,|,l,|,|,|,|,|,|,|,|,|,|,|,H,|,H,|,l,ll,I,|,|,|,|,|,|,iiiliiiliiiiiiiliiliiiilliiiiiiilliiiiiliiiiiiiillillliiiiilii,Site,:,Left,lung,inferior,lobe},{uuid,b,-,e4158fbcea7e2d,a,ct,ed,ll,IHIIH,ii,I,illll,ii,I,llll?,I,llllll,I,ll,llllllillii,I,h,",lllllill,ill,I,I,|,|,|,|,|,|,|,|,|,|,l,|,|,|,|,|,|,|,|,l,|,l,|,|,|,|,|,|,I,|,|,l,|,l,|,|,|,|,|,|,|,|,|,|,|,h,|,h,|,l,ll,I,|,|,|,|,|,|,iiiliiiliiiiiiiliiliiiilliiiiiiilliiiiiliiiiiiiillillliiiiilii,site,:,leave,lung,inferior,lobe},{NN,NN,:,NN,DT,NN,VBD,NN,NNP,LS,PRP,VBP,CD,PRP,VBP,PRP,NN,PRP,VBP,NNS,PRP,NN,'',NN,RB,PRP,PRP,VBP,CD,CD,NN,CD,CD,NN,CD,CD,NN,NN,CD,CD,NN,CD,CD,NN,CD,NN,NN,NN,NN,CD,CD,NN,CD,CD,NN,PRP,VBP,CD,NN,NN,NN,CD,CD,NN,CD,CD,NN,CD,CD,NN,CD,NN,NN,NN,NN,NN,NN,NN,PRP,VBP,CD,CD,NN,CD,NN,NN,NN,:,VBN,NN,JJ,NN},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_2,{},{D,Centrai,Peripheral,El,NA},{d,Centrai,peripheral,El,NA},{NN,NNP,JJ,NNP,NNP},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_3,{},{Number,of,lesion,:},{number,of,lesion,:},{NN,IN,NN,:},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_4,{},{1,.},{1,.},{LS,.},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_5,{},{Lung,squamous,cell,carcinoma},{lung,squamous,cell,carcinoma},{NN,JJ,NN,NN},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_6,{},{Tumor,size,:},{tumor,size,:},{NN,NN,:},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_7,{},{1,.},{1,.},{LS,.},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_8,{},{1.5,cm,(,largest,diameter,)},{1.5,cm,(,largest,diameter,)},{CD,NN,RB,JJS,NN,NN},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_9,{},{Visceral,pleural,invasion,:,l,:,],Yes,No,Chest,wall,invasion,E,],Yes,ENO,Histological,diagnosis,:,?,Basaioid,squamous,cell,carcinoma,Node,status,NO,(,0/30,),TNM,pT1,pN0,_,(,0/30,),G3,Ro},{visceral,pleural,invasion,:,l,:,],yes,no,chest,wall,invasion,e,],yes,ENO,histological,diagnosis,:,?,basaioid,squamous,cell,carcinoma,node,status,no,(,0/30,),tnm,pt1,pn0,_,(,0/30,),g3,ro},{JJ,JJ,NN,:,NN,:,CD,UH,DT,NN,NN,NN,NN,CD,UH,NNP,JJ,NN,:,CD,JJ,JJ,NN,NN,NN,NN,NN,CD,CD,CD,NN,NN,NN,CD,CD,CD,NN,NN,NN},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_10,{},{Pathologist,signature,:},{pathologist,signature,:},{NN,NN,:},{}
+TCGA-NC-A5HH, TCGA-NC-A5HHSENT_11,{},{Date,:},{date,:},{NN,:},{}

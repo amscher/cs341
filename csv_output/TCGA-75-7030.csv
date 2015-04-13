@@ -1,0 +1,15 @@
+TCGA-75-7030, TCGA-75-7030SENT_1,{},{A,description,for,each,data,field,can,be,found,in,the,?,Data,description,?,worksheet,(,yellow,tab,),.},{a,description,for,each,datum,field,can,be,find,in,the,?,Data,description,?,worksheet,(,yellow,tab,),.},{DT,NN,IN,DT,NNS,NN,MD,VB,VBN,IN,DT,NNP,NNP,NN,NN,NN,CD,JJ,NN,NN,.},{}
+TCGA-75-7030, TCGA-75-7030SENT_2,{},{Sample,Collection,Details,SammeNumbm,Sampb,Type},{sample,Collection,Details,SammeNumbm,Sampb,type},{VB,NNP,NNP,NNP,NNP,NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_3,{},{BUFFY},{buffy},{NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_4,{},{Z,Z,wmoua},{z,z,wmoua},{NN,NN,NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_5,{},{Histology,and,staging},{Histology,and,staging},{NNP,CC,NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_6,{},{Sample,Site,of,Year,of,Age,at,Sample,Days,to,Days,to,Type,of,Site,of,Preparatio,Tissue,Sample,Sample,Comments,Procedure,Diagnosis,Procedure,Primary,n,Collection,Collection,Date,(,Histology,)},{sample,site,of,year,of,age,at,Sample,day,to,day,to,type,of,site,of,Preparatio,tissue,sample,sample,comment,Procedure,diagnosis,Procedure,primary,n,Collection,Collection,Date,(,Histology,)},{NN,NN,IN,NN,IN,NN,IN,NNP,NNS,TO,NNS,TO,NN,IN,NN,IN,NNP,NN,NN,NN,NNS,NNP,NN,NNP,JJ,NN,NNP,NNP,NNP,CD,NNP,CD},{}
+TCGA-75-7030, TCGA-75-7030SENT_7,{},{(,vr-S,)},{(,vr-s,)},{NN,NN,CD},{}
+TCGA-75-7030, TCGA-75-7030SENT_8,{},{FF,2,I,processing,8,20,RESECT,OTH,FF,RLL,|,ung,-,-,I,o,12,RESECT,OTH},{ff,2,I,process,8,20,RESECT,OTH,ff,rll,|,ung,-,-,I,o,12,RESECT,oth},{NN,CD,PRP,VBG,CD,CD,NNP,NNP,NN,NN,CD,SYM,:,:,PRP,NN,CD,NNP,NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_9,{},{Tumour,Histology,Gradel,Pathologic,Pathologic,Clinical,M,VALCSG,Size,(,cm,),Differentiat,al,T,al,N,Stage,ion},{tumour,Histology,Gradel,Pathologic,Pathologic,clinical,m,valcsg,size,(,cm,),Differentiat,al,t,al,N,Stage,ion},{NN,NNP,NNP,NNP,NNP,JJ,NN,NN,NN,CD,NN,NN,NNP,NNP,NN,NNP,NNP,NNP,NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_10,{},{5.9,3,I,T3,,,NOS,No,Mo,5.9,3,I,T3,,,NOS,No,Mo},{5.9,3,I,t3,,,no,no,mo,5.9,3,I,t3,,,no,no,mo},{CD,CD,PRP,NN,,,NN,DT,NN,CD,CD,PRP,NN,,,NN,DT,NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_11,{},{Histology,Comments},{Histology,comment},{NNP,NNS},{}
+TCGA-75-7030, TCGA-75-7030SENT_12,{},{Site,of,primary,:,Right,lower,lobe,lung,with,posterior,segments,of,upper,lobe,.},{site,of,primary,:,right,lower,lobe,lung,with,posterior,segment,of,upper,lobe,.},{NN,IN,JJ,:,RB,JJR,NN,NN,IN,JJ,NNS,IN,JJ,NN,.},{}
+TCGA-75-7030, TCGA-75-7030SENT_13,{},{Histologic,type,:,Adenocarcinoma,,,Site,of,primary,:,Right,lower,lobe,lung,with,posterior,segments,of,upper,lobe,.},{histologic,type,:,adenocarcinoma,,,site,of,primary,:,right,lower,lobe,lung,with,posterior,segment,of,upper,lobe,.},{JJ,NN,:,NN,,,NN,IN,JJ,:,RB,JJR,NN,NN,IN,JJ,NNS,IN,JJ,NN,.},{}
+TCGA-75-7030, TCGA-75-7030SENT_14,{},{Histologic,type,:,Adenocarcinoma,,,Slide},{histologic,type,:,adenocarcinoma,,,slide},{JJ,NN,:,NN,,,NN},{}
+TCGA-75-7030, TCGA-75-7030SENT_15,{},{URL},{url},{NN},{}

@@ -1,0 +1,17 @@
+TCGA-05-4405, TCGA-05-4405SENT_1,{},{.},{.},{.},{}
+TCGA-05-4405, TCGA-05-4405SENT_2,{},{.},{.},{.},{}
+TCGA-05-4405, TCGA-05-4405SENT_3,{},{-,b19f9022dfb},{-,b19f9022dfb},{:,NN},{}
+TCGA-05-4405, TCGA-05-4405SENT_4,{},{UUID,:,ab2c32b2-3cb1,4977,am,7,Redacted,InnaslIsiliiiliiiiiiiiiilliutiuluuuuuultulluluu},{UUID,:,ab2c32b2-3cb1,4977,be,7,redacted,innaslisiliiiliiiiiiiiiilliutiuluuuuuultulluluu},{NNP,:,NN,CD,VBP,CD,JJ,NN},{}
+TCGA-05-4405, TCGA-05-4405SENT_5,{},{MMMWWMMMMMMH,=,iililiiiiililllllllllll,|,|,|,|,|,|,|,l,|,llllllllllllll,llll,lll,III,II,III},{mmmwwmmmmmmh,=,iililiiiiililllllllllll,|,|,|,|,|,|,|,l,|,llllllllllllll,llll,lll,III,II,III},{NN,SYM,FW,FW,FW,FW,FW,FW,FW,FW,NN,NN,NN,NN,NN,NNP,NNP,NNP},{}
+TCGA-05-4405, TCGA-05-4405SENT_6,{},{Main,diagnosis/diagnoses,:,Peripheral,bronchopulmonary,,,histologically,mixed,adenocarcinoma,of,the,right,lower,lobe,of,the,lung,with,acinar,and,papillary,components,,,located,in,S8,.},{Main,diagnosis/diagnoses,:,peripheral,bronchopulmonary,,,histologically,mixed,adenocarcinoma,of,the,right,lower,lobe,of,the,lung,with,acinar,and,papillary,component,,,located,in,s8,.},{NNP,VBZ,:,JJ,JJ,,,RB,JJ,NN,IN,DT,NN,JJR,NN,IN,DT,NN,IN,JJ,CC,JJ,NNS,,,JJ,IN,NN,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_7,{},{TNM,classi?cation,pT2,pNo,V1,Ro,,,stage,IB,C,34.1,M,8255/3},{tnm,classi?cation,pt2,pno,v1,ro,,,stage,ib,c,34.1,m,8255/3},{NN,NN,NN,NN,NN,NN,,,NN,NN,NN,CD,NN,CD},{}
+TCGA-05-4405, TCGA-05-4405SENT_8,{},{Comment/supplementary,remark,:,The,tumor,has,in?ltrated,blood,vessels,in,the,tumor,.},{comment/supplementary,remark,:,the,tumor,have,in?ltrated,blood,vessel,in,the,tumor,.},{JJ,NN,:,DT,NN,VBZ,VBN,NN,NNS,IN,DT,NN,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_9,{},{The,visceral,pleura,,,the,resection,margin,of,bronchi,and,vessels,and,all,the,lymph,nodes,removed,and,identi?ed,are,tumor-free,.},{the,visceral,pleuron,,,the,resection,margin,of,bronchus,and,vessel,and,all,the,lymph,node,remove,and,identi?ed,be,tumor-free,.},{DT,JJ,NN,,,DT,NN,NN,IN,NNS,CC,NNS,CC,PDT,DT,NN,NNS,VBD,CC,VBD,VBP,JJ,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_10,{},{/,eL-0,*,5,(,l1,),(,?,McaM,;,ol,.},{/,el-0,*,5,(,l1,),(,?,mcam,;,ol,.},{:,NN,CD,CD,NN,NN,CD,CD,NN,NN,:,NN,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_11,{},{m,~,\,?,t,,,wl,Ml,>,<,??,.},{m,~,\,?,t,,,wl,ml,>,<,??,.},{NN,CD,CD,NN,NN,,,NN,NN,JJR,JJR,CD,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_12,{},{?,.},{?,.},{NN,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_13,{},{4,5,",??,?,+,?,/,FW,@,&,#,5},{4,5,",??,?,+,?,/,FW,@,&,#,5},{CD,CD,``,NN,NN,CC,CD,:,NNP,IN,CC,#,CD},{}
+TCGA-05-4405, TCGA-05-4405SENT_14,{},{c.-g,I-5,},',Diagnosis,Dlscrepan,Prim,Yumor,Sm,Discrepancy,HIPAA,Disc,!},{c.-g,i-5,},',diagnosis,Dlscrepan,Prim,Yumor,Sm,Discrepancy,HIPAA,Disc,!},{JJ,NN,NN,'',NN,NNP,NNP,NNP,NNP,NNP,NNP,NNP,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_15,{},{my},{my},{PRP$},{}
+TCGA-05-4405, TCGA-05-4405SENT_16,{},{?,P3,p,',-,IEEEIEEZV,.},{?,p3,p,',-,ieeeieezv,.},{NN,NN,NN,'',:,NN,.},{}
+TCGA-05-4405, TCGA-05-4405SENT_17,{},{1},{1},{CD},{}

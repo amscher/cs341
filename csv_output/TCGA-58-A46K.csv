@@ -1,0 +1,14 @@
+TCGA-58-A46K, TCGA-58-A46KSENT_1,{},{uuzn,:52,sA34ss-nan,:,-4,Aos-sass-1cnuA2s1au7A},{uuzn,:52,sa34ss-nan,:,-4,aos-sass-1cnua2s1au7a},{NN,CD,NN,:,CD,NN},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_2,{},{TCGA-sa-Mex-e1A-PR,Redacted},{tcga-sa-mex-e1a-pr,redacted},{NN,JJ},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_3,{},{I,?,II,N,I,",H,",I,IllilillllllilIIlllliillillillilliiiillllllillllllll,IN,IlillilllliIIillillllIIHIIHIIilllIIllllllllllllllllllllllll,IH,|,|,|,H,|,|,|,H,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,llllllllllllllll,?,$,03},{I,?,ii,n,I,",h,",I,IllilillllllilIIlllliillillillilliiiillllllillllllll,in,IlillilllliIIillillllIIHIIHIIilllIIllllllllllllllllllllllll,ih,|,|,|,h,|,|,|,h,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,llllllllllllllll,?,$,03},{PRP,VBP,CD,NN,PRP,``,NN,'',PRP,NNP,IN,NNP,NN,CD,CD,NN,NN,CD,CD,NN,NN,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,NN,CD,$,CD},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_4,{},{(,:,O.,,,(,',C,',?,r,@,(,v,\,Q,I,soiuxan-ou3,Ct,?,,},{(,:,O.,,,(,',C,',?,r,@,(,v,\,Q,I,soiuxan-ou3,ct,?,,},{NNP,:,NNP,,,NN,'',NNP,POS,NN,NN,IN,CD,LS,CD,NNP,PRP,JJ,NN,NN,,},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_5,{},{Pathology,Report-Summary,:,!},{pathology,report-summary,:,!},{NN,JJ,:,.},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_6,{},{w,*,5,?,~,\,?,?,?,\,<,3,03,3,\,%,Material,:,?,S8,K,:,\,\,Xf,\,%,\,\,E3,\,;,O,?,(,\,Ob,<,C-3,%,.3},{w,*,5,?,~,\,?,?,?,\,<,3,03,3,\,%,material,:,?,s8,k,:,\,\,xf,\,%,\,\,e3,\,;,o,?,(,\,ob,<,c-3,%,.3},{NN,CD,CD,NN,NN,CD,CD,NN,CD,NN,JJR,CD,NN,CD,CD,NN,NN,:,CD,NN,NN,:,CD,CD,NN,CD,NN,CD,CD,NN,NN,:,NN,CD,CD,CD,NN,JJR,CD,NN,NN},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_7,{},{Iung,,,right,,,lower,lobe,:,16.0,x,13.0,x,6.5,cm,?,",$,",i,?},{Iung,,,right,,,lower,lobe,:,16.0,x,13.0,x,6.5,cm,?,",$,",i,?},{NNP,,,RB,,,JJR,NN,:,CD,CC,CD,CC,CD,NN,CD,``,$,``,FW,.},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_8,{},{a,.},{a,.},{DT,.},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_9,{},{?,.},{?,.},{NN,.},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_10,{},{D,tumor,:,8.5,x,6.5,x,5.0,cm},{d,tumor,:,8.5,x,6.5,x,5.0,cm},{NN,NN,:,CD,CC,CD,CC,CD,NN},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_11,{},{Diagnosis,:},{diagnosis,:},{NN,:},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_12,{},{Squamous,Ceil,Carcinoma,,,partially,basaloid},{squamous,Ceil,Carcinoma,,,partially,basaloid},{JJ,NNP,NNP,,,RB,NN},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_13,{},{Infiltration,of,pleura,visceralis,pT2,,,pN2,(,5/59,),,,pMx,,,G3},{infiltration,of,pleuron,viscerali,pt2,,,pn2,(,5/59,),,,pmx,,,g3},{NN,IN,NN,NN,NN,,,NN,CD,CD,NN,,,NN,,,NN},{}
+TCGA-58-A46K, TCGA-58-A46KSENT_14,{},{Pathologist,:},{pathologist,:},{NN,:},{}

@@ -1,0 +1,11 @@
+TCGA-33-4589, TCGA-33-4589SENT_1,{},{ENAL,DIAGNOSIS,Pathologist,:,.},{enal,diagnosis,pathologist,:,.},{JJ,NN,NN,:,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_2,{},{RIGHT,LUNG,(,RESECTION,),:,INFILTRRTING,MODERATELY,WELL,EFFERENTIATED,KERATINIZING,SQUAMOUS,CARCINOMA,.},{right,lung,(,resection,),:,INFILTRRTING,MODERATELY,WELL,EFFERENTIATED,KERATINIZING,SQUAMOUS,CARCINOMA,.},{NN,NN,CD,NN,NN,:,NNP,NNP,NNP,NNP,NNP,NNP,NNP,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_3,{},{THE,CARCINOMA,EASURES,2.5,CM,IN,GREATEST,DIMENSION,AND,EXTENDS,TO,INVOLVE,THE},{the,carcinoma,easure,2.5,cm,in,GREATEST,DIMENSION,and,EXTENDS,to,involve,the},{DT,NN,NN,CD,NN,IN,NNP,NNP,CC,NNPS,TO,VB,DT},{}
+TCGA-33-4589, TCGA-33-4589SENT_4,{},{URA,.},{URA,.},{NNP,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_5,{},{CARCINOMA,IN,TWO,(,2,),OF,EIGHTEEN,(,18,),PERIBRONCHIAL,LYMPH,DUES,.},{carcinoma,in,two,(,2,),of,eighteen,(,18,),PERIBRONCHIAL,LYMPH,due,.},{NN,IN,CD,NN,CD,CD,IN,CD,CD,CD,CD,NNP,NNP,NNS,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_6,{},{BRONCHIAL,AND,PLEURAL,MARGINS,NEGATIVE,FOR,TUMOR,.},{bronchial,and,pleural,margin,negative,for,tumor,.},{JJ,CC,JJ,NNS,JJ,IN,NN,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_7,{},{SEE,NOTE,.},{see,note,.},{VB,VB,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_8,{},{LYMPH,NODE,LEVEL,7,(,BX,),:,ONE,(,1,),LYMPH,NODE,NEGATIVE,FOR,TUMOR,.},{lymph,node,level,7,(,bx,),:,one,(,1,),LYMPH,NODE,NEGATIVE,for,tumor,.},{NN,NN,NN,CD,CD,NN,NN,:,CD,NN,CD,CD,NNP,NNP,NNP,IN,NN,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_9,{},{DTE,:,We,do,not,identify,an,in,situ,component,to,the,carcinoma,in,the,ung,.},{DTE,:,we,do,not,identify,a,in,situ,component,to,the,carcinoma,in,the,ung,.},{NNP,:,PRP,VBP,RB,VB,DT,FW,FW,NN,TO,DT,NN,IN,DT,NN,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_10,{},{While,this,is,consistent,with,a,metastasis,of,the,patient,'s,ongue,primary,,,a,primary,lung,carcinoma,can,not,be,ruled,out,.},{while,this,be,consistent,with,a,metastasis,of,the,patient,'s,ongue,primary,,,a,primary,lung,carcinoma,can,not,be,rule,out,.},{IN,DT,VBZ,JJ,IN,DT,NN,IN,DT,NN,POS,JJ,JJ,,,DT,JJ,NN,NN,MD,RB,VB,VBN,RP,.},{}
+TCGA-33-4589, TCGA-33-4589SENT_11,{},{CGA,?,33,-4589},{CGA,?,33,-4589},{NNP,CD,CD,CD},{}

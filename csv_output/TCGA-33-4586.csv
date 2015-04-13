@@ -1,0 +1,9 @@
+TCGA-33-4586, TCGA-33-4586SENT_1,{},{:,",INAL,DIAGNOSIS,1,.},{:,",INAL,DIAGNOSIS,1,.},{:,``,NNP,NNP,CD,.},{}
+TCGA-33-4586, TCGA-33-4586SENT_2,{},{>,atho1ogist},{>,atho1ogist},{JJR,NN},{}
+TCGA-33-4586, TCGA-33-4586SENT_3,{},{LUNG,,,LEFT,LOWER,LOBE,WITH,RIBS,6,AND,7,(,RESECT,:},{lung,,,LEFT,LOWER,LOBE,with,rib,6,and,7,(,RESECT,:},{NN,,,NNP,NNP,NNP,IN,NNS,CD,CC,CD,CD,NNP,:},{}
+TCGA-33-4586, TCGA-33-4586SENT_4,{},{L.},{L.},{NNP},{}
+TCGA-33-4586, TCGA-33-4586SENT_5,{},{SPECIMEN,TYPE,:,gobectomy,.},{specimen,type,:,gobectomy,.},{NN,NN,:,NN,.},{}
+TCGA-33-4586, TCGA-33-4586SENT_6,{},{Q,TCGA,?,33-4586},{Q,TCGA,?,33-4586},{NNP,NNP,VBD,CD},{}
+TCGA-33-4586, TCGA-33-4586SENT_7,{},{TUMOR,SITE,:,Left,lower,lobe,.},{tumor,site,:,leave,lower,lobe,.},{NN,NN,:,VBN,JJR,NN,.},{}
+TCGA-33-4586, TCGA-33-4586SENT_8,{},{HISTOLOGIC,TYPE,:,Squamous,cell,carcinoma,.},{histologic,type,:,squamous,cell,carcinoma,.},{JJ,NN,:,JJ,NN,NN,.},{}
+TCGA-33-4586, TCGA-33-4586SENT_9,{},{TUMOR,SIZE,:,Greatest,dimension,:,8.5,cm,.},{tumor,size,:,greatest,dimension,:,8.5,cm,.},{NN,NN,:,JJS,NN,:,CD,NN,.},{}

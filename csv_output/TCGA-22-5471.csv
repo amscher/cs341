@@ -1,0 +1,16 @@
+TCGA-22-5471, TCGA-22-5471SENT_1,{},{-,YOGA,-22,-,5471},{-,yoga,-22,-,5471},{:,NN,CD,:,CD},{}
+TCGA-22-5471, TCGA-22-5471SENT_2,{},{DIAGNOSIS,2,Lung,,,left,lower,lobe,and,bronchial,margins,,,resection,:,Invasive,grade,3,(,of,4,),squamous,cell,carcinoma,forming,a,3.5,x,2.4,x,2.0,cm,mass,obliterating,the,proximal,bronchus,.},{diagnosis,2,lung,,,leave,lower,lobe,and,bronchial,margin,,,resection,:,invasive,grade,3,(,of,4,),squamous,cell,carcinoma,form,a,3.5,x,2.4,x,2.0,cm,mass,obliterate,the,proximal,bronchus,.},{NN,CD,NN,,,VBD,JJR,NN,CC,JJ,NNS,,,NN,:,JJ,NN,CD,NN,IN,CD,CD,JJ,NN,NN,VBG,DT,CD,CC,CD,CC,CD,NN,NN,VBG,DT,JJ,NNS,.},{}
+TCGA-22-5471, TCGA-22-5471SENT_3,{},{There,is,no,pleural,involvement,.},{there,be,no,pleural,involvement,.},{EX,VBZ,DT,JJ,NN,.},{}
+TCGA-22-5471, TCGA-22-5471SENT_4,{},{The,bronchial,margins,(,submitted,separately,),are,negative,for,neoplasm,.},{the,bronchial,margin,(,submit,separately,),be,negative,for,neoplasm,.},{DT,JJ,NNS,VBP,VBN,RB,RB,VBP,JJ,IN,NN,.},{}
+TCGA-22-5471, TCGA-22-5471SENT_5,{},{.},{.},{.},{}
+TCGA-22-5471, TCGA-22-5471SENT_6,{},{Lymph,nodes,,,mediastinal,,,excision,:},{lymph,node,,,mediastinal,,,excision,:},{NN,NNS,,,NN,,,NN,:},{}
+TCGA-22-5471, TCGA-22-5471SENT_7,{},{?,No,tumor,is,identified,in,multiple,(,14,),le?t,lower,paratracheal,(,station,4L,),lymph,nodes,.},{?,no,tumor,be,identify,in,multiple,(,14,),le?t,lower,paratracheal,(,station,4l,),lymph,node,.},{RB,DT,NN,VBZ,VBN,IN,JJ,NN,CD,CD,NN,JJR,NN,CD,NN,NN,CD,NN,NNS,.},{}
+TCGA-22-5471, TCGA-22-5471SENT_8,{},{?,No,tumor,is,identified,in,multiple,(,3,),subaortic,(,station},{?,no,tumor,be,identify,in,multiple,(,3,),subaortic,(,station},{RB,DT,NN,VBZ,VBN,IN,JJ,NN,CD,NN,JJ,NN,NN},{}
+TCGA-22-5471, TCGA-22-5471SENT_9,{},{5,),lymph,nodes,.},{5,),lymph,node,.},{CD,CD,NN,NNS,.},{}
+TCGA-22-5471, TCGA-22-5471SENT_10,{},{?,No,tumor,is,identified,in,multiple,(,5,),subcarinal},{?,no,tumor,be,identify,in,multiple,(,5,),subcarinal},{RB,DT,NN,VBZ,VBN,IN,JJ,NN,CD,NN,NN},{}
+TCGA-22-5471, TCGA-22-5471SENT_11,{},{(,station,7,),lymph,nodes,.},{(,station,7,),lymph,node,.},{NN,NN,CD,NN,NN,NNS,.},{}
+TCGA-22-5471, TCGA-22-5471SENT_12,{},{?,No,tumor,is,identified,in,a,single,pulmonary,ligament},{?,no,tumor,be,identify,in,a,single,pulmonary,ligament},{RB,DT,NN,VBZ,VBN,IN,DT,JJ,JJ,NN},{}
+TCGA-22-5471, TCGA-22-5471SENT_13,{},{(,station,9,),lymph,node,.},{(,station,9,),lymph,node,.},{NN,NN,CD,NN,NN,NN,.},{}
+TCGA-22-5471, TCGA-22-5471SENT_14,{},{Lymph,nodes,,,pulmonary,artery,,,excision,:},{lymph,node,,,pulmonary,artery,,,excision,:},{NN,NNS,,,JJ,NN,,,NN,:},{}
+TCGA-22-5471, TCGA-22-5471SENT_15,{},{?,No,tumor,is,identified,in,multiple,(,3,),pulmonary,artery,lymph,nodes,.,'},{?,no,tumor,be,identify,in,multiple,(,3,),pulmonary,artery,lymph,node,.,'},{RB,DT,NN,VBZ,VBN,IN,JJ,NN,CD,NN,JJ,NN,NN,NNS,.,''},{}
+TCGA-22-5471, TCGA-22-5471SENT_16,{},{?,No,tumor,is,identified,in,multiple,{,7,},intrapulmonary,peribronohial,lymph,nodes,.},{?,no,tumor,be,identify,in,multiple,{,7,},intrapulmonary,peribronohial,lymph,node,.},{RB,DT,NN,VBZ,VBN,IN,JJ,NN,CD,NN,JJ,JJ,NN,NNS,.},{}

@@ -1,0 +1,15 @@
+TCGA-58-A46M, TCGA-58-A46MSENT_1,{},{uuxu,:,zeaxnrss-5319-4,:91,-,scar-7s7sa7aA7n3s},{uuxu,:,zeaxnrss-5319-4,:91,-,scar-7s7sa7aa7n3},{NN,:,NN,CD,:,NNS},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_2,{},{TCGA-58-A46,|,Vl-61A-PR,Redacted},{tcga-58-a46,|,vl-61a-pr,redact},{NN,SYM,NN,VBN},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_3,{},{IllIIllIllllllllllllllllllllllIlllllllllllllllllllIllllllllllllllll,H,llll,Illllllllllllllllllllllllllll,Illlllllllllllllllllll,llllll},{illiillillllllllllllllllllllllilllllllllllllllllllillllllllllllllll,h,llll,illllllllllllllllllllllllllll,illlllllllllllllllllll,llllll},{NN,NN,NN,NN,NN,NN},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_4,{},{Pathology,Report-Summary,:,Matefie?,?},{pathology,report-summary,:,Matefie?,?},{NN,JJ,:,NNP,.},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_5,{},{?},{?},{NN},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_6,{},{Lung,.},{lung,.},{NN,.},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_7,{},{left,,,lower,lobe,:,19.0,x,14.0,x,6.0,cm,tumor,:,5.1,x,3.2,x,2.6,cm},{left,,,lower,lobe,:,19.0,x,14.0,x,6.0,cm,tumor,:,5.1,x,3.2,x,2.6,cm},{RB,,,JJR,NN,:,CD,CC,CD,CC,CD,NN,NN,:,CD,CC,CD,CC,CD,NN},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_8,{},{Diagnosis,:,Squamous,Cell,Carcinoma,,,(,NOS,),Infiltration,of,pleura,visceralis,pT2b,,,pN1,(,2/33,),,,pMx,.},{diagnosis,:,Squamous,Cell,Carcinoma,,,(,no,),infiltration,of,pleuron,viscerali,pt2b,,,pn1,(,2/33,),,,pmx,.},{NN,:,NNP,NNP,NNP,,,CD,NN,CD,NN,IN,NN,NN,NN,,,NN,CD,CD,NN,,,NN,.},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_9,{},{G3},{g3},{NN},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_10,{},{Pathologist,:},{pathologist,:},{NN,:},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_11,{},{\,C_D0,-,',3,oo,?,-,Cn.,,,qT,?,q,',E.,c,?,u_arr,\,ou,~,?,L,<,.},{\,c_d0,-,',3,oo,?,-,cn.,,,qt,?,q,',E.,c,?,u_arr,\,ou,~,?,l,<,.},{NN,SYM,:,'',CD,NN,SYM,:,NN,,,NN,CD,NN,'',NNP,NN,CD,NN,NN,NN,NN,CD,NN,JJR,.},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_12,{},{\,\,,,?},{\,\,,,?},{RB,RB,,,.},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_13,{},{\,303},{\,303},{NN,CD},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_14,{},{$,67013,533,;,:,\,\,M,\,<,5,,,\,o,\,;,ocr,\,O,\,:,>,(,_,,,C34,.3},{$,67013,533,;,:,\,\,m,\,<,5,,,\,o,\,;,ocr,\,o,\,:,>,(,_,,,c34,.3},{$,CD,CD,:,:,CD,CD,NN,NN,JJR,CD,,,CD,NN,NN,:,NN,CD,NN,CD,:,JJR,CD,NN,,,NN,NN},{}
+TCGA-58-A46M, TCGA-58-A46MSENT_15,{},{q.,5,',\,2,\,z,'D},{q.,5,',\,2,\,z,'d},{NN,CD,'',SYM,CD,CD,SYM,SYM},{}

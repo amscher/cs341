@@ -1,0 +1,9 @@
+TCGA-86-7711, TCGA-86-7711SENT_1,{},{.},{.},{.},{}
+TCGA-86-7711, TCGA-86-7711SENT_2,{},{Pathology,Reports},{pathology,report},{NN,NNS},{}
+TCGA-86-7711, TCGA-86-7711SENT_3,{},{Ca,ID,G,M,?,'},{ca,id,g,m,?,'},{NN,NN,NN,NN,NN,''},{}
+TCGA-86-7711, TCGA-86-7711SENT_4,{},{Q},{Q},{NNP},{}
+TCGA-86-7711, TCGA-86-7711SENT_5,{},{Diagnosis,Details,Formatted,Path,Report},{diagnosis,detail,format,path,Report},{NN,NNS,VBD,NN,NNP},{}
+TCGA-86-7711, TCGA-86-7711SENT_6,{},{LUNG,TISSUE,CHECK,|,_,|,ST},{lung,tissue,check,|,_,|,st},{NN,NN,NN,VBD,CD,CD,JJ},{}
+TCGA-86-7711, TCGA-86-7711SENT_7,{},{Specimen,type,:,Lobectomy,Tumor,site,:,Lung,Tumor,size,:,5,x,5,x,5,cm,Histologic,type,:,Adenocarcinoma,Histologic,grade,:,Poorly,differentiated,Tumor,extent,:,Not,specified,Other,tumor,nodules,:,No,Lymph,nodes,:,3/3,positive,for,metastasis,(,I,ntrathoracical,3/3,),Lymphatic,invasion,:,Not,specified,Venous,invasion,:,Not,specified,Margins,:,Not,specified,Evidence,of,neo,?,adjuvant,treatment,:,Not,specified,Additional,pathologic,findings,:,Not,specified,Comments,:,None},{specimen,type,:,Lobectomy,tumor,site,:,lung,tumor,size,:,5,x,5,x,5,cm,histologic,type,:,adenocarcinoma,histologic,grade,:,poorly,differentiate,tumor,extent,:,not,specify,other,tumor,nodule,:,no,lymph,node,:,3/3,positive,for,metastasis,(,I,ntrathoracical,3/3,),lymphatic,invasion,:,not,specify,venous,invasion,:,not,specify,margin,:,not,specify,evidence,of,neo,?,adjuvant,treatment,:,not,specify,additional,pathologic,finding,:,not,specify,comment,:,none},{NN,NN,:,NNP,NN,NN,:,NN,NN,NN,:,CD,CC,CD,CC,CD,NN,JJ,NN,:,NN,JJ,NN,:,RB,VBN,NN,NN,:,RB,VBN,JJ,NN,NNS,:,DT,NN,NNS,:,CD,JJ,IN,NN,CD,PRP,JJ,CD,CD,JJ,NN,:,RB,VBN,JJ,NN,:,RB,VBN,NNS,:,RB,VBN,NN,IN,FW,FW,JJ,NN,:,RB,VBN,JJ,JJ,NNS,:,RB,VBN,NNS,:,NN},{}
+TCGA-86-7711, TCGA-86-7711SENT_8,{},{Date,of},{date,of},{NN,IN},{}
+TCGA-86-7711, TCGA-86-7711SENT_9,{},{Laterality,Procurement},{Laterality,Procurement},{NNP,NNP},{}

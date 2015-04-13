@@ -1,0 +1,5 @@
+TCGA-58-8390, TCGA-58-8390SENT_1,{},{Tss,TSS,Identifien,.},{Tss,TSS,Identifien,.},{NNP,NNP,NNP,.},{}
+TCGA-58-8390, TCGA-58-8390SENT_2,{},{TSS,Unique,Patient,#,2,Pathology,Report-Summary,:,Lung,,,right,,,lower,lobe,:,14.0,X,12.5,X,7.0,cm,Tumor,:,5.1,X,4.2,X,3.3,cm},{TSS,unique,patient,#,2,pathology,report-summary,:,lung,,,right,,,lower,lobe,:,14.0,x,12.5,x,7.0,cm,tumor,:,5.1,x,4.2,x,3.3,cm},{NNP,JJ,NN,#,CD,NN,JJ,:,NN,,,RB,,,JJR,NN,:,CD,NN,CD,NN,CD,NN,NN,:,CD,NN,CD,NN,CD,NN},{}
+TCGA-58-8390, TCGA-58-8390SENT_3,{},{%,@is,=,Squamous,Cell,Carcinoma,(,NOS,),,,partially,basaloid,pT2b,,,pNo,(,0/20,),,,pMX,,,G2},{%,@is,=,squamous,cell,carcinoma,(,no,),,,partially,basaloid,pt2b,,,pno,(,0/20,),,,pmx,,,g2},{NN,NN,JJ,JJ,NN,NN,CD,NN,CD,,,RB,JJ,NN,,,NN,CD,CD,NN,,,NN,,,NN},{}
+TCGA-58-8390, TCGA-58-8390SENT_4,{},{Pathologist,:,?},{pathologist,:,?},{NN,:,CD},{}
+TCGA-58-8390, TCGA-58-8390SENT_5,{},{Signature,:,Date,:},{signature,:,date,:},{NN,:,NN,:},{}

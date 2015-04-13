@@ -1,0 +1,15 @@
+TCGA-63-A5MS, TCGA-63-A5MSSENT_1,{},{UUID,:931632,DA-991E-455F-9C4B-51C787880EE7},{uuid,:931632,da-991e-455f-9c4b-51c787880ee7},{NN,CD,NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_2,{},{TCGA-63-ASMS-BIA-PR},{tcga-63-asms-bia-pr},{NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_3,{},{Redacted},{redact},{VBN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_4,{},{Ill,Illllllllll,|,l,|,|,|,|,|,|,l,|,l,|,|,ll,|,|,|,ll,|,|,|,|,|,l,|,|,l,|,|,|,|,|,llIllilwllll,llll,ll,I,l,llllllllllllllllllllllllllllllll,?,ll,?,llllllllllllilmmin},{Ill,Illllllllll,|,l,|,|,|,|,|,|,l,|,l,|,|,ll,|,|,|,ll,|,|,|,|,|,l,|,|,l,|,|,|,|,|,llillilwllll,llll,ll,I,l,llllllllllllllllllllllllllllllll,?,ll,?,llllllllllllilmmin},{NNP,NNP,NN,NN,CD,CD,NN,CD,CD,NN,NN,NN,NN,CD,CD,NN,NN,CD,CD,NN,NNS,VBP,CD,CD,NN,NN,CD,NN,NN,CD,CD,NN,CD,NN,NN,NN,NN,PRP,NN,NN,CD,NN,NN,NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_5,{},{Sample,Number,Sample,Type,TUMOUR},{sample,Number,Sample,type,tumour},{VB,NNP,NNP,NN,NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_6,{},{Squamous,Cell,Carcinoma,,,Not,Otherwise,Specified},{squamous,cell,carcinoma,,,not,otherwise,specify},{JJ,NN,NN,,,RB,RB,VBN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_7,{},{RESECT,Leftumaerlobe,Squamous,carcinoma},{RESECT,Leftumaerlobe,Squamous,carcinoma},{NNP,NNP,NNP,NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_8,{},{(,NOS,)},{(,no,)},{NN,NN,CD},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_9,{},{-1,w,1,?,U1,NOS},{-1,w,1,?,u1,no},{CD,NN,CD,CD,NN,NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_10,{},{32,.},{32,.},{CD,.},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_11,{},{.},{.},{.},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_12,{},{carcinoma,insitu,identified,at,bronchial,resection,margin},{carcinoma,insitu,identify,at,bronchial,resection,margin},{NN,NN,VBN,IN,JJ,NN,NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_13,{},{Sample,Number},{sample,Number},{VB,NNP},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_14,{},{Sample,Type,BUFFY},{sample,type,buffy},{VB,NN,NN},{}
+TCGA-63-A5MS, TCGA-63-A5MSSENT_15,{},{;,m,?,ar,~,?,/,-,Tumor,Site,Discrepancy,HPAA,Disc,:,epancv,?,?,nnr,Malignmcy,History,iual/Synchronous,Prinsary,,,Nur?d,",',?,'},{;,m,?,ar,~,?,/,-,tumor,site,discrepancy,HPAA,Disc,:,epancv,?,?,nnr,malignmcy,history,iual/synchronous,Prinsary,,,Nur?d,",',?,'},{:,NN,CD,NN,NN,CD,:,:,NN,NN,NN,NNP,NNP,:,NN,CD,NN,NN,NN,NN,JJ,NNP,,,NNP,``,'',NN,''},{}
