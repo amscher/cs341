@@ -1,26 +1,26 @@
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_1,{},{.},{.},{.},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_2,{},{?,(,?,.},{?,(,?,.},{NN,CD,NN,.},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_3,{},{a,'D,-,o,',3,?,a/7,:,/,no/ray,,,8},{a,'d,-,o,',3,?,a/7,:,/,no/ray,,,8},{DT,NN,:,NN,'',CD,NN,NN,:,:,NN,,,CD},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_4,{},{(,ii,/,?,fe,@,L},{(,ii,/,?,fe,@,l},{RB,LS,:,CD,NN,IN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_5,{},{Synoptic,translated,report},{synoptic,translate,report},{JJ,VBN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_6,{},{UUID,:074,EAC41-3FCO-4686-B403-44B8351EE5ES},{uuid,:074,eac41-3fco-4686-b403-44b8351ee5e},{NN,CD,NNS},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_7,{},{TCGA,-,NC,-,A5},{tcga,-,nc,-,a5},{SYM,:,NN,:,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_8,{},{Illlllllllllllll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,llllllllllllllll},{illlllllllllllll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,llllllllllllllll},{NN,SYM,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_9,{},{Site},{site},{NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_10,{},{Illll,|,|,|,|,|,|,llllll},{Illll,|,|,|,|,|,|,llllll},{NNP,NNP,NNP,VBD,CD,CD,NN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_11,{},{HK-01A-PR,Redacted,Illllllllllllllllllllllll,|,l,|,|,|,|,|,|,lllllIlll},{hk-01a-pr,redacted,illllllllllllllllllllllll,|,l,|,|,|,|,|,|,lllllilll},{NN,JJ,NN,NN,NN,CD,CD,NN,CD,CD,NN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_12,{},{:,Left,lung,superior,lobe,(,basal,segment,),and,left,lung,inferior,lobe,(,apical,segment,)},{:,leave,lung,superior,lobe,(,basal,segment,),and,leave,lung,inferior,lobe,(,apical,segment,)},{:,VBN,NN,JJ,NN,NN,JJ,NN,NN,CC,VBD,NN,JJ,NN,NN,JJ,NN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_13,{},{E,],Central,Peripheral,_,El,NA},{e,],Central,peripheral,_,El,NA},{NN,CD,NNP,JJ,NN,NNP,NNP},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_14,{},{Number,of,lesion},{number,of,lesion},{NN,IN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_15,{},{1,.},{1,.},{LS,.},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_16,{},{Lung,squamous,cell,carcinoma},{lung,squamous,cell,carcinoma},{NN,JJ,NN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_17,{},{Tumor,size,:},{tumor,size,:},{NN,NN,:},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_18,{},{1,.},{1,.},{LS,.},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_19,{},{6.0,x,6.0,x,5.5,cm},{6.0,x,6.0,x,5.5,cm},{CD,CC,CD,CC,CD,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_20,{},{Visceral,pleural,invasion,:,?,Yes,BNo,Chest,wall,invasion,lZYes,DNO,Histological,diagnosis,:,Poorly,differentiated,squamous,cell,carcinoma,Node,status,No,(,0/35,)},{visceral,pleural,invasion,:,?,yes,BNo,chest,wall,invasion,lzye,DNO,histological,diagnosis,:,poorly,differentiate,squamous,cell,carcinoma,node,status,no,(,0/35,)},{JJ,JJ,NN,:,CD,UH,NNP,NN,NN,NN,VBZ,NNP,JJ,NN,:,RB,VBN,JJ,NN,NN,NN,NN,DT,NN,CD,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_21,{},{TNM,2,pT3,pNo,(,0/35,),G3,Ro},{tnm,2,pt3,pno,(,0/35,),g3,ro},{NN,CD,NN,NN,CD,CD,NN,NN,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_22,{},{Pathologist,signature,:},{pathologist,signature,:},{NN,NN,:},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_23,{},{IVQS,Qamo,015,Seoejgza,01,?,?,appmc,/,.},{ivq,qamo,015,Seoejgza,01,?,?,appmc,/,.},{NN,NN,CD,NNP,CD,CD,NN,NN,:,.},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_24,{},{/,ower,~},{/,ower,~},{:,JJR,NN},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_25,{},{es,664.2},{e,664.2},{NNS,CD},{}
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_26,{},{94d,?,/,z,/,/,.3,?},{94d,?,/,z,/,/,.3,?},{NN,CD,:,SYM,:,:,NN,NN},{}
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_1,".","{.}","{.}","{.}","{0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_2,"? ( ? .","{?,(,?,.}","{?,(,?,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_3,"a 'D - o ' 3 ? a/7 : / no/ray , 8","{a,'D,-,o,',3,?,a/7,:,/,no/ray,,,8}","{a,'d,-,o,',3,?,a/7,:,/,no/ray,,,8}","{DT,NN,:,NN,'',CD,NN,NN,:,:,NN,,,CD}","{0,1,0,2,0,8,8,4,0,11,2,0,11}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_4,"( ii / ? fe @ L","{(,ii,/,?,fe,@,L}","{(,ii,/,?,fe,@,l}","{RB,LS,:,CD,NN,IN,NN}","{5,5,5,5,0,0,5}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_5,"Synoptic translated report","{Synoptic,translated,report}","{synoptic,translate,report}","{JJ,VBN,NN}","{2,0,2}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_6,"UUID :074 EAC41-3FCO-4686-B403-44B8351EE5ES","{UUID,:074,EAC41-3FCO-4686-B403-44B8351EE5ES}","{uuid,:074,eac41-3fco-4686-b403-44b8351ee5e}","{NN,CD,NNS}","{0,3,1}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_7,"TCGA - NC - A5","{TCGA,-,NC,-,A5}","{tcga,-,nc,-,a5}","{SYM,:,NN,:,NN}","{3,0,5,0,0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_8,"Illlllllllllllll | | | | | | | | | | | | | | | | llllllllllllllll","{Illlllllllllllll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,llllllllllllllll}","{illlllllllllllll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,llllllllllllllll}","{NN,SYM,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,NN}","{0,5,5,5,1,17,17,17,17,17,17,17,17,17,17,17,1,17}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_9,"Site","{Site}","{site}","{NN}","{0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_10,"Illll | | | | | | llllll","{Illll,|,|,|,|,|,|,llllll}","{Illll,|,|,|,|,|,|,llllll}","{NNP,NNP,NNP,VBD,CD,CD,NN,NN}","{3,3,4,0,6,8,8,4}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_11,"HK-01A-PR Redacted Illllllllllllllllllllllll | l | | | | | | lllllIlll","{HK-01A-PR,Redacted,Illllllllllllllllllllllll,|,l,|,|,|,|,|,|,lllllIlll}","{hk-01a-pr,redacted,illllllllllllllllllllllll,|,l,|,|,|,|,|,|,lllllilll}","{NN,JJ,NN,NN,NN,CD,CD,NN,CD,CD,NN,NN}","{3,3,0,5,3,7,8,3,10,12,12,8}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_12,": Left lung superior lobe ( basal segment ) and left lung inferior lobe ( apical segment )","{:,Left,lung,superior,lobe,(,basal,segment,),and,left,lung,inferior,lobe,(,apical,segment,)}","{:,leave,lung,superior,lobe,(,basal,segment,),and,leave,lung,inferior,lobe,(,apical,segment,)}","{:,VBN,NN,JJ,NN,NN,JJ,NN,NN,CC,VBD,NN,JJ,NN,NN,JJ,NN,NN}","{0,0,2,6,6,2,9,9,6,0,2,15,15,15,11,18,18,15}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_13,"E ] Central Peripheral _ El NA","{E,],Central,Peripheral,_,El,NA}","{e,],Central,peripheral,_,El,NA}","{NN,CD,NNP,JJ,NN,NNP,NNP}","{3,3,0,5,3,7,3}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_14,"Number of lesion","{Number,of,lesion}","{number,of,lesion}","{NN,IN,NN}","{0,0,1}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_15,"1 .","{1,.}","{1,.}","{LS,.}","{0,0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_16,"Lung squamous cell carcinoma","{Lung,squamous,cell,carcinoma}","{lung,squamous,cell,carcinoma}","{NN,JJ,NN,NN}","{0,4,4,1}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_17,"Tumor size :","{Tumor,size,:}","{tumor,size,:}","{NN,NN,:}","{2,0,0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_18,"1 .","{1,.}","{1,.}","{LS,.}","{0,0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_19,"6.0 x 6.0 x 5.5 cm","{6.0,x,6.0,x,5.5,cm}","{6.0,x,6.0,x,5.5,cm}","{CD,CC,CD,CC,CD,NN}","{0,1,1,0,6,1}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_20,"Visceral pleural invasion : ? Yes BNo Chest wall invasion lZYes DNO Histological diagnosis : Poorly differentiated squamous cell carcinoma Node status No ( 0/35 )","{Visceral,pleural,invasion,:,?,Yes,BNo,Chest,wall,invasion,lZYes,DNO,Histological,diagnosis,:,Poorly,differentiated,squamous,cell,carcinoma,Node,status,No,(,0/35,)}","{visceral,pleural,invasion,:,?,yes,BNo,chest,wall,invasion,lzye,DNO,histological,diagnosis,:,poorly,differentiate,squamous,cell,carcinoma,node,status,no,(,0/35,)}","{JJ,JJ,NN,:,CD,UH,NNP,NN,NN,NN,VBZ,NNP,JJ,NN,:,RB,VBN,JJ,NN,NN,NN,NN,DT,NN,CD,NN}","{3,3,11,0,3,10,10,10,10,5,0,14,14,11,0,17,14,22,22,22,22,17,24,22,26,11}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_21,"TNM 2 pT3 pNo ( 0/35 ) G3 Ro","{TNM,2,pT3,pNo,(,0/35,),G3,Ro}","{tnm,2,pt3,pno,(,0/35,),g3,ro}","{NN,CD,NN,NN,CD,CD,NN,NN,NN}","{4,4,4,0,6,4,9,9,6}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_22,"Pathologist signature :","{Pathologist,signature,:}","{pathologist,signature,:}","{NN,NN,:}","{2,0,0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_23,"IVQS Qamo 015 Seoejgza 01 ? ? appmc / .","{IVQS,Qamo,015,Seoejgza,01,?,?,appmc,/,.}","{ivq,qamo,015,Seoejgza,01,?,?,appmc,/,.}","{NN,NN,CD,NNP,CD,CD,NN,NN,:,.}","{0,4,4,1,4,8,8,4,4,0}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_24,"/ ower ~","{/,ower,~}","{/,ower,~}","{:,JJR,NN}","{2,0,2}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_25,"es 664.2","{es,664.2}","{e,664.2}","{NNS,CD}","{0,1}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_26,"94d ? / z / / .3 ?","{94d,?,/,z,/,/,.3,?}","{94d,?,/,z,/,/,.3,?}","{NN,CD,:,SYM,:,:,NN,NN}","{0,1,1,8,8,8,8,1}","{}"

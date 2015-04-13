@@ -1,324 +1,324 @@
-TCGA-39-5039, TCGA-39-5039SENT_1,{},{clinical,Diagnosis,5,:,History,:,RUL,mass,(,4,-,),NSCLC,status,post,branch,mads,(,-,),lymph,node,.},{clinical,diagnosis,5,:,history,:,rul,mass,(,4,-,),nsclc,status,post,branch,mad,(,-,),lymph,node,.},{JJ,NN,CD,:,NN,:,NN,NN,NN,CD,:,CD,NN,NN,NN,NN,NNS,SYM,:,NN,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_2,{},{Specimens,submitted,:,1,:,2,:,3,:,-1,:,5,:,6,:,7,:,8,:,9,:,10,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:},{specimen,submit,:,1,:,2,:,3,:,-1,:,5,:,6,:,7,:,8,:,9,:,10,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:},{NNS,VBD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_3,{},{Right,middle,lobe,lung,wedge,Right,subscapula,soft,tissue,I,Level,sever,:,mediastinal,lymph,node,Level,seven,mediastinal,lymph,node,#,3,Right,level,4,mediastinal,lymph,node,Right,level,4,lymph,node,#,2,Level,seven,mediastinal,lymph,node,#,2,Right,level,four,lymph,node,#,3,Right,level,four,lymph,node,81,?},{right,middle,lobe,lung,wedge,right,subscapula,soft,tissue,I,Level,sever,:,mediastinal,lymph,node,level,seven,mediastinal,lymph,node,#,3,Right,level,4,mediastinal,lymph,node,right,level,4,lymph,node,#,2,level,seven,mediastinal,lymph,node,#,2,Right,level,four,lymph,node,#,3,Right,level,four,lymph,node,81,?},{RB,JJ,NN,NN,NN,RB,JJ,JJ,NN,PRP,NNP,VB,:,JJ,NN,NN,NN,CD,JJ,NN,NN,#,CD,NNP,NN,CD,JJ,NN,NN,RB,JJ,CD,NN,NN,#,CD,NN,CD,JJ,NN,NN,#,CD,NNP,NN,CD,NN,NN,#,CD,NNP,NN,CD,NN,NN,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_4,{},{:,Right,upper,lobe,of,lung},{:,Right,upper,lobe,of,lung},{:,NNP,JJ,NN,IN,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_5,{},{AMENDED,DIAGNOSIS,:},{amend,diagnosis,:},{VBN,NN,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_6,{},{LUNG,,,RIGHT,MIDDLE,LOBE,,,WEDGE,RESECTIDN,:,LUNG,PARERCHYMA,WITH,FOCAL,QSSIFICATION,.},{lung,,,RIGHT,MIDDLE,LOBE,,,WEDGE,RESECTIDN,:,lung,parerchyma,with,focal,qssification,.},{NN,,,NNP,NNP,NNP,,,NNP,NNP,:,NN,NN,IN,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_7,{},{No,CARCINOMA,IDENTIFIED,.},{no,carcinoma,identify,.},{DT,NN,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_8,{},{SOFT,TISSUE,,,RIGHT,SUBCAPULA,,,EXCISION,:,.},{soft,tissue,,,RIGHT,SUBCAPULA,,,EXCISION,:,.},{JJ,NN,,,NNP,NNP,,,NNP,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_9,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_10,{},{ELRSTOFIBROMA,.},{elrstofibroma,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_11,{},{NOTE,),.},{note,),.},{VB,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_12,{},{LYMH,NODE,,,LEVEL,VII,MDIASTINUH,,,BIOPSY,:,ONE,BENIGN,LYMPH,NODE,(,Oil,),.},{LYMH,NODE,,,LEVEL,VII,MDIASTINUH,,,BIOPSY,:,one,benign,lymph,node,(,oil,),.},{NNP,NNP,,,NNP,NNP,NNP,,,NNP,:,CD,JJ,NN,NN,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_13,{},{LYMPH,NODE,#,3,,,LEVEL,VII,MEDIRSTINUM,,,BIOPSY,:,THREE,BENIGN,LYMPH,NODES,(,D/3,),.},{lymph,node,#,3,,,LEVEL,VII,MEDIRSTINUM,,,BIOPSY,:,three,benign,lymph,node,(,d/3,),.},{NN,NN,#,CD,,,NNP,NNP,NNP,,,NNP,:,CD,JJ,NN,VBZ,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_14,{},{LYMH,NODES,,,LEVEL,IV,MEDIASTINUM,.},{LYMH,NODES,,,LEVEL,iv,MEDIASTINUM,.},{NNP,NNP,,,NNP,CD,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_15,{},{BIOPSY,:,TWO,BENIGN,LYMPH,NODES,{,0I2,),.},{biopsy,:,two,benign,lymph,node,{,0i2,),.},{NN,:,CD,JJ,NN,VBZ,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_16,{},{LYMH,NODES,#,2,,,LEVEL,IV,,,BIOPSY,:,EIGHT,BENIGN,LYMPH,NODES,(,O/8,),.},{LYMH,NODES,#,2,,,level,iv,,,BIOPSY,:,eight,benign,lymph,node,(,o/8,),.},{NNP,NNP,#,CD,,,NN,CD,,,NNP,:,CD,JJ,NN,VBZ,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_17,{},{LYMPH,NODES,#,2,,,LEVEL,VII,HEDIASTINUM,,,BIOPSY,:,ELEVEN,LYMPH,NODES,NEGATIVE,FOR,CARCINOMA,.},{lymph,node,#,2,,,LEVEL,VII,HEDIASTINUM,,,BIOPSY,:,eleven,LYMPH,NODES,NEGATIVE,for,CARCINOMA,.},{NN,VBZ,#,CD,,,NNP,NNP,NNP,,,NNP,:,CD,NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_18,{},{FOLLICULRR,LYMPHOMA,,,GRADE,I,,,PARTIRLY,INVOLVING,ONE},{FOLLICULRR,LYMPHOMA,,,GRADE,I,,,PARTIRLY,INVOLVING,one},{NNP,NNP,,,NNP,NNP,,,NNP,NNP,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_19,{},{LYMPH,NODE,(,SEE},{lymph,node,(,see},{NN,NN,CD,VBP},{}
-TCGA-39-5039, TCGA-39-5039SENT_20,{},{GGA,?,39,?,5B39},{GGA,?,39,?,5b39},{NNP,CD,CD,NN,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_21,{},{?,-,.},{?,-,.},{SYM,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_22,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_23,{},{--,.},{--,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_24,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_25,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_26,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_27,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_28,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_29,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_30,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_31,{},{---,--------,--,Page,2,o?,9},{---,--------,--,Page,2,o?,9},{CD,CD,:,NNP,CD,NN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_32,{},{NOTE,:,THE,TUMOR,CELLS,ARE,POSITIVE,FOR,CD20,,,BCL-2,,,BCL,?,6,AND,CD10,;,WHEREAS,NEGATIVE,FOR,CD23,AND,CYCLINfD1,.},{note,:,the,tumor,cell,be,positive,for,cd20,,,bcl-2,,,BCL,?,6,and,cd10,;,whereas,negative,for,cd23,and,cyclinfd1,.},{VB,:,DT,NN,NNS,VBP,JJ,IN,NN,,,NN,,,NNP,CD,CD,CC,NN,:,IN,JJ,IN,NN,CC,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_33,{},{CD3,AND,CD5,MARKS,MATURE,T,~,LYMPHOCYTES,.},{cd3,and,cd5,mark,mature,t,~,lymphocyte,.},{NN,CC,NN,NNS,JJ,NN,NN,NNS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_34,{},{A,STAIN,FOR,MIB-1,MARKS,APPROXIMATELY,5,%,OF,NEOPLASTIC,CELLS,.},{a,stain,for,mib-1,mark,approximately,5,%,of,neoplastic,cell,.},{DT,NN,IN,NN,NNS,RB,CD,NN,IN,NN,NNS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_35,{},{THEREFORE,THIS,1:3,A,I-OW-GRADE,Lnzpriom,.},{therefore,this,1:3,a,i-ow-grade,lnzpriom,.},{RB,VBZ,CD,DT,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_36,{},{?,HAS,REVIEWED,THE,SI.-IDES,mm,AGREES,WITH,',1,?,8E,DIAGNOSIS,.},{?,have,review,the,si.-ides,mm,agree,with,',1,?,8e,diagnosis,.},{NN,VBZ,VBN,DT,NN,NN,VBZ,IN,'',CD,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_37,{},{8,},LYMH,NOD33,#,3,,,RIGHT,LEVEL,IV,,,BIOPSY,:},{8,},lymh,nod33,#,3,,,right,level,iv,,,BIOPSY,:},{CD,CD,NN,NN,#,CD,,,NN,NN,CD,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_38,{},{?,SIXTEEN,LYMPH,NODES,;,NEGATIVE,FOR,CARCINOMA,.},{?,sixteen,LYMPH,NODES,;,NEGATIVE,for,CARCINOMA,.},{NN,CD,NNP,NNP,:,NNP,IN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_39,{},{9,),LYMPH,NODE,,,RIGHT,LEVEL,IV,,,BIOPSY,:},{9,),LYMPH,NODE,,,RIGHT,LEVEL,IV,,,BIOPSY,:},{CD,CD,NNP,NNP,,,NNP,NNP,NNP,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_40,{},{?,ONE,LYMPH,NODE,NEGATIVE,FOR,CARCINOMA,.},{?,one,LYMPH,NODE,NEGATIVE,for,CARCINOMA,.},{NN,CD,NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_41,{},{I,10,),Lane,,,RIGHT,uppza,LOB_E,,,LOBECTOMY,:,/},{I,10,),Lane,,,RIGHT,uppza,lob_e,,,LOBECTOMY,:,/},{PRP,CD,CD,NNP,,,NNP,NN,NN,,,NNP,:,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_42,{},{-,SQURMOU3,CELL,CARCINOME,,,POORLY,DIFFERENTIETED,,,OF,RIGHT,UPPER,LOBE,.},{-,squrmou3,cell,carcinome,,,poorly,differentieted,,,of,RIGHT,UPPER,LOBE,.},{:,NN,NN,NN,,,JJ,NN,,,IN,NNP,NNP,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_43,{},{TUMOR,CROSSES,THE,FISSURE,INTO,THE,MIDDLE,LOBE,.,"},{tumor,cross,the,fissure,into,the,middle,lobe,.,"},{NN,VBZ,DT,NN,IN,DT,JJ,NN,.,''},{}
-TCGA-39-5039, TCGA-39-5039SENT_44,{},{THE,TUMOR,MEASURES,5.5,X,4.3,X,4.0,CM,.},{the,tumor,measure,5.5,x,4.3,x,4.0,cm,.},{DT,NN,NNS,CD,NN,CD,NN,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_45,{},{?,No,PERINEURBD,INVA$,ION,IS,IDENTIFIED,.},{?,no,perineurbd,inva$,ion,be,IDENTIFIED,.},{RB,DT,NN,NN,NN,VBZ,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_46,{},{-,THE,BRONCHIAL,HARGIN,IS,FREE,OF,TUMOR,.},{-,the,bronchial,hargin,be,FREE,of,tumor,.},{:,DT,JJ,NN,VBZ,NNP,IN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_47,{},{~,THE,PARENCHYHAL,MARGINS,AND,CHEST,WALL,MARGINS,ARE,FREE,OF,TUMOR,.},{~,the,parenchyhal,margin,and,chest,WALL,MARGINS,be,free,of,tumor,.},{NN,DT,NN,NNS,CC,NN,NNP,NNPS,VBP,NNS,IN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_48,{},{?,THE,TUMOR,INVADES,THROUGH,THE,PLEURA,.},{?,the,tumor,invade,through,the,pleuron,.},{NN,DT,NN,VBZ,IN,DT,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_49,{},{-,THE,NON-NEDPLASTIC,LUNG,SHOWS,THE,FOLLOWING,ABNORMALITY,:,PARENCHYMAL},{-,the,non-nedplastic,lung,show,the,follow,abnormality,:,parenchymal},{:,DT,NN,NN,VBZ,DT,VBG,NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_50,{},{SCARRING,AND,EMPHYSEMATOUS,CHANGES,.},{scar,and,emphysematous,change,.},{VBG,CC,NNS,NNS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_51,{},{-,THE,LYMPH,NODE,STATUS,IS,AS,FOLLOWS,(,EXPRESSED,AS,THE,NUMBER,OF},{-,the,lymph,node,status,be,as,follow,(,express,as,the,number,of},{:,DT,NN,NN,NN,VBZ,JJ,NN,CD,VBD,JJ,DT,NN,IN},{}
-TCGA-39-5039, TCGA-39-5039SENT_52,{},{HETASTATIC,NODES,IN,RELATION,TO,THE,TOTAB,NUMBER,OF,NODES,EXAMINED,),:,PERIBRONCHIALX,O/3,.},{HETASTATIC,NODES,in,RELATION,to,the,totab,number,of,NODES,examine,),:,peribronchialx,o/3,.},{NNP,NNP,IN,NNP,TO,DT,NN,NN,IN,NNP,VBD,CD,:,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_53,{},{NOTE,:,IMUNOSTAINS,SHOW,THAT,THE,TUMOR,CELLS,ARE,DIFFUSELY,POSITIVE,FOR,343912,AND,AAA,(,P63,),,,WHEREAS,NEGATIVE,FOR,TTF,?,1o,THIS,PATERN,O,?},{note,:,IMUNOSTAINS,SHOW,that,the,tumor,cell,be,diffusely,positive,for,343912,and,aaa,(,p63,),,,whereas,negative,for,ttf,?,1o,this,patern,o,?},{VB,:,NNP,NNP,WDT,DT,NN,NNS,VBP,NN,JJ,IN,CD,CC,NN,CD,NN,NN,,,IN,JJ,IN,NN,CD,NN,NN,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_54,{},{IMUNORERCTIVITY,SUPPORTS,THE,DIAGNOSIS,.},{IMUNORERCTIVITY,support,the,diagnosis,.},{NNP,VBZ,DT,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_55,{},{None,:,This,document,represents,an,amended,version,of,the,surgical,pathology,report,originally,issued,01,-,.},{none,:,this,document,represent,a,amend,version,of,the,surgical,pathology,report,originally,issue,01,-,.},{NN,:,DT,NN,VBZ,DT,VBN,NN,IN,DT,JJ,NN,NN,RB,VBD,CD,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_56,{},{That,report,is,superseded,by,the,present,document,.},{that,report,be,supersede,by,the,present,document,.},{DT,NN,VBZ,VBN,IN,DT,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_57,{},{I,ATTEST,THAT,THE,ABOVE,DIAGNOSIS,IS,BASED,UPON,MY,PERSONAL,EXA?INATION,OF,THE,SLIDES,(,ANDIOR,OTHER,MATERIAL,),,,AND,THAT,I,HAVE,REVIEWED,AND,APPROVED,THIS,REPORT,.},{I,attest,that,the,above,diagnosis,be,based,upon,MY,PERSONAL,EXA?INATION,of,the,slide,(,ANDIOR,OTHER,material,),,,and,that,I,have,review,and,approve,this,report,.},{PRP,VBP,WDT,DT,IN,NN,VBZ,NN,IN,NNP,NNP,NNPS,IN,DT,NNS,VBP,NNP,NNP,NN,NN,,,CC,WDT,PRP,VBP,VBN,CC,VBN,NNS,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_58,{},{**,Continued,on,next,:,page,**},{**,continue,on,next,:,page,**},{RB,VBN,IN,JJ,:,NN,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_59,{},{?,H,~,~,~,~,~,------------,-,-------,.},{?,h,~,~,~,~,~,------------,-,-------,.},{NN,NN,NN,CD,NN,NN,CD,CD,:,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_60,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_61,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_62,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_63,{},{~,-,------------------------,-,Page,3,of,9},{~,-,------------------------,-,Page,3,of,9},{SYM,:,CD,:,NNP,CD,IN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_64,{},{1,),.},{1,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_65,{},{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,",right,middle,lung,lobe,wedge,",and,consists,of,a,1.2,x,0.7,x,0.7,cm,portion,of,lung,with,e,cauterized,margin,.},{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,",right,middle,lung,lobe,wedge,",and,consist,of,a,1.2,x,0.7,x,0.7,cm,portion,of,lung,with,e,cauterize,margin,.},{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,``,NN,JJ,NN,NN,NN,'',CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,IN,SYM,VBN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_66,{},{The,cauterized,margin,is,inked,black,and,the,specimen,is,entirely,for,?,frozen,section,consultation,.},{the,cauterize,margin,be,ink,black,and,the,specimen,be,entirely,for,?,frozen,section,consultation,.},{DT,VBN,NN,VBZ,VBN,JJ,CC,DT,NN,VBZ,RB,IN,CD,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_67,{},{2,),.},{2,),.},{CD,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_68,{},{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,",right,subscapular,soft,tissue,",and,consists,of,a,4.0,x,3.2,x,2.0,cm,fibroadipose,soft,tissue,fragment,,,the,outer,surface,is,inked,black,and,the,specimen,is,sectioned,to,reveal,a,fibrotic,cut,surface,.},{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,",right,subscapular,soft,tissue,",and,consist,of,a,4.0,x,3.2,x,2.0,cm,fibroadipose,soft,tissue,fragment,,,the,outer,surface,be,ink,black,and,the,specimen,be,section,to,reveal,a,fibrotic,cut,surface,.},{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,``,NN,JJ,JJ,NN,'',CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,JJ,NN,NN,,,DT,JJ,NN,VBZ,VBN,JJ,CC,DT,NN,VBZ,VBN,TO,VB,DT,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_69,{},{A,representative,section,is,submitted,for,frozen,section,consultation,.},{a,representative,section,be,submit,for,frozen,section,consultation,.},{DT,JJ,NN,VBZ,VBN,IN,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_70,{},{Representative,sections,of,the,remaining,tissue,are,submitted,.},{Representative,section,of,the,remain,tissue,be,submit,.},{NNP,NNS,IN,DT,VBG,NN,VBP,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_71,{},{Summary,of,sections,:,FSC-frozen,section,control,summary,of,sections,:,FSC,?,frozen,section,control,U,undesignated},{summary,of,section,:,fsc-frozen,section,control,summary,of,section,:,fsc,?,frozen,section,control,U,undesignate},{NN,IN,NNS,:,JJ,NN,NN,NN,IN,NNS,:,NN,CD,JJ,NN,NN,NNP,VBD},{}
-TCGA-39-5039, TCGA-39-5039SENT_72,{},{3,),.},{3,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_73,{},{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,?,level,7,mediastinal,lymph,node,",and,consists,of,a,0.8,x,0.7,x,0.4,cm,in,red-tan,soft,tissue,fragment,,,which,is,entirely,submitted,for,frozen,section,consultation,.},{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,?,level,7,mediastinal,lymph,node,",and,consist,of,a,0.8,x,0.7,x,0.4,cm,in,red-tan,soft,tissue,fragment,,,which,be,entirely,submit,for,frozen,section,consultation,.},{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,JJ,NN,CD,JJ,NN,NN,'',CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,IN,NN,JJ,NN,NN,,,WDT,VBZ,RB,VBN,IN,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_74,{},{Summary,sections,:,FSC,?,frozen,section,control,i,4,),.},{summary,section,:,fsc,?,frozen,section,control,i,4,),.},{NN,NNS,:,NN,CD,JJ,NN,NN,FW,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_75,{},{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,?,level,7,mediastinal,lymph,node,#,3,",and,consists,of,three,tan,soft,tissue,fragments,measuring,2.8,x,1.6,x,0.7,cm,in,aggregate,,,which,are,entirely,submittea,for,frozen,section,consultation,.},{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,?,level,7,mediastinal,lymph,node,#,3,",and,consist,of,three,tan,soft,tissue,fragment,measure,2.8,x,1.6,x,0.7,cm,in,aggregate,,,which,be,entirely,submittea,for,frozen,section,consultation,.},{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,JJ,NN,CD,JJ,NN,NN,#,CD,``,CC,VBZ,IN,CD,NN,JJ,NN,NNS,VBG,CD,CC,CD,CC,CD,NN,IN,NN,,,WDT,VBP,RB,VBN,IN,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_76,{},{Summary,sections,:,FSCA,?,?,rozen,section,control,FSCB,?,?,rozen,section,control},{summary,section,:,fsca,?,?,rozen,section,control,fscb,?,?,rozen,section,control},{NN,NNS,:,NN,CD,CD,NN,NN,NN,NN,CD,CD,NN,NN,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_77,{},{5,),.},{5,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_78,{},{The,specimen,is,received,fresh,for,frozen,section,is,labeled,",right,level,4,mediastinal,lymph,node,",and,consists,of,two,anthrscotic,lymph,node,fragments,measuring,1.4,cm,and,1.7,cm,in,greatest,dimension,.},{the,specimen,be,receive,fresh,for,frozen,section,be,label,",right,level,4,mediastinal,lymph,node,",and,consist,of,two,anthrscotic,lymph,node,fragment,measure,1.4,cm,and,1.7,cm,in,greatest,dimension,.},{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,VBZ,VBN,``,JJ,NN,CD,JJ,NN,NN,'',CC,VBZ,IN,CD,JJ,NN,NN,NNS,VBG,CD,NN,CC,CD,NN,IN,JJS,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_79,{},{The,largest,is,bisected,.},{the,largest,be,bisect,.},{DT,JJS,VBZ,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_80,{},{The,specimen,is,entirely,submitted,for,frozen,section,consultation,.},{the,specimen,be,entirely,submit,for,frozen,section,consultation,.},{DT,NN,VBZ,RB,VBN,IN,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_81,{},{**,continued,on,next,page,**},{**,continue,on,next,page,**},{RB,VBN,IN,JJ,NN,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_82,{},{Summary,of,sections,:,FSc,?,frozen,section,control,'},{summary,of,section,:,fsc,?,frozen,section,control,'},{NN,IN,NNS,:,SYM,CD,JJ,NN,NN,''},{}
-TCGA-39-5039, TCGA-39-5039SENT_83,{},{---------,.},{---------,.},{CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_84,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_85,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_86,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_87,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_88,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_89,{},{---,.},{---,.},{CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_90,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_91,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_92,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_93,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_94,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_95,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_96,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_97,{},{----,.},{----,.},{CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_98,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_99,{},{------,.},{------,.},{CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_100,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_101,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_102,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_103,{},{--,.},{--,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_104,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_105,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_106,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_107,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_108,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_109,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_110,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_111,{},{-----,.},{-----,.},{CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_112,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_113,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_114,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_115,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_116,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_117,{},{--,~,----,.},{--,~,----,.},{:,NN,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_118,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_119,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_120,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_121,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_122,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_123,{},{-,Page,4,of,9},{-,Page,4,of,9},{:,NNP,CD,IN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_124,{},{6,),.},{6,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_125,{},{The,specimen,is,received,_,fresh,for,frozen,section,consultation,,,labeled,",Right,level,4,lymph,node,number,two,?,and,consists,of,a,5,x,3.5,x,1.5,cm,piece,of,fibroadipose,tissue,.},{the,specimen,be,receive,_,fresh,for,frozen,section,consultation,,,label,",Right,level,4,lymph,node,number,two,?,and,consist,of,a,5,x,3.5,x,1.5,cm,piece,of,fibroadipose,tissue,.},{DT,NN,VBZ,VBN,RB,JJ,IN,JJ,NN,NN,,,VBN,``,NNP,NN,CD,NN,NN,NN,CD,NN,CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_126,{},{which,is,sectioned,to,reveal,one,partly,fatty,and,anthracotic,lymph,node,measuring,5,x,2.3,x,1.4,cm,.},{which,be,section,to,reveal,one,partly,fatty,and,anthracotic,lymph,node,measure,5,x,2.3,x,1.4,cm,.},{WDT,VBZ,VBN,TO,VB,CD,RB,NN,CC,JJ,NN,NN,VBG,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_127,{},{The,lymph,node,is,representatively,sampled,for,frozen,section,consultation,.},{the,lymph,node,be,representatively,sample,for,frozen,section,consultation,.},{DT,NN,NN,VBZ,RB,VBN,IN,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_128,{},{Further,sectioning,through,the,remaining,tissue,in,the,container,reveals,several,additional,whole,pink,?,tan,lymph,nodes,ranging,in,size,from,0.2,to,0.5,cm,in,greatest,dimension,,,which,srefentirely,submitted,separately,.},{further,sectioning,through,the,remain,tissue,in,the,container,reveal,several,additional,whole,pink,?,tan,lymph,node,range,in,size,from,0.2,to,0.5,cm,in,greatest,dimension,,,which,srefentirely,submit,separately,.},{JJ,NN,IN,DT,VBG,NN,IN,DT,NN,VBZ,JJ,JJ,JJ,JJ,NN,NN,NN,NNS,VBG,IN,NN,IN,CD,TO,CD,NN,IN,JJS,NN,,,WDT,RB,VBD,RB,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_129,{},{The,remaining,lymphoid,tissue,is,entirely,submitted,for,permanent,section,.},{the,remain,lymphoid,tissue,be,entirely,submit,for,permanent,section,.},{DT,VBG,JJ,NN,VBZ,RB,VBN,IN,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_130,{},{Summary,of,sections,:,FSC,?,frozen,section,control,_,REL,?,remainder,of,frozen,lymph,node,RLN,?,remeining,whole,lymph,nodes},{summary,of,section,:,fsc,?,frozen,section,control,_,rel,?,remainder,of,frozen,lymph,node,rln,?,remein,whole,lymph,node},{NN,IN,NNS,:,NN,CD,JJ,NN,NN,CD,NN,CD,NN,IN,JJ,NN,NN,NN,NN,VBG,JJ,NN,NNS},{}
-TCGA-39-5039, TCGA-39-5039SENT_131,{},{7,),.},{7,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_132,{},{The,specimen,is,received,in,formalin,,,labeled,as,?,level,7,mediastinal,lymph,node,#,2,?,.},{the,specimen,be,receive,in,formalin,,,label,as,?,level,7,mediastinal,lymph,node,#,2,?,.},{DT,NN,VBZ,VBN,IN,NN,,,VBN,IN,NN,NN,CD,JJ,NN,NN,#,CD,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_133,{},{and,it,consists,of,multiple,possible,lymph,nodes,measuring,up,to,3.5,cm,.},{and,it,consist,of,multiple,possible,lymph,node,measure,up,to,3.5,cm,.},{CC,PRP,VBZ,IN,JJ,JJ,NN,NNS,VBG,RP,TO,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_134,{},{The,largest,lymph,node,is,sectioned,.},{the,largest,lymph,node,be,section,.},{DT,JJS,NN,NN,VBZ,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_135,{},{The,entire,lymph,nodes,are,submitted,.},{the,entire,lymph,node,be,submit,.},{DT,JJ,NN,NNS,VBP,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_136,{},{Summary,of,sections,:,LLN,the,largest,lymph,node,LN,~,-,other,lymph,nodes},{summary,of,section,:,lln,the,largest,lymph,node,ln,~,-,other,lymph,node},{NN,IN,NNS,:,NN,DT,JJS,NN,NN,NN,SYM,:,JJ,NN,NNS},{}
-TCGA-39-5039, TCGA-39-5039SENT_137,{},{8,),.},{8,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_138,{},{The,specimen,is,received,in,formalin,,,labeled,as,?,right,level,4,lymph,node,?,,,and,it,consists,of,multiple,possible,lymph,nodes,measuring,up,to,2.0,cm,.},{the,specimen,be,receive,in,formalin,,,label,as,?,right,level,4,lymph,node,?,,,and,it,consist,of,multiple,possible,lymph,node,measure,up,to,2.0,cm,.},{DT,NN,VBZ,VBN,IN,NN,,,VBN,IN,NN,JJ,NN,CD,NN,NN,NN,,,CC,PRP,VBZ,IN,JJ,JJ,NN,NNS,VBG,RP,TO,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_139,{},{Entirely,lymph,nodes,are,submitted,.},{entirely,lymph,node,be,submit,.},{RB,NN,NNS,VBP,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_140,{},{9,),.},{9,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_141,{},{The,specimen,is,received,in,Eormalin,.},{the,specimen,be,receive,in,Eormalin,.},{DT,NN,VBZ,VBN,IN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_142,{},{labeled,as,?,right,level,12,lymph,node,?,,,and,it,consists,of,a,possible,lymph,node,measuring,2.2,cm,.},{label,as,?,right,level,12,lymph,node,?,,,and,it,consist,of,a,possible,lymph,node,measure,2.2,cm,.},{VBN,IN,NN,JJ,NN,CD,NN,NN,NN,,,CC,PRP,VBZ,IN,DT,JJ,NN,NN,VBG,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_143,{},{The,specimen,is,bisected,and,entirely,submitted,.},{the,specimen,be,bisect,and,entirely,submit,.},{DT,NN,VBZ,VBN,CC,RB,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_144,{},{Sumary,of,sections,:,LN,lymph,nodes},{Sumary,of,section,:,ln,lymph,node},{NNP,IN,NNS,:,NN,NN,NNS},{}
-TCGA-39-5039, TCGA-39-5039SENT_145,{},{Summary,of,sections,:,BLN,v,?,bisected,lymph,node},{summary,of,section,:,BLN,v,?,bisect,lymph,node},{NN,IN,NNS,:,NNP,LS,CD,VBN,NN,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_146,{},{10,),.},{10,),.},{CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_147,{},{The,specimen,is,received,in,a,fresh,state,.},{the,specimen,be,receive,in,a,fresh,state,.},{DT,NN,VBZ,VBN,IN,DT,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_148,{},{labeled,as,",right,upper,lobe,of,lung,",,,and,consists,of,a,right,lung,upper,lohectomy,specimen,measuring,11.5,x,13,x,5.4,cm,weighing,212,g.,The,portion,of,middle,lobe,(,4,.},{label,as,",right,upper,lobe,of,lung,",,,and,consist,of,a,right,lung,upper,lohectomy,specimen,measure,11.5,x,13,x,5.4,cm,weigh,212,g.,the,portion,of,middle,lobe,(,4,.},{VBN,IN,``,JJ,JJ,NN,IN,NN,'',,,CC,VBZ,IN,DT,JJ,NN,JJ,NN,NN,VBG,CD,CC,CD,CC,CD,NN,VBG,CD,NN,DT,NN,IN,JJ,NN,NN,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_149,{},{?},{?},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_150,{},{3,2.2,x,0.2,cm,,,marked,by,a,short,stitch,),and,the,portion,of,the,lower,lobe,(,3.5,x,1.5,x,0.3,cm,,,marked,by,a,long,stitch,),are,adhered,to,the,inferoposterior,aspect,of,the,specimen,.},{3,2.2,x,0.2,cm,,,mark,by,a,short,stitch,),and,the,portion,of,the,lower,lobe,(,3.5,x,1.5,x,0.3,cm,,,mark,by,a,long,stitch,),be,adhere,to,the,inferoposterior,aspect,of,the,specimen,.},{CD,CD,NN,CD,NN,,,VBN,IN,DT,JJ,NN,NN,CC,DT,NN,IN,DT,JJR,NN,CD,CD,NN,CD,CC,CD,NN,,,VBN,IN,DT,JJ,NN,NN,VBP,VBN,TO,DT,NN,NN,IN,DT,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_151,{},{A,10,cm,staple,line,is,identi?ied,in,the,inferior,aspect,.},{a,10,cm,staple,line,be,identi?ied,in,the,inferior,aspect,.},{DT,CD,NN,NN,NN,VBZ,VBN,IN,DT,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_152,{},{The,specimen,is,inked,in,black,on,the,pleura,.},{the,specimen,be,ink,in,black,on,the,pleuron,.},{DT,NN,VBZ,VBN,IN,JJ,IN,DT,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_153,{},{in,blue,on,the,middle,lobe,margin,,,in,green,on,the,lower,lobe,margin,(,after,the},{in,blue,on,the,middle,lobe,margin,,,in,green,on,the,lower,lobe,margin,(,after,the},{IN,JJ,IN,DT,JJ,NN,NN,,,IN,JJ,IN,DT,JJR,NN,NN,NN,IN,DT},{}
-TCGA-39-5039, TCGA-39-5039SENT_154,{},{--,.},{--,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_155,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_156,{},{-----------,.},{-----------,.},{CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_157,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_158,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_159,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_160,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_161,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_162,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_163,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_164,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_165,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_166,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_167,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_168,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_169,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_170,{},{.},{.},{.},{}
-TCGA-39-5039, TCGA-39-5039SENT_171,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_172,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_173,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_174,{},{-,Page,5,of,9,removal,of,the,staples,),,,and,in,red,on,the,staple,line,{,after,the,removal,of,the,staples,),.},{-,Page,5,of,9,removal,of,the,staple,),,,and,in,red,on,the,staple,line,{,after,the,removal,of,the,staple,),.},{:,NNP,CD,IN,CD,NN,IN,DT,NNS,RB,,,CC,IN,JJ,IN,DT,NN,NN,NN,IN,DT,NN,IN,DT,NNS,VBP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_175,{},{Sectioning,reveals,a,5.5,X,4.3,x,4.0,cm,relatively,well-circumscribed,firm,tan,mass,in,the,posterior,aspect,of,the,specimen,.},{section,reveal,a,5.5,x,4.3,x,4.0,cm,relatively,well-circumscribed,firm,tan,mass,in,the,posterior,aspect,of,the,specimen,.},{VBG,VBZ,DT,CD,NN,CD,CC,CD,NN,RB,JJ,NN,NN,NN,IN,DT,JJ,NN,IN,DT,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_176,{},{The,adjacent,pleura,shows,fibrous,adhesion,.},{the,adjacent,pleuron,show,fibrous,adhesion,.},{DT,JJ,NN,VBZ,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_177,{},{The,tumor,approaches,1.4,cm,from,the,bronchial,resection,margin,,,0.5,cm,from,the,middle,lobe,margin,,,0.7,cm,Erom,the,lower,lobe,margin,,,and,0.3,cm,from,the,staple,line,.},{the,tumor,approach,1.4,cm,from,the,bronchial,resection,margin,,,0.5,cm,from,the,middle,lobe,margin,,,0.7,cm,erom,the,lower,lobe,margin,,,and,0.3,cm,from,the,staple,line,.},{DT,NN,VBZ,CD,NN,IN,DT,JJ,NN,NN,,,CD,NN,IN,DT,JJ,NN,NN,,,CD,NN,NN,DT,JJR,NN,NN,,,CC,CD,NN,IN,DT,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_178,{},{The,tumor,does,not,involve,the,middle,lobe,or,lower,lobe,parenchyma,.},{the,tumor,do,not,involve,the,middle,lobe,or,lower,lobe,parenchyma,.},{DT,NN,VBZ,RB,VB,DT,JJ,NN,CC,JJR,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_179,{},{The,tumor,penetrates,the,anthracotic,visceral,pleura,to,invade,into,the,adherent,chest,wall,soft,tissue,(,3.5,x,1.2,x,0.7,cm,),.},{the,tumor,penetrate,the,anthracotic,visceral,pleuron,to,invade,into,the,adherent,chest,wall,soft,tissue,(,3.5,x,1.2,x,0.7,cm,),.},{DT,NN,VBZ,DT,JJ,JJ,NN,TO,VB,IN,DT,JJ,NN,NN,JJ,NN,NN,CD,CC,CD,CC,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_180,{},{Background,lung,parenuhyma,shows,varying,degree,of,emphysematous,change,.},{background,lung,parenuhyma,show,vary,degree,of,emphysematous,change,.},{NN,NN,NN,VBZ,VBG,NN,IN,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_181,{},{Multiple,peribronchial,lymph,nodes,are,identified,.},{multiple,peribronchial,lymph,node,be,identify,.},{JJ,JJ,NN,NNS,VBP,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_182,{},{The,specimen,is,photographed,.},{the,specimen,be,photograph,.},{DT,NN,VBZ,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_183,{},{?,PPS,is,taken,.},{?,pp,be,take,.},{NN,NN,VBZ,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_184,{},{Representative,sections,are,submitted,.},{Representative,section,be,submit,.},{NNP,NNS,VBP,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_185,{},{Surmnary,of,sections,:,BM,-,bronchial,margin,VM,vascular,margin,,,LL,-,.},{Surmnary,of,section,:,bm,-,bronchial,margin,vm,vascular,margin,,,ll,-,.},{NNP,IN,NNS,:,NN,:,JJ,NN,NN,JJ,NN,,,NN,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_186,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_187,{},{-,lower,lobe,,,perpendicular,green,margin,ML,-,.},{-,lower,lobe,,,perpendicular,green,margin,ml,-,.},{:,JJR,NN,,,JJ,JJ,NN,NN,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_188,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_189,{},{-,middle,lobe,,,perpendicular,blues,margin,SL,-,.},{-,middle,lobe,,,perpendicular,blues,margin,sl,-,.},{:,JJ,NN,,,JJ,NNS,NN,NN,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_190,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_191,{},{-,staple,line,,,perpendicular,red,line,TCW,tumor,with,attached,chest,wall,TBR,tumor,with,large,bronchus,El,?,tumor,LN,lymph,nodes,RC,-,.},{-,staple,line,,,perpendicular,red,line,tcw,tumor,with,attach,chest,wall,tbr,tumor,with,large,bronchus,El,?,tumor,ln,lymph,node,rc,-,.},{:,NN,NN,,,JJ,JJ,NN,NN,NN,IN,VBN,NN,NN,NN,NN,IN,JJ,NNS,NNP,CD,NN,NN,NN,NNS,NN,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_192,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_193,{},{-,background,lung,close,to,the,tumor,Rn,-,.},{-,background,lung,close,to,the,tumor,rn,-,.},{:,NN,NN,NN,TO,DT,NN,NN,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_194,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_195,{},{-,background,lung,away,from,the,tumor},{-,background,lung,away,from,the,tumor},{:,NN,NN,RB,IN,DT,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_196,{},{Summary,of,Sections,:,Part,1,:,SP,:,Right,middle,lobe,lung,wedge,-,Block},{summary,of,section,:,Part,1,:,sp,:,Right,middle,lobe,lung,wedge,-,Block},{NN,IN,NNS,:,NNP,CD,:,NN,:,NNP,JJ,NN,NN,NN,:,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_197,{},{Sect,.},{Sect,.},{NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_198,{},{Site,PCs,1,f3,(,!},{site,pc,1,f3,(,!},{NN,NNS,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_199,{},{1},{1},{CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_200,{},{Part,2,:,51,?},{part,2,:,51,?},{NN,CD,:,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_201,{},{:,Right,subscepula,soft,tissue,-,Block},{:,right,subscepula,soft,tissue,-,Block},{:,RB,JJ,JJ,NN,:,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_202,{},{sect,.},{sect,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_203,{},{site,Pcs,1,far,:,1,3,u,3},{site,pc,1,far,:,1,3,u,3},{NN,NNS,CD,RB,:,CD,CD,NN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_204,{},{Part,3,:,SP,:,Level,seven,mediastinal,lymph,node,-,Block},{Part,3,:,sp,:,level,seven,mediastinal,lymph,node,-,Block},{NNP,CD,:,NN,:,NN,CD,JJ,NN,NN,:,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_205,{},{Sect,.},{Sect,.},{NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_206,{},{Site,PCs,1,fee,1},{site,pc,1,fee,1},{NN,NNS,CD,NN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_207,{},{Part,4,:,SP,:,Level,seven,mediastinal,lymph,node,#,-,Bloc,},:},{Part,4,:,sp,:,level,seven,mediastinal,lymph,node,#,-,Bloc,},:},{NNP,CD,:,NN,:,NN,CD,JJ,NN,NN,#,:,NNP,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_208,{},{Sect,.},{Sect,.},{NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_209,{},{Site,PCs,1,face,1,1,?scb,2},{site,pc,1,face,1,1,?scb,2},{NN,NNS,CD,NN,CD,CD,NN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_210,{},{Part,5,:,SP,:,Right,level,4,mediaetinal,lymph,node,-,Block},{Part,5,:,sp,:,Right,level,4,mediaetinal,lymph,node,-,Block},{NNP,CD,:,NN,:,NNP,NN,CD,JJ,NN,NN,:,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_211,{},{1,Part,6,:,Block},{1,part,6,:,Block},{CD,NN,CD,:,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_212,{},{Part,7,:,Block},{part,7,:,Block},{NN,CD,:,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_213,{},{Paxt,8,:,Block},{paxt,8,:,Block},{NN,CD,:,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_214,{},{Part,9,:,B1o,?,k,2,Part,10,:,Block,I,-,?,MI,-,?,UltJl,\,J1,\,Jt.0J-I1,-,|,|,r,-,?},{Part,9,:,b1o,?,k,2,Part,10,:,Block,I,-,?,mi,-,?,ultjl,\,j1,\,jt.0j-i1,-,|,|,r,-,?},{NNP,CD,:,NN,CD,NN,CD,NNP,CD,:,NNP,PRP,:,CD,SYM,:,NN,NN,CD,NN,CD,NN,:,CD,NN,NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_215,{},{SP,:},{sp,:},{NN,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_216,{},{SP,:},{sp,:},{NN,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_217,{},{SP,!},{sp,!},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_218,{},{~,.},{~,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_219,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_220,{},{-,Page,6,of,9},{-,Page,6,of,9},{:,NNP,CD,IN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_221,{},{Sect,.},{Sect,.},{NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_222,{},{Site,PCS},{site,pc},{NN,NNS},{}
-TCGA-39-5039, TCGA-39-5039SENT_223,{},{fsc,1},{fsc,1},{NN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_224,{},{Right,:,level,4,lymph,node,#,2,-,-,Sect,.},{right,:,level,4,lymph,node,#,2,-,-,sect,.},{RB,:,NN,CD,NN,NN,#,LS,:,:,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_225,{},{Site,PCs,fsc,1,rfl,4,rln,1},{site,pc,fsc,1,rfl,4,rln,1},{NN,NNS,VBP,CD,NN,CD,NN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_226,{},{Level,seven,mediastinal,lymph,node,#,2,Site},{level,seven,mediastinal,lymph,node,#,2,site},{NN,CD,JJ,NN,NN,#,CD,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_227,{},{PCs,lln,4,1n,3},{pc,lln,4,1n,3},{NNS,VBP,CD,NN,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_228,{},{Seat,.},{seat,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_229,{},{Right,:,level,four,lymph,node,#,3,sdch,.},{right,:,level,four,lymph,node,#,3,sdch,.},{RB,:,NN,CD,NN,NN,#,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_230,{},{Site,PCs},{site,pc},{NN,NNS},{}
-TCGA-39-5039, TCGA-39-5039SENT_231,{},{1n,5,Right,:,level,four,lymph,node,Sect,.},{1n,5,Right,:,level,four,lymph,node,Sect,.},{NN,CD,NNP,:,NN,CD,NN,NN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_232,{},{Site,PCs,bln},{site,pc,bln},{NN,NNS,VBP},{}
-TCGA-39-5039, TCGA-39-5039SENT_233,{},{SP,:,Right,upper,lobe,of,lung,Sect,.},{sp,:,Right,upper,lobe,of,lung,sect,.},{NN,:,NNP,JJ,NN,IN,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_234,{},{Site,PCS},{site,pc},{NN,NNS},{}
-TCGA-39-5039, TCGA-39-5039SENT_235,{},{hm,11,1n,ml,ra,re,51,t,tbr,COW},{hm,11,1n,ml,ra,re,51,t,tbr,cow},{NN,CD,NN,NN,NN,NN,CD,NN,NN,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_236,{},{WMNUI,-,?,HP,M,),-,'},{wmnui,-,?,HP,m,),-,'},{SYM,:,CD,NNP,NN,SYM,:,''},{}
-TCGA-39-5039, TCGA-39-5039SENT_237,{},{original,Diagnosis,:,1,)},{original,diagnosis,:,1,)},{JJ,NN,:,CD,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_238,{},{LUNG,,},{lung,,},{NN,,},{}
-TCGA-39-5039, TCGA-39-5039SENT_239,{},{RIGHT,MIDDLE,Lorin,.},{right,MIDDLE,Lorin,.},{NN,NNP,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_240,{},{?,WEDGE,RESECTION,:,-,LUNG,PBRENCHYHA,WITH,fOCAL,OSSIFICATION,.},{?,WEDGE,RESECTION,:,-,lung,pbrenchyha,with,focal,ossification,.},{RB,NNP,NNP,:,:,NN,NN,IN,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_241,{},{?,NO,CARCINOMA,IDENTIFIED,.},{?,no,carcinoma,identify,.},{NN,NN,NN,VBN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_242,{},{2,),SOFT,TISSUE,,,RIGHT,SUBCBPULA,,,EXCISION,:,"},{2,),SOFT,TISSUE,,,RIGHT,SUBCBPULA,,,EXCISION,:,"},{CD,CD,NNP,NNP,,,NNP,NNP,,,NNP,:,''},{}
-TCGA-39-5039, TCGA-39-5039SENT_243,{},{ELASTOFIBROMA,.},{elastofibroma,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_244,{},{3,),LYMPH,NODB,,,LEVEL,VII,HDIASTINUM,,,BIOPSY,:},{3,),lymph,nodb,,,LEVEL,VII,HDIASTINUM,,,BIOPSY,:},{CD,CD,NN,NN,,,NNP,NNP,NNP,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_245,{},{?,ONE,BENIGN,LYMPH,NUDE,(,oil,),.},{?,one,benign,lymph,nude,(,oil,),.},{NN,CD,JJ,NN,NN,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_246,{},{4,),LYMPH,MODE,#,3,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:},{4,),lymph,mode,#,3,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:},{CD,CD,NN,NN,#,CD,,,NNP,NNP,NNP,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_247,{},{-,THREE,BBNIGN,LYM,?},{-,three,bbnign,lym,?},{:,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_248,{},{H,NODES,(,DIS,),5,)},{h,node,(,di,),5,)},{NN,VBZ,CD,NN,CD,CD,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_249,{},{LYMTH,NODES,,,LEVEL,IV,HEDIASTINUM,,,BIOPSY,:},{LYMTH,NODES,,,LEVEL,iv,HEDIASTINUM,,,BIOPSY,:},{NNP,NNP,,,NNP,CD,NNP,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_250,{},{-,TWO,BENIGN,LYMPH,NOD35,(,0/2,),6,)},{-,two,benign,lymph,nod35,(,0/2,),6,)},{:,CD,JJ,NN,NN,CD,CD,NN,CD,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_251,{},{LYMPH,NODES,#,2,.},{lymph,node,#,2,.},{NN,VBZ,#,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_252,{},{LEVBL,',IV,;,BIOPSY,:,-,EIGHT,BENIGN,LYMPH,NODES,(,0/8,),.},{levbl,',iv,;,BIOPSY,:,-,eight,benign,lymph,node,(,0/8,),.},{NN,'',CD,:,NNP,:,:,CD,JJ,NN,VBZ,CD,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_253,{},{7,),LYMPH,NODES,#,2,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:},{7,),LYMPH,NODES,#,2,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:},{CD,CD,NNP,NNP,#,CD,,,NNP,NNP,NNP,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_254,{},{?,ELEVEN,LYMPH,NODES,NEGATIVE,FOR,CARCINOMA,.},{?,eleven,LYMPH,NODES,NEGATIVE,for,CARCINOMA,.},{NN,CD,NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_255,{},{?,FOLLICULAR,LYHPHOMA,,,GRADE,I,,,PARTIALY,INVOLVING,ONE,LYMPH,NODE,(,SEE},{?,follicular,lyhphoma,,,grade,I,,,PARTIALY,INVOLVING,one,LYMPH,NODE,(,see},{NN,NN,NN,,,VB,PRP,,,NNP,NNP,CD,NNP,NNP,VBD,VBP},{}
-TCGA-39-5039, TCGA-39-5039SENT_256,{},{NOTE,),.},{note,),.},{VB,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_257,{},{NOTE,:,THE,TUMOR,CELLS,ARE,POSITIVE,FOR,CD20,,,BCL-2,,,BCL-6,AND,CD10,,,WHEREAS,NEGATIVE,FOR,CD23,AND,CYCLIN-D1,.},{note,:,the,tumor,cell,be,positive,for,cd20,,,bcl-2,,,bcl-6,and,cd10,,,whereas,negative,for,cd23,and,cyclin-d1,.},{VB,:,DT,NN,NNS,VBP,JJ,IN,NN,,,NN,,,NN,CC,NN,,,IN,JJ,IN,NN,CC,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_258,{},{CD3,AND,CD5,MARKS,MATURE,T-LYMPHOCYTES,.},{cd3,and,cd5,mark,mature,t-lymphocyte,.},{NN,CC,NN,NNS,JJ,NNS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_259,{},{A,STAIN,FOR,MIB,?,1,MARKS,APPROXIMATELY,5,%,OF,NEOPLRSTIC,CELLS,.},{a,stain,for,mib,?,1,MARKS,APPROXIMATELY,5,%,of,neoplrstic,cell,.},{DT,NN,IN,NN,NN,CD,NNP,NNP,CD,NN,IN,NN,NNS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_260,{},{THEREFORE,TRIS,IS,A,LOW,.},{therefore,tri,be,a,low,.},{RB,VBZ,VBZ,DT,RB,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_261,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_262,{},{GRBDE,LYMPHOMA,.},{grbde,lymphoma,.},{JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_263,{},{DR,FELDSTEIN,HAS,REVIEWED,THE,SLIDES,AND,AGREES,WITH,THE,DIAGNOSIS,.},{dr,FELDSTEIN,have,review,the,slide,and,agree,with,the,diagnosis,.},{NN,NNP,VBZ,VBN,DT,NNS,CC,VBZ,IN,DT,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_264,{},{3,),LYMPH,NODES,#,3,,,RIGHT,LEVEL,IV,,,BIOPSY,:},{3,),LYMPH,NODES,#,3,,,right,level,iv,,,BIOPSY,:},{CD,CD,NNP,NNP,#,CD,,,NN,NN,CD,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_265,{},{-,SIXTEEN,LYMPH,NODES,,,NEGATIVE,FOR,CARCINOMA,.},{-,sixteen,LYMPH,NODES,,,NEGATIVE,for,CARCINOMA,.},{:,CD,NNP,NNP,,,NNP,IN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_266,{},{9,),LYMPH,NODE,,,RIGHT,LEVEL,Iv,,,BIOPSY,;},{9,),LYMPH,NODE,,,RIGHT,LEVEL,Iv,,,BIOPSY,;},{CD,CD,NNP,NNP,,,NNP,NNP,NNP,,,NNP,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_267,{},{?,own,LYMPH,NODE,uzsawxvz,son,CARCINOMA,.},{?,own,lymph,node,uzsawxvz,son,carcinoma,.},{NN,JJ,NN,NN,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_268,{},{10,),LUNG,,,RIGHT,UPPER,LOBE,,,LOBECTOHYI},{10,),lung,,,RIGHT,UPPER,LOBE,,,LOBECTOHYI},{CD,CD,NN,,,NNP,NNP,NNP,,,NNP},{}
-TCGA-39-5039, TCGA-39-5039SENT_269,{},{-,SQUAMOUS,CELL,CARCINOMA,,,POORLY,DIFFERENTIATED,,,OF,RIGHT,UPPER,LUBE,.},{-,SQUAMOUS,CELL,CARCINOMA,,,poorly,differentiate,,,of,RIGHT,UPPER,LUBE,.},{:,NNP,NNP,NNP,,,RB,VBN,,,IN,NNP,NNP,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_270,{},{TUMOR,CROSSES,THE,FISSURE,INTO,THE,MIDDLE,LOBE,.,"},{tumor,cross,the,fissure,into,the,middle,lobe,.,"},{NN,VBZ,DT,NN,IN,DT,JJ,NN,.,''},{}
-TCGA-39-5039, TCGA-39-5039SENT_271,{},{THE,TUMOR,MEASURES,5.5,X,4.3,X,4.0,CM,.,"},{the,tumor,measure,5.5,x,4.3,x,4.0,cm,.,"},{DT,NN,NNS,CD,NN,CD,NN,CD,NN,.,''},{}
-TCGA-39-5039, TCGA-39-5039SENT_272,{},{NO,PERINEURBL,INVASION,IS,IDENTIFIED,.},{no,PERINEURBL,INVASION,be,IDENTIFIED,.},{DT,NNP,NNP,VBZ,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_273,{},{~,THE,BRONCHIAL,MARGIN,IS,FREE,OF,TUMOR,.},{~,the,bronchial,margin,be,FREE,of,tumor,.},{NN,DT,JJ,NN,VBZ,NNP,IN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_274,{},{?,THE,PARENCHYMAL,MARGINS,AND,CHEST,WALL,MARGINS,ARE,FREE,OF,TUMOR,.},{?,the,parenchymal,margin,and,chest,WALL,MARGINS,be,free,of,tumor,.},{CD,DT,NN,NNS,CC,NN,NNP,NNPS,VBP,NNS,IN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_275,{},{?,THE,TUMOR,INVOLVES,THE,CHEST,WALL,.},{?,the,tumor,involve,the,chest,WALL,.},{NN,DT,NN,VBZ,DT,NN,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_276,{},{?,THE,NON-NEOPLASTIC,LUNG,SHOWS,THE,FOLLOWING,ABNORMALITY,:,PARENCHYMAL},{?,the,non-neoplastic,lung,show,the,follow,abnormality,:,parenchymal},{NN,DT,NN,NN,VBZ,DT,VBG,NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_277,{},{SCARRING,AND,EHPHYSEHATOUS,CHANGES,.},{scar,and,ehphysehatous,change,.},{VBG,CC,NNS,NNS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_278,{},{?,THE,LYMPH,NODE,STATUS,?,IS,AS,FOLLOWS,{,EXPRESSED,AS,THE,NUMBER,OF},{?,the,lymph,node,status,?,be,as,follow,{,express,as,the,number,of},{CD,DT,NN,NN,NN,CD,VBZ,JJ,NN,CD,VBD,JJ,DT,NN,IN},{}
-TCGA-39-5039, TCGA-39-5039SENT_279,{},{METASTATIC,NODES,IN,RELATION,TO,THE,TOTAL,NUMBER,OF,NODES,EXAMINED,),:,FERIBRONCHIAL,:,0/3,.},{metastatic,node,in,RELATION,to,the,total,number,of,NODES,examine,),:,FERIBRONCHIAL,:,0/3,.},{JJ,NN,IN,NNP,TO,DT,JJ,NN,IN,NNP,VBD,CD,:,NNP,:,CD,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_280,{},{NOTE,:,IMUNOSTAINS,SHOW,THAT,THE,TUMOR,CELLS,ARE,DIFFUSELY,POSITIVE,FOR,3,?,EB12,AND,A?h,(,P53,),,,WHEREAS,NEGATIVE,FOR,TTF-l,-,THIS,PATERN,O,?},{note,:,IMUNOSTAINS,SHOW,that,the,tumor,cell,be,diffusely,positive,for,3,?,eb12,and,a?h,(,p53,),,,whereas,negative,for,ttf-l,-,this,patern,o,?},{VB,:,NNP,NNP,WDT,DT,NN,NNS,VBP,NN,JJ,IN,CD,NN,NN,CC,NN,CD,NN,NN,,,IN,JJ,IN,NN,:,NN,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_281,{},{IMUNOREACTIVITY,SUPPORTS,THE,DIAGNOSIS,.},{IMUNOREACTIVITY,support,the,diagnosis,.},{NNP,VBZ,DT,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_282,{},{Intraoperative,Consu1tation,:,:,Note,:,The,diagnoses,given,in,this,section,pertain,only,to,the,tissue,Sample,examined,at,the,time,of,the,intraoperative,consultation,.},{intraoperative,consu1tation,:,:,note,:,the,diagnosis,give,in,this,section,pertain,only,to,the,tissue,sample,examine,at,the,time,of,the,intraoperative,consultation,.},{JJ,NN,:,:,VB,:,DT,NNS,VBN,IN,DT,NN,NN,RB,TO,DT,NN,NN,VBN,IN,DT,NN,IN,DT,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_283,{},{1,},NROZEN,SECTION,DiAGNOSISI,SP,:,RIGHT,MIDDLE,LOBE,LUNG,WEDGE,_,-,:,AEAOTIVE,OSANGES,.},{1,},NROZEN,section,diagnosisus,sp,:,RIGHT,MIDDLE,LOBE,LUNG,WEDGE,_,-,:,AEAOTIVE,OSANGES,.},{CD,CD,NNP,NN,NN,NN,:,NNP,NNP,NNP,NNP,NNP,SYM,:,:,NNP,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_284,{},{No,OAROINONA,SEEN,ON,FROZEN,SEOTION,.},{no,OAROINONA,SEEN,ON,FROZEN,SEOTION,.},{DT,NNP,NNP,NNP,NNP,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_285,{},{PEAMANENT},{peamanent},{JJ},{}
-TCGA-39-5039, TCGA-39-5039SENT_286,{},{DIAGNOSIS,:,SA,!},{diagnosis,:,SA,!},{NN,:,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_287,{},{-,IE},{-,ie},{:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_288,{},{2,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,SUESOADOLA,SOFT,TISSUE,(,PS,),(,mm,),:,BENIGN,.},{2,),FROZEN,section,diagnosis,:,sp,:,RIGHT,SUESOADOLA,SOFT,tissue,(,PS,),(,mm,),:,BENIGN,.},{CD,CD,NNP,NN,NN,:,NN,:,NNP,NNP,NNP,NN,CD,NNP,CD,CD,NN,NN,:,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_289,{},{-,PER,.},{-,per,.},{:,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_290,{},{MhNEI,*,i,',1,?},{mhneus,*,i,',1,?},{NN,CD,FW,'',CD,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_291,{},{DIAGNOSIS,:,SAME},{diagnosis,:,same},{NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_292,{},{3,},FROZEN,SECTION,DIAGNOSIS,:,SE,:,LEVEL,SEVEN,MEDIASTINAI,.},{3,},FROZEN,section,diagnosis,:,se,:,level,seven,mediastinaus,.},{CD,CD,NNP,NN,NN,:,NN,:,NN,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_293,{},{mum,NODE,(,PS,),(,1-ma,),:,BENIGN,.},{mum,node,(,PS,),(,1-ma,),:,BENIGN,.},{JJ,NN,CD,NNP,CD,CD,JJ,NN,:,NNP,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_294,{},{-,-,)},{-,-,)},{:,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_295,{},{PERMANENT,DIAGNOSIS,:,SAME},{permanent,diagnosis,:,same},{JJ,NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_296,{},{4,.},{4,.},{LS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_297,{},{A,,,E,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,LEVEL,SEVEN,NEDIASTINAL,LYMPH,NODE,#,3,-,-,:,L??IiP,},?,I,NODE,WITH,EOOI,OE,NEOROSIS,,,INELANMATION,,,AND,GIANT,CELL,REAOTION,.},{a,,,e,),FROZEN,section,diagnosis,:,sp,:,level,seven,NEDIASTINAL,LYMPH,NODE,#,3,-,-,:,l??iip,},?,I,node,with,eoous,oe,neorosis,,,inelanmation,,,and,giant,cell,reaotion,.},{DT,,,NN,CD,NNP,NN,NN,:,NN,:,NN,CD,NNP,NNP,NNP,#,LS,:,:,:,NN,CD,CD,PRP,VBP,IN,NN,NN,NN,,,NN,,,CC,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_298,{},{_,),PEAEANENT,DIAGNOSIS,:,SA,:,-,IE},{_,),peaeanent,diagnosis,:,SA,:,-,ie},{NN,CD,JJ,NNS,:,NNP,:,:,JJ},{}
-TCGA-39-5039, TCGA-39-5039SENT_299,{},{5,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,LEVEL,4,1-IEDIASTINAI,.},{5,),FROZEN,section,diagnosis,:,sp,:,right,level,4,1-iediastinaus,.},{CD,CD,NNP,NN,NN,:,NN,:,NN,NN,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_300,{},{LYMPR,NUDE,f,?,-,BENIGM,I,-9,PERMANENT,DIAGNOSIS,:,SAME},{LYMPR,NUDE,f,?,-,benigm,I,-9,permanent,diagnosis,:,same},{NNP,NNP,LS,SYM,:,NN,PRP,VBP,JJ,NNS,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_301,{},{5,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,LEVEL,4,NEDIASTINAL},{5,),FROZEN,section,diagnosis,:,sp,:,right,level,4,nediastinal},{CD,CD,NNP,NN,NN,:,NN,:,NN,NN,CD,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_302,{},{LYMPI-E,Noun,:,#,2,-,-,:,BENIGN,ON,ONE,REPRESENTATIVE,SECTION,.},{lympi-e,noun,:,#,2,-,-,:,benign,on,one,representative,section,.},{NN,NN,:,#,LS,:,:,:,JJ,IN,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_303,{},{-,PERMANENT},{-,permanent},{:,JJ},{}
-TCGA-39-5039, TCGA-39-5039SENT_304,{},{DIAGNOSIS,:,SAME},{diagnosis,:,same},{NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_305,{},{Note,:,The,diagnoses,given,in,this,Section,pertain,only,to,the,tissue,sample,examined,at,the,time,of,the,intraoperative,consultation,.},{note,:,the,diagnosis,give,in,this,section,pertain,only,to,the,tissue,sample,examine,at,the,time,of,the,intraoperative,consultation,.},{VB,:,DT,NNS,VBN,IN,DT,NN,NN,RB,TO,DT,NN,NN,VBN,IN,DT,NN,IN,DT,JJ,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_306,{},{1,),FROZEN,SECTION,DIAGNOSIS,:,SP,!},{1,),FROZEN,section,diagnosis,:,sp,!},{CD,CD,NNP,NN,NN,:,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_307,{},{RIGHT,MIDDLE,LOBE,LENS,WEDGE,_,-,EEACTIVE,OHANGES,.},{RIGHT,MIDDLE,LOBE,LENS,WEDGE,_,-,eeactive,ohange,.},{NNP,NNP,NNP,NNP,NNP,SYM,:,NN,NNS,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_308,{},{NO,CARCINOMA,SEEN,ON,EEOEEN,SECTION,],PERMANENT},{no,CARCINOMA,SEEN,on,EEOEEN,section,],permanent},{DT,NNP,NNP,IN,NNP,NN,CD,JJ},{}
-TCGA-39-5039, TCGA-39-5039SENT_309,{},{DIAGNOSIS,:,SAME},{diagnosis,:,same},{NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_310,{},{2,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,SUBSCAPULA,SOFT,TISSUE,I,=,BENIGN,-,I,PERMANENT},{2,),FROZEN,section,diagnosis,:,sp,:,RIGHT,SUBSCAPULA,SOFT,tissue,i,=,benign,-,I,permanent},{CD,CD,NNP,NN,NN,:,NN,:,NNP,NNP,NNP,NN,NN,JJ,JJ,:,PRP,JJ},{}
-TCGA-39-5039, TCGA-39-5039SENT_311,{},{DIAGNOSIS,:,SAME,?,.},{diagnosis,:,same,?,.},{NN,:,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_312,{},{3,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,LEVEL,SEVEN,MEDIASTINAL,LYMPH,NODE,-,-,BENIGN,-,-,-3},{3,),FROZEN,section,diagnosis,:,sp,:,level,seven,MEDIASTINAL,LYMPH,NODE,-,-,benign,-,-,-3},{CD,CD,NNP,NN,NN,:,NN,:,NN,CD,NNP,NNP,NNP,:,:,JJ,:,:,CD},{}
-TCGA-39-5039, TCGA-39-5039SENT_313,{},{EEAELANENT,DIAGNOSIS,:,SA1-TE,.},{eeaelanent,diagnosis,:,sa1-te,.},{JJ,NN,:,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_314,{},{4A,,,B,),FROZEN,SECTION,DIAGNOSIS,:,Sp,:,LEVEL,SEVEN,MEDIASTINAL,LY1-JPH,NODE,#,3,-,?,:,LYMPH,NOOE,WITH,FOCI,or,NEGROSIS,,,INFLAHI-IATION,,,AND,GIANT,CELL,REACTION,.},{4a,,,b,),FROZEN,section,diagnosis,:,sp,:,level,seven,mediastinal,ly1-jph,node,#,3,-,?,:,LYMPH,NOOE,with,focus,or,negrosis,,,inflahi-iation,,,and,giant,cell,reaction,.},{NN,,,NN,CD,NNP,NN,NN,:,NN,:,NN,CD,NN,NN,NN,#,LS,:,NN,:,NNP,NNP,IN,NN,CC,NN,,,NN,,,CC,JJ,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_315,{},{-,EUEGICAB},{-,euegicab},{:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_316,{},{PATH,LO,Y,REPORT,Patient,:},{path,lo,y,report,patient,:},{NN,NN,NN,NN,NN,:},{}
-TCGA-39-5039, TCGA-39-5039SENT_317,{},{o,&,j,*,9,?,f,9,5,),FROZEN,SECTION,DIAGNOSIS,:,sp,:,RIGHT,LEVEL,:5,lv1EDIAS,',.},{o,&,j,*,9,?,f,9,5,),FROZEN,section,diagnosis,:,sp,:,right,level,:5,lv1edia,',.},{NN,CC,NN,CD,CD,NN,FW,CD,CD,CD,NNP,NN,NN,:,NN,:,NN,NN,CD,NN,'',.},{}
-TCGA-39-5039, TCGA-39-5039SENT_318,{},{l?INAI,.},{l?inai,.},{NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_319,{},{n,ma-mt,N093,I,-,EENIGN,-,-1,-,?},{n,ma-mt,n093,i,-,eenign,-,-1,-,?},{NN,JJ,NN,NN,:,NN,:,CD,:,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_320,{},{PERMANENT,DIAGNOSIS,:,sun,:,6,),FROZEN,szcrrxou,DIAGNOSIS,:,59,:,men-r,LEVEL,4,manxns-rxmnx,.},{permanent,diagnosis,:,sun,:,6,),frozen,szcrrxou,diagnosis,:,59,:,men-r,level,4,manxns-rxmnx,.},{JJ,NN,:,NN,:,CD,CD,JJ,NN,NN,:,CD,:,JJ,NN,CD,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_321,{},{LYMPH,NODE,#,2,~,\,[,BENIGN,on,ONE,REPRESENTATIVE,SECTION,.},{lymph,node,#,2,~,\,[,BENIGN,on,one,representative,section,.},{NN,NN,#,CD,CD,NN,CD,NNP,IN,CD,NN,NN,.},{}
-TCGA-39-5039, TCGA-39-5039SENT_322,{},{_},{_},{NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_323,{},{PERMANENT,DIAGNOSIS,:,SAME},{permanent,diagnosis,:,same},{JJ,NN,:,NN},{}
-TCGA-39-5039, TCGA-39-5039SENT_324,{},{**,End,of,Report,**},{**,end,of,Report,**},{NN,NN,IN,NNP,CD},{}
+TCGA-39-5039, TCGA-39-5039SENT_1,"clinical Diagnosis 5 : History : RUL mass ( 4 - ) NSCLC status post branch mads ( - ) lymph node .","{clinical,Diagnosis,5,:,History,:,RUL,mass,(,4,-,),NSCLC,status,post,branch,mads,(,-,),lymph,node,.}","{clinical,diagnosis,5,:,history,:,rul,mass,(,4,-,),nsclc,status,post,branch,mad,(,-,),lymph,node,.}","{JJ,NN,CD,:,NN,:,NN,NN,NN,CD,:,CD,NN,NN,NN,NN,NNS,SYM,:,NN,NN,NN,.}","{2,0,2,0,2,0,9,9,5,9,0,14,14,2,14,15,16,16,0,2,22,20,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_2,"Specimens submitted : 1 : 2 : 3 : -1 : 5 : 6 : 7 : 8 : 9 : 10 : SP : SP : SP : SP : SP : SP : SP : SP : SP :","{Specimens,submitted,:,1,:,2,:,3,:,-1,:,5,:,6,:,7,:,8,:,9,:,10,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:,SP,:}","{specimen,submit,:,1,:,2,:,3,:,-1,:,5,:,6,:,7,:,8,:,9,:,10,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:,sp,:}","{NNS,VBD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,CD,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:,NN,:}","{2,0,0,2,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,4,0,38,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_3,"Right middle lobe lung wedge Right subscapula soft tissue I Level sever : mediastinal lymph node Level seven mediastinal lymph node # 3 Right level 4 mediastinal lymph node Right level 4 lymph node # 2 Level seven mediastinal lymph node # 2 Right level four lymph node # 3 Right level four lymph node 81 ?","{Right,middle,lobe,lung,wedge,Right,subscapula,soft,tissue,I,Level,sever,:,mediastinal,lymph,node,Level,seven,mediastinal,lymph,node,#,3,Right,level,4,mediastinal,lymph,node,Right,level,4,lymph,node,#,2,Level,seven,mediastinal,lymph,node,#,2,Right,level,four,lymph,node,#,3,Right,level,four,lymph,node,81,?}","{right,middle,lobe,lung,wedge,right,subscapula,soft,tissue,I,Level,sever,:,mediastinal,lymph,node,level,seven,mediastinal,lymph,node,#,3,Right,level,4,mediastinal,lymph,node,right,level,4,lymph,node,#,2,level,seven,mediastinal,lymph,node,#,2,Right,level,four,lymph,node,#,3,Right,level,four,lymph,node,81,?}","{RB,JJ,NN,NN,NN,RB,JJ,JJ,NN,PRP,NNP,VB,:,JJ,NN,NN,NN,CD,JJ,NN,NN,#,CD,NNP,NN,CD,JJ,NN,NN,RB,JJ,CD,NN,NN,#,CD,NN,CD,JJ,NN,NN,#,CD,NNP,NN,CD,NN,NN,#,CD,NNP,NN,CD,NN,NN,CD,.}","{7,4,4,1,4,1,9,9,0,9,12,10,0,21,21,21,21,21,21,21,10,23,21,23,24,28,28,41,30,34,34,34,34,28,36,34,41,37,41,41,45,43,41,45,54,47,45,52,50,52,52,47,54,55,23,55,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_4,": Right upper lobe of lung","{:,Right,upper,lobe,of,lung}","{:,Right,upper,lobe,of,lung}","{:,NNP,JJ,NN,IN,NN}","{0,4,4,0,0,4}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_5,"AMENDED DIAGNOSIS :","{AMENDED,DIAGNOSIS,:}","{amend,diagnosis,:}","{VBN,NN,:}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_6,"LUNG , RIGHT MIDDLE LOBE , WEDGE RESECTIDN : LUNG PARERCHYMA WITH FOCAL QSSIFICATION .","{LUNG,,,RIGHT,MIDDLE,LOBE,,,WEDGE,RESECTIDN,:,LUNG,PARERCHYMA,WITH,FOCAL,QSSIFICATION,.}","{lung,,,RIGHT,MIDDLE,LOBE,,,WEDGE,RESECTIDN,:,lung,parerchyma,with,focal,qssification,.}","{NN,,,NNP,NNP,NNP,,,NNP,NNP,:,NN,NN,IN,JJ,NN,.}","{8,0,5,5,1,0,8,0,0,11,12,8,14,12,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_7,"No CARCINOMA IDENTIFIED .","{No,CARCINOMA,IDENTIFIED,.}","{no,carcinoma,identify,.}","{DT,NN,VBN,.}","{2,3,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_8,"SOFT TISSUE , RIGHT SUBCAPULA , EXCISION : .","{SOFT,TISSUE,,,RIGHT,SUBCAPULA,,,EXCISION,:,.}","{soft,tissue,,,RIGHT,SUBCAPULA,,,EXCISION,:,.}","{JJ,NN,,,NNP,NNP,,,NNP,:,.}","{2,0,0,5,2,0,5,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_9,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_10,"ELRSTOFIBROMA .","{ELRSTOFIBROMA,.}","{elrstofibroma,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_11,"NOTE ) .","{NOTE,),.}","{note,),.}","{VB,CD,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_12,"LYMH NODE , LEVEL VII MDIASTINUH , BIOPSY : ONE BENIGN LYMPH NODE ( Oil ) .","{LYMH,NODE,,,LEVEL,VII,MDIASTINUH,,,BIOPSY,:,ONE,BENIGN,LYMPH,NODE,(,Oil,),.}","{LYMH,NODE,,,LEVEL,VII,MDIASTINUH,,,BIOPSY,:,one,benign,lymph,node,(,oil,),.}","{NNP,NNP,,,NNP,NNP,NNP,,,NNP,:,CD,JJ,NN,NN,CD,NN,NN,.}","{2,0,0,6,6,2,0,2,0,13,13,13,2,16,16,13,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_13,"LYMPH NODE # 3 , LEVEL VII MEDIRSTINUM , BIOPSY : THREE BENIGN LYMPH NODES ( D/3 ) .","{LYMPH,NODE,#,3,,,LEVEL,VII,MEDIRSTINUM,,,BIOPSY,:,THREE,BENIGN,LYMPH,NODES,(,D/3,),.}","{lymph,node,#,3,,,LEVEL,VII,MEDIRSTINUM,,,BIOPSY,:,three,benign,lymph,node,(,d/3,),.}","{NN,NN,#,CD,,,NNP,NNP,NNP,,,NNP,:,CD,JJ,NN,VBZ,CD,NN,NN,.}","{2,15,4,2,0,8,8,4,0,4,0,14,14,15,0,18,18,15,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_14,"LYMH NODES , LEVEL IV MEDIASTINUM .","{LYMH,NODES,,,LEVEL,IV,MEDIASTINUM,.}","{LYMH,NODES,,,LEVEL,iv,MEDIASTINUM,.}","{NNP,NNP,,,NNP,CD,NNP,.}","{2,0,0,2,4,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_15,"BIOPSY : TWO BENIGN LYMPH NODES { 0I2 ) .","{BIOPSY,:,TWO,BENIGN,LYMPH,NODES,{,0I2,),.}","{biopsy,:,two,benign,lymph,node,{,0i2,),.}","{NN,:,CD,JJ,NN,VBZ,CD,NN,NN,.}","{0,0,5,5,6,1,9,9,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_16,"LYMH NODES # 2 , LEVEL IV , BIOPSY : EIGHT BENIGN LYMPH NODES ( O/8 ) .","{LYMH,NODES,#,2,,,LEVEL,IV,,,BIOPSY,:,EIGHT,BENIGN,LYMPH,NODES,(,O/8,),.}","{LYMH,NODES,#,2,,,level,iv,,,BIOPSY,:,eight,benign,lymph,node,(,o/8,),.}","{NNP,NNP,#,CD,,,NN,CD,,,NNP,:,CD,JJ,NN,VBZ,CD,NN,NN,.}","{2,14,4,2,0,4,6,0,4,0,13,13,14,0,17,17,14,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_17,"LYMPH NODES # 2 , LEVEL VII HEDIASTINUM , BIOPSY : ELEVEN LYMPH NODES NEGATIVE FOR CARCINOMA .","{LYMPH,NODES,#,2,,,LEVEL,VII,HEDIASTINUM,,,BIOPSY,:,ELEVEN,LYMPH,NODES,NEGATIVE,FOR,CARCINOMA,.}","{lymph,node,#,2,,,LEVEL,VII,HEDIASTINUM,,,BIOPSY,:,eleven,LYMPH,NODES,NEGATIVE,for,CARCINOMA,.}","{NN,VBZ,#,CD,,,NNP,NNP,NNP,,,NNP,:,CD,NNP,NNP,NNP,IN,NNP,.}","{2,0,4,2,0,8,8,4,0,8,0,15,15,15,8,0,15,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_18,"FOLLICULRR LYMPHOMA , GRADE I , PARTIRLY INVOLVING ONE","{FOLLICULRR,LYMPHOMA,,,GRADE,I,,,PARTIRLY,INVOLVING,ONE}","{FOLLICULRR,LYMPHOMA,,,GRADE,I,,,PARTIRLY,INVOLVING,one}","{NNP,NNP,,,NNP,NNP,,,NNP,NNP,CD}","{2,0,0,8,8,0,8,2,8}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_19,"LYMPH NODE ( SEE","{LYMPH,NODE,(,SEE}","{lymph,node,(,see}","{NN,NN,CD,VBP}","{2,4,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_20,"GGA ? 39 ? 5B39","{GGA,?,39,?,5B39}","{GGA,?,39,?,5b39}","{NNP,CD,CD,NN,NN}","{0,3,1,5,3}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_21,"? - .","{?,-,.}","{?,-,.}","{SYM,:,.}","{0,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_22,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_23,"-- .","{--,.}","{--,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_24,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_25,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_26,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_27,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_28,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_29,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_30,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_31,"--- -------- -- Page 2 o? 9","{---,--------,--,Page,2,o?,9}","{---,--------,--,Page,2,o?,9}","{CD,CD,:,NNP,CD,NN,CD}","{2,0,0,2,4,4,6}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_32,"NOTE : THE TUMOR CELLS ARE POSITIVE FOR CD20 , BCL-2 , BCL ? 6 AND CD10 ; WHEREAS NEGATIVE FOR CD23 AND CYCLINfD1 .","{NOTE,:,THE,TUMOR,CELLS,ARE,POSITIVE,FOR,CD20,,,BCL-2,,,BCL,?,6,AND,CD10,;,WHEREAS,NEGATIVE,FOR,CD23,AND,CYCLINfD1,.}","{note,:,the,tumor,cell,be,positive,for,cd20,,,bcl-2,,,BCL,?,6,and,cd10,;,whereas,negative,for,cd23,and,cyclinfd1,.}","{VB,:,DT,NN,NNS,VBP,JJ,IN,NN,,,NN,,,NNP,CD,CD,CC,NN,:,IN,JJ,IN,NN,CC,NN,.}","{0,0,5,5,7,7,1,0,7,0,9,0,9,15,13,0,13,0,20,17,0,17,0,22,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_33,"CD3 AND CD5 MARKS MATURE T ~ LYMPHOCYTES .","{CD3,AND,CD5,MARKS,MATURE,T,~,LYMPHOCYTES,.}","{cd3,and,cd5,mark,mature,t,~,lymphocyte,.}","{NN,CC,NN,NNS,JJ,NN,NN,NNS,.}","{4,0,4,0,8,8,8,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_34,"A STAIN FOR MIB-1 MARKS APPROXIMATELY 5 % OF NEOPLASTIC CELLS .","{A,STAIN,FOR,MIB-1,MARKS,APPROXIMATELY,5,%,OF,NEOPLASTIC,CELLS,.}","{a,stain,for,mib-1,mark,approximately,5,%,of,neoplastic,cell,.}","{DT,NN,IN,NN,NNS,RB,CD,NN,IN,NN,NNS,.}","{2,0,0,5,2,5,8,5,0,11,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_35,"THEREFORE THIS 1:3 A I-OW-GRADE Lnzpriom .","{THEREFORE,THIS,1:3,A,I-OW-GRADE,Lnzpriom,.}","{therefore,this,1:3,a,i-ow-grade,lnzpriom,.}","{RB,VBZ,CD,DT,NN,NN,.}","{2,0,2,6,6,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_36,"? HAS REVIEWED THE SI.-IDES mm AGREES WITH ' 1 ? 8E DIAGNOSIS .","{?,HAS,REVIEWED,THE,SI.-IDES,mm,AGREES,WITH,',1,?,8E,DIAGNOSIS,.}","{?,have,review,the,si.-ides,mm,agree,with,',1,?,8e,diagnosis,.}","{NN,VBZ,VBN,DT,NN,NN,VBZ,IN,'',CD,CD,NN,NN,.}","{3,3,7,6,6,3,0,0,0,7,13,13,7,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_37,"8 } LYMH NOD33 # 3 , RIGHT LEVEL IV , BIOPSY :","{8,},LYMH,NOD33,#,3,,,RIGHT,LEVEL,IV,,,BIOPSY,:}","{8,},lymh,nod33,#,3,,,right,level,iv,,,BIOPSY,:}","{CD,CD,NN,NN,#,CD,,,NN,NN,CD,,,NNP,:}","{0,3,1,3,6,1,0,9,6,9,0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_38,"? SIXTEEN LYMPH NODES ; NEGATIVE FOR CARCINOMA .","{?,SIXTEEN,LYMPH,NODES,;,NEGATIVE,FOR,CARCINOMA,.}","{?,sixteen,LYMPH,NODES,;,NEGATIVE,for,CARCINOMA,.}","{NN,CD,NNP,NNP,:,NNP,IN,NNP,.}","{4,4,4,0,0,4,0,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_39,"9 ) LYMPH NODE , RIGHT LEVEL IV , BIOPSY :","{9,),LYMPH,NODE,,,RIGHT,LEVEL,IV,,,BIOPSY,:}","{9,),LYMPH,NODE,,,RIGHT,LEVEL,IV,,,BIOPSY,:}","{CD,CD,NNP,NNP,,,NNP,NNP,NNP,,,NNP,:}","{4,4,4,0,0,8,8,4,0,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_40,"? ONE LYMPH NODE NEGATIVE FOR CARCINOMA .","{?,ONE,LYMPH,NODE,NEGATIVE,FOR,CARCINOMA,.}","{?,one,LYMPH,NODE,NEGATIVE,for,CARCINOMA,.}","{NN,CD,NNP,NNP,NNP,IN,NNP,.}","{0,1,5,5,1,0,5,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_41,"I 10 ) Lane , RIGHT uppza LOB_E , LOBECTOMY : /","{I,10,),Lane,,,RIGHT,uppza,LOB_E,,,LOBECTOMY,:,/}","{I,10,),Lane,,,RIGHT,uppza,lob_e,,,LOBECTOMY,:,/}","{PRP,CD,CD,NNP,,,NNP,NN,NN,,,NNP,:,:}","{0,3,4,1,0,1,8,6,0,8,0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_42,"- SQURMOU3 CELL CARCINOME , POORLY DIFFERENTIETED , OF RIGHT UPPER LOBE .","{-,SQURMOU3,CELL,CARCINOME,,,POORLY,DIFFERENTIETED,,,OF,RIGHT,UPPER,LOBE,.}","{-,squrmou3,cell,carcinome,,,poorly,differentieted,,,of,RIGHT,UPPER,LOBE,.}","{:,NN,NN,NN,,,JJ,NN,,,IN,NNP,NNP,NNP,.}","{0,0,4,2,0,7,4,0,0,12,12,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_43,"TUMOR CROSSES THE FISSURE INTO THE MIDDLE LOBE . "","{TUMOR,CROSSES,THE,FISSURE,INTO,THE,MIDDLE,LOBE,.,"}","{tumor,cross,the,fissure,into,the,middle,lobe,.,"}","{NN,VBZ,DT,NN,IN,DT,JJ,NN,.,''}","{2,0,4,2,0,8,8,2,0,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_44,"THE TUMOR MEASURES 5.5 X 4.3 X 4.0 CM .","{THE,TUMOR,MEASURES,5.5,X,4.3,X,4.0,CM,.}","{the,tumor,measure,5.5,x,4.3,x,4.0,cm,.}","{DT,NN,NNS,CD,NN,CD,NN,CD,NN,.}","{2,0,2,5,3,7,2,9,7,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_45,"? No PERINEURBD INVA$ ION IS IDENTIFIED .","{?,No,PERINEURBD,INVA$,ION,IS,IDENTIFIED,.}","{?,no,perineurbd,inva$,ion,be,IDENTIFIED,.}","{RB,DT,NN,NN,NN,VBZ,NNP,.}","{7,5,5,5,7,7,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_46,"- THE BRONCHIAL HARGIN IS FREE OF TUMOR .","{-,THE,BRONCHIAL,HARGIN,IS,FREE,OF,TUMOR,.}","{-,the,bronchial,hargin,be,FREE,of,tumor,.}","{:,DT,JJ,NN,VBZ,NNP,IN,NN,.}","{0,4,4,6,6,0,0,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_47,"~ THE PARENCHYHAL MARGINS AND CHEST WALL MARGINS ARE FREE OF TUMOR .","{~,THE,PARENCHYHAL,MARGINS,AND,CHEST,WALL,MARGINS,ARE,FREE,OF,TUMOR,.}","{~,the,parenchyhal,margin,and,chest,WALL,MARGINS,be,free,of,tumor,.}","{NN,DT,NN,NNS,CC,NN,NNP,NNPS,VBP,NNS,IN,NN,.}","{10,3,1,1,0,1,8,6,10,0,0,10,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_48,"? THE TUMOR INVADES THROUGH THE PLEURA .","{?,THE,TUMOR,INVADES,THROUGH,THE,PLEURA,.}","{?,the,tumor,invade,through,the,pleuron,.}","{NN,DT,NN,VBZ,IN,DT,NN,.}","{4,3,1,0,0,7,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_49,"- THE NON-NEDPLASTIC LUNG SHOWS THE FOLLOWING ABNORMALITY : PARENCHYMAL","{-,THE,NON-NEDPLASTIC,LUNG,SHOWS,THE,FOLLOWING,ABNORMALITY,:,PARENCHYMAL}","{-,the,non-nedplastic,lung,show,the,follow,abnormality,:,parenchymal}","{:,DT,NN,NN,VBZ,DT,VBG,NN,:,NN}","{0,4,4,5,0,8,8,5,0,8}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_50,"SCARRING AND EMPHYSEMATOUS CHANGES .","{SCARRING,AND,EMPHYSEMATOUS,CHANGES,.}","{scar,and,emphysematous,change,.}","{VBG,CC,NNS,NNS,.}","{0,4,4,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_51,"- THE LYMPH NODE STATUS IS AS FOLLOWS ( EXPRESSED AS THE NUMBER OF","{-,THE,LYMPH,NODE,STATUS,IS,AS,FOLLOWS,(,EXPRESSED,AS,THE,NUMBER,OF}","{-,the,lymph,node,status,be,as,follow,(,express,as,the,number,of}","{:,DT,NN,NN,NN,VBZ,JJ,NN,CD,VBD,JJ,DT,NN,IN}","{0,5,5,5,7,7,0,10,8,7,13,13,10,10}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_52,"HETASTATIC NODES IN RELATION TO THE TOTAB NUMBER OF NODES EXAMINED ) : PERIBRONCHIALX O/3 .","{HETASTATIC,NODES,IN,RELATION,TO,THE,TOTAB,NUMBER,OF,NODES,EXAMINED,),:,PERIBRONCHIALX,O/3,.}","{HETASTATIC,NODES,in,RELATION,to,the,totab,number,of,NODES,examine,),:,peribronchialx,o/3,.}","{NNP,NNP,IN,NNP,TO,DT,NN,NN,IN,NNP,VBD,CD,:,NN,NN,.}","{2,11,0,2,8,8,8,4,0,8,0,11,0,15,12,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_53,"NOTE : IMUNOSTAINS SHOW THAT THE TUMOR CELLS ARE DIFFUSELY POSITIVE FOR 343912 AND AAA ( P63 ) , WHEREAS NEGATIVE FOR TTF ? 1o THIS PATERN O ?","{NOTE,:,IMUNOSTAINS,SHOW,THAT,THE,TUMOR,CELLS,ARE,DIFFUSELY,POSITIVE,FOR,343912,AND,AAA,(,P63,),,,WHEREAS,NEGATIVE,FOR,TTF,?,1o,THIS,PATERN,O,?}","{note,:,IMUNOSTAINS,SHOW,that,the,tumor,cell,be,diffusely,positive,for,343912,and,aaa,(,p63,),,,whereas,negative,for,ttf,?,1o,this,patern,o,?}","{VB,:,NNP,NNP,WDT,DT,NN,NNS,VBP,NN,JJ,IN,CD,CC,NN,CD,NN,NN,,,IN,JJ,IN,NN,CD,NN,NN,NN,NN,.}","{4,0,4,0,10,8,8,10,10,4,10,0,10,0,18,18,18,10,0,21,18,0,26,26,26,18,28,18,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_54,"IMUNORERCTIVITY SUPPORTS THE DIAGNOSIS .","{IMUNORERCTIVITY,SUPPORTS,THE,DIAGNOSIS,.}","{IMUNORERCTIVITY,support,the,diagnosis,.}","{NNP,VBZ,DT,NN,.}","{2,0,4,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_55,"None : This document represents an amended version of the surgical pathology report originally issued 01 - .","{None,:,This,document,represents,an,amended,version,of,the,surgical,pathology,report,originally,issued,01,-,.}","{none,:,this,document,represent,a,amend,version,of,the,surgical,pathology,report,originally,issue,01,-,.}","{NN,:,DT,NN,VBZ,DT,VBN,NN,IN,DT,JJ,NN,NN,RB,VBD,CD,:,.}","{5,0,4,1,0,8,8,15,0,13,13,13,8,15,5,15,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_56,"That report is superseded by the present document .","{That,report,is,superseded,by,the,present,document,.}","{that,report,be,supersede,by,the,present,document,.}","{DT,NN,VBZ,VBN,IN,DT,JJ,NN,.}","{2,4,4,0,0,8,8,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_57,"I ATTEST THAT THE ABOVE DIAGNOSIS IS BASED UPON MY PERSONAL EXA?INATION OF THE SLIDES ( ANDIOR OTHER MATERIAL ) , AND THAT I HAVE REVIEWED AND APPROVED THIS REPORT .","{I,ATTEST,THAT,THE,ABOVE,DIAGNOSIS,IS,BASED,UPON,MY,PERSONAL,EXA?INATION,OF,THE,SLIDES,(,ANDIOR,OTHER,MATERIAL,),,,AND,THAT,I,HAVE,REVIEWED,AND,APPROVED,THIS,REPORT,.}","{I,attest,that,the,above,diagnosis,be,based,upon,MY,PERSONAL,EXA?INATION,of,the,slide,(,ANDIOR,OTHER,material,),,,and,that,I,have,review,and,approve,this,report,.}","{PRP,VBP,WDT,DT,IN,NN,VBZ,NN,IN,NNP,NNP,NNPS,IN,DT,NNS,VBP,NNP,NNP,NN,NN,,,CC,WDT,PRP,VBP,VBN,CC,VBN,NNS,NN,.}","{2,0,16,6,6,16,8,6,0,12,12,8,0,15,12,2,20,20,20,22,0,16,26,26,26,16,28,26,30,28,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_58,"** Continued on next : page **","{**,Continued,on,next,:,page,**}","{**,continue,on,next,:,page,**}","{RB,VBN,IN,JJ,:,NN,NN}","{2,0,0,2,0,7,4}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_59,"? H ~ ~ ~ ~ ~ ------------ - ------- .","{?,H,~,~,~,~,~,------------,-,-------,.}","{?,h,~,~,~,~,~,------------,-,-------,.}","{NN,NN,NN,CD,NN,NN,CD,CD,:,CD,.}","{6,6,6,6,6,0,8,6,0,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_60,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_61,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_62,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_63,"~ - ------------------------ - Page 3 of 9","{~,-,------------------------,-,Page,3,of,9}","{~,-,------------------------,-,Page,3,of,9}","{SYM,:,CD,:,NNP,CD,IN,CD}","{3,0,0,0,3,5,0,6}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_64,"1 ) .","{1,),.}","{1,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_65,"The specimen is received fresh for frozen section consultation labeled " right middle lung lobe wedge " and consists of a 1.2 x 0.7 x 0.7 cm portion of lung with e cauterized margin .","{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,",right,middle,lung,lobe,wedge,",and,consists,of,a,1.2,x,0.7,x,0.7,cm,portion,of,lung,with,e,cauterized,margin,.}","{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,",right,middle,lung,lobe,wedge,",and,consist,of,a,1.2,x,0.7,x,0.7,cm,portion,of,lung,with,e,cauterize,margin,.}","{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,``,NN,JJ,NN,NN,NN,'',CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,IN,SYM,VBN,NN,.}","{2,4,4,0,4,0,9,9,5,9,16,16,16,16,16,10,10,0,10,0,22,5,0,33,0,28,28,24,0,28,30,31,22,33,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_66,"The cauterized margin is inked black and the specimen is entirely for ? frozen section consultation .","{The,cauterized,margin,is,inked,black,and,the,specimen,is,entirely,for,?,frozen,section,consultation,.}","{the,cauterize,margin,be,ink,black,and,the,specimen,be,entirely,for,?,frozen,section,consultation,.}","{DT,VBN,NN,VBZ,VBN,JJ,CC,DT,NN,VBZ,RB,IN,CD,JJ,NN,NN,.}","{5,1,2,5,0,5,0,9,16,16,16,0,11,16,16,5,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_67,"2 ) .","{2,),.}","{2,),.}","{CD,CD,.}","{2,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_68,"The specimen is received fresh for frozen section consultation labeled " right subscapular soft tissue " and consists of a 4.0 x 3.2 x 2.0 cm fibroadipose soft tissue fragment , the outer surface is inked black and the specimen is sectioned to reveal a fibrotic cut surface .","{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,",right,subscapular,soft,tissue,",and,consists,of,a,4.0,x,3.2,x,2.0,cm,fibroadipose,soft,tissue,fragment,,,the,outer,surface,is,inked,black,and,the,specimen,is,sectioned,to,reveal,a,fibrotic,cut,surface,.}","{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,",right,subscapular,soft,tissue,",and,consist,of,a,4.0,x,3.2,x,2.0,cm,fibroadipose,soft,tissue,fragment,,,the,outer,surface,be,ink,black,and,the,specimen,be,section,to,reveal,a,fibrotic,cut,surface,.}","{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,``,NN,JJ,JJ,NN,'',CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,JJ,NN,NN,,,DT,JJ,NN,VBZ,VBN,JJ,CC,DT,NN,VBZ,VBN,TO,VB,DT,JJ,NN,NN,.}","{2,4,4,0,23,0,9,9,5,9,12,10,15,15,12,10,0,10,0,21,5,0,4,0,30,30,30,30,30,4,0,34,34,36,36,4,36,0,40,42,42,4,44,42,48,48,48,44,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_69,"A representative section is submitted for frozen section consultation .","{A,representative,section,is,submitted,for,frozen,section,consultation,.}","{a,representative,section,be,submit,for,frozen,section,consultation,.}","{DT,JJ,NN,VBZ,VBN,IN,JJ,NN,NN,.}","{3,3,5,5,0,0,9,9,5,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_70,"Representative sections of the remaining tissue are submitted .","{Representative,sections,of,the,remaining,tissue,are,submitted,.}","{Representative,section,of,the,remain,tissue,be,submit,.}","{NNP,NNS,IN,DT,VBG,NN,VBP,VBN,.}","{2,8,0,6,6,2,8,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_71,"Summary of sections : FSC-frozen section control summary of sections : FSC ? frozen section control U undesignated","{Summary,of,sections,:,FSC-frozen,section,control,summary,of,sections,:,FSC,?,frozen,section,control,U,undesignated}","{summary,of,section,:,fsc-frozen,section,control,summary,of,section,:,fsc,?,frozen,section,control,U,undesignate}","{NN,IN,NNS,:,JJ,NN,NN,NN,IN,NNS,:,NN,CD,JJ,NN,NN,NNP,VBD}","{16,0,1,0,8,8,8,3,0,8,0,16,12,16,16,18,16,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_72,"3 ) .","{3,),.}","{3,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_73,"The specimen is received fresh for frozen section consultation labeled ? level 7 mediastinal lymph node " and consists of a 0.8 x 0.7 x 0.4 cm in red-tan soft tissue fragment , which is entirely submitted for frozen section consultation .","{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,?,level,7,mediastinal,lymph,node,",and,consists,of,a,0.8,x,0.7,x,0.4,cm,in,red-tan,soft,tissue,fragment,,,which,is,entirely,submitted,for,frozen,section,consultation,.}","{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,?,level,7,mediastinal,lymph,node,",and,consist,of,a,0.8,x,0.7,x,0.4,cm,in,red-tan,soft,tissue,fragment,,,which,be,entirely,submit,for,frozen,section,consultation,.}","{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,JJ,NN,CD,JJ,NN,NN,'',CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,IN,NN,JJ,NN,NN,,,WDT,VBZ,RB,VBN,IN,JJ,NN,NN,.}","{2,19,4,0,4,0,9,9,4,9,16,16,16,16,16,10,4,0,4,0,22,19,0,19,0,27,24,0,27,32,32,19,0,37,37,37,32,0,41,41,37,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_74,"Summary sections : FSC ? frozen section control i 4 ) .","{Summary,sections,:,FSC,?,frozen,section,control,i,4,),.}","{summary,section,:,fsc,?,frozen,section,control,i,4,),.}","{NN,NNS,:,NN,CD,JJ,NN,NN,FW,CD,NN,.}","{2,0,0,6,4,8,8,2,8,11,8,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_75,"The specimen is received fresh for frozen section consultation labeled ? level 7 mediastinal lymph node # 3 " and consists of three tan soft tissue fragments measuring 2.8 x 1.6 x 0.7 cm in aggregate , which are entirely submittea for frozen section consultation .","{The,specimen,is,received,fresh,for,frozen,section,consultation,labeled,?,level,7,mediastinal,lymph,node,#,3,",and,consists,of,three,tan,soft,tissue,fragments,measuring,2.8,x,1.6,x,0.7,cm,in,aggregate,,,which,are,entirely,submittea,for,frozen,section,consultation,.}","{the,specimen,be,receive,fresh,for,frozen,section,consultation,label,?,level,7,mediastinal,lymph,node,#,3,",and,consist,of,three,tan,soft,tissue,fragment,measure,2.8,x,1.6,x,0.7,cm,in,aggregate,,,which,be,entirely,submittea,for,frozen,section,consultation,.}","{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,VBN,JJ,NN,CD,JJ,NN,NN,#,CD,``,CC,VBZ,IN,CD,NN,JJ,NN,NNS,VBG,CD,CC,CD,CC,CD,NN,IN,NN,,,WDT,VBP,RB,VBN,IN,JJ,NN,NN,.}","{2,4,4,0,4,0,9,9,4,9,12,10,16,16,16,21,18,16,21,21,12,0,24,21,27,27,21,27,28,0,29,0,34,28,0,34,0,41,41,41,9,0,45,45,41,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_76,"Summary sections : FSCA ? ? rozen section control FSCB ? ? rozen section control","{Summary,sections,:,FSCA,?,?,rozen,section,control,FSCB,?,?,rozen,section,control}","{summary,section,:,fsca,?,?,rozen,section,control,fscb,?,?,rozen,section,control}","{NN,NNS,:,NN,CD,CD,NN,NN,NN,NN,CD,CD,NN,NN,NN}","{2,0,0,2,6,10,10,10,10,4,12,4,15,15,12}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_77,"5 ) .","{5,),.}","{5,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_78,"The specimen is received fresh for frozen section is labeled " right level 4 mediastinal lymph node " and consists of two anthrscotic lymph node fragments measuring 1.4 cm and 1.7 cm in greatest dimension .","{The,specimen,is,received,fresh,for,frozen,section,is,labeled,",right,level,4,mediastinal,lymph,node,",and,consists,of,two,anthrscotic,lymph,node,fragments,measuring,1.4,cm,and,1.7,cm,in,greatest,dimension,.}","{the,specimen,be,receive,fresh,for,frozen,section,be,label,",right,level,4,mediastinal,lymph,node,",and,consist,of,two,anthrscotic,lymph,node,fragment,measure,1.4,cm,and,1.7,cm,in,greatest,dimension,.}","{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,VBZ,VBN,``,JJ,NN,CD,JJ,NN,NN,'',CC,VBZ,IN,CD,JJ,NN,NN,NNS,VBG,CD,NN,CC,CD,NN,IN,JJS,NN,.}","{2,4,4,0,4,10,8,10,10,4,17,17,17,17,17,17,10,17,0,10,0,26,26,26,26,20,26,29,27,0,32,29,0,35,32,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_79,"The largest is bisected .","{The,largest,is,bisected,.}","{the,largest,be,bisect,.}","{DT,JJS,VBZ,VBN,.}","{2,4,4,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_80,"The specimen is entirely submitted for frozen section consultation .","{The,specimen,is,entirely,submitted,for,frozen,section,consultation,.}","{the,specimen,be,entirely,submit,for,frozen,section,consultation,.}","{DT,NN,VBZ,RB,VBN,IN,JJ,NN,NN,.}","{2,5,5,5,0,0,9,9,5,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_81,"** continued on next page **","{**,continued,on,next,page,**}","{**,continue,on,next,page,**}","{RB,VBN,IN,JJ,NN,NN}","{2,0,0,6,6,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_82,"Summary of sections : FSc ? frozen section control '","{Summary,of,sections,:,FSc,?,frozen,section,control,'}","{summary,of,section,:,fsc,?,frozen,section,control,'}","{NN,IN,NNS,:,SYM,CD,JJ,NN,NN,''}","{0,0,1,0,8,8,8,1,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_83,"--------- .","{---------,.}","{---------,.}","{CD,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_84,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_85,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_86,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_87,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_88,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_89,"--- .","{---,.}","{---,.}","{CD,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_90,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_91,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_92,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_93,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_94,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_95,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_96,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_97,"---- .","{----,.}","{----,.}","{CD,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_98,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_99,"------ .","{------,.}","{------,.}","{CD,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_100,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_101,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_102,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_103,"-- .","{--,.}","{--,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_104,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_105,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_106,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_107,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_108,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_109,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_110,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_111,"----- .","{-----,.}","{-----,.}","{CD,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_112,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_113,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_114,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_115,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_116,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_117,"-- ~ ---- .","{--,~,----,.}","{--,~,----,.}","{:,NN,CD,.}","{0,0,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_118,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_119,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_120,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_121,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_122,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_123,"- Page 4 of 9","{-,Page,4,of,9}","{-,Page,4,of,9}","{:,NNP,CD,IN,CD}","{0,0,2,0,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_124,"6 ) .","{6,),.}","{6,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_125,"The specimen is received _ fresh for frozen section consultation , labeled " Right level 4 lymph node number two ? and consists of a 5 x 3.5 x 1.5 cm piece of fibroadipose tissue .","{The,specimen,is,received,_,fresh,for,frozen,section,consultation,,,labeled,",Right,level,4,lymph,node,number,two,?,and,consists,of,a,5,x,3.5,x,1.5,cm,piece,of,fibroadipose,tissue,.}","{the,specimen,be,receive,_,fresh,for,frozen,section,consultation,,,label,",Right,level,4,lymph,node,number,two,?,and,consist,of,a,5,x,3.5,x,1.5,cm,piece,of,fibroadipose,tissue,.}","{DT,NN,VBZ,VBN,RB,JJ,IN,JJ,NN,NN,,,VBN,``,NNP,NN,CD,NN,NN,NN,CD,NN,CC,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,NN,.}","{2,23,4,0,6,4,0,10,10,4,0,4,17,17,17,17,12,19,17,21,19,0,4,0,26,23,0,23,0,32,32,28,0,35,32,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_126,"which is sectioned to reveal one partly fatty and anthracotic lymph node measuring 5 x 2.3 x 1.4 cm .","{which,is,sectioned,to,reveal,one,partly,fatty,and,anthracotic,lymph,node,measuring,5,x,2.3,x,1.4,cm,.}","{which,be,section,to,reveal,one,partly,fatty,and,anthracotic,lymph,node,measure,5,x,2.3,x,1.4,cm,.}","{WDT,VBZ,VBN,TO,VB,CD,RB,NN,CC,JJ,NN,NN,VBG,CD,CC,CD,CC,CD,NN,.}","{3,3,0,5,3,7,5,12,0,8,12,5,12,13,0,13,0,19,16,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_127,"The lymph node is representatively sampled for frozen section consultation .","{The,lymph,node,is,representatively,sampled,for,frozen,section,consultation,.}","{the,lymph,node,be,representatively,sample,for,frozen,section,consultation,.}","{DT,NN,NN,VBZ,RB,VBN,IN,JJ,NN,NN,.}","{3,3,6,6,6,0,0,10,10,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_128,"Further sectioning through the remaining tissue in the container reveals several additional whole pink ? tan lymph nodes ranging in size from 0.2 to 0.5 cm in greatest dimension , which srefentirely submitted separately .","{Further,sectioning,through,the,remaining,tissue,in,the,container,reveals,several,additional,whole,pink,?,tan,lymph,nodes,ranging,in,size,from,0.2,to,0.5,cm,in,greatest,dimension,,,which,srefentirely,submitted,separately,.}","{further,sectioning,through,the,remain,tissue,in,the,container,reveal,several,additional,whole,pink,?,tan,lymph,node,range,in,size,from,0.2,to,0.5,cm,in,greatest,dimension,,,which,srefentirely,submit,separately,.}","{JJ,NN,IN,DT,VBG,NN,IN,DT,NN,VBZ,JJ,JJ,JJ,JJ,NN,NN,NN,NNS,VBG,IN,NN,IN,CD,TO,CD,NN,IN,JJS,NN,,,WDT,RB,VBD,RB,.}","{2,10,0,6,6,2,0,9,6,0,18,18,18,18,18,18,18,10,18,0,19,0,25,25,26,19,0,29,26,0,33,33,26,33,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_129,"The remaining lymphoid tissue is entirely submitted for permanent section .","{The,remaining,lymphoid,tissue,is,entirely,submitted,for,permanent,section,.}","{the,remain,lymphoid,tissue,be,entirely,submit,for,permanent,section,.}","{DT,VBG,JJ,NN,VBZ,RB,VBN,IN,JJ,NN,.}","{4,4,4,7,7,7,0,0,10,7,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_130,"Summary of sections : FSC ? frozen section control _ REL ? remainder of frozen lymph node RLN ? remeining whole lymph nodes","{Summary,of,sections,:,FSC,?,frozen,section,control,_,REL,?,remainder,of,frozen,lymph,node,RLN,?,remeining,whole,lymph,nodes}","{summary,of,section,:,fsc,?,frozen,section,control,_,rel,?,remainder,of,frozen,lymph,node,rln,?,remein,whole,lymph,node}","{NN,IN,NNS,:,NN,CD,JJ,NN,NN,CD,NN,CD,NN,IN,JJ,NN,NN,NN,NN,VBG,JJ,NN,NNS}","{13,0,1,0,3,9,9,9,5,11,13,13,19,0,16,13,19,19,0,19,23,23,20}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_131,"7 ) .","{7,),.}","{7,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_132,"The specimen is received in formalin , labeled as ? level 7 mediastinal lymph node # 2 ? .","{The,specimen,is,received,in,formalin,,,labeled,as,?,level,7,mediastinal,lymph,node,#,2,?,.}","{the,specimen,be,receive,in,formalin,,,label,as,?,level,7,mediastinal,lymph,node,#,2,?,.}","{DT,NN,VBZ,VBN,IN,NN,,,VBN,IN,NN,NN,CD,JJ,NN,NN,#,CD,CD,.}","{2,4,4,0,0,4,0,6,0,11,8,15,15,15,11,18,18,15,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_133,"and it consists of multiple possible lymph nodes measuring up to 3.5 cm .","{and,it,consists,of,multiple,possible,lymph,nodes,measuring,up,to,3.5,cm,.}","{and,it,consist,of,multiple,possible,lymph,node,measure,up,to,3.5,cm,.}","{CC,PRP,VBZ,IN,JJ,JJ,NN,NNS,VBG,RP,TO,CD,NN,.}","{3,3,0,0,8,8,8,3,8,9,0,13,9,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_134,"The largest lymph node is sectioned .","{The,largest,lymph,node,is,sectioned,.}","{the,largest,lymph,node,be,section,.}","{DT,JJS,NN,NN,VBZ,VBN,.}","{4,4,4,6,6,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_135,"The entire lymph nodes are submitted .","{The,entire,lymph,nodes,are,submitted,.}","{the,entire,lymph,node,be,submit,.}","{DT,JJ,NN,NNS,VBP,VBN,.}","{4,4,4,6,6,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_136,"Summary of sections : LLN the largest lymph node LN ~ - other lymph nodes","{Summary,of,sections,:,LLN,the,largest,lymph,node,LN,~,-,other,lymph,nodes}","{summary,of,section,:,lln,the,largest,lymph,node,ln,~,-,other,lymph,node}","{NN,IN,NNS,:,NN,DT,JJS,NN,NN,NN,SYM,:,JJ,NN,NNS}","{0,0,1,0,3,10,10,10,10,5,1,0,15,15,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_137,"8 ) .","{8,),.}","{8,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_138,"The specimen is received in formalin , labeled as ? right level 4 lymph node ? , and it consists of multiple possible lymph nodes measuring up to 2.0 cm .","{The,specimen,is,received,in,formalin,,,labeled,as,?,right,level,4,lymph,node,?,,,and,it,consists,of,multiple,possible,lymph,nodes,measuring,up,to,2.0,cm,.}","{the,specimen,be,receive,in,formalin,,,label,as,?,right,level,4,lymph,node,?,,,and,it,consist,of,multiple,possible,lymph,node,measure,up,to,2.0,cm,.}","{DT,NN,VBZ,VBN,IN,NN,,,VBN,IN,NN,JJ,NN,CD,NN,NN,NN,,,CC,PRP,VBZ,IN,JJ,JJ,NN,NNS,VBG,RP,TO,CD,NN,.}","{2,4,4,0,0,4,0,6,0,12,12,8,16,16,16,12,0,0,20,4,0,25,25,25,20,25,29,29,30,26,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_139,"Entirely lymph nodes are submitted .","{Entirely,lymph,nodes,are,submitted,.}","{entirely,lymph,node,be,submit,.}","{RB,NN,NNS,VBP,VBN,.}","{5,3,5,5,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_140,"9 ) .","{9,),.}","{9,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_141,"The specimen is received in Eormalin .","{The,specimen,is,received,in,Eormalin,.}","{the,specimen,be,receive,in,Eormalin,.}","{DT,NN,VBZ,VBN,IN,NNP,.}","{2,4,4,0,0,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_142,"labeled as ? right level 12 lymph node ? , and it consists of a possible lymph node measuring 2.2 cm .","{labeled,as,?,right,level,12,lymph,node,?,,,and,it,consists,of,a,possible,lymph,node,measuring,2.2,cm,.}","{label,as,?,right,level,12,lymph,node,?,,,and,it,consist,of,a,possible,lymph,node,measure,2.2,cm,.}","{VBN,IN,NN,JJ,NN,CD,NN,NN,NN,,,CC,PRP,VBZ,IN,DT,JJ,NN,NN,VBG,CD,NN,.}","{0,0,5,5,1,9,9,9,5,0,0,13,1,0,18,18,18,13,18,21,19,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_143,"The specimen is bisected and entirely submitted .","{The,specimen,is,bisected,and,entirely,submitted,.}","{the,specimen,be,bisect,and,entirely,submit,.}","{DT,NN,VBZ,VBN,CC,RB,VBN,.}","{2,7,4,0,0,7,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_144,"Sumary of sections : LN lymph nodes","{Sumary,of,sections,:,LN,lymph,nodes}","{Sumary,of,section,:,ln,lymph,node}","{NNP,IN,NNS,:,NN,NN,NNS}","{0,0,1,0,1,7,5}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_145,"Summary of sections : BLN v ? bisected lymph node","{Summary,of,sections,:,BLN,v,?,bisected,lymph,node}","{summary,of,section,:,BLN,v,?,bisect,lymph,node}","{NN,IN,NNS,:,NNP,LS,CD,VBN,NN,NN}","{0,0,1,0,1,5,6,1,10,8}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_146,"10 ) .","{10,),.}","{10,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_147,"The specimen is received in a fresh state .","{The,specimen,is,received,in,a,fresh,state,.}","{the,specimen,be,receive,in,a,fresh,state,.}","{DT,NN,VBZ,VBN,IN,DT,JJ,NN,.}","{2,4,4,0,0,8,8,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_148,"labeled as " right upper lobe of lung " , and consists of a right lung upper lohectomy specimen measuring 11.5 x 13 x 5.4 cm weighing 212 g. The portion of middle lobe ( 4 .","{labeled,as,",right,upper,lobe,of,lung,",,,and,consists,of,a,right,lung,upper,lohectomy,specimen,measuring,11.5,x,13,x,5.4,cm,weighing,212,g.,The,portion,of,middle,lobe,(,4,.}","{label,as,",right,upper,lobe,of,lung,",,,and,consist,of,a,right,lung,upper,lohectomy,specimen,measure,11.5,x,13,x,5.4,cm,weigh,212,g.,the,portion,of,middle,lobe,(,4,.}","{VBN,IN,``,JJ,JJ,NN,IN,NN,'',,,CC,VBZ,IN,DT,JJ,NN,JJ,NN,NN,VBG,CD,CC,CD,CC,CD,NN,VBG,CD,NN,DT,NN,IN,JJ,NN,NN,CD,.}","{0,0,6,6,6,1,0,6,8,0,0,1,0,16,16,12,19,19,12,19,20,0,19,0,26,20,26,29,31,31,27,0,35,35,31,35,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_149,"?","{?}","{?}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_150,"3 2.2 x 0.2 cm , marked by a short stitch ) and the portion of the lower lobe ( 3.5 x 1.5 x 0.3 cm , marked by a long stitch ) are adhered to the inferoposterior aspect of the specimen .","{3,2.2,x,0.2,cm,,,marked,by,a,short,stitch,),and,the,portion,of,the,lower,lobe,(,3.5,x,1.5,x,0.3,cm,,,marked,by,a,long,stitch,),are,adhered,to,the,inferoposterior,aspect,of,the,specimen,.}","{3,2.2,x,0.2,cm,,,mark,by,a,short,stitch,),and,the,portion,of,the,lower,lobe,(,3.5,x,1.5,x,0.3,cm,,,mark,by,a,long,stitch,),be,adhere,to,the,inferoposterior,aspect,of,the,specimen,.}","{CD,CD,NN,CD,NN,,,VBN,IN,DT,JJ,NN,NN,CC,DT,NN,IN,DT,JJR,NN,CD,CD,NN,CD,CC,CD,NN,,,VBN,IN,DT,JJ,NN,NN,VBP,VBN,TO,DT,NN,NN,IN,DT,NN,.}","{2,3,35,5,3,0,3,0,12,12,12,7,0,15,12,0,19,19,15,21,7,21,22,0,26,7,0,26,0,33,33,33,28,35,0,0,39,39,35,0,42,39,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_151,"A 10 cm staple line is identi?ied in the inferior aspect .","{A,10,cm,staple,line,is,identi?ied,in,the,inferior,aspect,.}","{a,10,cm,staple,line,be,identi?ied,in,the,inferior,aspect,.}","{DT,CD,NN,NN,NN,VBZ,VBN,IN,DT,JJ,NN,.}","{5,5,5,5,7,7,0,0,11,11,7,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_152,"The specimen is inked in black on the pleura .","{The,specimen,is,inked,in,black,on,the,pleura,.}","{the,specimen,be,ink,in,black,on,the,pleuron,.}","{DT,NN,VBZ,VBN,IN,JJ,IN,DT,NN,.}","{2,4,4,0,0,4,0,9,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_153,"in blue on the middle lobe margin , in green on the lower lobe margin ( after the","{in,blue,on,the,middle,lobe,margin,,,in,green,on,the,lower,lobe,margin,(,after,the}","{in,blue,on,the,middle,lobe,margin,,,in,green,on,the,lower,lobe,margin,(,after,the}","{IN,JJ,IN,DT,JJ,NN,NN,,,IN,JJ,IN,DT,JJR,NN,NN,NN,IN,DT}","{0,16,0,7,7,7,2,0,0,15,0,14,14,10,2,1,0,16}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_154,"-- .","{--,.}","{--,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_155,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_156,"----------- .","{-----------,.}","{-----------,.}","{CD,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_157,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_158,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_159,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_160,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_161,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_162,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_163,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_164,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_165,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_166,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_167,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_168,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_169,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_170,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_171,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_172,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_173,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_174,"- Page 5 of 9 removal of the staples ) , and in red on the staple line { after the removal of the staples ) .","{-,Page,5,of,9,removal,of,the,staples,),,,and,in,red,on,the,staple,line,{,after,the,removal,of,the,staples,),.}","{-,Page,5,of,9,removal,of,the,staple,),,,and,in,red,on,the,staple,line,{,after,the,removal,of,the,staple,),.}","{:,NNP,CD,IN,CD,NN,IN,DT,NNS,RB,,,CC,IN,JJ,IN,DT,NN,NN,NN,IN,DT,NN,IN,DT,NNS,VBP,.}","{0,26,2,0,6,2,0,9,6,6,0,0,10,19,0,18,18,14,13,0,22,19,0,25,22,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_175,"Sectioning reveals a 5.5 X 4.3 x 4.0 cm relatively well-circumscribed firm tan mass in the posterior aspect of the specimen .","{Sectioning,reveals,a,5.5,X,4.3,x,4.0,cm,relatively,well-circumscribed,firm,tan,mass,in,the,posterior,aspect,of,the,specimen,.}","{section,reveal,a,5.5,x,4.3,x,4.0,cm,relatively,well-circumscribed,firm,tan,mass,in,the,posterior,aspect,of,the,specimen,.}","{VBG,VBZ,DT,CD,NN,CD,CC,CD,NN,RB,JJ,NN,NN,NN,IN,DT,JJ,NN,IN,DT,NN,.}","{2,0,5,5,2,5,0,9,10,5,14,14,14,2,0,18,18,14,0,21,18,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_176,"The adjacent pleura shows fibrous adhesion .","{The,adjacent,pleura,shows,fibrous,adhesion,.}","{the,adjacent,pleuron,show,fibrous,adhesion,.}","{DT,JJ,NN,VBZ,JJ,NN,.}","{3,3,4,0,6,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_177,"The tumor approaches 1.4 cm from the bronchial resection margin , 0.5 cm from the middle lobe margin , 0.7 cm Erom the lower lobe margin , and 0.3 cm from the staple line .","{The,tumor,approaches,1.4,cm,from,the,bronchial,resection,margin,,,0.5,cm,from,the,middle,lobe,margin,,,0.7,cm,Erom,the,lower,lobe,margin,,,and,0.3,cm,from,the,staple,line,.}","{the,tumor,approach,1.4,cm,from,the,bronchial,resection,margin,,,0.5,cm,from,the,middle,lobe,margin,,,0.7,cm,erom,the,lower,lobe,margin,,,and,0.3,cm,from,the,staple,line,.}","{DT,NN,VBZ,CD,NN,IN,DT,JJ,NN,NN,,,CD,NN,IN,DT,JJ,NN,NN,,,CD,NN,NN,DT,JJR,NN,NN,,,CC,CD,NN,IN,DT,NN,NN,.}","{2,3,0,5,3,0,10,10,10,5,0,13,5,0,18,18,18,13,0,22,22,5,26,26,26,22,0,0,30,5,0,34,34,30,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_178,"The tumor does not involve the middle lobe or lower lobe parenchyma .","{The,tumor,does,not,involve,the,middle,lobe,or,lower,lobe,parenchyma,.}","{the,tumor,do,not,involve,the,middle,lobe,or,lower,lobe,parenchyma,.}","{DT,NN,VBZ,RB,VB,DT,JJ,NN,CC,JJR,NN,NN,.}","{2,5,5,5,0,8,8,5,0,12,12,8,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_179,"The tumor penetrates the anthracotic visceral pleura to invade into the adherent chest wall soft tissue ( 3.5 x 1.2 x 0.7 cm ) .","{The,tumor,penetrates,the,anthracotic,visceral,pleura,to,invade,into,the,adherent,chest,wall,soft,tissue,(,3.5,x,1.2,x,0.7,cm,),.}","{the,tumor,penetrate,the,anthracotic,visceral,pleuron,to,invade,into,the,adherent,chest,wall,soft,tissue,(,3.5,x,1.2,x,0.7,cm,),.}","{DT,NN,VBZ,DT,JJ,JJ,NN,TO,VB,IN,DT,JJ,NN,NN,JJ,NN,NN,CD,CC,CD,CC,CD,NN,NN,.}","{2,3,0,7,7,7,3,9,3,0,14,14,14,9,17,17,9,17,0,9,0,24,24,17,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_180,"Background lung parenuhyma shows varying degree of emphysematous change .","{Background,lung,parenuhyma,shows,varying,degree,of,emphysematous,change,.}","{background,lung,parenuhyma,show,vary,degree,of,emphysematous,change,.}","{NN,NN,NN,VBZ,VBG,NN,IN,JJ,NN,.}","{3,3,4,0,6,4,0,9,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_181,"Multiple peribronchial lymph nodes are identified .","{Multiple,peribronchial,lymph,nodes,are,identified,.}","{multiple,peribronchial,lymph,node,be,identify,.}","{JJ,JJ,NN,NNS,VBP,VBN,.}","{4,4,4,6,6,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_182,"The specimen is photographed .","{The,specimen,is,photographed,.}","{the,specimen,be,photograph,.}","{DT,NN,VBZ,VBN,.}","{2,4,4,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_183,"? PPS is taken .","{?,PPS,is,taken,.}","{?,pp,be,take,.}","{NN,NN,VBZ,VBN,.}","{2,4,4,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_184,"Representative sections are submitted .","{Representative,sections,are,submitted,.}","{Representative,section,be,submit,.}","{NNP,NNS,VBP,VBN,.}","{2,4,4,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_185,"Surmnary of sections : BM - bronchial margin VM vascular margin , LL - .","{Surmnary,of,sections,:,BM,-,bronchial,margin,VM,vascular,margin,,,LL,-,.}","{Surmnary,of,section,:,bm,-,bronchial,margin,vm,vascular,margin,,,ll,-,.}","{NNP,IN,NNS,:,NN,:,JJ,NN,NN,JJ,NN,,,NN,:,.}","{0,0,1,0,1,0,11,11,11,11,5,0,11,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_186,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_187,"- lower lobe , perpendicular green margin ML - .","{-,lower,lobe,,,perpendicular,green,margin,ML,-,.}","{-,lower,lobe,,,perpendicular,green,margin,ml,-,.}","{:,JJR,NN,,,JJ,JJ,NN,NN,:,.}","{0,0,2,0,8,8,8,3,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_188,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_189,"- middle lobe , perpendicular blues margin SL - .","{-,middle,lobe,,,perpendicular,blues,margin,SL,-,.}","{-,middle,lobe,,,perpendicular,blues,margin,sl,-,.}","{:,JJ,NN,,,JJ,NNS,NN,NN,:,.}","{0,0,2,0,8,8,8,3,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_190,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_191,"- staple line , perpendicular red line TCW tumor with attached chest wall TBR tumor with large bronchus El ? tumor LN lymph nodes RC - .","{-,staple,line,,,perpendicular,red,line,TCW,tumor,with,attached,chest,wall,TBR,tumor,with,large,bronchus,El,?,tumor,LN,lymph,nodes,RC,-,.}","{-,staple,line,,,perpendicular,red,line,tcw,tumor,with,attach,chest,wall,tbr,tumor,with,large,bronchus,El,?,tumor,ln,lymph,node,rc,-,.}","{:,NN,NN,,,JJ,JJ,NN,NN,NN,IN,VBN,NN,NN,NN,NN,IN,JJ,NNS,NNP,CD,NN,NN,NN,NNS,NN,:,.}","{0,3,0,0,8,8,8,3,3,9,3,15,15,15,11,0,18,15,21,21,18,25,25,25,15,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_192,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_193,"- background lung close to the tumor Rn - .","{-,background,lung,close,to,the,tumor,Rn,-,.}","{-,background,lung,close,to,the,tumor,rn,-,.}","{:,NN,NN,NN,TO,DT,NN,NN,:,.}","{0,4,4,0,0,8,8,4,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_194,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_195,"- background lung away from the tumor","{-,background,lung,away,from,the,tumor}","{-,background,lung,away,from,the,tumor}","{:,NN,NN,RB,IN,DT,NN}","{0,3,0,0,0,7,3}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_196,"Summary of Sections : Part 1 : SP : Right middle lobe lung wedge - Block","{Summary,of,Sections,:,Part,1,:,SP,:,Right,middle,lobe,lung,wedge,-,Block}","{summary,of,section,:,Part,1,:,sp,:,Right,middle,lobe,lung,wedge,-,Block}","{NN,IN,NNS,:,NNP,CD,:,NN,:,NNP,JJ,NN,NN,NN,:,NNP}","{0,0,1,0,1,5,0,5,0,1,14,14,14,10,0,14}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_197,"Sect .","{Sect,.}","{Sect,.}","{NNP,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_198,"Site PCs 1 f3 ( !","{Site,PCs,1,f3,(,!}","{site,pc,1,f3,(,!}","{NN,NNS,CD,NN,NN,.}","{2,0,5,5,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_199,"1","{1}","{1}","{CD}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_200,"Part 2 : 51 ?","{Part,2,:,51,?}","{part,2,:,51,?}","{NN,CD,:,CD,.}","{0,1,0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_201,": Right subscepula soft tissue - Block","{:,Right,subscepula,soft,tissue,-,Block}","{:,right,subscepula,soft,tissue,-,Block}","{:,RB,JJ,JJ,NN,:,NNP}","{0,5,5,5,0,0,5}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_202,"sect .","{sect,.}","{sect,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_203,"site Pcs 1 far : 1 3 u 3","{site,Pcs,1,far,:,1,3,u,3}","{site,pc,1,far,:,1,3,u,3}","{NN,NNS,CD,RB,:,CD,CD,NN,CD}","{2,0,2,3,0,7,8,2,8}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_204,"Part 3 : SP : Level seven mediastinal lymph node - Block","{Part,3,:,SP,:,Level,seven,mediastinal,lymph,node,-,Block}","{Part,3,:,sp,:,level,seven,mediastinal,lymph,node,-,Block}","{NNP,CD,:,NN,:,NN,CD,JJ,NN,NN,:,NNP}","{0,1,0,1,0,4,10,10,10,6,0,4}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_205,"Sect .","{Sect,.}","{Sect,.}","{NNP,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_206,"Site PCs 1 fee 1","{Site,PCs,1,fee,1}","{site,pc,1,fee,1}","{NN,NNS,CD,NN,CD}","{2,0,4,2,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_207,"Part 4 : SP : Level seven mediastinal lymph node # - Bloc } :","{Part,4,:,SP,:,Level,seven,mediastinal,lymph,node,#,-,Bloc,},:}","{Part,4,:,sp,:,level,seven,mediastinal,lymph,node,#,-,Bloc,},:}","{NNP,CD,:,NN,:,NN,CD,JJ,NN,NN,#,:,NNP,NNP,:}","{0,1,0,1,0,4,10,10,10,6,10,0,14,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_208,"Sect .","{Sect,.}","{Sect,.}","{NNP,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_209,"Site PCs 1 face 1 1 ?scb 2","{Site,PCs,1,face,1,1,?scb,2}","{site,pc,1,face,1,1,?scb,2}","{NN,NNS,CD,NN,CD,CD,NN,CD}","{2,0,4,2,6,7,4,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_210,"Part 5 : SP : Right level 4 mediaetinal lymph node - Block","{Part,5,:,SP,:,Right,level,4,mediaetinal,lymph,node,-,Block}","{Part,5,:,sp,:,Right,level,4,mediaetinal,lymph,node,-,Block}","{NNP,CD,:,NN,:,NNP,NN,CD,JJ,NN,NN,:,NNP}","{0,1,0,1,0,7,4,11,11,11,7,0,4}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_211,"1 Part 6 : Block","{1,Part,6,:,Block}","{1,part,6,:,Block}","{CD,NN,CD,:,NNP}","{2,0,2,0,3}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_212,"Part 7 : Block","{Part,7,:,Block}","{part,7,:,Block}","{NN,CD,:,NNP}","{0,1,0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_213,"Paxt 8 : Block","{Paxt,8,:,Block}","{paxt,8,:,Block}","{NN,CD,:,NNP}","{0,1,0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_214,"Part 9 : B1o ? k 2 Part 10 : Block I - ? MI - ? UltJl \ J1 \ Jt.0J-I1 - | | r - ?","{Part,9,:,B1o,?,k,2,Part,10,:,Block,I,-,?,MI,-,?,UltJl,\,J1,\,Jt.0J-I1,-,|,|,r,-,?}","{Part,9,:,b1o,?,k,2,Part,10,:,Block,I,-,?,mi,-,?,ultjl,\,j1,\,jt.0j-i1,-,|,|,r,-,?}","{NNP,CD,:,NN,CD,NN,CD,NNP,CD,:,NNP,PRP,:,CD,SYM,:,NN,NN,CD,NN,CD,NN,:,CD,NN,NN,:,NN}","{0,1,0,6,6,1,8,6,8,0,6,11,0,12,12,0,18,6,20,18,22,18,0,26,26,6,0,26}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_215,"SP :","{SP,:}","{sp,:}","{NN,:}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_216,"SP :","{SP,:}","{sp,:}","{NN,:}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_217,"SP !","{SP,!}","{sp,!}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_218,"~ .","{~,.}","{~,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_219,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_220,"- Page 6 of 9","{-,Page,6,of,9}","{-,Page,6,of,9}","{:,NNP,CD,IN,CD}","{0,0,2,0,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_221,"Sect .","{Sect,.}","{Sect,.}","{NNP,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_222,"Site PCS","{Site,PCS}","{site,pc}","{NN,NNS}","{2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_223,"fsc 1","{fsc,1}","{fsc,1}","{NN,CD}","{0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_224,"Right : level 4 lymph node # 2 - - Sect .","{Right,:,level,4,lymph,node,#,2,-,-,Sect,.}","{right,:,level,4,lymph,node,#,2,-,-,sect,.}","{RB,:,NN,CD,NN,NN,#,LS,:,:,NN,.}","{0,0,6,6,6,1,8,6,0,0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_225,"Site PCs fsc 1 rfl 4 rln 1","{Site,PCs,fsc,1,rfl,4,rln,1}","{site,pc,fsc,1,rfl,4,rln,1}","{NN,NNS,VBP,CD,NN,CD,NN,CD}","{2,3,0,5,3,7,5,7}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_226,"Level seven mediastinal lymph node # 2 Site","{Level,seven,mediastinal,lymph,node,#,2,Site}","{level,seven,mediastinal,lymph,node,#,2,site}","{NN,CD,JJ,NN,NN,#,CD,NN}","{0,5,5,5,1,7,8,5}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_227,"PCs lln 4 1n 3","{PCs,lln,4,1n,3}","{pc,lln,4,1n,3}","{NNS,VBP,CD,NN,CD}","{2,0,4,2,4}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_228,"Seat .","{Seat,.}","{seat,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_229,"Right : level four lymph node # 3 sdch .","{Right,:,level,four,lymph,node,#,3,sdch,.}","{right,:,level,four,lymph,node,#,3,sdch,.}","{RB,:,NN,CD,NN,NN,#,CD,NN,.}","{0,0,6,6,6,1,8,9,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_230,"Site PCs","{Site,PCs}","{site,pc}","{NN,NNS}","{2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_231,"1n 5 Right : level four lymph node Sect .","{1n,5,Right,:,level,four,lymph,node,Sect,.}","{1n,5,Right,:,level,four,lymph,node,Sect,.}","{NN,CD,NNP,:,NN,CD,NN,NN,NNP,.}","{3,3,0,0,8,8,8,3,8,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_232,"Site PCs bln","{Site,PCs,bln}","{site,pc,bln}","{NN,NNS,VBP}","{2,3,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_233,"SP : Right upper lobe of lung Sect .","{SP,:,Right,upper,lobe,of,lung,Sect,.}","{sp,:,Right,upper,lobe,of,lung,sect,.}","{NN,:,NNP,JJ,NN,IN,NN,NN,.}","{0,0,5,5,1,0,8,5,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_234,"Site PCS","{Site,PCS}","{site,pc}","{NN,NNS}","{2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_235,"hm 11 1n ml ra re 51 t tbr COW","{hm,11,1n,ml,ra,re,51,t,tbr,COW}","{hm,11,1n,ml,ra,re,51,t,tbr,cow}","{NN,CD,NN,NN,NN,NN,CD,NN,NN,NN}","{4,4,4,0,6,4,10,10,10,4}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_236,"WMNUI - ? HP M ) - '","{WMNUI,-,?,HP,M,),-,'}","{wmnui,-,?,HP,m,),-,'}","{SYM,:,CD,NNP,NN,SYM,:,''}","{5,0,4,5,0,8,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_237,"original Diagnosis : 1 )","{original,Diagnosis,:,1,)}","{original,diagnosis,:,1,)}","{JJ,NN,:,CD,CD}","{2,0,0,5,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_238,"LUNG ,","{LUNG,,}","{lung,,}","{NN,,}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_239,"RIGHT MIDDLE Lorin .","{RIGHT,MIDDLE,Lorin,.}","{right,MIDDLE,Lorin,.}","{NN,NNP,NNP,.}","{0,3,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_240,"? WEDGE RESECTION : - LUNG PBRENCHYHA WITH fOCAL OSSIFICATION .","{?,WEDGE,RESECTION,:,-,LUNG,PBRENCHYHA,WITH,fOCAL,OSSIFICATION,.}","{?,WEDGE,RESECTION,:,-,lung,pbrenchyha,with,focal,ossification,.}","{RB,NNP,NNP,:,:,NN,NN,IN,NN,NN,.}","{3,3,8,0,0,7,8,0,10,8,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_241,"? NO CARCINOMA IDENTIFIED .","{?,NO,CARCINOMA,IDENTIFIED,.}","{?,no,carcinoma,identify,.}","{NN,NN,NN,VBN,.}","{3,3,4,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_242,"2 ) SOFT TISSUE , RIGHT SUBCBPULA , EXCISION : "","{2,),SOFT,TISSUE,,,RIGHT,SUBCBPULA,,,EXCISION,:,"}","{2,),SOFT,TISSUE,,,RIGHT,SUBCBPULA,,,EXCISION,:,"}","{CD,CD,NNP,NNP,,,NNP,NNP,,,NNP,:,''}","{0,1,4,2,0,4,9,0,6,0,4}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_243,"ELASTOFIBROMA .","{ELASTOFIBROMA,.}","{elastofibroma,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_244,"3 ) LYMPH NODB , LEVEL VII HDIASTINUM , BIOPSY :","{3,),LYMPH,NODB,,,LEVEL,VII,HDIASTINUM,,,BIOPSY,:}","{3,),lymph,nodb,,,LEVEL,VII,HDIASTINUM,,,BIOPSY,:}","{CD,CD,NN,NN,,,NNP,NNP,NNP,,,NNP,:}","{2,4,4,0,0,10,10,10,0,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_245,"? ONE BENIGN LYMPH NUDE ( oil ) .","{?,ONE,BENIGN,LYMPH,NUDE,(,oil,),.}","{?,one,benign,lymph,nude,(,oil,),.}","{NN,CD,JJ,NN,NN,CD,NN,NN,.}","{0,1,8,8,8,8,8,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_246,"4 ) LYMPH MODE # 3 , LEVEL VII MEDIASTINUM , BIOPSY :","{4,),LYMPH,MODE,#,3,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:}","{4,),lymph,mode,#,3,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:}","{CD,CD,NN,NN,#,CD,,,NNP,NNP,NNP,,,NNP,:}","{0,3,1,3,6,1,0,10,10,6,0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_247,"- THREE BBNIGN LYM ?","{-,THREE,BBNIGN,LYM,?}","{-,three,bbnign,lym,?}","{:,CD,NN,NN,.}","{0,3,0,3,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_248,"H NODES ( DIS ) 5 )","{H,NODES,(,DIS,),5,)}","{h,node,(,di,),5,)}","{NN,VBZ,CD,NN,CD,CD,NN}","{2,0,4,7,6,7,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_249,"LYMTH NODES , LEVEL IV HEDIASTINUM , BIOPSY :","{LYMTH,NODES,,,LEVEL,IV,HEDIASTINUM,,,BIOPSY,:}","{LYMTH,NODES,,,LEVEL,iv,HEDIASTINUM,,,BIOPSY,:}","{NNP,NNP,,,NNP,CD,NNP,,,NNP,:}","{6,6,0,6,6,0,0,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_250,"- TWO BENIGN LYMPH NOD35 ( 0/2 ) 6 )","{-,TWO,BENIGN,LYMPH,NOD35,(,0/2,),6,)}","{-,two,benign,lymph,nod35,(,0/2,),6,)}","{:,CD,JJ,NN,NN,CD,CD,NN,CD,NN}","{0,5,5,5,0,7,8,5,10,8}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_251,"LYMPH NODES # 2 .","{LYMPH,NODES,#,2,.}","{lymph,node,#,2,.}","{NN,VBZ,#,CD,.}","{2,0,4,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_252,"LEVBL ' IV ; BIOPSY : - EIGHT BENIGN LYMPH NODES ( 0/8 ) .","{LEVBL,',IV,;,BIOPSY,:,-,EIGHT,BENIGN,LYMPH,NODES,(,0/8,),.}","{levbl,',iv,;,BIOPSY,:,-,eight,benign,lymph,node,(,0/8,),.}","{NN,'',CD,:,NNP,:,:,CD,JJ,NN,VBZ,CD,CD,NN,.}","{11,0,1,0,3,0,0,10,10,11,0,13,14,11,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_253,"7 ) LYMPH NODES # 2 , LEVEL VII MEDIASTINUM , BIOPSY :","{7,),LYMPH,NODES,#,2,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:}","{7,),LYMPH,NODES,#,2,,,LEVEL,VII,MEDIASTINUM,,,BIOPSY,:}","{CD,CD,NNP,NNP,#,CD,,,NNP,NNP,NNP,,,NNP,:}","{0,1,4,2,6,1,0,10,10,6,0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_254,"? ELEVEN LYMPH NODES NEGATIVE FOR CARCINOMA .","{?,ELEVEN,LYMPH,NODES,NEGATIVE,FOR,CARCINOMA,.}","{?,eleven,LYMPH,NODES,NEGATIVE,for,CARCINOMA,.}","{NN,CD,NNP,NNP,NNP,IN,NNP,.}","{0,1,5,5,1,0,5,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_255,"? FOLLICULAR LYHPHOMA , GRADE I , PARTIALY INVOLVING ONE LYMPH NODE ( SEE","{?,FOLLICULAR,LYHPHOMA,,,GRADE,I,,,PARTIALY,INVOLVING,ONE,LYMPH,NODE,(,SEE}","{?,follicular,lyhphoma,,,grade,I,,,PARTIALY,INVOLVING,one,LYMPH,NODE,(,see}","{NN,NN,NN,,,VB,PRP,,,NNP,NNP,CD,NNP,NNP,VBD,VBP}","{3,3,14,0,14,5,0,9,14,9,12,13,9,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_256,"NOTE ) .","{NOTE,),.}","{note,),.}","{VB,CD,.}","{0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_257,"NOTE : THE TUMOR CELLS ARE POSITIVE FOR CD20 , BCL-2 , BCL-6 AND CD10 , WHEREAS NEGATIVE FOR CD23 AND CYCLIN-D1 .","{NOTE,:,THE,TUMOR,CELLS,ARE,POSITIVE,FOR,CD20,,,BCL-2,,,BCL-6,AND,CD10,,,WHEREAS,NEGATIVE,FOR,CD23,AND,CYCLIN-D1,.}","{note,:,the,tumor,cell,be,positive,for,cd20,,,bcl-2,,,bcl-6,and,cd10,,,whereas,negative,for,cd23,and,cyclin-d1,.}","{VB,:,DT,NN,NNS,VBP,JJ,IN,NN,,,NN,,,NN,CC,NN,,,IN,JJ,IN,NN,CC,NN,.}","{0,0,5,5,7,7,1,0,7,0,7,0,7,0,9,0,18,9,0,9,0,20,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_258,"CD3 AND CD5 MARKS MATURE T-LYMPHOCYTES .","{CD3,AND,CD5,MARKS,MATURE,T-LYMPHOCYTES,.}","{cd3,and,cd5,mark,mature,t-lymphocyte,.}","{NN,CC,NN,NNS,JJ,NNS,.}","{4,0,4,0,6,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_259,"A STAIN FOR MIB ? 1 MARKS APPROXIMATELY 5 % OF NEOPLRSTIC CELLS .","{A,STAIN,FOR,MIB,?,1,MARKS,APPROXIMATELY,5,%,OF,NEOPLRSTIC,CELLS,.}","{a,stain,for,mib,?,1,MARKS,APPROXIMATELY,5,%,of,neoplrstic,cell,.}","{DT,NN,IN,NN,NN,CD,NNP,NNP,CD,NN,IN,NN,NNS,.}","{2,6,0,5,2,0,8,6,10,8,0,13,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_260,"THEREFORE TRIS IS A LOW .","{THEREFORE,TRIS,IS,A,LOW,.}","{therefore,tri,be,a,low,.}","{RB,VBZ,VBZ,DT,RB,.}","{2,0,5,5,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_261,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_262,"GRBDE LYMPHOMA .","{GRBDE,LYMPHOMA,.}","{grbde,lymphoma,.}","{JJ,NN,.}","{2,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_263,"DR FELDSTEIN HAS REVIEWED THE SLIDES AND AGREES WITH THE DIAGNOSIS .","{DR,FELDSTEIN,HAS,REVIEWED,THE,SLIDES,AND,AGREES,WITH,THE,DIAGNOSIS,.}","{dr,FELDSTEIN,have,review,the,slide,and,agree,with,the,diagnosis,.}","{NN,NNP,VBZ,VBN,DT,NNS,CC,VBZ,IN,DT,NN,.}","{2,4,4,0,6,4,0,6,0,11,8,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_264,"3 ) LYMPH NODES # 3 , RIGHT LEVEL IV , BIOPSY :","{3,),LYMPH,NODES,#,3,,,RIGHT,LEVEL,IV,,,BIOPSY,:}","{3,),LYMPH,NODES,#,3,,,right,level,iv,,,BIOPSY,:}","{CD,CD,NNP,NNP,#,CD,,,NN,NN,CD,,,NNP,:}","{4,4,4,0,6,4,0,6,4,9,0,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_265,"- SIXTEEN LYMPH NODES , NEGATIVE FOR CARCINOMA .","{-,SIXTEEN,LYMPH,NODES,,,NEGATIVE,FOR,CARCINOMA,.}","{-,sixteen,LYMPH,NODES,,,NEGATIVE,for,CARCINOMA,.}","{:,CD,NNP,NNP,,,NNP,IN,NNP,.}","{0,4,4,0,0,4,0,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_266,"9 ) LYMPH NODE , RIGHT LEVEL Iv , BIOPSY ;","{9,),LYMPH,NODE,,,RIGHT,LEVEL,Iv,,,BIOPSY,;}","{9,),LYMPH,NODE,,,RIGHT,LEVEL,Iv,,,BIOPSY,;}","{CD,CD,NNP,NNP,,,NNP,NNP,NNP,,,NNP,:}","{4,4,4,0,0,8,8,4,0,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_267,"? own LYMPH NODE uzsawxvz son CARCINOMA .","{?,own,LYMPH,NODE,uzsawxvz,son,CARCINOMA,.}","{?,own,lymph,node,uzsawxvz,son,carcinoma,.}","{NN,JJ,NN,NN,JJ,NN,NN,.}","{0,4,4,1,7,7,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_268,"10 ) LUNG , RIGHT UPPER LOBE , LOBECTOHYI","{10,),LUNG,,,RIGHT,UPPER,LOBE,,,LOBECTOHYI}","{10,),lung,,,RIGHT,UPPER,LOBE,,,LOBECTOHYI}","{CD,CD,NN,,,NNP,NNP,NNP,,,NNP}","{2,0,2,0,7,7,3,0,3}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_269,"- SQUAMOUS CELL CARCINOMA , POORLY DIFFERENTIATED , OF RIGHT UPPER LUBE .","{-,SQUAMOUS,CELL,CARCINOMA,,,POORLY,DIFFERENTIATED,,,OF,RIGHT,UPPER,LUBE,.}","{-,SQUAMOUS,CELL,CARCINOMA,,,poorly,differentiate,,,of,RIGHT,UPPER,LUBE,.}","{:,NNP,NNP,NNP,,,RB,VBN,,,IN,NNP,NNP,NNP,.}","{0,4,4,0,0,7,4,0,0,12,12,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_270,"TUMOR CROSSES THE FISSURE INTO THE MIDDLE LOBE . "","{TUMOR,CROSSES,THE,FISSURE,INTO,THE,MIDDLE,LOBE,.,"}","{tumor,cross,the,fissure,into,the,middle,lobe,.,"}","{NN,VBZ,DT,NN,IN,DT,JJ,NN,.,''}","{2,0,4,2,0,8,8,2,0,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_271,"THE TUMOR MEASURES 5.5 X 4.3 X 4.0 CM . "","{THE,TUMOR,MEASURES,5.5,X,4.3,X,4.0,CM,.,"}","{the,tumor,measure,5.5,x,4.3,x,4.0,cm,.,"}","{DT,NN,NNS,CD,NN,CD,NN,CD,NN,.,''}","{3,3,0,5,3,5,3,9,7,0,3}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_272,"NO PERINEURBL INVASION IS IDENTIFIED .","{NO,PERINEURBL,INVASION,IS,IDENTIFIED,.}","{no,PERINEURBL,INVASION,be,IDENTIFIED,.}","{DT,NNP,NNP,VBZ,NNP,.}","{3,3,5,5,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_273,"~ THE BRONCHIAL MARGIN IS FREE OF TUMOR .","{~,THE,BRONCHIAL,MARGIN,IS,FREE,OF,TUMOR,.}","{~,the,bronchial,margin,be,FREE,of,tumor,.}","{NN,DT,JJ,NN,VBZ,NNP,IN,NN,.}","{6,4,4,1,6,0,0,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_274,"? THE PARENCHYMAL MARGINS AND CHEST WALL MARGINS ARE FREE OF TUMOR .","{?,THE,PARENCHYMAL,MARGINS,AND,CHEST,WALL,MARGINS,ARE,FREE,OF,TUMOR,.}","{?,the,parenchymal,margin,and,chest,WALL,MARGINS,be,free,of,tumor,.}","{CD,DT,NN,NNS,CC,NN,NNP,NNPS,VBP,NNS,IN,NN,.}","{10,3,1,1,0,1,8,6,10,0,0,10,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_275,"? THE TUMOR INVOLVES THE CHEST WALL .","{?,THE,TUMOR,INVOLVES,THE,CHEST,WALL,.}","{?,the,tumor,involve,the,chest,WALL,.}","{NN,DT,NN,VBZ,DT,NN,NNP,.}","{4,3,1,0,6,7,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_276,"? THE NON-NEOPLASTIC LUNG SHOWS THE FOLLOWING ABNORMALITY : PARENCHYMAL","{?,THE,NON-NEOPLASTIC,LUNG,SHOWS,THE,FOLLOWING,ABNORMALITY,:,PARENCHYMAL}","{?,the,non-neoplastic,lung,show,the,follow,abnormality,:,parenchymal}","{NN,DT,NN,NN,VBZ,DT,VBG,NN,:,NN}","{5,4,4,1,0,8,8,5,0,8}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_277,"SCARRING AND EHPHYSEHATOUS CHANGES .","{SCARRING,AND,EHPHYSEHATOUS,CHANGES,.}","{scar,and,ehphysehatous,change,.}","{VBG,CC,NNS,NNS,.}","{0,4,4,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_278,"? THE LYMPH NODE STATUS ? IS AS FOLLOWS { EXPRESSED AS THE NUMBER OF","{?,THE,LYMPH,NODE,STATUS,?,IS,AS,FOLLOWS,{,EXPRESSED,AS,THE,NUMBER,OF}","{?,the,lymph,node,status,?,be,as,follow,{,express,as,the,number,of}","{CD,DT,NN,NN,NN,CD,VBZ,JJ,NN,CD,VBD,JJ,DT,NN,IN}","{11,5,5,5,8,5,8,1,8,9,0,14,14,11,11}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_279,"METASTATIC NODES IN RELATION TO THE TOTAL NUMBER OF NODES EXAMINED ) : FERIBRONCHIAL : 0/3 .","{METASTATIC,NODES,IN,RELATION,TO,THE,TOTAL,NUMBER,OF,NODES,EXAMINED,),:,FERIBRONCHIAL,:,0/3,.}","{metastatic,node,in,RELATION,to,the,total,number,of,NODES,examine,),:,FERIBRONCHIAL,:,0/3,.}","{JJ,NN,IN,NNP,TO,DT,JJ,NN,IN,NNP,VBD,CD,:,NNP,:,CD,.}","{2,11,0,2,8,8,8,4,0,8,0,11,0,12,0,14,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_280,"NOTE : IMUNOSTAINS SHOW THAT THE TUMOR CELLS ARE DIFFUSELY POSITIVE FOR 3 ? EB12 AND A?h ( P53 ) , WHEREAS NEGATIVE FOR TTF-l - THIS PATERN O ?","{NOTE,:,IMUNOSTAINS,SHOW,THAT,THE,TUMOR,CELLS,ARE,DIFFUSELY,POSITIVE,FOR,3,?,EB12,AND,A?h,(,P53,),,,WHEREAS,NEGATIVE,FOR,TTF-l,-,THIS,PATERN,O,?}","{note,:,IMUNOSTAINS,SHOW,that,the,tumor,cell,be,diffusely,positive,for,3,?,eb12,and,a?h,(,p53,),,,whereas,negative,for,ttf-l,-,this,patern,o,?}","{VB,:,NNP,NNP,WDT,DT,NN,NNS,VBP,NN,JJ,IN,CD,NN,NN,CC,NN,CD,NN,NN,,,IN,JJ,IN,NN,:,NN,NN,NN,.}","{4,0,4,0,10,8,8,10,10,4,10,0,15,15,10,0,20,20,20,10,0,23,20,0,20,0,29,29,20,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_281,"IMUNOREACTIVITY SUPPORTS THE DIAGNOSIS .","{IMUNOREACTIVITY,SUPPORTS,THE,DIAGNOSIS,.}","{IMUNOREACTIVITY,support,the,diagnosis,.}","{NNP,VBZ,DT,NN,.}","{2,0,4,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_282,"Intraoperative Consu1tation : : Note : The diagnoses given in this section pertain only to the tissue Sample examined at the time of the intraoperative consultation .","{Intraoperative,Consu1tation,:,:,Note,:,The,diagnoses,given,in,this,section,pertain,only,to,the,tissue,Sample,examined,at,the,time,of,the,intraoperative,consultation,.}","{intraoperative,consu1tation,:,:,note,:,the,diagnosis,give,in,this,section,pertain,only,to,the,tissue,sample,examine,at,the,time,of,the,intraoperative,consultation,.}","{JJ,NN,:,:,VB,:,DT,NNS,VBN,IN,DT,NN,NN,RB,TO,DT,NN,NN,VBN,IN,DT,NN,IN,DT,JJ,NN,.}","{2,0,0,0,2,0,8,5,8,9,13,13,10,19,0,18,18,14,13,0,22,19,0,26,26,22,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_283,"1 } NROZEN SECTION DiAGNOSISI SP : RIGHT MIDDLE LOBE LUNG WEDGE _ - : AEAOTIVE OSANGES .","{1,},NROZEN,SECTION,DiAGNOSISI,SP,:,RIGHT,MIDDLE,LOBE,LUNG,WEDGE,_,-,:,AEAOTIVE,OSANGES,.}","{1,},NROZEN,section,diagnosisus,sp,:,RIGHT,MIDDLE,LOBE,LUNG,WEDGE,_,-,:,AEAOTIVE,OSANGES,.}","{CD,CD,NNP,NN,NN,NN,:,NNP,NNP,NNP,NNP,NNP,SYM,:,:,NNP,NNP,.}","{2,0,6,6,6,2,0,6,10,8,12,10,10,0,0,17,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_284,"No OAROINONA SEEN ON FROZEN SEOTION .","{No,OAROINONA,SEEN,ON,FROZEN,SEOTION,.}","{no,OAROINONA,SEEN,ON,FROZEN,SEOTION,.}","{DT,NNP,NNP,NNP,NNP,NNP,.}","{4,4,4,0,6,4,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_285,"PEAMANENT","{PEAMANENT}","{peamanent}","{JJ}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_286,"DIAGNOSIS : SA !","{DIAGNOSIS,:,SA,!}","{diagnosis,:,SA,!}","{NN,:,NNP,.}","{0,0,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_287,"- IE","{-,IE}","{-,ie}","{:,NN}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_288,"2 ) FROZEN SECTION DIAGNOSIS : SP : RIGHT SUESOADOLA SOFT TISSUE ( PS ) ( mm ) : BENIGN .","{2,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,SUESOADOLA,SOFT,TISSUE,(,PS,),(,mm,),:,BENIGN,.}","{2,),FROZEN,section,diagnosis,:,sp,:,RIGHT,SUESOADOLA,SOFT,tissue,(,PS,),(,mm,),:,BENIGN,.}","{CD,CD,NNP,NN,NN,:,NN,:,NNP,NNP,NNP,NN,CD,NNP,CD,CD,NN,NN,:,NNP,.}","{0,5,5,5,1,0,1,0,11,11,7,14,14,11,16,18,18,14,0,7,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_289,"- PER .","{-,PER,.}","{-,per,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_290,"MhNEI * i ' 1 ?","{MhNEI,*,i,',1,?}","{mhneus,*,i,',1,?}","{NN,CD,FW,'',CD,CD}","{0,1,1,0,3,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_291,"DIAGNOSIS : SAME","{DIAGNOSIS,:,SAME}","{diagnosis,:,same}","{NN,:,NN}","{0,0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_292,"3 } FROZEN SECTION DIAGNOSIS : SE : LEVEL SEVEN MEDIASTINAI .","{3,},FROZEN,SECTION,DIAGNOSIS,:,SE,:,LEVEL,SEVEN,MEDIASTINAI,.}","{3,},FROZEN,section,diagnosis,:,se,:,level,seven,mediastinaus,.}","{CD,CD,NNP,NN,NN,:,NN,:,NN,CD,NN,.}","{2,0,5,5,2,0,2,0,11,11,7,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_293,"mum NODE ( PS ) ( 1-ma ) : BENIGN .","{mum,NODE,(,PS,),(,1-ma,),:,BENIGN,.}","{mum,node,(,PS,),(,1-ma,),:,BENIGN,.}","{JJ,NN,CD,NNP,CD,CD,JJ,NN,:,NNP,.}","{2,0,4,2,4,8,8,2,0,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_294,"- - )","{-,-,)}","{-,-,)}","{:,:,NN}","{0,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_295,"PERMANENT DIAGNOSIS : SAME","{PERMANENT,DIAGNOSIS,:,SAME}","{permanent,diagnosis,:,same}","{JJ,NN,:,NN}","{2,0,0,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_296,"4 .","{4,.}","{4,.}","{LS,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_297,"A , E ) FROZEN SECTION DIAGNOSIS : SP : LEVEL SEVEN NEDIASTINAL LYMPH NODE # 3 - - : L??IiP } ? I NODE WITH EOOI OE NEOROSIS , INELANMATION , AND GIANT CELL REAOTION .","{A,,,E,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,LEVEL,SEVEN,NEDIASTINAL,LYMPH,NODE,#,3,-,-,:,L??IiP,},?,I,NODE,WITH,EOOI,OE,NEOROSIS,,,INELANMATION,,,AND,GIANT,CELL,REAOTION,.}","{a,,,e,),FROZEN,section,diagnosis,:,sp,:,level,seven,NEDIASTINAL,LYMPH,NODE,#,3,-,-,:,l??iip,},?,I,node,with,eoous,oe,neorosis,,,inelanmation,,,and,giant,cell,reaotion,.}","{DT,,,NN,CD,NNP,NN,NN,:,NN,:,NN,CD,NNP,NNP,NNP,#,LS,:,:,:,NN,CD,CD,PRP,VBP,IN,NN,NN,NN,,,NN,,,CC,JJ,NN,NN,.}","{25,0,1,7,7,7,3,0,7,0,15,15,15,15,9,17,15,0,0,0,3,23,21,25,0,0,29,29,25,0,25,0,0,36,36,31,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_298,"_ ) PEAEANENT DIAGNOSIS : SA : - IE","{_,),PEAEANENT,DIAGNOSIS,:,SA,:,-,IE}","{_,),peaeanent,diagnosis,:,SA,:,-,ie}","{NN,CD,JJ,NNS,:,NNP,:,:,JJ}","{0,4,4,1,0,1,0,0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_299,"5 ) FROZEN SECTION DIAGNOSIS : SP : RIGHT LEVEL 4 1-IEDIASTINAI .","{5,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,LEVEL,4,1-IEDIASTINAI,.}","{5,),FROZEN,section,diagnosis,:,sp,:,right,level,4,1-iediastinaus,.}","{CD,CD,NNP,NN,NN,:,NN,:,NN,NN,CD,NN,.}","{2,0,5,5,2,0,2,0,10,7,12,10,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_300,"LYMPR NUDE f ? - BENIGM I -9 PERMANENT DIAGNOSIS : SAME","{LYMPR,NUDE,f,?,-,BENIGM,I,-9,PERMANENT,DIAGNOSIS,:,SAME}","{LYMPR,NUDE,f,?,-,benigm,I,-9,permanent,diagnosis,:,same}","{NNP,NNP,LS,SYM,:,NN,PRP,VBP,JJ,NNS,:,NN}","{2,0,2,6,0,3,8,2,10,8,0,8}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_301,"5 ) FROZEN SECTION DIAGNOSIS : SP : RIGHT LEVEL 4 NEDIASTINAL","{5,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,LEVEL,4,NEDIASTINAL}","{5,),FROZEN,section,diagnosis,:,sp,:,right,level,4,nediastinal}","{CD,CD,NNP,NN,NN,:,NN,:,NN,NN,CD,NN}","{0,5,5,5,1,0,1,0,10,7,12,10}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_302,"LYMPI-E Noun : # 2 - - : BENIGN ON ONE REPRESENTATIVE SECTION .","{LYMPI-E,Noun,:,#,2,-,-,:,BENIGN,ON,ONE,REPRESENTATIVE,SECTION,.}","{lympi-e,noun,:,#,2,-,-,:,benign,on,one,representative,section,.}","{NN,NN,:,#,LS,:,:,:,JJ,IN,CD,NN,NN,.}","{0,1,0,5,2,0,0,0,10,2,10,10,12,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_303,"- PERMANENT","{-,PERMANENT}","{-,permanent}","{:,JJ}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_304,"DIAGNOSIS : SAME","{DIAGNOSIS,:,SAME}","{diagnosis,:,same}","{NN,:,NN}","{0,0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_305,"Note : The diagnoses given in this Section pertain only to the tissue sample examined at the time of the intraoperative consultation .","{Note,:,The,diagnoses,given,in,this,Section,pertain,only,to,the,tissue,sample,examined,at,the,time,of,the,intraoperative,consultation,.}","{note,:,the,diagnosis,give,in,this,section,pertain,only,to,the,tissue,sample,examine,at,the,time,of,the,intraoperative,consultation,.}","{VB,:,DT,NNS,VBN,IN,DT,NN,NN,RB,TO,DT,NN,NN,VBN,IN,DT,NN,IN,DT,JJ,NN,.}","{0,0,4,1,4,5,9,9,6,15,0,14,14,10,9,0,18,15,0,22,22,18,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_306,"1 ) FROZEN SECTION DIAGNOSIS : SP !","{1,),FROZEN,SECTION,DIAGNOSIS,:,SP,!}","{1,),FROZEN,section,diagnosis,:,sp,!}","{CD,CD,NNP,NN,NN,:,NN,.}","{2,0,5,5,2,0,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_307,"RIGHT MIDDLE LOBE LENS WEDGE _ - EEACTIVE OHANGES .","{RIGHT,MIDDLE,LOBE,LENS,WEDGE,_,-,EEACTIVE,OHANGES,.}","{RIGHT,MIDDLE,LOBE,LENS,WEDGE,_,-,eeactive,ohange,.}","{NNP,NNP,NNP,NNP,NNP,SYM,:,NN,NNS,.}","{3,3,0,5,3,3,0,9,3,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_308,"NO CARCINOMA SEEN ON EEOEEN SECTION ] PERMANENT","{NO,CARCINOMA,SEEN,ON,EEOEEN,SECTION,],PERMANENT}","{no,CARCINOMA,SEEN,on,EEOEEN,section,],permanent}","{DT,NNP,NNP,IN,NNP,NN,CD,JJ}","{3,3,8,0,3,8,6,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_309,"DIAGNOSIS : SAME","{DIAGNOSIS,:,SAME}","{diagnosis,:,same}","{NN,:,NN}","{0,0,1}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_310,"2 ) FROZEN SECTION DIAGNOSIS : SP : RIGHT SUBSCAPULA SOFT TISSUE I = BENIGN - I PERMANENT","{2,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,RIGHT,SUBSCAPULA,SOFT,TISSUE,I,=,BENIGN,-,I,PERMANENT}","{2,),FROZEN,section,diagnosis,:,sp,:,RIGHT,SUBSCAPULA,SOFT,tissue,i,=,benign,-,I,permanent}","{CD,CD,NNP,NN,NN,:,NN,:,NNP,NNP,NNP,NN,NN,JJ,JJ,:,PRP,JJ}","{0,5,5,5,1,0,1,0,13,13,13,13,7,15,13,0,18,15}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_311,"DIAGNOSIS : SAME ? .","{DIAGNOSIS,:,SAME,?,.}","{diagnosis,:,same,?,.}","{NN,:,NN,NN,.}","{0,0,4,1,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_312,"3 ) FROZEN SECTION DIAGNOSIS : SP : LEVEL SEVEN MEDIASTINAL LYMPH NODE - - BENIGN - - -3","{3,),FROZEN,SECTION,DIAGNOSIS,:,SP,:,LEVEL,SEVEN,MEDIASTINAL,LYMPH,NODE,-,-,BENIGN,-,-,-3}","{3,),FROZEN,section,diagnosis,:,sp,:,level,seven,MEDIASTINAL,LYMPH,NODE,-,-,benign,-,-,-3}","{CD,CD,NNP,NN,NN,:,NN,:,NN,CD,NNP,NNP,NNP,:,:,JJ,:,:,CD}","{2,0,5,5,2,0,5,0,7,9,13,13,9,0,0,7,0,0,5}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_313,"EEAELANENT DIAGNOSIS : SA1-TE .","{EEAELANENT,DIAGNOSIS,:,SA1-TE,.}","{eeaelanent,diagnosis,:,sa1-te,.}","{JJ,NN,:,NN,.}","{2,0,0,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_314,"4A , B ) FROZEN SECTION DIAGNOSIS : Sp : LEVEL SEVEN MEDIASTINAL LY1-JPH NODE # 3 - ? : LYMPH NOOE WITH FOCI or NEGROSIS , INFLAHI-IATION , AND GIANT CELL REACTION .","{4A,,,B,),FROZEN,SECTION,DIAGNOSIS,:,Sp,:,LEVEL,SEVEN,MEDIASTINAL,LY1-JPH,NODE,#,3,-,?,:,LYMPH,NOOE,WITH,FOCI,or,NEGROSIS,,,INFLAHI-IATION,,,AND,GIANT,CELL,REACTION,.}","{4a,,,b,),FROZEN,section,diagnosis,:,sp,:,level,seven,mediastinal,ly1-jph,node,#,3,-,?,:,LYMPH,NOOE,with,focus,or,negrosis,,,inflahi-iation,,,and,giant,cell,reaction,.}","{NN,,,NN,CD,NNP,NN,NN,:,NN,:,NN,CD,NN,NN,NN,#,LS,:,NN,:,NNP,NNP,IN,NN,CC,NN,,,NN,,,CC,JJ,NN,NN,.}","{0,0,1,7,7,7,3,0,1,0,14,14,14,15,9,17,15,0,1,0,22,19,0,28,0,24,0,22,0,0,33,33,22,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_315,"- EUEGICAB","{-,EUEGICAB}","{-,euegicab}","{:,NN}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_316,"PATH LO Y REPORT Patient :","{PATH,LO,Y,REPORT,Patient,:}","{path,lo,y,report,patient,:}","{NN,NN,NN,NN,NN,:}","{5,5,5,5,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_317,"o & j * 9 ? f 9 5 ) FROZEN SECTION DIAGNOSIS : sp : RIGHT LEVEL :5 lv1EDIAS ' .","{o,&,j,*,9,?,f,9,5,),FROZEN,SECTION,DIAGNOSIS,:,sp,:,RIGHT,LEVEL,:5,lv1EDIAS,',.}","{o,&,j,*,9,?,f,9,5,),FROZEN,section,diagnosis,:,sp,:,right,level,:5,lv1edia,',.}","{NN,CC,NN,CD,CD,NN,FW,CD,CD,CD,NNP,NN,NN,:,NN,:,NN,NN,CD,NN,'',.}","{0,3,1,5,6,3,1,9,7,13,13,13,1,0,13,0,18,15,1,19,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_318,"l?INAI .","{l?INAI,.}","{l?inai,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_319,"n ma-mt N093 I - EENIGN - -1 - ?","{n,ma-mt,N093,I,-,EENIGN,-,-1,-,?}","{n,ma-mt,n093,i,-,eenign,-,-1,-,?}","{NN,JJ,NN,NN,:,NN,:,CD,:,.}","{0,4,4,1,0,1,0,6,0,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_320,"PERMANENT DIAGNOSIS : sun : 6 ) FROZEN szcrrxou DIAGNOSIS : 59 : men-r LEVEL 4 manxns-rxmnx .","{PERMANENT,DIAGNOSIS,:,sun,:,6,),FROZEN,szcrrxou,DIAGNOSIS,:,59,:,men-r,LEVEL,4,manxns-rxmnx,.}","{permanent,diagnosis,:,sun,:,6,),frozen,szcrrxou,diagnosis,:,59,:,men-r,level,4,manxns-rxmnx,.}","{JJ,NN,:,NN,:,CD,CD,JJ,NN,NN,:,CD,:,JJ,NN,CD,NN,.}","{2,0,0,2,0,7,10,10,10,4,0,2,0,15,12,17,15,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_321,"LYMPH NODE # 2 ~ \ [ BENIGN on ONE REPRESENTATIVE SECTION .","{LYMPH,NODE,#,2,~,\,[,BENIGN,on,ONE,REPRESENTATIVE,SECTION,.}","{lymph,node,#,2,~,\,[,BENIGN,on,one,representative,section,.}","{NN,NN,#,CD,CD,NN,CD,NNP,IN,CD,NN,NN,.}","{2,0,5,5,2,8,8,5,0,12,12,2,0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_322,"_","{_}","{_}","{NN}","{0}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_323,"PERMANENT DIAGNOSIS : SAME","{PERMANENT,DIAGNOSIS,:,SAME}","{permanent,diagnosis,:,same}","{JJ,NN,:,NN}","{2,0,0,2}","{}"
+TCGA-39-5039, TCGA-39-5039SENT_324,"** End of Report **","{**,End,of,Report,**}","{**,end,of,Report,**}","{NN,NN,IN,NNP,CD}","{2,0,0,2,4}","{}"

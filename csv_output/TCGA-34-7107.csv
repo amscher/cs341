@@ -1,66 +1,66 @@
-TCGA-34-7107, TCGA-34-7107SENT_1,{},{FINAL,UIAGNUOISI,PART,1,:,LYMPH,NODE,,,RIGHT,LEVEL,10,,,BIOP8YANTHRACOTIC},{final,UIAGNUOISI,part,1,:,LYMPH,NODE,,,RIGHT,LEVEL,10,,,biop8yanthracotic},{JJ,NNP,NN,CD,:,NNP,NNP,,,NNP,NNP,CD,,,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_2,{},{LYMPH,NODE,FREE,OF,CARCINOMA,.},{LYMPH,NODE,FREE,of,CARCINOMA,.},{NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_3,{},{PART,2,:,LYMPH,NODE,,,RIGHT,DEEP,LEVEL,4,,,BIOPSY,ANTHRACOTIC},{part,2,:,LYMPH,NODE,,,RIGHT,DEEP,LEVEL,4,,,BIOPSY,ANTHRACOTIC},{NN,CD,:,NNP,NNP,,,NNP,NNP,NNP,CD,,,NNP,NNP},{}
-TCGA-34-7107, TCGA-34-7107SENT_4,{},{LYIIIIPH,NODE,FREE,OF,CARCINOMA,.},{LYIIIIPH,NODE,FREE,of,CARCINOMA,.},{NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_5,{},{PART,3,:,LYMPH,NODE,,,RIGHT,LEVEL,4,.},{part,3,:,LYMPH,NODE,,,RIGHT,LEVEL,4,.},{NN,CD,:,NNP,NNP,,,NNP,NNP,CD,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_6,{},{BIOP3Y,~,ANTHRACOTIC},{biop3y,~,anthracotic},{NN,NN,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_7,{},{LYMPH,NODE,FREE,OF,CARCINOMA,.},{LYMPH,NODE,FREE,of,CARCINOMA,.},{NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_8,{},{PART,4,:,SOFT,TISSUE,,,RIGHT,POSTERIOR,CHEST,WALL,,,EXCISION,?},{part,4,:,soft,tissue,,,right,posterior,chest,WALL,,,EXCISION,?},{NN,CD,:,JJ,NN,,,NN,NN,NN,NNP,,,NNP,CD},{}
-TCGA-34-7107, TCGA-34-7107SENT_9,{},{A.,PORT,ION,OF,LUNG,WITH,INFLAMMATORY,CHANGES,.},{a.,PORT,ION,of,lung,with,inflammatory,change,.},{NN,NNP,NNP,IN,NN,IN,JJ,NNS,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_10,{},{ORGANIZING,PNEUMONIA,.},{organize,pneumonia,.},{VBG,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_11,{},{FIBRIN,DEPOSITION,AND},{fibrin,deposition,and},{JJ,NN,CC},{}
-TCGA-34-7107, TCGA-34-7107SENT_12,{},{NECROSIS,.},{NECROSIS,.},{NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_13,{},{B.,No,EVIDENCE,OF,MALIGNANCY,.},{B.,No,EVIDENCE,of,MALIGNANCY,.},{NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_14,{},{PART,5,LYMPH,NODE,,,LEVEL,7,.},{part,5,LYMPH,NODE,,,LEVEL,7,.},{NN,CD,NNP,NNP,,,NNP,CD,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_15,{},{BIOPSYA,.},{BIOPSYA,.},{NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_16,{},{ANTHRACOITC,LYMPH,NODE,WITH,LIPID,GRANULOMA3,.},{ANTHRACOITC,LYMPH,NODE,with,lipid,granuloma3,.},{NNP,NNP,NNP,IN,NN,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_17,{},{3,.},{3,.},{LS,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_18,{},{NO,EVIDENCE,OF,MALIGNANCY,.},{no,evidence,of,malignancy,.},{NN,NN,IN,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_19,{},{PART,6,:,LUNG,,,nu,HT,,,PNEUMONECTOMYM,I},{part,6,:,lung,,,nu,HT,,,PNEUMONECTOMYM,I},{NN,CD,:,NN,,,NN,NNP,,,NNP,PRP},{}
-TCGA-34-7107, TCGA-34-7107SENT_20,{},{A.,INVASIVE,QDERAT,[,:,IEMI,,,),f_mI,;,Ij,?,EE,?},{a.,INVASIVE,QDERAT,[,:,IEMI,,,),f_mi,;,ij,?,ee,?},{NN,NNP,NNP,CD,:,NNP,,,CD,NN,:,NN,CD,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_21,{},{Ej,%,_,I,?,_,N11ATEO,.},{ej,%,_,I,?,_,n11ateo,.},{JJ,NN,CD,PRP,VBP,CD,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_22,{},{SQjJAM,?,),l,,,J$,;,?,ELL,=,?,AB,?,lNQlyI,?,WAS50C,|,ATED,WITH,EXTENSIVE},{sqjjam,?,),l,,,j$,;,?,ell,=,?,AB,?,lnqlyus,?,was50c,|,ated,with,extensive},{NN,CD,NN,NN,,,NN,:,CD,NN,JJ,CD,NNP,CD,NN,CD,NN,CD,NN,IN,JJ},{}
-TCGA-34-7107, TCGA-34-7107SENT_23,{},{mzcrzos,:,.},{mzcrzo,:,.},{NNS,:,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_24,{},{-4.5,cm,.},{-4.5,cm,.},{CD,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_25,{},{*,",*,",??,?,",?,",??,*,",",?,",?,*,?,**,i,*,?,",",",--,",??,',*,?,**,",',",",?,@,g,:,P,9,pi,:,",*},{*,",*,",??,?,",?,",??,*,",",?,",?,*,?,**,i,*,?,",",",--,",??,',*,?,**,",',",",?,@,g,:,p,9,pi,:,",*},{NN,'',CD,``,CD,CD,``,JJ,'',NN,CD,``,``,CD,``,FW,FW,FW,FW,FW,FW,FW,``,``,``,:,``,NN,'',CD,CD,CD,``,'',``,``,CD,IN,NN,:,NN,CD,NN,:,``,IN},{}
-TCGA-34-7107, TCGA-34-7107SENT_26,{},{:3,.},{:3,.},{NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_27,{},{NO,oernurnve,ANGIOLYMPHATIC,INVASION,IDENTIFIED,.},{no,oernurnve,ANGIOLYMPHATIC,INVASION,IDENTIFIED,.},{NN,NN,NNP,NNP,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_28,{},{C.,EIGHT,(,a,),HILAR,LYMPH,NODES,FREE,or,CARCINOMA,D.,SURGICAL,RESECTION,IIIIARGINS,FREE,OF,CARCINOMA,.},{C.,EIGHT,(,a,),hilar,lymph,node,free,or,CARCINOMA,D.,SURGICAL,RESECTION,IIIIARGINS,FREE,of,CARCINOMA,.},{NNP,NNP,VBD,DT,JJ,NN,NN,VBZ,NN,CC,NNP,NNP,NNP,NNP,NNPS,NNPS,IN,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_29,{},{I,",-,.},{I,",-,.},{PRP,``,:,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_30,{},{?,.},{?,.},{NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_31,{},{.},{.},{.},{}
-TCGA-34-7107, TCGA-34-7107SENT_32,{},{TNM,STAGE,(,Moo,,,7,??,Edition,},:,pT2a,No.,.},{TNM,STAGE,(,Moo,,,7,??,edition,},:,pt2a,no.,.},{NNP,NNP,CD,NNP,,,CD,CD,NN,NN,:,NN,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_33,{},{PART,7,:,BONE,,,RIGHT,FIFTH,RIB,,,PARTIAL,RlE,$,I,",.},{part,7,:,bone,,,RIGHT,FIFTH,rib,,,partial,rle,$,i,",.},{NN,CD,:,NN,,,NNP,NNP,NN,,,JJ,NN,$,CD,``,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_34,{},{:,C,',I,',ION,?},{:,c,',I,',ION,?},{:,NN,'',PRP,'',NNP,CD},{}
-TCGA-34-7107, TCGA-34-7107SENT_35,{},{PORTION,OF,BONE,.},{portion,of,bone,.},{NN,IN,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_36,{},{FREE,OF,CARCINOMA},{free,of,carcinoma},{VB,IN,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_37,{},{PART,8,:,PLEURA,,,RIGHT,PARIETAL,,,RESECTION,A.},{part,8,:,PLEURA,,,RIGHT,PARIETAL,,,RESECTION,a.},{NN,CD,:,NNP,,,NNP,NNP,,,NNP,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_38,{},{PORTION,OF,LUNG,WITH,ORGANIZING,PNEUMONIA,.},{portion,of,lung,with,organize,pneumonia,.},{NN,IN,NN,IN,VBG,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_39,{},{B.,PLEURA,WITH,CHRONIC,INFL,.},{B.,PLEURA,with,CHRONIC,INFL,.},{NNP,NNP,IN,NNP,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_40,{},{AMMA1,?,ION,AND,FIBROSIS,.},{amma1,?,ion,and,fibrosis,.},{NN,CD,NN,CC,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_41,{},{C.,No,EVIDENCE,OF,MALIG-NANCY,.},{C.,No,EVIDENCE,of,malig-nancy,.},{NNP,NNP,NNP,IN,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_42,{},{PART,9,LYIVIPH,NODE,.},{part,9,lyiviph,node,.},{NN,CD,NN,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_43,{},{RIGHT,LEVEL,10,.},{right,level,10,.},{NN,NN,CD,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_44,{},{BIOPSY,ANTHRACOTIC},{biopsy,anthracotic},{NN,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_45,{},{LYMPH,NODE,FREE,OF,CARCINOMA,.},{LYMPH,NODE,FREE,of,CARCINOMA,.},{NNP,NNP,NNP,IN,NNP,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_46,{},{PART,10,LYIIIIPH,NODE,,,RIGHT,LEVEL,4,,,BIOPSY,A.,PORTION,OF,BENIGN,ADIPOSE,TISSUE,.},{part,10,LYIIIIPH,NODE,,,RIGHT,LEVEL,4,,,BIOPSY,A.,PORTION,of,benign,adipose,tissue,.},{NN,CD,NNP,NNP,,,NNP,NNP,CD,,,NNP,NNP,NNP,IN,JJ,JJ,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_47,{},{B.,No,LYMPH,NODE,TISSUE,IDENTIFIED,.},{B.,No,LYMPH,NODE,tissue,identify,.},{NNP,NNP,NNP,NNP,NN,VBN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_48,{},{CASE,SYNOPSIS,:},{case,synopsis,:},{NN,NNS,:},{}
-TCGA-34-7107, TCGA-34-7107SENT_49,{},{SYNOPTIC,DATA,~,PRIMARY,LUNG,TUMORS,TUMOR,LOCATION,:,Right,Lower,Lobe,PROCEDURE,:,Pneumonectomy,TUMOR,SIZE,:,Maximum,dimension,:,4.5,cm},{SYNOPTIC,DATA,~,PRIMARY,lung,tumor,tumor,location,:,Right,Lower,Lobe,PROCEDURE,:,Pneumonectomy,TUMOR,SIZE,:,Maximum,dimension,:,4.5,cm},{NNP,NNP,VBD,NNP,NN,NNS,NN,NN,:,NNP,NNP,NNP,NNP,:,NNP,NNP,NNP,:,NNP,NN,:,CD,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_50,{},{Minor,dimension,:,4,cm},{minor,dimension,:,4,cm},{JJ,NN,:,CD,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_51,{},{GROSS,SATELIJTES,:,Number,of,gross,satellite,lesions,:,o,TUMOR,TYPE,:,Invasive,squamous,carcinoma,.},{gross,satelijte,:,number,of,gross,satellite,lesion,:,o,tumor,type,:,invasive,squamous,carcinoma,.},{JJ,NNS,:,NN,IN,JJ,NN,NNS,:,NN,NN,NN,:,JJ,JJ,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_52,{},{proximal,type,HISTOLOGIC,GRADE,:,G2,,,Moderately,differentiated,MICROSCOPIC,",$,ATEl,.},{proximal,type,HISTOLOGIC,GRADE,:,g2,,,moderately,differentiate,microscopic,",$,atel,.},{JJ,NN,NNP,NNP,:,NN,,,RB,VBN,JJ,``,$,JJ,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_53,{},{.},{.},{.},{}
-TCGA-34-7107, TCGA-34-7107SENT_54,{},{i.,.},{i.,.},{NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_55,{},{ITE8,",IME,.},{ite8,",ime,.},{CD,``,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_56,{},{TASTA$,E$,:,Number,of,microscopic,lesions,:,o,EXTRAPULMONARY,EZXTENSIONIINVASION,OF,TUMOR,:,Nona,identifiedANGIOLYMPHATIC,INVASION,:,No,TUMOR,NECROSIS,:,>,50,%,I,SURGICAL,MARGIN,INVOLVEMENT,:,No,lNFLAMMATORY,(,DEsMOPLA,$,?,I,?,Ic,),REACTION,:,Severe,N1,LYIVIPI-I,NODES,:,Number,of,N1,lymph,nodes,positive,:,o},{tasta$,e$,:,number,of,microscopic,lesion,:,o,extrapulmonary,ezxtensioniinvasion,of,tumor,:,Nona,identifiedANGIOLYMPHATIC,INVASION,:,No,tumor,NECROSIS,:,>,50,%,i,surgical,margin,involvement,:,no,lnflammatory,(,desmoplum,$,?,I,?,ic,),reaction,:,severe,n1,lyivipi-i,node,:,number,of,n1,lymph,node,positive,:,o},{NN,NN,:,NN,IN,JJ,NNS,:,NN,NN,NNS,IN,NN,:,NNP,NNP,NNP,:,NNP,NN,NNP,:,JJR,CD,NN,CD,JJ,NN,NN,:,DT,NN,CD,NN,$,CD,PRP,VBP,NN,CD,NN,:,JJ,NN,NN,VBZ,:,NN,IN,NN,NN,NNS,JJ,:,NN},{}
-TCGA-34-7107, TCGA-34-7107SENT_57,{},{Number,of,N1,lymph,nodes,examined,:,10},{number,of,n1,lymph,node,examine,:,10},{NN,IN,NN,NN,NNS,VBN,:,CD},{}
-TCGA-34-7107, TCGA-34-7107SENT_58,{},{N2,LYMPH,NOIJI,?,.},{n2,lymph,noijus,?,.},{NN,NN,NN,CD,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_59,{},{-,ZS,:,Number,of,N2,lymph,nodes,pogitivez,o,Number,of,N2,lymph,nodes,examined,:,3},{-,z,:,number,of,n2,lymph,node,pogitivez,o,number,of,n2,lymph,node,examine,:,3},{:,NN,:,NN,IN,NN,NN,NNS,NN,NN,NN,IN,NN,NN,NNS,VBN,:,CD},{}
-TCGA-34-7107, TCGA-34-7107SENT_60,{},{UNDERLYING,Dl8E,.},{underlie,dl8e,.},{VBG,NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_61,{},{ASE,(,8,),:,Chronic,interatitial,pneumonia,T,STAGE,,,PATHOLOGIC,:,p,",i,?,2a,N,STAGE,,,PATI-IOLOGIC,:,pNo,M,$,',I,',AG-E,,,PATHOLOGIC,:,Not,applicable},{ASE,(,8,),:,chronic,interatitial,pneumonia,t,stage,,,PATHOLOGIC,:,p,",i,?,2a,n,stage,,,pati-iologic,:,pno,m,$,',I,',ag-e,,,PATHOLOGIC,:,not,applicable},{NNP,CD,CD,NN,:,JJ,JJ,NN,NN,NN,,,NNP,:,NN,'',FW,FW,FW,NN,NN,,,NN,:,NN,NN,$,'',PRP,'',NN,,,NNP,:,RB,JJ},{}
-TCGA-34-7107, TCGA-34-7107SENT_62,{},{----,.},{----,.},{CD,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_63,{},{.},{.},{.},{}
-TCGA-34-7107, TCGA-34-7107SENT_64,{},{?,.},{?,.},{NN,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_65,{},{,,.},{,,.},{,,.},{}
-TCGA-34-7107, TCGA-34-7107SENT_66,{},{m,?,am,...,_,.},{m,?,be,...,_,.},{NN,CD,VBP,:,NN,.},{}
+TCGA-34-7107, TCGA-34-7107SENT_1,"FINAL UIAGNUOISI PART 1 : LYMPH NODE , RIGHT LEVEL 10 , BIOP8YANTHRACOTIC","{FINAL,UIAGNUOISI,PART,1,:,LYMPH,NODE,,,RIGHT,LEVEL,10,,,BIOP8YANTHRACOTIC}","{final,UIAGNUOISI,part,1,:,LYMPH,NODE,,,RIGHT,LEVEL,10,,,biop8yanthracotic}","{JJ,NNP,NN,CD,:,NNP,NNP,,,NNP,NNP,CD,,,NN}","{3,3,0,3,0,7,3,0,10,7,10,0,7}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_2,"LYMPH NODE FREE OF CARCINOMA .","{LYMPH,NODE,FREE,OF,CARCINOMA,.}","{LYMPH,NODE,FREE,of,CARCINOMA,.}","{NNP,NNP,NNP,IN,NNP,.}","{3,3,0,0,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_3,"PART 2 : LYMPH NODE , RIGHT DEEP LEVEL 4 , BIOPSY ANTHRACOTIC","{PART,2,:,LYMPH,NODE,,,RIGHT,DEEP,LEVEL,4,,,BIOPSY,ANTHRACOTIC}","{part,2,:,LYMPH,NODE,,,RIGHT,DEEP,LEVEL,4,,,BIOPSY,ANTHRACOTIC}","{NN,CD,:,NNP,NNP,,,NNP,NNP,NNP,CD,,,NNP,NNP}","{0,1,0,5,1,0,9,9,5,9,0,13,5}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_4,"LYIIIIPH NODE FREE OF CARCINOMA .","{LYIIIIPH,NODE,FREE,OF,CARCINOMA,.}","{LYIIIIPH,NODE,FREE,of,CARCINOMA,.}","{NNP,NNP,NNP,IN,NNP,.}","{3,3,0,0,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_5,"PART 3 : LYMPH NODE , RIGHT LEVEL 4 .","{PART,3,:,LYMPH,NODE,,,RIGHT,LEVEL,4,.}","{part,3,:,LYMPH,NODE,,,RIGHT,LEVEL,4,.}","{NN,CD,:,NNP,NNP,,,NNP,NNP,CD,.}","{0,1,0,8,8,0,8,1,8,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_6,"BIOP3Y ~ ANTHRACOTIC","{BIOP3Y,~,ANTHRACOTIC}","{biop3y,~,anthracotic}","{NN,NN,NN}","{0,3,1}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_7,"LYMPH NODE FREE OF CARCINOMA .","{LYMPH,NODE,FREE,OF,CARCINOMA,.}","{LYMPH,NODE,FREE,of,CARCINOMA,.}","{NNP,NNP,NNP,IN,NNP,.}","{3,3,0,0,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_8,"PART 4 : SOFT TISSUE , RIGHT POSTERIOR CHEST WALL , EXCISION ?","{PART,4,:,SOFT,TISSUE,,,RIGHT,POSTERIOR,CHEST,WALL,,,EXCISION,?}","{part,4,:,soft,tissue,,,right,posterior,chest,WALL,,,EXCISION,?}","{NN,CD,:,JJ,NN,,,NN,NN,NN,NNP,,,NNP,CD}","{0,1,0,5,1,0,9,9,5,12,0,9,12}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_9,"A. PORT ION OF LUNG WITH INFLAMMATORY CHANGES .","{A.,PORT,ION,OF,LUNG,WITH,INFLAMMATORY,CHANGES,.}","{a.,PORT,ION,of,lung,with,inflammatory,change,.}","{NN,NNP,NNP,IN,NN,IN,JJ,NNS,.}","{0,3,1,0,3,0,8,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_10,"ORGANIZING PNEUMONIA .","{ORGANIZING,PNEUMONIA,.}","{organize,pneumonia,.}","{VBG,NN,.}","{0,1,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_11,"FIBRIN DEPOSITION AND","{FIBRIN,DEPOSITION,AND}","{fibrin,deposition,and}","{JJ,NN,CC}","{0,1,2}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_12,"NECROSIS .","{NECROSIS,.}","{NECROSIS,.}","{NNP,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_13,"B. No EVIDENCE OF MALIGNANCY .","{B.,No,EVIDENCE,OF,MALIGNANCY,.}","{B.,No,EVIDENCE,of,MALIGNANCY,.}","{NNP,NNP,NNP,IN,NNP,.}","{3,3,0,0,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_14,"PART 5 LYMPH NODE , LEVEL 7 .","{PART,5,LYMPH,NODE,,,LEVEL,7,.}","{part,5,LYMPH,NODE,,,LEVEL,7,.}","{NN,CD,NNP,NNP,,,NNP,CD,.}","{4,4,4,0,0,4,6,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_15,"BIOPSYA .","{BIOPSYA,.}","{BIOPSYA,.}","{NNP,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_16,"ANTHRACOITC LYMPH NODE WITH LIPID GRANULOMA3 .","{ANTHRACOITC,LYMPH,NODE,WITH,LIPID,GRANULOMA3,.}","{ANTHRACOITC,LYMPH,NODE,with,lipid,granuloma3,.}","{NNP,NNP,NNP,IN,NN,NN,.}","{3,3,4,0,6,4,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_17,"3 .","{3,.}","{3,.}","{LS,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_18,"NO EVIDENCE OF MALIGNANCY .","{NO,EVIDENCE,OF,MALIGNANCY,.}","{no,evidence,of,malignancy,.}","{NN,NN,IN,NN,.}","{2,0,0,2,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_19,"PART 6 : LUNG , nu HT , PNEUMONECTOMYM I","{PART,6,:,LUNG,,,nu,HT,,,PNEUMONECTOMYM,I}","{part,6,:,lung,,,nu,HT,,,PNEUMONECTOMYM,I}","{NN,CD,:,NN,,,NN,NNP,,,NNP,PRP}","{0,1,0,1,0,7,4,0,4,9}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_20,"A. INVASIVE QDERAT [ : IEMI , ) f_mI ; Ij ? EE ?","{A.,INVASIVE,QDERAT,[,:,IEMI,,,),f_mI,;,Ij,?,EE,?}","{a.,INVASIVE,QDERAT,[,:,IEMI,,,),f_mi,;,ij,?,ee,?}","{NN,NNP,NNP,CD,:,NNP,,,CD,NN,:,NN,CD,NN,.}","{3,3,0,3,0,3,0,9,6,0,3,13,11,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_21,"Ej % _ I ? _ N11ATEO .","{Ej,%,_,I,?,_,N11ATEO,.}","{ej,%,_,I,?,_,n11ateo,.}","{JJ,NN,CD,PRP,VBP,CD,NN,.}","{2,0,2,5,2,7,5,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_22,"SQjJAM ? ) l , J$ ; ? ELL = ? AB ? lNQlyI ? WAS50C | ATED WITH EXTENSIVE","{SQjJAM,?,),l,,,J$,;,?,ELL,=,?,AB,?,lNQlyI,?,WAS50C,|,ATED,WITH,EXTENSIVE}","{sqjjam,?,),l,,,j$,;,?,ell,=,?,AB,?,lnqlyus,?,was50c,|,ated,with,extensive}","{NN,CD,NN,NN,,,NN,:,CD,NN,JJ,CD,NNP,CD,NN,CD,NN,CD,NN,IN,JJ}","{4,4,4,0,0,4,0,9,4,11,14,14,14,9,16,14,18,14,0,18}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_23,"mzcrzos : .","{mzcrzos,:,.}","{mzcrzo,:,.}","{NNS,:,.}","{0,0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_24,"-4.5 cm .","{-4.5,cm,.}","{-4.5,cm,.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_25,"* " * " ?? ? " ? " ?? * " " ? " ? * ? ** i * ? " " " -- " ?? ' * ? ** " ' " " ? @ g : P 9 pi : " *","{*,",*,",??,?,",?,",??,*,",",?,",?,*,?,**,i,*,?,",",",--,",??,',*,?,**,",',",",?,@,g,:,P,9,pi,:,",*}","{*,",*,",??,?,",?,",??,*,",",?,",?,*,?,**,i,*,?,",",",--,",??,',*,?,**,",',",",?,@,g,:,p,9,pi,:,",*}","{NN,'',CD,``,CD,CD,``,JJ,'',NN,CD,``,``,CD,``,FW,FW,FW,FW,FW,FW,FW,``,``,``,:,``,NN,'',CD,CD,CD,``,'',``,``,CD,IN,NN,:,NN,CD,NN,:,``,IN}","{10,1,1,3,3,10,10,10,10,22,10,11,14,11,22,22,22,22,22,22,22,0,22,23,37,0,28,37,0,37,32,30,37,0,37,37,23,0,37,0,43,43,37,0,37,37}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_26,":3 .","{:3,.}","{:3,.}","{NN,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_27,"NO oernurnve ANGIOLYMPHATIC INVASION IDENTIFIED .","{NO,oernurnve,ANGIOLYMPHATIC,INVASION,IDENTIFIED,.}","{no,oernurnve,ANGIOLYMPHATIC,INVASION,IDENTIFIED,.}","{NN,NN,NNP,NNP,NNP,.}","{2,0,5,5,2,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_28,"C. EIGHT ( a ) HILAR LYMPH NODES FREE or CARCINOMA D. SURGICAL RESECTION IIIIARGINS FREE OF CARCINOMA .","{C.,EIGHT,(,a,),HILAR,LYMPH,NODES,FREE,or,CARCINOMA,D.,SURGICAL,RESECTION,IIIIARGINS,FREE,OF,CARCINOMA,.}","{C.,EIGHT,(,a,),hilar,lymph,node,free,or,CARCINOMA,D.,SURGICAL,RESECTION,IIIIARGINS,FREE,of,CARCINOMA,.}","{NNP,NNP,VBD,DT,JJ,NN,NN,VBZ,NN,CC,NNP,NNP,NNP,NNP,NNPS,NNPS,IN,NNP,.}","{2,3,0,7,7,7,8,3,16,0,13,13,16,16,16,8,0,16,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_29,"I " - .","{I,",-,.}","{I,",-,.}","{PRP,``,:,.}","{2,0,0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_30,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_31,".","{.}","{.}","{.}","{0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_32,"TNM STAGE ( Moo , 7 ?? Edition } : pT2a No. .","{TNM,STAGE,(,Moo,,,7,??,Edition,},:,pT2a,No.,.}","{TNM,STAGE,(,Moo,,,7,??,edition,},:,pt2a,no.,.}","{NNP,NNP,CD,NNP,,,CD,CD,NN,NN,:,NN,NN,.}","{4,4,4,0,0,7,9,9,4,0,12,4,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_33,"PART 7 : BONE , RIGHT FIFTH RIB , PARTIAL RlE $ I " .","{PART,7,:,BONE,,,RIGHT,FIFTH,RIB,,,PARTIAL,RlE,$,I,",.}","{part,7,:,bone,,,RIGHT,FIFTH,rib,,,partial,rle,$,i,",.}","{NN,CD,:,NN,,,NNP,NNP,NN,,,JJ,NN,$,CD,``,.}","{0,1,0,1,0,8,8,4,0,8,10,10,12,8,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_34,": C ' I ' ION ?","{:,C,',I,',ION,?}","{:,c,',I,',ION,?}","{:,NN,'',PRP,'',NNP,CD}","{0,0,0,2,0,4,6}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_35,"PORTION OF BONE .","{PORTION,OF,BONE,.}","{portion,of,bone,.}","{NN,IN,NN,.}","{0,0,1,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_36,"FREE OF CARCINOMA","{FREE,OF,CARCINOMA}","{free,of,carcinoma}","{VB,IN,NN}","{0,0,1}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_37,"PART 8 : PLEURA , RIGHT PARIETAL , RESECTION A.","{PART,8,:,PLEURA,,,RIGHT,PARIETAL,,,RESECTION,A.}","{part,8,:,PLEURA,,,RIGHT,PARIETAL,,,RESECTION,a.}","{NN,CD,:,NNP,,,NNP,NNP,,,NNP,NN}","{0,1,0,1,0,7,4,0,10,4}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_38,"PORTION OF LUNG WITH ORGANIZING PNEUMONIA .","{PORTION,OF,LUNG,WITH,ORGANIZING,PNEUMONIA,.}","{portion,of,lung,with,organize,pneumonia,.}","{NN,IN,NN,IN,VBG,NN,.}","{0,0,1,1,4,5,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_39,"B. PLEURA WITH CHRONIC INFL .","{B.,PLEURA,WITH,CHRONIC,INFL,.}","{B.,PLEURA,with,CHRONIC,INFL,.}","{NNP,NNP,IN,NNP,NNP,.}","{2,3,0,5,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_40,"AMMA1 ? ION AND FIBROSIS .","{AMMA1,?,ION,AND,FIBROSIS,.}","{amma1,?,ion,and,fibrosis,.}","{NN,CD,NN,CC,NN,.}","{0,3,1,0,1,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_41,"C. No EVIDENCE OF MALIG-NANCY .","{C.,No,EVIDENCE,OF,MALIG-NANCY,.}","{C.,No,EVIDENCE,of,malig-nancy,.}","{NNP,NNP,NNP,IN,NN,.}","{3,3,0,0,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_42,"PART 9 LYIVIPH NODE .","{PART,9,LYIVIPH,NODE,.}","{part,9,lyiviph,node,.}","{NN,CD,NN,NN,.}","{0,4,4,1,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_43,"RIGHT LEVEL 10 .","{RIGHT,LEVEL,10,.}","{right,level,10,.}","{NN,NN,CD,.}","{2,0,2,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_44,"BIOPSY ANTHRACOTIC","{BIOPSY,ANTHRACOTIC}","{biopsy,anthracotic}","{NN,NN}","{2,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_45,"LYMPH NODE FREE OF CARCINOMA .","{LYMPH,NODE,FREE,OF,CARCINOMA,.}","{LYMPH,NODE,FREE,of,CARCINOMA,.}","{NNP,NNP,NNP,IN,NNP,.}","{3,3,0,0,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_46,"PART 10 LYIIIIPH NODE , RIGHT LEVEL 4 , BIOPSY A. PORTION OF BENIGN ADIPOSE TISSUE .","{PART,10,LYIIIIPH,NODE,,,RIGHT,LEVEL,4,,,BIOPSY,A.,PORTION,OF,BENIGN,ADIPOSE,TISSUE,.}","{part,10,LYIIIIPH,NODE,,,RIGHT,LEVEL,4,,,BIOPSY,A.,PORTION,of,benign,adipose,tissue,.}","{NN,CD,NNP,NNP,,,NNP,NNP,CD,,,NNP,NNP,NNP,IN,JJ,JJ,NN,.}","{4,4,4,0,0,7,4,7,0,12,12,4,0,16,16,12,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_47,"B. No LYMPH NODE TISSUE IDENTIFIED .","{B.,No,LYMPH,NODE,TISSUE,IDENTIFIED,.}","{B.,No,LYMPH,NODE,tissue,identify,.}","{NNP,NNP,NNP,NNP,NN,VBN,.}","{5,5,5,5,6,0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_48,"CASE SYNOPSIS :","{CASE,SYNOPSIS,:}","{case,synopsis,:}","{NN,NNS,:}","{2,0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_49,"SYNOPTIC DATA ~ PRIMARY LUNG TUMORS TUMOR LOCATION : Right Lower Lobe PROCEDURE : Pneumonectomy TUMOR SIZE : Maximum dimension : 4.5 cm","{SYNOPTIC,DATA,~,PRIMARY,LUNG,TUMORS,TUMOR,LOCATION,:,Right,Lower,Lobe,PROCEDURE,:,Pneumonectomy,TUMOR,SIZE,:,Maximum,dimension,:,4.5,cm}","{SYNOPTIC,DATA,~,PRIMARY,lung,tumor,tumor,location,:,Right,Lower,Lobe,PROCEDURE,:,Pneumonectomy,TUMOR,SIZE,:,Maximum,dimension,:,4.5,cm}","{NNP,NNP,VBD,NNP,NN,NNS,NN,NN,:,NNP,NNP,NNP,NNP,:,NNP,NNP,NNP,:,NNP,NN,:,CD,NN}","{2,3,0,6,6,3,8,6,0,13,13,13,6,0,17,17,13,0,20,17,0,23,13}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_50,"Minor dimension : 4 cm","{Minor,dimension,:,4,cm}","{minor,dimension,:,4,cm}","{JJ,NN,:,CD,NN}","{2,0,0,5,2}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_51,"GROSS SATELIJTES : Number of gross satellite lesions : o TUMOR TYPE : Invasive squamous carcinoma .","{GROSS,SATELIJTES,:,Number,of,gross,satellite,lesions,:,o,TUMOR,TYPE,:,Invasive,squamous,carcinoma,.}","{gross,satelijte,:,number,of,gross,satellite,lesion,:,o,tumor,type,:,invasive,squamous,carcinoma,.}","{JJ,NNS,:,NN,IN,JJ,NN,NNS,:,NN,NN,NN,:,JJ,JJ,NN,.}","{2,0,0,2,0,8,8,4,0,12,12,2,0,16,16,12,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_52,"proximal type HISTOLOGIC GRADE : G2 , Moderately differentiated MICROSCOPIC " $ ATEl .","{proximal,type,HISTOLOGIC,GRADE,:,G2,,,Moderately,differentiated,MICROSCOPIC,",$,ATEl,.}","{proximal,type,HISTOLOGIC,GRADE,:,g2,,,moderately,differentiate,microscopic,",$,atel,.}","{JJ,NN,NNP,NNP,:,NN,,,RB,VBN,JJ,``,$,JJ,.}","{4,4,4,0,0,4,0,9,6,9,6,6,12,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_53,".","{.}","{.}","{.}","{0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_54,"i. .","{i.,.}","{i.,.}","{NN,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_55,"ITE8 " IME .","{ITE8,",IME,.}","{ite8,",ime,.}","{CD,``,NN,.}","{0,3,1,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_56,"TASTA$ E$ : Number of microscopic lesions : o EXTRAPULMONARY EZXTENSIONIINVASION OF TUMOR : Nona identifiedANGIOLYMPHATIC INVASION : No TUMOR NECROSIS : > 50 % I SURGICAL MARGIN INVOLVEMENT : No lNFLAMMATORY ( DEsMOPLA $ ? I ? Ic ) REACTION : Severe N1 LYIVIPI-I NODES : Number of N1 lymph nodes positive : o","{TASTA$,E$,:,Number,of,microscopic,lesions,:,o,EXTRAPULMONARY,EZXTENSIONIINVASION,OF,TUMOR,:,Nona,identifiedANGIOLYMPHATIC,INVASION,:,No,TUMOR,NECROSIS,:,>,50,%,I,SURGICAL,MARGIN,INVOLVEMENT,:,No,lNFLAMMATORY,(,DEsMOPLA,$,?,I,?,Ic,),REACTION,:,Severe,N1,LYIVIPI-I,NODES,:,Number,of,N1,lymph,nodes,positive,:,o}","{tasta$,e$,:,number,of,microscopic,lesion,:,o,extrapulmonary,ezxtensioniinvasion,of,tumor,:,Nona,identifiedANGIOLYMPHATIC,INVASION,:,No,tumor,NECROSIS,:,>,50,%,i,surgical,margin,involvement,:,no,lnflammatory,(,desmoplum,$,?,I,?,ic,),reaction,:,severe,n1,lyivipi-i,node,:,number,of,n1,lymph,node,positive,:,o}","{NN,NN,:,NN,IN,JJ,NNS,:,NN,NN,NNS,IN,NN,:,NNP,NNP,NNP,:,NNP,NN,NNP,:,JJR,CD,NN,CD,JJ,NN,NN,:,DT,NN,CD,NN,$,CD,PRP,VBP,NN,CD,NN,:,JJ,NN,NN,VBZ,:,NN,IN,NN,NN,NNS,JJ,:,NN}","{38,1,0,2,0,7,4,0,11,11,4,0,11,0,17,17,4,0,21,21,17,0,4,25,23,29,29,29,23,0,34,34,34,4,34,35,38,0,41,41,38,0,45,45,46,38,0,53,0,52,52,48,46,0,46}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_57,"Number of N1 lymph nodes examined : 10","{Number,of,N1,lymph,nodes,examined,:,10}","{number,of,n1,lymph,node,examine,:,10}","{NN,IN,NN,NN,NNS,VBN,:,CD}","{0,0,5,5,1,5,0,5}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_58,"N2 LYMPH NOIJI ? .","{N2,LYMPH,NOIJI,?,.}","{n2,lymph,noijus,?,.}","{NN,NN,NN,CD,.}","{3,3,0,3,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_59,"- ZS : Number of N2 lymph nodes pogitivez o Number of N2 lymph nodes examined : 3","{-,ZS,:,Number,of,N2,lymph,nodes,pogitivez,o,Number,of,N2,lymph,nodes,examined,:,3}","{-,z,:,number,of,n2,lymph,node,pogitivez,o,number,of,n2,lymph,node,examine,:,3}","{:,NN,:,NN,IN,NN,NN,NNS,NN,NN,NN,IN,NN,NN,NNS,VBN,:,CD}","{0,16,0,2,0,8,8,4,11,11,4,0,15,15,11,0,0,16}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_60,"UNDERLYING Dl8E .","{UNDERLYING,Dl8E,.}","{underlie,dl8e,.}","{VBG,NN,.}","{0,1,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_61,"ASE ( 8 ) : Chronic interatitial pneumonia T STAGE , PATHOLOGIC : p " i ? 2a N STAGE , PATI-IOLOGIC : pNo M $ ' I ' AG-E , PATHOLOGIC : Not applicable","{ASE,(,8,),:,Chronic,interatitial,pneumonia,T,STAGE,,,PATHOLOGIC,:,p,",i,?,2a,N,STAGE,,,PATI-IOLOGIC,:,pNo,M,$,',I,',AG-E,,,PATHOLOGIC,:,Not,applicable}","{ASE,(,8,),:,chronic,interatitial,pneumonia,t,stage,,,PATHOLOGIC,:,p,",i,?,2a,n,stage,,,pati-iologic,:,pno,m,$,',I,',ag-e,,,PATHOLOGIC,:,not,applicable}","{NNP,CD,CD,NN,:,JJ,JJ,NN,NN,NN,,,NNP,:,NN,'',FW,FW,FW,NN,NN,,,NN,:,NN,NN,$,'',PRP,'',NN,,,NNP,:,RB,JJ}","{3,3,0,3,0,10,10,10,10,3,0,10,0,3,14,20,20,20,20,14,0,3,0,25,22,28,0,25,0,28,0,3,0,35,32}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_62,"---- .","{----,.}","{----,.}","{CD,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_63,".","{.}","{.}","{.}","{0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_64,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_65,", .","{,,.}","{,,.}","{,,.}","{0,0}","{}"
+TCGA-34-7107, TCGA-34-7107SENT_66,"m ? am ... _ .","{m,?,am,...,_,.}","{m,?,be,...,_,.}","{NN,CD,VBP,:,NN,.}","{3,1,0,0,3,0}","{}"

@@ -1,333 +1,333 @@
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_1,{},{Page,1,of6},{Page,1,of6},{NNP,CD,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_2,{},{uum,:,or9cs9ea-3277-4s1r-s2au-3357-u,:,Aan7A,pP,.},{uum,:,or9cs9ea-3277-4s1r-s2au-3357-u,:,aan7a,pp,.},{NN,:,NN,:,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_3,{},{@Z,^,H,?,.},{@z,^,h,?,.},{NN,NN,NN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_4,{},{},\,U,],?,~,--,H,__},{},\,U,],?,~,--,h,__},{NN,CD,NNP,CD,CD,NN,:,NN,IN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_5,{},{TCGA-J2-A4AE-BIA-PR,gedacted,@,/,?,\,.},{tcga-j2-a4ae-bia-pr,gedact,@,/,?,\,.},{NN,VBD,SYM,:,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_6,{},{~,V,o,[},{~,v,o,[},{NN,NN,NN,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_7,{},{>,V,V,`,.},{>,v,v,`,.},{JJR,NN,NN,``,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_8,{},{III,III,!},{III,III,!},{NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_9,{},{I,III,I,IlllllllllllllllllllllllllllllllllllllllllllllIll,",IllIllII,|,|,|,|,|,l,|,|,|,|,|,|,I,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,I,|,|,|,Il,|,|,|,|,l,|,|,|,|,l,|,|,ll,III,!},{I,iii,I,illlllllllllllllllllllllllllllllllllllllllllllill,",illillii,|,|,|,|,|,l,|,|,|,|,|,|,I,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,I,|,|,|,il,|,|,|,|,l,|,|,|,|,l,|,|,ll,iii,!},{PRP,CD,PRP,VBP,``,NN,CD,CD,NN,CD,NN,NN,CD,CD,NN,CD,CD,NN,PRP,VBP,CD,CD,NN,PRP,VBP,CD,CD,NN,CD,NN,PRP,VBP,CD,CD,PRP,VBP,CD,CD,NN,CD,CD,NN,NN,NN,CD,CD,NN,NN,NN,CD,CD,NN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_10,{},{I,III,P,[,IllIIIIIIIIIHIIllHllllllIIlllllllllllllllllllllllllllllllll,cE3,",:33,Y,ONL$,7,",?,i56,",Ki,?,6,',?,"},{I,iii,p,[,illiiiiiiiiihiillhlllllliilllllllllllllllllllllllllllllllll,ce3,",:33,y,onl$,7,",?,i56,",kus,?,6,',?,"},{PRP,CD,NN,CD,NN,NN,'',CD,NN,NN,CD,``,NN,NN,'',NN,CD,CD,'',.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_11,{},{%,I,?,L?w},{%,i,?,l?w},{NN,CD,VBP,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_12,{},{SURGICAL,PATHOLOGY},{surgical,pathology},{JJ,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_13,{},{Time,Coliected,Time,R9c9iV9d,Time,Reported,9rF3_9,',N,?,-,",W39,",Ordering,Provider,",@,|,8,v,>,H,.},{Time,Coliected,Time,R9c9iV9d,Time,reported,9rf3_9,',n,?,-,",w39,",Ordering,Provider,",@,|,8,v,>,h,.},{NNP,NNP,NNP,NNP,NNP,JJ,NN,'',NN,SYM,:,``,NN,'',NNP,NNP,``,SYM,SYM,CD,LS,JJR,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_14,{},{D,H,M,;,Status},{d,h,m,;,Status},{NN,NN,NN,:,NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_15,{},{Results},{result},{NNS},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_16,{},{Fina,!},{Fina,!},{NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_17,{},{iii,?,p,=,fi,,,c,D,_,o,,,3},{iii,?,p,=,fus,,,c,d,_,o,,,3},{LS,NN,NN,JJ,NNS,,,NN,NN,NN,NN,,,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_18,{},{@,:,l,\,WW,Ma,,,g,?,/,~,/,01.3},{@,:,l,\,WW,Ma,,,g,?,/,~,/,01.3},{SYM,:,NN,CD,NNP,NNP,,,NN,CD,:,CD,:,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_19,{},{caz,,,;,3,.},{caz,,,;,3,.},{NN,,,:,LS,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_20,{},{~,+,,,L,;,lu,~,3,,,Wr,~,',r,>,w,",?,5,?,-,?,-3,*,!},{~,+,,,l,;,lu,~,3,,,wr,~,',r,>,w,",?,5,?,-,?,-3,*,!},{NN,CC,,,NN,:,FW,FW,CD,,,NN,NN,'',NN,JJR,NN,'',CD,CD,SYM,:,NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_21,{},{Pakssu,~,-,u,~,3,?,,,mu5u,.},{Pakssu,~,-,u,~,3,?,,,mu5u,.},{NNP,SYM,:,NN,NN,CD,NN,,,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_22,{},{r,?,~,63,*,?},{r,?,~,63,*,?},{NN,CD,NN,CD,CD,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_23,{},{/,",?,?,/,:,v,/,',>},{/,",?,?,/,:,v,/,',>},{:,``,CD,CD,:,:,LS,:,'',JJR},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_24,{},{h,<,I,!},{h,<,i,!},{NN,JJR,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_25,{},{II,.},{II,.},{NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_26,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_27,{},{!,"},{!,"},{.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_28,{},{:,F,.},{:,f,.},{:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_29,{},{M.,LINC-f,?,IfL,.1,l,*,<,.},{M.,LINC-f,?,ifl,.1,l,*,<,.},{NNP,NNP,CD,NN,CD,NN,NN,JJR,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_30,{},{N.,L'iE,\,lfjT,.},{N.,L'iE,\,lfjt,.},{NNP,NNP,VBD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_31,{},{\,?,\,<,_,?,.},{\,?,\,<,_,?,.},{NN,CD,NN,JJR,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_32,{},{;,{,},',r,',.},{;,{,},',r,',.},{:,CD,NN,'',NN,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_33,{},{?,2,",\,',I,?,.},{?,2,",\,',I,?,.},{NN,CD,``,NN,'',PRP,VBP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_34,{},{I,',OI,\,?,-,#,3,:,},P.,Z,:,DEE,LINGULAR,ESEGMENT,~,STITCH,AT,MASSQ,.},{I,',OI,\,?,-,#,3,:,},P.,z,:,DEE,LINGULAR,ESEGMENT,~,STITCH,at,MASSQ,.},{PRP,'',NNP,NNP,SYM,:,#,CD,:,CD,NNP,NN,:,NNP,NNP,NNP,VBD,NNP,IN,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_35,{},{EXTEFJDED,LING,",.},{EXTEFJDED,LING,",.},{NNP,NNP,``,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_36,{},{},',L,[,?,xR,SE,-,?,3MElN,?,I,',F3,~,?,IE,N?T,?},{},',l,[,?,xr,se,-,?,3meln,?,I,',f3,~,?,ie,n?t,?},{NN,'',NN,CD,CD,NN,NN,:,NN,NN,CD,PRP,'',NN,NN,CD,JJ,NN,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_37,{},{[,:,E1,",.},{[,:,e1,",.},{NNP,:,NN,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_38,{},{l,~,",',:,",UPPER,LOEE.-STITCH,AT,MASS,",1Ff,.1,N,',.},{l,~,",',:,",UPPER,LOEE.-STITCH,at,MASS,",1ff,.1,n,',.},{NN,SYM,``,'',:,``,NNP,NNP,IN,NNP,``,NN,CD,NN,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_39,{},{I,?,I.-EE,",',I,',UPPER,LOBE,FSW},{I,?,i.-ee,",',I,',UPPER,LOBE,FSW},{PRP,VBP,JJ,``,'',PRP,'',NNP,NNP,NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_40,{},{6,1,HA,',_,.},{6,1,ha,',_,.},{CD,CD,NN,'',NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_41,{},{1,),;,?,,,At,.},{1,),;,?,,,at,.},{CD,CD,:,CD,,,IN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_42,{},{?,I,\,3,{,I,),;,},3,1,53,:,7,',),.,'},{?,I,\,3,{,I,),;,},3,1,53,:,7,',),.,'},{NN,PRP,VBP,CD,CD,PRP,VBP,:,CD,CD,CD,CD,:,CD,'',CD,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_43,{},{13,-,1f,,,?,?,?,fPH,.},{13,-,1f,,,?,?,?,fph,.},{CD,:,NN,,,NN,NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_44,{},{\,J,(,',),l'fx,',:,",j,,,I,\,i,(,',J,?,1,',U,[,?,-,GOP,.},{\,j,(,',),l'fx,',:,",j,,,I,\,i,(,',J,?,1,',U,[,?,-,GOP,.},{NN,NN,NN,'',CD,NN,'',:,``,NN,,,PRP,VBP,FW,FW,'',NNP,CD,CD,'',NNP,NNP,SYM,:,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_45,{},{SEEN,.},{SEEN,.},{NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_46,{},{<,1,?},{<,1,?},{JJR,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_47,{},{-,<,7,0d5},{-,<,7,0d5},{:,JJR,CD,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_48,{},{ff,;,',T,?,",f,?,:,?,",',-1,.},{ff,;,',t,?,",f,?,:,?,",',-1,.},{NN,:,'',NN,CD,``,FW,FW,:,CD,``,'',CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_49,{},{?,\,.},{?,\,.},{NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_50,{},{?,fJi,?,.},{?,fjus,?,.},{NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_51,{},{:,',.,"},{:,',.,"},{:,'',.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_52,{},{l,,,I,?,.},{l,,,I,?,.},{NN,,,PRP,VBP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_53,{},{?,I,?,L,',?,"},{?,I,?,l,',?,"},{NN,PRP,VBP,NN,'',.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_54,{},{J,?,V,=,.,'},{j,?,v,=,.,'},{NN,CD,NN,JJ,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_55,{},{1,?,"},{1,?,"},{CD,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_56,{},{flF,.},{flf,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_57,{},{F.,?,J.},{F.,?,J.},{NNP,NNP,NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_58,{},{?,,,NC,),?,f,",E,?,Q/TOP,:,SEFEN,.},{?,,,nc,),?,f,",e,?,q/top,:,SEFEN,.},{NN,,,NN,CD,NN,FW,``,NN,CD,NN,:,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_59,{},{Prepared,?},{prepare,?},{VBN,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_60,{},{Prepar},{Prepar},{NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_61,{},{?,TUMOR,SEEPJ,.},{?,tumor,seepj,.},{JJ,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_62,{},{T?UI,\,1IOR,.},{t?ui,\,1ior,.},{NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_63,{},{?,?,F,,,EEN,.},{?,?,f,,,een,.},{NN,CD,NN,,,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_64,{},{TUMOR,SEFIN,.},{tumor,sefin,.},{NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_65,{},{NC,),TUMOR,fJ,?,3,',l51JI,?,l.},{nc,),tumor,fj,?,3,',l51jus,?,l.},{NN,CD,NN,NN,CD,CD,'',NN,CD,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_66,{},{~,2,;,.,)},{~,2,;,.,)},{NN,CD,:,.,SYM},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_67,{},{NO,TUMOR,SEEN,.},{no,tumor,seen,.},{NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_68,{},{MORE,#,1NO},{more,#,1no},{JJR,#,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_69,{},{TUMOR,SEEN,.},{tumor,seen,.},{NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_70,{},{?,awn,N,?,?,E,,,NC,TUMOR,SEEN,.},{?,awn,n,?,?,e,,,nc,tumor,seen,.},{NN,NN,NN,CD,CD,NN,,,NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_71,{},{?,AR,HuDE,H3w},{?,ar,hude,h3w},{NN,NNS,VBP,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_72,{},{NUDE,,,no,TUMOR,?,EN,.},{nude,,,no,tumor,?,en,.},{NN,,,DT,NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_73,{},{NT,LEFT,UPPER,LOBE-ST1TCH,AT,MAoS,?},{nt,LEFT,UPPER,lobe-st1tch,at,mao,?},{JJ,NNP,NNP,NN,IN,NN,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_74,{},{LEFT,UE,?,?},{LEFT,UE,?,?},{NNP,NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_75,{},{ER,LOBE,F8},{er,lobe,f8},{NN,NN,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_76,{},{i,?,I,(,),?,1,?,iJMOR,',_},{i,?,I,(,),?,1,?,ijmor,',_},{FW,FW,PRP,VBP,CD,CD,CD,CD,NN,'',SYM},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_77,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_78,{},{_,?,.},{_,?,.},{NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_79,{},{.,'},{.,'},{.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_80,{},{1,.},{1,.},{LS,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_81,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_82,{},{I.,L,~,lGU,.},{i.,l,~,lgu,.},{NN,NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_83,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_84,{},{;,:,",sR,SITYGMENT,-,STITCH,AT,MASSM,?,.,'},{;,:,",sr,sitygment,-,stitch,at,MASSM,?,.,'},{:,:,``,NN,NN,:,NN,IN,NNP,CD,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_85,{},{I,\,E,[,M,],?,1,\,f.,',...,L,?,f,',.,'},{I,\,e,[,m,],?,1,\,f.,',...,l,?,f,',.,'},{PRP,VBP,NN,CD,NN,CD,NN,CD,CD,NN,'',:,NN,FW,FW,'',.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_86,{},{zf,?,.},{zf,?,.},{NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_87,{},{?,I,\,,,?,Z,\,,,S.T.,\,7,',>,.7,.},{?,I,\,,,?,z,\,,,S.T.,\,7,',>,.7,.},{NN,PRP,VBP,,,VBP,NN,NN,,,NNP,NNP,CD,'',JJR,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_88,{},{ADI,?},{ADI,?},{NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_89,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_90,{},{NOCARC,',INOMA,,,LIMITED,TO,LUNG,.},{NOCARC,',INOMA,,,LIMITED,to,lung,.},{NNP,POS,NNP,,,NNP,TO,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_91,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_92,{},{:,JN,.},{:,jn,.},{:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_93,{},{H,P,5,3,?,I.,?,<,?,),I.,.0,C3,1,',?,g,:,GRADE,:,.3,/,4,.},{h,p,5,3,?,i.,?,<,?,),i.,.0,c3,1,',?,g,:,GRADE,:,.3,/,4,.},{NN,NN,CD,CD,NN,NN,NN,JJR,CD,NN,NN,CD,NN,CD,'',CD,NN,:,NNP,:,NN,:,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_94,{},{TUMOR,EYJ,CL,',2,?,l.,Ll,TY,:,UN,I,FOCAL,.,'},{tumor,eyj,cl,',2,?,l.,ll,ty,:,UN,i,focal,.,'},{NN,NN,NN,'',CD,CD,NN,NN,NN,:,NNP,NN,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_95,{},{L,",ZJMGR,SIZE,:,},_,.},{l,",ZJMGR,SIZE,:,},_,.},{NN,'',NNP,NNP,:,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_96,{},{:5,?,IE4,.},{:5,?,ie4,.},{CD,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_97,{},{``,5,',l',N,?,J,,,",',2,V.,.},{``,5,',l',n,?,j,,,",',2,V.,.},{``,CD,'',JJ,NN,CD,NN,,,``,'',CD,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_98,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_99,{},{OMPONE-N,',I,?,07:7,TE,-,{,El,TTJMCJR,MEASIIRES,0.4,CM,.,"},{ompone-n,',I,?,07:7,te,-,{,El,TTJMCJR,MEASIIRES,0.4,cm,.,"},{NN,'',PRP,VBP,CD,SYM,:,CD,NNP,NNP,NNP,CD,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_100,{},{i,",(,11,?,4,-,?,?,3lt,(,P,5,L,?,I,",E,?,,,:,i.,.},{i,",(,11,?,4,-,?,?,3lt,(,p,5,l,?,I,",e,?,,,:,i.,.},{LS,``,CD,CD,NN,CD,:,CD,CD,JJ,NN,NN,CD,NN,CD,PRP,``,NN,NN,,,:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_101,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_102,{},{I.,1,\,3G,?},{i.,1,\,3g,?},{NN,CD,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_103,{},{JT,.},{jt,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_104,{},{Ia},{ia},{NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_105,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_106,{},{;,?,U1,?,2,,,},?,\,_,IEll,?,J23,?,.},{;,?,u1,?,2,,,},?,\,_,iell,?,j23,?,.},{:,CD,NN,NN,CD,,,CD,CD,CD,NN,NN,CD,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_107,{},{S,ION,:,NOT,SEEN,.},{s,ion,:,NOT,SEEN,.},{NN,NN,:,NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_108,{},{l,\,l,?,',.,'},{l,\,l,?,',.,'},{NN,CD,NN,NN,'',.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_109,{},{/,,5,L4,',.},{/,,5,l4,',.},{:,CD,NN,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_110,{},{;,',-,N,J.,L,?,IC,.},{;,',-,N,J.,L,?,ic,.},{:,'',:,NNP,NNP,NNP,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_111,{},{l5,.},{l5,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_112,{},{N,1,?,-,?,.,'},{n,1,?,-,?,.,'},{NN,CD,SYM,:,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_113,{},{},B53,?,1,?,1,{,iJC,?,I,',I\/E,E,',.},{},b53,?,1,?,1,{,ijc,?,I,',i\/e,e,',.},{NN,NN,CD,CD,NN,CD,CD,NN,CD,PRP,'',NN,NN,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_114,{},{?N,I,?},{?n,i,?},{NN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_115,{},{,,UMONIT,I,S,OR,ATE,.},{,,UMONIT,I,s,or,ate,.},{,,NNP,NNP,NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_116,{},{LECTAS,I,S},{lecta,I,s},{NNS,PRP,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_117,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_118,{},{I,',.},{I,',.},{PRP,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_119,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_120,{},{?,,,/,1,?,-,?,1,",',:,;,?},{?,,,/,1,?,-,?,1,",',:,;,?},{NN,,,:,CD,SYM,:,NN,CD,``,'',:,:,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_121,{},{I,?,"},{I,?,"},{PRP,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_122,{},{.,'},{.,'},{.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_123,{},{T,?,;,Q1,(,:,?,u,?,f.,~,1,),7,-,$,1.,,,V,?,'},{t,?,;,q1,(,:,?,u,?,f.,~,1,),7,-,$,1.,,,v,?,'},{NN,NN,:,NN,CD,:,CD,NN,CD,NN,NN,CD,NN,CD,:,$,CD,,,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_124,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_125,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_126,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_127,{},{?,3SF,.},{?,3sf,.},{NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_128,{},{L,},I.,\,J',\,JA,.},{l,},i.,\,J',\,ja,.},{NN,CD,NN,CD,NNP,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_129,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_130,{},{~,3ION,:,NOT,SEEN,.},{~,3ion,:,NOT,SEEN,.},{NN,NN,:,NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_131,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_132,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_133,{},{T.,NVA,.},{T.,NVA,.},{NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_134,{},{?,_,%,T,?,C,>,?,.},{?,_,%,t,?,c,>,?,.},{NN,CD,NN,NN,CD,NN,JJR,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_135,{},{?,l,:,NOT,SEEN,.},{?,l,:,NOT,SEEN,.},{NN,NN,:,NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_136,{},{ZNCLUDELD,IN,AL.,.},{ZNCLUDELD,in,AL.,.},{NNP,IN,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_137,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_138,{},{-,',_,.},{-,',_,.},{:,'',NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_139,{},{E,",AR,?,I,?,S,:,NUMBEIR,.},{e,",ar,?,I,?,s,:,numbeir,.},{NN,'',NN,CD,PRP,VBP,NN,:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_140,{},{[,[,?,J?JOL,?,v,?,P,_,'D},{[,[,?,j?jol,?,v,?,p,_,'d},{NN,CD,CD,NN,CD,LS,CD,NN,CD,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_141,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_142,{},{\,lI,},IV1B,},:3,;,<,E.,KAMlN,},:,LD,:,13},{\,li,},iv1b,},:3,;,<,E.,KAMlN,},:,LD,:,13},{NN,NN,CD,NN,CD,CD,:,JJR,NNP,NNP,NNP,:,NNP,:,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_143,{},{g,?,-,',.},{g,?,-,',.},{NN,SYM,:,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_144,{},{l,??,6,.},{l,??,6,.},{NN,CD,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_145,{},{\,.1,,,1g,:,N,{,Zv,,,pl,?,-,?,IX,.},{\,.1,,,1g,:,n,{,zv,,,pl,?,-,?,ix,.},{NN,NN,,,NN,:,NN,CD,NN,,,NN,SYM,:,CD,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_146,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_147,{},{jE?EL,',I,:,I,~,1EE,~,l,?,i,?,1,.},{je?el,',I,:,I,~,1ee,~,l,?,i,?,1,.},{NN,'',PRP,:,PRP,VBP,NN,NN,NN,CD,FW,FW,LS,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_148,{},{?,Pl,:,.},{?,pl,:,.},{NN,NN,:,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_149,{},{;,:,LLNCEULAR,.},{;,:,llnceular,.},{:,:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_150,{},{:,:,',E1GMEN,',l?EC,',i,?,UMY,.},{:,:,',e1gman,',l?ec,',i,?,umy,.},{:,:,'',NN,'',NN,'',FW,FW,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_151,{},{~,.},{~,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_152,{},{:,E,\,',C,?,r.,?,(,.,)},{:,e,\,',c,?,r.,?,(,.,)},{:,NN,NN,'',NN,CD,NN,CD,NN,.,SYM},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_153,{},{k,,,.},{k,,,.},{NN,,,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_154,{},{U.,(,,,?,3,01,?,1,?,i.,',:,.},{U.,(,,,?,3,01,?,1,?,i.,',:,.},{NNP,NNP,,,CD,CD,NN,NN,CD,CD,NN,'',:,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_155,{},{?,{,EJI,.},{?,{,ejus,.},{NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_156,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_157,{},{C,/,",XI,;,AL,?,?},{c,/,",xi,;,AL,?,?},{NN,:,``,NN,:,NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_158,{},{3NCJMATO,[,},S,IIYPERPL-A5-EIA,.},{3ncjmato,[,},s,iiyperpl-a5-eium,.},{CD,CD,NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_159,{},{SEEN,.},{SEEN,.},{NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_160,{},{O},{o},{NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_161,{},{Page,2,of,(,',)},{Page,2,of,(,',)},{NNP,CD,IN,NN,'',SYM},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_162,{},{?,of,o,"},{?,of,o,"},{NN,IN,NN,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_163,{},{P,u-1,DC,a,',.},{p,u-1,dc,a,',.},{NN,NN,NN,DT,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_164,{},{?,ICTTON,MARGINS,.},{?,ictton,margin,.},{NN,NN,NNS,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_165,{},{S,.},{s,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_166,{},{u,-,?,.},{u,-,?,.},{SYM,:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_167,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_168,{},{I,[,VIE,N'T,FE,?,:},{I,[,vie,not,FE,?,:},{PRP,VBP,VB,RB,NNP,NNP,:},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_169,{},{LYMPH,NODES,,,NO,TUMOR,SEEN,.},{lymph,node,,,no,tumor,seen,.},{NN,NNS,,,NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_170,{},{?,MENT,?,,,L',L,",',},L,",",1,",?},{?,ment,?,,,l',l,",',},l,",",1,",?},{RB,JJ,NN,,,NN,NN,'','',CD,NN,'',``,CD,``,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_171,{},{JP,},?},{JP,},?},{NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_172,{},{EL,',R,LUBE,:,NO,TUMOR,SE-LIN,.},{el,',r,lube,:,no,tumor,se-lin,.},{NN,'',NN,NN,:,NN,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_173,{},{LLNGULAR,SEGMENT,:,ADENOCARCINOMA,.},{LLNGULAR,SEGMENT,:,adenocarcinoma,.},{NNP,NNP,:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_174,{},{;,Lin,;,gu,;,iuiermaticn,?,L,},},",l,",',:,',LE,&,LJ,,,>,},.},{;,Lin,;,gu,;,iuiermaticn,?,l,},},",l,",',:,',LE,&,LJ,,,>,},.},{:,NNP,:,NN,:,NN,CD,NN,CD,CD,``,NN,'','',:,'',NNP,CC,NNP,,,JJR,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_175,{},{?,*,.,'},{?,*,.,'},{NN,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_176,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_177,{},{~,J,EJJDIG,Mz,?,'},{~,j,ejjdig,mz,?,'},{NN,NN,NN,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_178,{},{af,$,?,~,7,'},{af,$,?,~,7,'},{RB,$,CD,NN,CD,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_179,{},{;,iption,in,formalin,labeled,with,the,parient,?,s,name,and,four,llow,tan,fibroadipose,tissue,fragments,.7,z,5,cm,.},{;,iption,in,formalin,label,with,the,parient,?,s,name,and,four,llow,tan,fibroadipose,tissue,fragment,.7,z,5,cm,.},{:,NN,IN,NN,VBN,IN,DT,JJ,NN,NNS,NN,CC,CD,NN,NN,NN,NN,NNS,CD,SYM,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_180,{},{wrapped,and,submitted,in,i},{wrap,and,submit,in,i},{VBN,CC,VBN,IN,FW},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_181,{},{1n,formalin,laveled,with,the,patient,'s,mam,.},{1n,formalin,lavele,with,the,patient,'s,mam,.},{NN,NN,VBD,IN,DT,NN,POS,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_182,{},{ye1imw,?,tan,Iibrcadlpose,tissue,measuring,0.5},{ye1imw,?,tan,iibrcadlpose,tissue,measure,0.5},{NN,CD,NN,NN,NN,VBG,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_183,{},{mm,.},{mm,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_184,{},{wrapped,and,wnbmitved,in,El,.},{wrap,and,wnbmitve,in,El,.},{VBN,CC,VBN,IN,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_185,{},{ReuoLved,Ln,formalin,labeled,with,the,patient,'s,name,and,yellow,tan,fibroadipose,tissue,measuring,0.5,x,0.5},{reuolve,ln,formalin,label,with,the,patient,'s,name,and,yellow,tan,fibroadipose,tissue,measure,0.5,x,0.5},{VBN,NN,NN,VBN,IN,DT,NN,POS,NN,CC,JJ,NN,NN,NN,VBG,CD,CC,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_186,{},{d,submitted,in,Cl,.},{d,submit,in,cl,.},{NN,VBN,IN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_187,{},{cm,.},{cm,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_188,{},{Wrapped},{wrap},{VBD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_189,{},{;,v@d,in,Eormaiin,labeled,with,the,patienu,'s,name,and},{;,v@d,in,Eormaiin,label,with,the,patienu,'s,name,and},{:,NN,IN,NNP,VBN,IN,DT,NN,POS,NN,CC},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_190,{},{-,l,;,nw,~,ran,fibroadipose,tissue,measuring,0.5,X,0.4,and,submitted,in,D1,.},{-,l,;,nw,~,run,fibroadipose,tissue,measure,0.5,x,0.4,and,submit,in,d1,.},{:,NN,:,NN,NN,VBD,JJ,NN,VBG,CD,NN,CD,CC,VBN,IN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_191,{},{in,F,rmalin,Laneled,with,the,patient,'s,name,and},{in,f,rmalin,lanele,with,the,patient,'s,name,and},{IN,NN,NN,VBN,IN,DT,NN,POS,NN,CC},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_192,{},{A,yeLlow,?,tan,ttczen,section,?issue,traqment},{a,yellow,?,tan,ttczen,section,?issue,traqment},{DT,JJ,NN,NN,NN,NN,NN,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_193,{},{G.,7,gm,.},{G.,7,gm,.},{NNP,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_194,{},{Wrapped,and,submitted,in,E,?,.},{wrap,and,submit,in,e,?,.},{VBN,CC,VBN,IN,NN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_195,{},{n,*,rn,?,In,?},{n,*,rn,?,in,?},{NN,CD,NN,NN,IN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_196,{},{4beLed,with,the,pntieH?,'S,name,and,u,,},{4bele,with,the,pntieh?,'s,name,and,u,,},{VBN,IN,DT,NN,POS,NN,CC,NN,,},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_197,{},{an,LLbrCddiQ,',?ue,measuring,0.7,x,0.5},{a,llbrcddiq,',?ue,measure,0.7,x,0.5},{DT,NN,POS,NN,VBG,CD,CC,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_198,{},{thmihted,i,Fl,.},{thmiht,i,fl,.},{VBN,FW,FW,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_199,{},{1,ii,?,;,EC-L,?,:,Il,<,?,,1,liI,',1,?,,,_,c.,<,.1,,,?,e,:,led,wihlx,[,aha,p,?,at,;,1e,:1,?,i,:,?,s,mnlxe,.},{1,ii,?,;,ec-l,?,:,il,<,?,,1,lii,',1,?,,,_,c.,<,.1,,,?,e,:,lead,wihlx,[,aha,p,?,at,;,1e,:1,?,i,:,?,s,mnlxe,.},{CD,LS,NN,:,NN,CD,:,NN,JJR,CD,CD,NN,'',CD,CD,,,CD,NN,JJR,CD,,,CD,SYM,:,VBD,NN,CD,NN,NN,CD,IN,:,NN,CD,NN,FW,:,CD,NNS,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_200,{},{-,i,~,.11,d,r,?},{-,i,~,.11,d,r,?},{:,FW,FW,CD,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_201,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_202,{},{_,.},{_,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_203,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_204,{},{<,?,:},{<,?,:},{JJR,CD,:},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_205,{},{?KW,two,yel1ow,~,t,;,n,fibroadipose,tissue,jne,i,&,:,qest,fragment,measures,0.7,x,0.5,cm,and,the,res,O,R,v,Q.,4,cm,.},{?kw,two,yel1ow,~,t,;,n,fibroadipose,tissue,jne,i,&,:,qest,fragment,measure,0.7,x,0.5,cm,and,the,re,o,r,v,Q.,4,cm,.},{VB,CD,JJ,NN,NN,:,NN,NN,NN,NN,FW,CC,:,VB,NN,NNS,CD,CC,CD,NN,CC,DT,NNS,NN,NN,LS,NNP,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_206,{},{Wrapped,and,submitted},{wrap,and,submit},{VBN,CC,VBN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_207,{},{...,z,(,A},{...,z,(,a},{:,SYM,CD,DT},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_208,{},{Ln,?ogmalin,labeled,with,the,patient,?,s,name,and,ticwwtan,fibzoadipose,tissue,measuring,0.7,x,0.5,and,suvmitted,in,EL,.,)},{ln,?ogmalin,label,with,the,patient,?,s,name,and,ticwwtan,fibzoadipose,tissue,measure,0.7,x,0.5,and,suvmitt,in,EL,.,)},{NN,NN,VBN,IN,DT,NN,CD,NNS,NN,CC,NN,NN,NN,VBG,CD,CC,CD,CC,VBN,IN,NNP,.,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_209,{},{Ln,Lmznalin,Labeled,with,Ehe,paLient,'s,name,and,F3,",4:0,twn,y.,llow,~,tan,fibroadipose,tissue,fragments},{ln,lmznalin,label,with,ehe,palient,'s,name,and,f3,",4:0,twn,y.,llow,~,tan,fibroadipose,tissue,fragment},{NN,NN,VBN,IN,NN,NN,POS,NN,CC,NN,'',CD,NN,NN,NN,NN,NN,NN,NN,NNS},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_210,{},{.4,x,0.4,cm,.},{.4,x,0.4,cm,.},{CD,CC,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_211,{},{Wrapped,and,submitted,in,t1,.},{wrap,and,submit,in,t1,.},{VBN,CC,VBN,IN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_212,{},{?,?,rmalin,Labeled,with,the,patj,.},{?,?,rmalin,label,with,the,patj,.},{NN,CD,NN,VBN,IN,DT,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_213,{},{nt,'s,name,and},{nt,'s,name,and},{NN,POS,NN,CC},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_214,{},{Q},{Q},{NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_215,{},{#,1,?,are,two,yalLow,?,b,:,own,fibroadipose,tissue},{#,1,?,be,two,yallow,?,b,:,own,fibroadipose,tissue},{#,CD,NN,VBP,CD,JJ,NN,NN,:,JJ,NN,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_216,{},{The,Targest,?nagment,measures,0.7,x,0.1,cm,and,the,*,measures,0.4,X,0.4,cm,.},{the,targest,?nagment,measure,0.7,x,0.1,cm,and,the,*,measure,0.4,x,0.4,cm,.},{DT,JJ,NN,NNS,CD,CC,CD,NN,CC,DT,NN,VBZ,CD,NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_217,{},{wrapped,and,submitted},{wrap,and,submit},{VBN,CC,VBN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_218,{},{?,th,the,patient,?s,name,and,:,aLiu,;,abeieJ,w,ow,~,brown,fibroadipose,tissue,fragment,Wrapped,and,submitted,in,Kl,.},{?,th,the,patient,?s,name,and,:,aliu,;,abeiej,w,ow,~,brown,fibroadipose,tissue,fragment,wrap,and,submit,in,Kl,.},{NN,DT,DT,NN,POS,NN,CC,:,NN,:,NN,NN,NN,NN,JJ,NN,NN,NN,VBD,CC,VBD,IN,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_219,{},{abeied,with,the,patient,'s,name,and,ow,?,bzown,fibraadipose,tissue,measuring},{abei,with,the,patient,'s,name,and,ow,?,bzown,fibraadipose,tissue,measure},{VBN,IN,DT,NN,POS,NN,CC,NN,NN,NN,NN,NN,VBG},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_220,{},{?,pped,and,gubmitted,in,L1,.},{?,pped,and,gubmitt,in,l1,.},{NN,VBD,CC,VBD,IN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_221,{},{formalin,tabeied,with,the,patient,'s,name,and,segment,left,upper,Lobe,",is,a,ptevtously,secticned},{formalin,tabei,with,the,patient,'s,name,and,segment,leave,upper,lobe,",be,a,ptevtously,secticn},{NN,VBD,IN,DT,NN,POS,NN,CC,NN,VBD,JJ,NN,'',VBZ,DT,RB,VBN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_222,{},{?,~,upper,},ohe,Lung,weighing,50,grams,and,measuring,;,--,.1,.},{?,~,upper,},ohe,lung,weigh,50,gram,and,measure,;,--,.1,.},{NN,NN,JJ,NN,NN,NN,VBG,CD,NNS,CC,VBG,:,:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_223,{},{?,_},{?,_},{NN,SYM},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_224,{},{w,aqwrewate,10,x,6,x,?},{w,aqwrewate,10,x,6,x,?},{NN,NN,CD,CC,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_225,{},{3,cm,.},{3,cm,.},{CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_226,{},{The,specimen,has,a,staple,line,on,the,edaex,,,which,is,removed,in,inked,in,black,.},{the,specimen,have,a,staple,line,on,the,edaex,,,which,be,remove,in,ink,in,black,.},{DT,NN,VBZ,DT,JJ,NN,IN,DT,NN,,,WDT,VBZ,VBN,IN,VBN,IN,JJ,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_227,{},{The,lung,a,qray,?,brown,and,spongy,.},{the,lung,a,qray,?,brown,and,spongy,.},{DT,NN,DT,NN,CD,JJ,CC,JJ,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_228,{},{No,tumor,is,grossly},{no,tumor,be,grossly},{DT,NN,VBZ,RB},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_229,{},{The,specimen,is,repzesented,as,tollowsz,parencnyma},{the,specimen,be,repzesent,as,tollowsz,parencnyma},{DT,NN,VBZ,VBN,IN,NN,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_230,{},{?,ma,inked,Loses,on,marqinmMl,.},{?,ma,ink,lose,on,marqinmml,.},{NN,NN,VBD,VBZ,IN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_231,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_232,{},{M4,;,lung,pareachyma,=,M5,.},{m4,;,lung,pareachyma,=,m5,.},{NN,:,NN,NN,JJ,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_233,{},{the,same,container,is,an,undesignatcd,detached,suture,.},{the,same,container,be,a,undesignatcd,detach,suture,.},{DT,JJ,NN,VBZ,DT,JJ,VBN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_234,{},{N.},{N.},{NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_235,{},{*,1ment,left,upper,lube,F3,",are,two,gLay,~,tan,frozen,?,qments,.},{*,1ment,leave,upper,lube,f3,",be,two,glay,~,tan,frozen,?,qment,.},{NN,NN,VBD,JJ,NN,NN,'',VBP,CD,JJ,NN,NN,JJ,NN,NNS,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_236,{},{The,larger,fragment,measures,2,x,1.2},{the,larger,fragment,measure,2,x,1.2},{DT,JJR,NN,NNS,CD,CC,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_237,{},{?,let,fragment,measures,1,X,0.9,:,m.,Wrapped,and},{?,let,fragment,measure,1,x,0.9,:,m.,wrap,and},{NN,VBD,NN,NNS,CD,NN,CD,:,VB,VBD,CC},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_238,{},{Lmalin,Lab?led,With,the,patient,'s,name,and,a,=,eLluw,?,tan,fibroadipuse,Lissue,fragment},{Lmalin,Lab?led,with,the,patient,'s,name,and,a,=,elluw,?,tan,fibroadipuse,Lissue,fragment},{NNP,NNP,IN,DT,NN,POS,NN,CC,DT,JJ,NN,NN,NN,NN,NNP,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_239,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_240,{},{.5,cm,.},{.5,cm,.},{CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_241,{},{Wrapped,and,submitted,in,01,.},{wrap,and,submit,in,01,.},{VBN,CC,VBN,IN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_242,{},{Iotmalin,labeled,with,the,patient,?,s,name,and,is,a,wedge,Of,lung,segment,stitch,at,n,ams,,,measuring,E,x,5,x,2.4,cm,.},{iotmalin,label,with,the,patient,?,s,name,and,be,a,wedge,of,lung,segment,stitch,at,n,am,,,measure,e,x,5,x,2.4,cm,.},{NN,VBN,IN,DT,NN,CD,NNS,NN,CC,VBZ,DT,NN,IN,NN,NN,VBP,IN,NN,NNS,,,VBG,NN,NN,CD,CC,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_243,{},{The,specimen,has,a,whitx,is,removed,.},{the,specimen,have,a,whitx,be,remove,.},{DT,NN,VBZ,DT,NN,VBZ,VBN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_244,{},{The,specimen,iuned,.},{the,specimen,iun,.},{DT,NN,VBN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_245,{},{Sectioning,showa,a,'},{section,showa,a,'},{VBG,NN,DT,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_246,{},{a3utinq,1.4,X,E,X,0.7,cm,.},{a3utinq,1.4,x,e,x,0.7,cm,.},{NN,CD,NN,NN,NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_247,{},{Fha},{fha},{NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_248,{},{;,?,qray,~,brown,and,spongy,,,and,no,Qther,l?,'},{;,?,qray,~,brown,and,spongy,,,and,no,qther,l?,'},{:,CD,NN,NN,JJ,CC,JJ,,,CC,DT,NN,NN,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_249,{},{im,&,n,is,represented,as,follows,:},{im,&,n,be,represent,as,follow,:},{NN,CC,NN,VBZ,VBN,IN,VBZ,:},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_250,{},{1a,.},{1a,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_251,{},{},.},{},.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_252,{},{n1.,:,xr,,,',g,',L11,=,P1,;,e,?,.},{n1.,:,xr,,,',g,',l11,=,p1,;,e,?,.},{NN,:,NN,,,'',NN,'',NN,JJ,NN,:,SYM,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_253,{},{!},{!},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_254,{},{n1,',;,',i.,?,re,lesioli,[,ma,adjacent,to,the,lc5ion,*,P5,~,P7,:,and},{n1,',;,',i.,?,re,lesioli,[,ma,adjacent,to,the,lc5ion,*,p5,~,p7,:,and},{NN,'',:,'',FW,FW,FW,FW,FW,FW,JJ,TO,DT,NN,CD,NN,NN,NN,:,CC},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_255,{},{{,J51,r,?,c2},{{,j51,r,?,c2},{NN,NN,NN,CD,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_256,{},{tough,tho,staple,resection,marqin,=,?,8,.},{tough,tho,staple,resection,marqin,=,?,8,.},{JJ,NN,NN,NN,NN,JJ,CD,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_257,{},{Page,4,of,(,3},{Page,4,of,(,3},{NNP,CD,IN,CD,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_258,{},{P,?,eSof6,E,US},{p,?,esof6,e,US},{NN,CD,NN,NN,NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_259,{},{?m,en,:,E5,",is,a,qray,?,tan,frozen,section},{?m,en,:,e5,",be,a,qray,?,tan,frozen,section},{NN,IN,:,NN,'',VBZ,DT,NN,NN,NN,JJ,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_260,{},{=,urinq,1.5,X,1.0,cm,.},{=,urinq,1.5,x,1.0,cm,.},{JJ,NN,CD,NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_261,{},{Wrapped,and,submitted,wcw,reviewed,w,:,:,h},{wrap,and,submit,wcw,review,w,:,:,h},{VBN,CC,VBN,NN,VBN,NN,:,:,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_262,{},{BLQJJK},{blqjjk},{NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_263,{},{BLCIUPC},{blciupc},{NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_264,{},{FL,.},{fl,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_265,{},{/,3:3,.},{/,3:3,.},{:,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_266,{},{Elm,?,;,i,Ed,BLC-CK,k,",_,&,EL,X,;,15,.},{Elm,?,;,i,Ed,BLC-CK,k,",_,&,EL,x,;,15,.},{NNP,CD,:,LS,NNP,NNP,NN,'',NNP,CC,NNP,NN,:,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_267,{},{AZ,?,.},{AZ,?,.},{NNP,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_268,{},{H,-,\,',r,},rT,Xi,ii,:,.},{h,-,\,',r,},rt,xi,ii,:,.},{NN,:,NN,'',NN,CD,NN,NN,LS,:,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_269,{},{:,.,"},{:,.,"},{:,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_270,{},{E,',_,?,i,?,I,?,.},{e,',_,?,i,?,I,?,.},{NN,'',SYM,CD,FW,FW,PRP,VBP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_271,{},{H&EI,X,],.},{h&ei,x,],.},{NN,NN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_272,{},{B,CCK},{b,cck},{NN,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_273,{},{:,<,?,),U,?,],?,,,:,',.},{:,<,?,),U,?,],?,,,:,',.},{:,JJR,CD,CD,NNP,CD,CD,NN,,,:,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_274,{},{NE,HMS,.},{ne,HMS,.},{NNS,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_275,{},{X1,BLOCK,?,'},{x1,BLOCK,?,'},{NN,NNP,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_276,{},{I,<,\,;,lC,X3,.},{I,<,\,;,lc,x3,.},{PRP,JJR,CD,:,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_277,{},{I,?,.},{I,?,.},{PRP,VBP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_278,{},{3.2,.},{3.2,.},{CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_279,{},{E,-,?,.},{e,-,?,.},{NN,:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_280,{},{<,",),(,},',I,?,?},{<,",),(,},',I,?,?},{JJR,``,CD,CD,NN,'',PRP,RB,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_281,{},{1,?,IF,,,[,?,.},{1,?,if,,,[,?,.},{CD,CD,IN,,,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_282,{},{&,F,',.},{&,f,',.},{CC,NN,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_283,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_284,{},{Kl,BLOCK,I-Y,.,'},{Kl,BLOCK,i-y,.,'},{NNP,NNP,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_285,{},{~,",f,',.,)},{~,",f,',.,)},{JJ,``,FW,'',.,SYM},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_286,{},{1,?,!},{1,?,!},{CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_287,{},{R3,.},{r3,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_288,{},{:,?,.},{:,?,.},{:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_289,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_290,{},{l,?,~,.},{l,?,~,.},{NN,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_291,{},{RC},{rc},{NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_292,{},{I362,E,X,.1,BLOITZK,H,if,:,K,.1,?,.},{i362,e,x,.1,bloitzk,h,if,:,K,.1,?,.},{NN,NN,NN,CD,NN,NN,IN,:,NNP,CD,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_293,{},{H51,?},{h51,?},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_294,{},{X1,.},{x1,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_295,{},{[,5,.},{[,5,.},{NN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_296,{},{Oi,',.},{ous,',.},{NN,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_297,{},{IK},{ik},{NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_298,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_299,{},{?,<,Ed,},3I,.},{?,<,Ed,},3us,.},{NN,JJR,NNP,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_300,{},{OCK,BLOCK},{OCK,BLOCK},{NNP,NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_301,{},{Q,,},{Q,,},{NNP,,},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_302,{},{H,:2,E,?,X1,LiE,.},{h,:2,e,?,x1,lie,.},{NN,CD,NN,CD,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_303,{},{OC,',c,~,?,.},{oc,',c,~,?,.},{NN,'',NN,VBD,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_304,{},{3,m,x,M,?,Z.,OC,?,<,C.,TI,.},{3,m,x,m,?,Z.,OC,?,<,c.,TI,.},{CD,NN,NN,NN,CD,NNP,NNP,NN,JJR,FW,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_305,{},{R-HE,?},{r-he,?},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_306,{},{R1,BI,.},{r1,bus,.},{NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_307,{},{UCK,.},{UCK,.},{NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_308,{},{2,X,1,.},{2,x,1,.},{CD,NN,CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_309,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_310,{},{?},{?},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_311,{},{.},{.},{.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_312,{},{?,.},{?,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_313,{},{?,~,LC,,,?,CK,.},{?,~,lc,,,?,ck,.},{NN,NN,NN,,,CD,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_314,{},{.3,ENE,X1,BLi,),(,.,'},{.3,ene,x1,blus,),(,.,'},{NN,NN,NN,NN,CD,NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_315,{},{I,\,',.},{I,\,',.},{PRP,VBP,'',.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_316,{},{5,:,p?Ed,X1,?,3LOCK,.5},{5,:,p?ed,x1,?,3lock,.5},{CD,:,NN,NN,CD,CD,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_317,{},{Z,?,<,,,_,_,v,?,:,?,>,L,=,?,3CK},{z,?,<,,,_,_,v,?,:,?,>,l,=,?,3ck},{NN,NN,JJR,,,CD,CD,LS,CD,:,CD,JJR,NN,JJ,CD,CD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_318,{},{},5L,<,f,?,),(,.},{},5l,<,f,?,),(,.},{NN,NN,JJR,FW,FW,FW,FW,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_319,{},{IK,.},{ik,.},{NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_320,{},{7,.},{7,.},{CD,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_321,{},{p,A,,,-,.},{p,a,,,-,.},{NN,NN,,,:,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_322,{},{P-O,?,-,L,",',L,?,Z,[,R},{p-o,?,-,l,",',l,?,z,[,r},{NN,SYM,:,NN,'','',NN,CD,NN,CD,NN},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_323,{},{X1,BLOCK,.},{x1,BLOCK,.},{NN,NNP,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_324,{},{4,F.,2,",\,.},{4,F.,2,",\,.},{CD,NNP,CD,``,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_325,{},{[,\,7,~,?,.},{[,\,7,~,?,.},{NN,NN,CD,NN,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_326,{},{(,",T.,",',f,?,TNE,.},{(,",t.,",',f,?,tne,.},{RB,``,FW,``,'',FW,FW,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_327,{},{H&E,X,",;,RLO-C2K,.},{h&e,x,",;,rlo-c2k,.},{NN,NN,'',:,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_328,{},{?,.,"},{?,.,"},{NN,.,''},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_329,{},{H_L,~,',I,),CK,.},{h_l,~,',I,),ck,.},{NN,NN,'',PRP,VBP,NN,.},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_330,{},{E5,BLOCK},{e5,BLOCK},{NN,NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_331,{},{__,?repared},{__,?repared},{NN,VBD},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_332,{},{-,iagnusis,Dncltpancy,ary,rumor,Site,Discrapuncv},{-,iagnusis,Dncltpancy,ary,rumor,site,Discrapuncv},{:,NN,NNP,JJ,NN,NN,NNP},{}
-TCGA-J2-A4AE, TCGA-J2-A4AESENT_333,{},{Page,6,M6,No},{Page,6,m6,no},{NNP,CD,NN,DT},{}
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_1,"Page 1 of6","{Page,1,of6}","{Page,1,of6}","{NNP,CD,NN}","{0,3,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_2,"uum : or9cs9ea-3277-4s1r-s2au-3357-u : Aan7A pP .","{uum,:,or9cs9ea-3277-4s1r-s2au-3357-u,:,Aan7A,pP,.}","{uum,:,or9cs9ea-3277-4s1r-s2au-3357-u,:,aan7a,pp,.}","{NN,:,NN,:,NN,NN,.}","{0,0,1,0,6,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_3,"@Z ^ H ? .","{@Z,^,H,?,.}","{@z,^,h,?,.}","{NN,NN,NN,CD,.}","{3,3,0,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_4,"} \ U ] ? ~ -- H __","{},\,U,],?,~,--,H,__}","{},\,U,],?,~,--,h,__}","{NN,CD,NNP,CD,CD,NN,:,NN,IN}","{3,3,0,5,6,3,0,6,8}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_5,"TCGA-J2-A4AE-BIA-PR gedacted @ / ? \ .","{TCGA-J2-A4AE-BIA-PR,gedacted,@,/,?,\,.}","{tcga-j2-a4ae-bia-pr,gedact,@,/,?,\,.}","{NN,VBD,SYM,:,NN,NN,.}","{2,0,6,6,6,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_6,"~ V o [","{~,V,o,[}","{~,v,o,[}","{NN,NN,NN,CD}","{3,3,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_7,"> V V ` .","{>,V,V,`,.}","{>,v,v,`,.}","{JJR,NN,NN,``,.}","{2,3,4,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_8,"III III !","{III,III,!}","{III,III,!}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_9,"I III I IlllllllllllllllllllllllllllllllllllllllllllllIll " IllIllII | | | | | l | | | | | | I | | | | I | | | | | | I | | | I | | | Il | | | | l | | | | l | | ll III !","{I,III,I,IlllllllllllllllllllllllllllllllllllllllllllllIll,",IllIllII,|,|,|,|,|,l,|,|,|,|,|,|,I,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,I,|,|,|,Il,|,|,|,|,l,|,|,|,|,l,|,|,ll,III,!}","{I,iii,I,illlllllllllllllllllllllllllllllllllllllllllllill,",illillii,|,|,|,|,|,l,|,|,|,|,|,|,I,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,I,|,|,|,il,|,|,|,|,l,|,|,|,|,l,|,|,ll,iii,!}","{PRP,CD,PRP,VBP,``,NN,CD,CD,NN,CD,NN,NN,CD,CD,NN,CD,CD,NN,PRP,VBP,CD,CD,NN,PRP,VBP,CD,CD,NN,CD,NN,PRP,VBP,CD,CD,PRP,VBP,CD,CD,NN,CD,CD,NN,NN,NN,CD,CD,NN,NN,NN,CD,CD,NN,CD,.}","{4,1,4,20,12,12,12,12,12,12,12,15,15,15,4,18,18,15,20,0,22,23,20,25,23,27,28,25,30,28,32,30,34,32,36,34,38,39,36,41,43,43,39,43,46,48,48,34,48,51,48,51,52,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_10,"I III P [ IllIIIIIIIIIHIIllHllllllIIlllllllllllllllllllllllllllllllll cE3 " :33 Y ONL$ 7 " ? i56 " Ki ? 6 ' ? "","{I,III,P,[,IllIIIIIIIIIHIIllHllllllIIlllllllllllllllllllllllllllllllll,cE3,",:33,Y,ONL$,7,",?,i56,",Ki,?,6,',?,"}","{I,iii,p,[,illiiiiiiiiihiillhlllllliilllllllllllllllllllllllllllllllll,ce3,",:33,y,onl$,7,",?,i56,",kus,?,6,',?,"}","{PRP,CD,NN,CD,NN,NN,'',CD,NN,NN,CD,``,NN,NN,'',NN,CD,CD,'',.,''}","{0,5,2,5,1,5,6,9,6,6,10,6,6,13,14,14,18,16,0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_11,"% I ? L?w","{%,I,?,L?w}","{%,i,?,l?w}","{NN,CD,VBP,NN}","{3,1,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_12,"SURGICAL PATHOLOGY","{SURGICAL,PATHOLOGY}","{surgical,pathology}","{JJ,NN}","{2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_13,"Time Coliected Time R9c9iV9d Time Reported 9rF3_9 ' N ? - " W39 " Ordering Provider " @ | 8 v > H .","{Time,Coliected,Time,R9c9iV9d,Time,Reported,9rF3_9,',N,?,-,",W39,",Ordering,Provider,",@,|,8,v,>,H,.}","{Time,Coliected,Time,R9c9iV9d,Time,reported,9rf3_9,',n,?,-,",w39,",Ordering,Provider,",@,|,8,v,>,h,.}","{NNP,NNP,NNP,NNP,NNP,JJ,NN,'',NN,SYM,:,``,NN,'',NNP,NNP,``,SYM,SYM,CD,LS,JJR,NN,.}","{5,5,5,5,6,0,9,0,6,13,0,13,9,13,16,17,13,17,20,17,17,23,21,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_14,"D H M ; Status","{D,H,M,;,Status}","{d,h,m,;,Status}","{NN,NN,NN,:,NNP}","{3,3,0,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_15,"Results","{Results}","{result}","{NNS}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_16,"Fina !","{Fina,!}","{Fina,!}","{NNP,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_17,"iii ? p = fi , c D _ o , 3","{iii,?,p,=,fi,,,c,D,_,o,,,3}","{iii,?,p,=,fus,,,c,d,_,o,,,3}","{LS,NN,NN,JJ,NNS,,,NN,NN,NN,NN,,,CD}","{3,3,0,5,3,0,10,10,10,5,0,5}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_18,"@ : l \ WW Ma , g ? / ~ / 01.3","{@,:,l,\,WW,Ma,,,g,?,/,~,/,01.3}","{@,:,l,\,WW,Ma,,,g,?,/,~,/,01.3}","{SYM,:,NN,CD,NNP,NNP,,,NN,CD,:,CD,:,CD}","{3,0,0,3,6,3,0,3,8,11,3,11,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_19,"caz , ; 3 .","{caz,,,;,3,.}","{caz,,,;,3,.}","{NN,,,:,LS,.}","{0,0,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_20,"~ + , L ; lu ~ 3 , Wr ~ ' r > w " ? 5 ? - ? -3 * !","{~,+,,,L,;,lu,~,3,,,Wr,~,',r,>,w,",?,5,?,-,?,-3,*,!}","{~,+,,,l,;,lu,~,3,,,wr,~,',r,>,w,",?,5,?,-,?,-3,*,!}","{NN,CC,,,NN,:,FW,FW,CD,,,NN,NN,'',NN,JJR,NN,'',CD,CD,SYM,:,NN,CD,NN,.}","{0,1,0,1,0,7,1,7,0,8,13,0,14,10,10,15,18,15,10,0,1,23,21,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_21,"Pakssu ~ - u ~ 3 ? , mu5u .","{Pakssu,~,-,u,~,3,?,,,mu5u,.}","{Pakssu,~,-,u,~,3,?,,,mu5u,.}","{NNP,SYM,:,NN,NN,CD,NN,,,NN,.}","{0,1,0,1,4,7,5,0,5,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_22,"r ? ~ 63 * ?","{r,?,~,63,*,?}","{r,?,~,63,*,?}","{NN,CD,NN,CD,CD,NN}","{0,3,1,5,6,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_23,"/ " ? ? / : v / ' >","{/,",?,?,/,:,v,/,',>}","{/,",?,?,/,:,v,/,',>}","{:,``,CD,CD,:,:,LS,:,'',JJR}","{3,3,0,3,4,0,5,7,0,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_24,"h < I !","{h,<,I,!}","{h,<,i,!}","{NN,JJR,CD,.}","{0,1,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_25,"II .","{II,.}","{II,.}","{NNP,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_26,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_27,"! "","{!,"}","{!,"}","{.,''}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_28,": F .","{:,F,.}","{:,f,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_29,"M. LINC-f ? IfL .1 l * < .","{M.,LINC-f,?,IfL,.1,l,*,<,.}","{M.,LINC-f,?,ifl,.1,l,*,<,.}","{NNP,NNP,CD,NN,CD,NN,NN,JJR,.}","{7,7,7,7,7,7,8,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_30,"N. L'iE \ lfjT .","{N.,L'iE,\,lfjT,.}","{N.,L'iE,\,lfjt,.}","{NNP,NNP,VBD,NN,.}","{2,3,0,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_31,"\ ? \ < _ ? .","{\,?,\,<,_,?,.}","{\,?,\,<,_,?,.}","{NN,CD,NN,JJR,CD,NN,.}","{3,3,0,3,6,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_32,"; { } ' r ' .","{;,{,},',r,',.}","{;,{,},',r,',.}","{:,CD,NN,'',NN,'',.}","{0,0,2,0,3,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_33,"? 2 " \ ' I ? .","{?,2,",\,',I,?,.}","{?,2,",\,',I,?,.}","{NN,CD,``,NN,'',PRP,VBP,.}","{0,1,4,1,0,7,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_34,"I ' OI \ ? - # 3 : } P. Z : DEE LINGULAR ESEGMENT ~ STITCH AT MASSQ .","{I,',OI,\,?,-,#,3,:,},P.,Z,:,DEE,LINGULAR,ESEGMENT,~,STITCH,AT,MASSQ,.}","{I,',OI,\,?,-,#,3,:,},P.,z,:,DEE,LINGULAR,ESEGMENT,~,STITCH,at,MASSQ,.}","{PRP,'',NNP,NNP,SYM,:,#,CD,:,CD,NNP,NN,:,NNP,NNP,NNP,VBD,NNP,IN,NNP,.}","{0,0,4,1,17,0,8,17,0,12,12,8,0,16,16,12,4,17,0,17,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_35,"EXTEFJDED LING " .","{EXTEFJDED,LING,",.}","{EXTEFJDED,LING,",.}","{NNP,NNP,``,.}","{2,3,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_36,"} ' L [ ? xR SE - ? 3MElN ? I ' F3 ~ ? IE N?T ?","{},',L,[,?,xR,SE,-,?,3MElN,?,I,',F3,~,?,IE,N?T,?}","{},',l,[,?,xr,se,-,?,3meln,?,I,',f3,~,?,ie,n?t,?}","{NN,'',NN,CD,CD,NN,NN,:,NN,NN,CD,PRP,'',NN,NN,CD,JJ,NN,NN}","{3,0,0,3,7,7,4,0,10,7,10,10,0,15,7,19,19,19,15}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_37,"[ : E1 " .","{[,:,E1,",.}","{[,:,e1,",.}","{NNP,:,NN,'',.}","{0,0,1,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_38,"l ~ " ' : " UPPER LOEE.-STITCH AT MASS " 1Ff .1 N ' .","{l,~,",',:,",UPPER,LOEE.-STITCH,AT,MASS,",1Ff,.1,N,',.}","{l,~,",',:,",UPPER,LOEE.-STITCH,at,MASS,",1ff,.1,n,',.}","{NN,SYM,``,'',:,``,NNP,NNP,IN,NNP,``,NN,CD,NN,'',.}","{0,3,1,0,0,8,8,1,0,8,10,14,14,10,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_39,"I ? I.-EE " ' I ' UPPER LOBE FSW","{I,?,I.-EE,",',I,',UPPER,LOBE,FSW}","{I,?,i.-ee,",',I,',UPPER,LOBE,FSW}","{PRP,VBP,JJ,``,'',PRP,'',NNP,NNP,NNP}","{2,0,2,6,0,2,0,10,10,6}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_40,"6 1 HA ' _ .","{6,1,HA,',_,.}","{6,1,ha,',_,.}","{CD,CD,NN,'',NN,.}","{2,0,5,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_41,"1 ) ; ? , At .","{1,),;,?,,,At,.}","{1,),;,?,,,at,.}","{CD,CD,:,CD,,,IN,.}","{2,0,0,2,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_42,"? I \ 3 { I ) ; } 3 1 53 : 7 ' ) . '","{?,I,\,3,{,I,),;,},3,1,53,:,7,',),.,'}","{?,I,\,3,{,I,),;,},3,1,53,:,7,',),.,'}","{NN,PRP,VBP,CD,CD,PRP,VBP,:,CD,CD,CD,CD,:,CD,'',CD,.,''}","{3,3,0,5,3,7,5,0,10,5,12,10,0,5,0,14,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_43,"13 - 1f , ? ? ? fPH .","{13,-,1f,,,?,?,?,fPH,.}","{13,-,1f,,,?,?,?,fph,.}","{CD,:,NN,,,NN,NN,CD,NN,.}","{0,0,1,0,6,3,8,6,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_44,"\ J ( ' ) l'fx ' : " j , I \ i ( ' J ? 1 ' U [ ? - GOP .","{\,J,(,',),l'fx,',:,",j,,,I,\,i,(,',J,?,1,',U,[,?,-,GOP,.}","{\,j,(,',),l'fx,',:,",j,,,I,\,i,(,',J,?,1,',U,[,?,-,GOP,.}","{NN,NN,NN,'',CD,NN,'',:,``,NN,,,PRP,VBP,FW,FW,'',NNP,CD,CD,'',NNP,NNP,SYM,:,NNP,.}","{3,3,0,0,13,5,0,0,10,6,0,13,3,15,13,0,15,17,15,0,19,21,25,0,13,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_45,"SEEN .","{SEEN,.}","{SEEN,.}","{NNP,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_46,"< 1 ?","{<,1,?}","{<,1,?}","{JJR,CD,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_47,"- < 7 0d5","{-,<,7,0d5}","{-,<,7,0d5}","{:,JJR,CD,NN}","{0,0,4,2}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_48,"ff ; ' T ? " f ? : ? " ' -1 .","{ff,;,',T,?,",f,?,:,?,",',-1,.}","{ff,;,',t,?,",f,?,:,?,",',-1,.}","{NN,:,'',NN,CD,``,FW,FW,:,CD,``,'',CD,.}","{13,0,0,1,4,4,8,4,0,13,13,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_49,"? \ .","{?,\,.}","{?,\,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_50,"? fJi ? .","{?,fJi,?,.}","{?,fjus,?,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_51,": ' . "","{:,',.,"}","{:,',.,"}","{:,'',.,''}","{0,0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_52,"l , I ? .","{l,,,I,?,.}","{l,,,I,?,.}","{NN,,,PRP,VBP,.}","{4,0,4,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_53,"? I ? L ' ? "","{?,I,?,L,',?,"}","{?,I,?,l,',?,"}","{NN,PRP,VBP,NN,'',.,''}","{3,3,0,3,0,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_54,"J ? V = . '","{J,?,V,=,.,'}","{j,?,v,=,.,'}","{NN,CD,NN,JJ,.,''}","{0,1,1,3,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_55,"1 ? "","{1,?,"}","{1,?,"}","{CD,.,''}","{0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_56,"flF .","{flF,.}","{flf,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_57,"F. ? J.","{F.,?,J.}","{F.,?,J.}","{NNP,NNP,NNP}","{3,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_58,"? , NC ) ? f " E ? Q/TOP : SEFEN .","{?,,,NC,),?,f,",E,?,Q/TOP,:,SEFEN,.}","{?,,,nc,),?,f,",e,?,q/top,:,SEFEN,.}","{NN,,,NN,CD,NN,FW,``,NN,CD,NN,:,NNP,.}","{0,0,5,5,1,5,6,10,10,6,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_59,"Prepared ?","{Prepared,?}","{prepare,?}","{VBN,NN}","{0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_60,"Prepar","{Prepar}","{Prepar}","{NNP}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_61,"? TUMOR SEEPJ .","{?,TUMOR,SEEPJ,.}","{?,tumor,seepj,.}","{JJ,NN,NN,.}","{2,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_62,"T?UI \ 1IOR .","{T?UI,\,1IOR,.}","{t?ui,\,1ior,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_63,"? ? F , EEN .","{?,?,F,,,EEN,.}","{?,?,f,,,een,.}","{NN,CD,NN,,,NN,.}","{3,3,0,0,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_64,"TUMOR SEFIN .","{TUMOR,SEFIN,.}","{tumor,sefin,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_65,"NC ) TUMOR fJ ? 3 ' l51JI ? l.","{NC,),TUMOR,fJ,?,3,',l51JI,?,l.}","{nc,),tumor,fj,?,3,',l51jus,?,l.}","{NN,CD,NN,NN,CD,CD,'',NN,CD,NN}","{4,4,4,0,6,4,0,6,10,8}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_66,"~ 2 ; . )","{~,2,;,.,)}","{~,2,;,.,)}","{NN,CD,:,.,SYM}","{0,1,0,0,2}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_67,"NO TUMOR SEEN .","{NO,TUMOR,SEEN,.}","{no,tumor,seen,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_68,"MORE # 1NO","{MORE,#,1NO}","{more,#,1no}","{JJR,#,CD}","{0,3,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_69,"TUMOR SEEN .","{TUMOR,SEEN,.}","{tumor,seen,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_70,"? awn N ? ? E , NC TUMOR SEEN .","{?,awn,N,?,?,E,,,NC,TUMOR,SEEN,.}","{?,awn,n,?,?,e,,,nc,tumor,seen,.}","{NN,NN,NN,CD,CD,NN,,,NN,NN,NN,.}","{3,3,0,5,6,3,0,10,10,6,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_71,"? AR HuDE H3w","{?,AR,HuDE,H3w}","{?,ar,hude,h3w}","{NN,NNS,VBP,NN}","{2,3,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_72,"NUDE , no TUMOR ? EN .","{NUDE,,,no,TUMOR,?,EN,.}","{nude,,,no,tumor,?,en,.}","{NN,,,DT,NN,CD,NN,.}","{0,0,6,6,6,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_73,"NT LEFT UPPER LOBE-ST1TCH AT MAoS ?","{NT,LEFT,UPPER,LOBE-ST1TCH,AT,MAoS,?}","{nt,LEFT,UPPER,lobe-st1tch,at,mao,?}","{JJ,NNP,NNP,NN,IN,NN,CD}","{3,3,0,3,0,4,6}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_74,"LEFT UE ? ?","{LEFT,UE,?,?}","{LEFT,UE,?,?}","{NNP,NNP,NNP,.}","{3,3,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_75,"ER LOBE F8","{ER,LOBE,F8}","{er,lobe,f8}","{NN,NN,NN}","{0,3,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_76,"i ? I ( ) ? 1 ? iJMOR ' _","{i,?,I,(,),?,1,?,iJMOR,',_}","{i,?,I,(,),?,1,?,ijmor,',_}","{FW,FW,PRP,VBP,CD,CD,CD,CD,NN,'',SYM}","{2,0,4,2,6,8,8,4,8,0,8}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_77,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_78,"_ ? .","{_,?,.}","{_,?,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_79,". '","{.,'}","{.,'}","{.,''}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_80,"1 .","{1,.}","{1,.}","{LS,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_81,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_82,"I. L ~ lGU .","{I.,L,~,lGU,.}","{i.,l,~,lgu,.}","{NN,NN,NN,NN,.}","{4,4,4,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_83,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_84,"; : " sR SITYGMENT - STITCH AT MASSM ? . '","{;,:,",sR,SITYGMENT,-,STITCH,AT,MASSM,?,.,'}","{;,:,",sr,sitygment,-,stitch,at,MASSM,?,.,'}","{:,:,``,NN,NN,:,NN,IN,NNP,CD,.,''}","{0,0,5,5,0,0,5,0,7,9,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_85,"I \ E [ M ] ? 1 \ f. ' ... L ? f ' . '","{I,\,E,[,M,],?,1,\,f.,',...,L,?,f,',.,'}","{I,\,e,[,m,],?,1,\,f.,',...,l,?,f,',.,'}","{PRP,VBP,NN,CD,NN,CD,NN,CD,CD,NN,'',:,NN,FW,FW,'',.,''}","{2,0,5,5,2,7,5,9,7,9,0,0,2,13,13,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_86,"zf ? .","{zf,?,.}","{zf,?,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_87,"? I \ , ? Z \ , S.T. \ 7 ' > .7 .","{?,I,\,,,?,Z,\,,,S.T.,\,7,',>,.7,.}","{?,I,\,,,?,z,\,,,S.T.,\,7,',>,.7,.}","{NN,PRP,VBP,,,VBP,NN,NN,,,NNP,NNP,CD,'',JJR,CD,.}","{5,3,1,0,0,5,6,0,10,6,10,0,5,13,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_88,"ADI ?","{ADI,?}","{ADI,?}","{NNP,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_89,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_90,"NOCARC ' INOMA , LIMITED TO LUNG .","{NOCARC,',INOMA,,,LIMITED,TO,LUNG,.}","{NOCARC,',INOMA,,,LIMITED,to,lung,.}","{NNP,POS,NNP,,,NNP,TO,NN,.}","{0,0,1,0,1,5,6,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_91,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_92,": JN .","{:,JN,.}","{:,jn,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_93,"H P 5 3 ? I. ? < ? ) I. .0 C3 1 ' ? g : GRADE : .3 / 4 .","{H,P,5,3,?,I.,?,<,?,),I.,.0,C3,1,',?,g,:,GRADE,:,.3,/,4,.}","{h,p,5,3,?,i.,?,<,?,),i.,.0,c3,1,',?,g,:,GRADE,:,.3,/,4,.}","{NN,NN,CD,CD,NN,NN,NN,JJR,CD,NN,NN,CD,NN,CD,'',CD,NN,:,NNP,:,NN,:,CD,.}","{2,11,4,2,7,7,4,4,10,11,17,11,11,13,0,13,19,0,0,0,19,21,21,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_94,"TUMOR EYJ CL ' 2 ? l. Ll TY : UN I FOCAL . '","{TUMOR,EYJ,CL,',2,?,l.,Ll,TY,:,UN,I,FOCAL,.,'}","{tumor,eyj,cl,',2,?,l.,ll,ty,:,UN,i,focal,.,'}","{NN,NN,NN,'',CD,CD,NN,NN,NN,:,NNP,NN,NN,.,''}","{2,0,2,0,6,7,9,9,3,0,3,2,12,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_95,"L " ZJMGR SIZE : } _ .","{L,",ZJMGR,SIZE,:,},_,.}","{l,",ZJMGR,SIZE,:,},_,.}","{NN,'',NNP,NNP,:,CD,NN,.}","{0,1,4,1,0,7,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_96,":5 ? IE4 .","{:5,?,IE4,.}","{:5,?,ie4,.}","{CD,CD,NN,.}","{2,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_97,"`` 5 ' l' N ? J , " ' 2 V. .","{``,5,',l',N,?,J,,,",',2,V.,.}","{``,5,',l',n,?,j,,,",',2,V.,.}","{``,CD,'',JJ,NN,CD,NN,,,``,'',CD,NNP,.}","{0,12,0,7,4,7,2,0,12,0,12,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_98,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_99,"OMPONE-N ' I ? 07:7 TE - { El TTJMCJR MEASIIRES 0.4 CM . "","{OMPONE-N,',I,?,07:7,TE,-,{,El,TTJMCJR,MEASIIRES,0.4,CM,.,"}","{ompone-n,',I,?,07:7,te,-,{,El,TTJMCJR,MEASIIRES,0.4,cm,.,"}","{NN,'',PRP,VBP,CD,SYM,:,CD,NNP,NNP,NNP,CD,NN,.,''}","{4,0,4,0,4,10,0,9,10,5,10,13,11,0,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_100,"i " ( 11 ? 4 - ? ? 3lt ( P 5 L ? I " E ? , : i. .","{i,",(,11,?,4,-,?,?,3lt,(,P,5,L,?,I,",E,?,,,:,i.,.}","{i,",(,11,?,4,-,?,?,3lt,(,p,5,l,?,I,",e,?,,,:,i.,.}","{LS,``,CD,CD,NN,CD,:,CD,CD,JJ,NN,NN,CD,NN,CD,PRP,``,NN,NN,,,:,NN,.}","{22,4,4,1,4,5,0,9,12,12,12,4,14,12,12,12,19,19,16,0,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_101,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_102,"I. 1 \ 3G ?","{I.,1,\,3G,?}","{i.,1,\,3g,?}","{NN,CD,CD,NN,.}","{0,3,1,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_103,"JT .","{JT,.}","{jt,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_104,"Ia","{Ia}","{ia}","{NN}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_105,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_106,"; ? U1 ? 2 , } ? \ _ IEll ? J23 ? .","{;,?,U1,?,2,,,},?,\,_,IEll,?,J23,?,.}","{;,?,u1,?,2,,,},?,\,_,iell,?,j23,?,.}","{:,CD,NN,NN,CD,,,CD,CD,CD,NN,NN,CD,NN,NN,.}","{0,4,4,0,4,0,4,9,14,14,14,14,14,7,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_107,"S ION : NOT SEEN .","{S,ION,:,NOT,SEEN,.}","{s,ion,:,NOT,SEEN,.}","{NN,NN,:,NNP,NNP,.}","{2,0,0,5,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_108,"l \ l ? ' . '","{l,\,l,?,',.,'}","{l,\,l,?,',.,'}","{NN,CD,NN,NN,'',.,''}","{0,1,1,3,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_109,"/ ,5 L4 ' .","{/,,5,L4,',.}","{/,,5,l4,',.}","{:,CD,NN,'',.}","{3,3,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_110,"; ' - N J. L ? IC .","{;,',-,N,J.,L,?,IC,.}","{;,',-,N,J.,L,?,ic,.}","{:,'',:,NNP,NNP,NNP,CD,NN,.}","{0,0,0,6,6,2,8,6,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_111,"l5 .","{l5,.}","{l5,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_112,"N 1 ? - ? . '","{N,1,?,-,?,.,'}","{n,1,?,-,?,.,'}","{NN,CD,SYM,:,NN,.,''}","{0,1,5,0,1,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_113,"} B53 ? 1 ? 1 { iJC ? I ' I\/E E ' .","{},B53,?,1,?,1,{,iJC,?,I,',I\/E,E,',.}","{},b53,?,1,?,1,{,ijc,?,I,',i\/e,e,',.}","{NN,NN,CD,CD,NN,CD,CD,NN,CD,PRP,'',NN,NN,'',.}","{2,0,4,2,4,7,2,7,8,2,0,10,12,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_114,"?N I ?","{?N,I,?}","{?n,i,?}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_115,", UMONIT I S OR ATE .","{,,UMONIT,I,S,OR,ATE,.}","{,,UMONIT,I,s,or,ate,.}","{,,NNP,NNP,NN,NN,NN,.}","{0,3,0,3,6,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_116,"LECTAS I S","{LECTAS,I,S}","{lecta,I,s}","{NNS,PRP,NN}","{0,1,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_117,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_118,"I ' .","{I,',.}","{I,',.}","{PRP,'',.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_119,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_120,"? , / 1 ? - ? 1 " ' : ; ?","{?,,,/,1,?,-,?,1,",',:,;,?}","{?,,,/,1,?,-,?,1,",',:,;,?}","{NN,,,:,CD,SYM,:,NN,CD,``,'',:,:,.}","{9,0,4,1,9,0,8,9,0,0,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_121,"I ? "","{I,?,"}","{I,?,"}","{PRP,.,''}","{0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_122,". '","{.,'}","{.,'}","{.,''}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_123,"T ? ; Q1 ( : ? u ? f. ~ 1 ) 7 - $ 1. , V ? '","{T,?,;,Q1,(,:,?,u,?,f.,~,1,),7,-,$,1.,,,V,?,'}","{t,?,;,q1,(,:,?,u,?,f.,~,1,),7,-,$,1.,,,v,?,'}","{NN,NN,:,NN,CD,:,CD,NN,CD,NN,NN,CD,NN,CD,:,$,CD,,,NN,.,''}","{2,0,0,2,4,0,8,11,11,11,4,13,11,11,0,14,16,0,4,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_124,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_125,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_126,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_127,"? 3SF .","{?,3SF,.}","{?,3sf,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_128,"L } I. \ J' \ JA .","{L,},I.,\,J',\,JA,.}","{l,},i.,\,J',\,ja,.}","{NN,CD,NN,CD,NNP,NN,NN,.}","{3,3,0,7,7,7,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_129,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_130,"~ 3ION : NOT SEEN .","{~,3ION,:,NOT,SEEN,.}","{~,3ion,:,NOT,SEEN,.}","{NN,NN,:,NNP,NNP,.}","{2,0,0,5,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_131,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_132,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_133,"T. NVA .","{T.,NVA,.}","{T.,NVA,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_134,"? _ % T ? C > ? .","{?,_,%,T,?,C,>,?,.}","{?,_,%,t,?,c,>,?,.}","{NN,CD,NN,NN,CD,NN,JJR,CD,.}","{0,3,1,6,6,3,1,7,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_135,"? l : NOT SEEN .","{?,l,:,NOT,SEEN,.}","{?,l,:,NOT,SEEN,.}","{NN,NN,:,NNP,NNP,.}","{2,0,0,5,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_136,"ZNCLUDELD IN AL. .","{ZNCLUDELD,IN,AL.,.}","{ZNCLUDELD,in,AL.,.}","{NNP,IN,NNP,.}","{0,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_137,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_138,"- ' _ .","{-,',_,.}","{-,',_,.}","{:,'',NN,.}","{0,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_139,"E " AR ? I ? S : NUMBEIR .","{E,",AR,?,I,?,S,:,NUMBEIR,.}","{e,",ar,?,I,?,s,:,numbeir,.}","{NN,'',NN,CD,PRP,VBP,NN,:,NN,.}","{3,3,0,3,6,3,6,0,6,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_140,"[ [ ? J?JOL ? v ? P _ 'D","{[,[,?,J?JOL,?,v,?,P,_,'D}","{[,[,?,j?jol,?,v,?,p,_,'d}","{NN,CD,CD,NN,CD,LS,CD,NN,CD,NN}","{0,3,4,1,7,7,1,1,10,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_141,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_142,"\ lI } IV1B } :3 ; < E. KAMlN } : LD : 13","{\,lI,},IV1B,},:3,;,<,E.,KAMlN,},:,LD,:,13}","{\,li,},iv1b,},:3,;,<,E.,KAMlN,},:,LD,:,13}","{NN,NN,CD,NN,CD,CD,:,JJR,NNP,NNP,NNP,:,NNP,:,CD}","{2,0,4,2,6,4,0,4,11,11,8,0,4,0,13}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_143,"g ? - ' .","{g,?,-,',.}","{g,?,-,',.}","{NN,SYM,:,'',.}","{2,0,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_144,"l ?? 6 .","{l,??,6,.}","{l,??,6,.}","{NN,CD,CD,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_145,"\ .1 , 1g : N { Zv , pl ? - ? IX .","{\,.1,,,1g,:,N,{,Zv,,,pl,?,-,?,IX,.}","{\,.1,,,1g,:,n,{,zv,,,pl,?,-,?,ix,.}","{NN,NN,,,NN,:,NN,CD,NN,,,NN,SYM,:,CD,CD,.}","{2,0,0,2,0,2,8,6,0,8,8,0,14,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_146,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_147,"jE?EL ' I : I ~ 1EE ~ l ? i ? 1 .","{jE?EL,',I,:,I,~,1EE,~,l,?,i,?,1,.}","{je?el,',I,:,I,~,1ee,~,l,?,i,?,1,.}","{NN,'',PRP,:,PRP,VBP,NN,NN,NN,CD,FW,FW,LS,.}","{12,0,6,0,6,1,8,6,6,12,12,0,12,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_148,"? Pl : .","{?,Pl,:,.}","{?,pl,:,.}","{NN,NN,:,.}","{2,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_149,"; : LLNCEULAR .","{;,:,LLNCEULAR,.}","{;,:,llnceular,.}","{:,:,NN,.}","{0,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_150,": : ' E1GMEN ' l?EC ' i ? UMY .","{:,:,',E1GMEN,',l?EC,',i,?,UMY,.}","{:,:,',e1gman,',l?ec,',i,?,umy,.}","{:,:,'',NN,'',NN,'',FW,FW,NN,.}","{0,0,0,0,0,10,0,9,6,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_151,"~ .","{~,.}","{~,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_152,": E \ ' C ? r. ? ( . )","{:,E,\,',C,?,r.,?,(,.,)}","{:,e,\,',c,?,r.,?,(,.,)}","{:,NN,NN,'',NN,CD,NN,CD,NN,.,SYM}","{0,3,0,0,3,5,6,7,8,0,6}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_153,"k , .","{k,,,.}","{k,,,.}","{NN,,,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_154,"U. ( , ? 3 01 ? 1 ? i. ' : .","{U.,(,,,?,3,01,?,1,?,i.,',:,.}","{U.,(,,,?,3,01,?,1,?,i.,',:,.}","{NNP,NNP,,,CD,CD,NN,NN,CD,CD,NN,'',:,.}","{2,0,0,7,4,7,2,9,7,9,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_155,"? { EJI .","{?,{,EJI,.}","{?,{,ejus,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_156,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_157,"C / " XI ; AL ? ?","{C,/,",XI,;,AL,?,?}","{c,/,",xi,;,AL,?,?}","{NN,:,``,NN,:,NNP,NNP,.}","{0,4,4,1,0,7,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_158,"3NCJMATO [ } S IIYPERPL-A5-EIA .","{3NCJMATO,[,},S,IIYPERPL-A5-EIA,.}","{3ncjmato,[,},s,iiyperpl-a5-eium,.}","{CD,CD,NN,NN,NN,.}","{2,0,5,5,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_159,"SEEN .","{SEEN,.}","{SEEN,.}","{NNP,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_160,"O","{O}","{o}","{NN}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_161,"Page 2 of ( ' )","{Page,2,of,(,',)}","{Page,2,of,(,',)}","{NNP,CD,IN,NN,'',SYM}","{0,1,0,2,0,2}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_162,"? of o "","{?,of,o,"}","{?,of,o,"}","{NN,IN,NN,''}","{0,0,1,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_163,"P u-1 DC a ' .","{P,u-1,DC,a,',.}","{p,u-1,dc,a,',.}","{NN,NN,NN,DT,'',.}","{0,1,2,3,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_164,"? ICTTON MARGINS .","{?,ICTTON,MARGINS,.}","{?,ictton,margin,.}","{NN,NN,NNS,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_165,"S .","{S,.}","{s,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_166,"u - ? .","{u,-,?,.}","{u,-,?,.}","{SYM,:,NN,.}","{3,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_167,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_168,"I [ VIE N'T FE ? :","{I,[,VIE,N'T,FE,?,:}","{I,[,vie,not,FE,?,:}","{PRP,VBP,VB,RB,NNP,NNP,:}","{2,0,2,6,6,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_169,"LYMPH NODES , NO TUMOR SEEN .","{LYMPH,NODES,,,NO,TUMOR,SEEN,.}","{lymph,node,,,no,tumor,seen,.}","{NN,NNS,,,NN,NN,NN,.}","{2,0,0,6,6,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_170,"? MENT ? , L' L " ' } L " " 1 " ?","{?,MENT,?,,,L',L,",',},L,",",1,",?}","{?,ment,?,,,l',l,",',},l,",",1,",?}","{RB,JJ,NN,,,NN,NN,'','',CD,NN,'',``,CD,``,.}","{3,3,0,0,3,5,6,0,10,6,10,10,10,6,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_171,"JP } ?","{JP,},?}","{JP,},?}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_172,"EL ' R LUBE : NO TUMOR SE-LIN .","{EL,',R,LUBE,:,NO,TUMOR,SE-LIN,.}","{el,',r,lube,:,no,tumor,se-lin,.}","{NN,'',NN,NN,:,NN,NN,NN,.}","{3,0,0,3,0,8,8,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_173,"LLNGULAR SEGMENT : ADENOCARCINOMA .","{LLNGULAR,SEGMENT,:,ADENOCARCINOMA,.}","{LLNGULAR,SEGMENT,:,adenocarcinoma,.}","{NNP,NNP,:,NN,.}","{2,0,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_174,"; Lin ; gu ; iuiermaticn ? L } } " l " ' : ' LE & LJ , > } .","{;,Lin,;,gu,;,iuiermaticn,?,L,},},",l,",',:,',LE,&,LJ,,,>,},.}","{;,Lin,;,gu,;,iuiermaticn,?,l,},},",l,",',:,',LE,&,LJ,,,>,},.}","{:,NNP,:,NN,:,NN,CD,NN,CD,CD,``,NN,'','',:,'',NNP,CC,NNP,,,JJR,NN,.}","{0,0,0,2,0,8,8,2,22,9,12,10,12,0,0,0,22,0,22,0,22,8,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_175,"? * . '","{?,*,.,'}","{?,*,.,'}","{NN,NN,.,''}","{2,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_176,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_177,"~ J EJJDIG Mz ? '","{~,J,EJJDIG,Mz,?,'}","{~,j,ejjdig,mz,?,'}","{NN,NN,NN,NN,.,''}","{0,1,4,2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_178,"af $ ? ~ 7 '","{af,$,?,~,7,'}","{af,$,?,~,7,'}","{RB,$,CD,NN,CD,''}","{0,1,2,2,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_179,"; iption in formalin labeled with the parient ? s name and four llow tan fibroadipose tissue fragments .7 z 5 cm .","{;,iption,in,formalin,labeled,with,the,parient,?,s,name,and,four,llow,tan,fibroadipose,tissue,fragments,.7,z,5,cm,.}","{;,iption,in,formalin,label,with,the,parient,?,s,name,and,four,llow,tan,fibroadipose,tissue,fragment,.7,z,5,cm,.}","{:,NN,IN,NN,VBN,IN,DT,JJ,NN,NNS,NN,CC,CD,NN,NN,NN,NN,NNS,CD,SYM,CD,NN,.}","{0,0,0,2,4,0,11,11,11,11,5,0,16,16,16,5,18,5,18,22,22,18,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_180,"wrapped and submitted in i","{wrapped,and,submitted,in,i}","{wrap,and,submit,in,i}","{VBN,CC,VBN,IN,FW}","{0,0,1,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_181,"1n formalin laveled with the patient 's mam .","{1n,formalin,laveled,with,the,patient,'s,mam,.}","{1n,formalin,lavele,with,the,patient,'s,mam,.}","{NN,NN,VBD,IN,DT,NN,POS,NN,.}","{2,3,0,0,6,8,0,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_182,"ye1imw ? tan Iibrcadlpose tissue measuring 0.5","{ye1imw,?,tan,Iibrcadlpose,tissue,measuring,0.5}","{ye1imw,?,tan,iibrcadlpose,tissue,measure,0.5}","{NN,CD,NN,NN,NN,VBG,CD}","{4,4,4,0,4,4,6}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_183,"mm .","{mm,.}","{mm,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_184,"wrapped and wnbmitved in El .","{wrapped,and,wnbmitved,in,El,.}","{wrap,and,wnbmitve,in,El,.}","{VBN,CC,VBN,IN,NNP,.}","{0,0,1,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_185,"ReuoLved Ln formalin labeled with the patient 's name and yellow tan fibroadipose tissue measuring 0.5 x 0.5","{ReuoLved,Ln,formalin,labeled,with,the,patient,'s,name,and,yellow,tan,fibroadipose,tissue,measuring,0.5,x,0.5}","{reuolve,ln,formalin,label,with,the,patient,'s,name,and,yellow,tan,fibroadipose,tissue,measure,0.5,x,0.5}","{VBN,NN,NN,VBN,IN,DT,NN,POS,NN,CC,JJ,NN,NN,NN,VBG,CD,CC,CD}","{0,3,1,3,0,7,9,0,4,0,14,14,14,4,14,15,0,16}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_186,"d submitted in Cl .","{d,submitted,in,Cl,.}","{d,submit,in,cl,.}","{NN,VBN,IN,NN,.}","{2,0,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_187,"cm .","{cm,.}","{cm,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_188,"Wrapped","{Wrapped}","{wrap}","{VBD}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_189,"; v@d in Eormaiin labeled with the patienu 's name and","{;,v@d,in,Eormaiin,labeled,with,the,patienu,'s,name,and}","{;,v@d,in,Eormaiin,label,with,the,patienu,'s,name,and}","{:,NN,IN,NNP,VBN,IN,DT,NN,POS,NN,CC}","{0,0,0,2,2,0,8,10,0,5,10}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_190,"- l ; nw ~ ran fibroadipose tissue measuring 0.5 X 0.4 and submitted in D1 .","{-,l,;,nw,~,ran,fibroadipose,tissue,measuring,0.5,X,0.4,and,submitted,in,D1,.}","{-,l,;,nw,~,run,fibroadipose,tissue,measure,0.5,x,0.4,and,submit,in,d1,.}","{:,NN,:,NN,NN,VBD,JJ,NN,VBG,CD,NN,CD,CC,VBN,IN,NN,.}","{0,6,0,5,2,0,8,6,6,9,10,11,0,10,0,14,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_191,"in F rmalin Laneled with the patient 's name and","{in,F,rmalin,Laneled,with,the,patient,'s,name,and}","{in,f,rmalin,lanele,with,the,patient,'s,name,and}","{IN,NN,NN,VBN,IN,DT,NN,POS,NN,CC}","{0,3,1,3,0,7,9,0,4,9}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_192,"A yeLlow ? tan ttczen section ?issue traqment","{A,yeLlow,?,tan,ttczen,section,?issue,traqment}","{a,yellow,?,tan,ttczen,section,?issue,traqment}","{DT,JJ,NN,NN,NN,NN,NN,NN}","{4,4,4,0,8,8,8,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_193,"G. 7 gm .","{G.,7,gm,.}","{G.,7,gm,.}","{NNP,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_194,"Wrapped and submitted in E ? .","{Wrapped,and,submitted,in,E,?,.}","{wrap,and,submit,in,e,?,.}","{VBN,CC,VBN,IN,NN,CD,.}","{0,0,1,0,1,5,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_195,"n * rn ? In ?","{n,*,rn,?,In,?}","{n,*,rn,?,in,?}","{NN,CD,NN,NN,IN,.}","{4,4,4,0,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_196,"4beLed with the pntieH? 'S name and u ,","{4beLed,with,the,pntieH?,'S,name,and,u,,}","{4bele,with,the,pntieh?,'s,name,and,u,,}","{VBN,IN,DT,NN,POS,NN,CC,NN,,}","{0,0,4,6,0,1,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_197,"an LLbrCddiQ ' ?ue measuring 0.7 x 0.5","{an,LLbrCddiQ,',?ue,measuring,0.7,x,0.5}","{a,llbrcddiq,',?ue,measure,0.7,x,0.5}","{DT,NN,POS,NN,VBG,CD,CC,CD}","{2,4,0,0,4,5,0,5}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_198,"thmihted i Fl .","{thmihted,i,Fl,.}","{thmiht,i,fl,.}","{VBN,FW,FW,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_199,"1 ii ? ; EC-L ? : Il < ? ,1 liI ' 1 ? , _ c. < .1 , ? e : led wihlx [ aha p ? at ; 1e :1 ? i : ? s mnlxe .","{1,ii,?,;,EC-L,?,:,Il,<,?,,1,liI,',1,?,,,_,c.,<,.1,,,?,e,:,led,wihlx,[,aha,p,?,at,;,1e,:1,?,i,:,?,s,mnlxe,.}","{1,ii,?,;,ec-l,?,:,il,<,?,,1,lii,',1,?,,,_,c.,<,.1,,,?,e,:,lead,wihlx,[,aha,p,?,at,;,1e,:1,?,i,:,?,s,mnlxe,.}","{CD,LS,NN,:,NN,CD,:,NN,JJR,CD,CD,NN,'',CD,CD,,,CD,NN,JJR,CD,,,CD,SYM,:,VBD,NN,CD,NN,NN,CD,IN,:,NN,CD,NN,FW,:,CD,NNS,NN,.}","{3,3,25,0,3,5,0,5,8,11,19,19,0,15,12,0,18,15,9,9,0,20,9,0,0,29,29,29,25,31,29,0,35,35,29,35,0,39,29,39,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_200,"- i ~ .11 d r ?","{-,i,~,.11,d,r,?}","{-,i,~,.11,d,r,?}","{:,FW,FW,CD,NN,NN,.}","{0,3,0,3,3,5,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_201,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_202,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_203,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_204,"< ? :","{<,?,:}","{<,?,:}","{JJR,CD,:}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_205,"?KW two yel1ow ~ t ; n fibroadipose tissue jne i & : qest fragment measures 0.7 x 0.5 cm and the res O R v Q. 4 cm .","{?KW,two,yel1ow,~,t,;,n,fibroadipose,tissue,jne,i,&,:,qest,fragment,measures,0.7,x,0.5,cm,and,the,res,O,R,v,Q.,4,cm,.}","{?kw,two,yel1ow,~,t,;,n,fibroadipose,tissue,jne,i,&,:,qest,fragment,measure,0.7,x,0.5,cm,and,the,re,o,r,v,Q.,4,cm,.}","{VB,CD,JJ,NN,NN,:,NN,NN,NN,NN,FW,CC,:,VB,NN,NNS,CD,CC,CD,NN,CC,DT,NNS,NN,NN,LS,NNP,CD,NN,.}","{0,5,5,5,14,0,10,10,10,5,10,11,0,1,16,14,16,0,20,14,0,25,25,25,20,14,29,29,26,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_206,"Wrapped and submitted","{Wrapped,and,submitted}","{wrap,and,submit}","{VBN,CC,VBN}","{0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_207,"... z ( A","{...,z,(,A}","{...,z,(,a}","{:,SYM,CD,DT}","{0,3,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_208,"Ln ?ogmalin labeled with the patient ? s name and ticwwtan fibzoadipose tissue measuring 0.7 x 0.5 and suvmitted in EL . )","{Ln,?ogmalin,labeled,with,the,patient,?,s,name,and,ticwwtan,fibzoadipose,tissue,measuring,0.7,x,0.5,and,suvmitted,in,EL,.,)}","{ln,?ogmalin,label,with,the,patient,?,s,name,and,ticwwtan,fibzoadipose,tissue,measure,0.7,x,0.5,and,suvmitt,in,EL,.,)}","{NN,NN,VBN,IN,DT,NN,CD,NNS,NN,CC,NN,NN,NN,VBG,CD,CC,CD,CC,VBN,IN,NNP,.,NN}","{2,19,0,0,9,9,9,9,3,0,13,13,9,3,14,0,14,0,3,0,19,0,21}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_209,"Ln Lmznalin Labeled with Ehe paLient 's name and F3 " 4:0 twn y. llow ~ tan fibroadipose tissue fragments","{Ln,Lmznalin,Labeled,with,Ehe,paLient,'s,name,and,F3,",4:0,twn,y.,llow,~,tan,fibroadipose,tissue,fragments}","{ln,lmznalin,label,with,ehe,palient,'s,name,and,f3,",4:0,twn,y.,llow,~,tan,fibroadipose,tissue,fragment}","{NN,NN,VBN,IN,NN,NN,POS,NN,CC,NN,'',CD,NN,NN,NN,NN,NN,NN,NN,NNS}","{2,3,0,0,6,8,0,3,0,3,10,20,20,20,20,20,20,20,20,10}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_210,".4 x 0.4 cm .","{.4,x,0.4,cm,.}","{.4,x,0.4,cm,.}","{CD,CC,CD,NN,.}","{0,1,4,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_211,"Wrapped and submitted in t1 .","{Wrapped,and,submitted,in,t1,.}","{wrap,and,submit,in,t1,.}","{VBN,CC,VBN,IN,NN,.}","{0,0,1,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_212,"? ? rmalin Labeled with the patj .","{?,?,rmalin,Labeled,with,the,patj,.}","{?,?,rmalin,label,with,the,patj,.}","{NN,CD,NN,VBN,IN,DT,NN,.}","{3,3,0,3,0,7,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_213,"nt 's name and","{nt,'s,name,and}","{nt,'s,name,and}","{NN,POS,NN,CC}","{3,0,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_214,"Q","{Q}","{Q}","{NNP}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_215,"# 1 ? are two yalLow ? b : own fibroadipose tissue","{#,1,?,are,two,yalLow,?,b,:,own,fibroadipose,tissue}","{#,1,?,be,two,yallow,?,b,:,own,fibroadipose,tissue}","{#,CD,NN,VBP,CD,JJ,NN,NN,:,JJ,NN,NN}","{2,3,8,8,8,8,8,0,0,12,12,8}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_216,"The Targest ?nagment measures 0.7 x 0.1 cm and the * measures 0.4 X 0.4 cm .","{The,Targest,?nagment,measures,0.7,x,0.1,cm,and,the,*,measures,0.4,X,0.4,cm,.}","{the,targest,?nagment,measure,0.7,x,0.1,cm,and,the,*,measure,0.4,x,0.4,cm,.}","{DT,JJ,NN,NNS,CD,CC,CD,NN,CC,DT,NN,VBZ,CD,NN,CD,NN,.}","{4,4,4,12,4,0,8,4,0,11,4,0,14,12,16,14,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_217,"wrapped and submitted","{wrapped,and,submitted}","{wrap,and,submit}","{VBN,CC,VBN}","{0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_218,"? th the patient ?s name and : aLiu ; abeieJ w ow ~ brown fibroadipose tissue fragment Wrapped and submitted in Kl .","{?,th,the,patient,?s,name,and,:,aLiu,;,abeieJ,w,ow,~,brown,fibroadipose,tissue,fragment,Wrapped,and,submitted,in,Kl,.}","{?,th,the,patient,?s,name,and,:,aliu,;,abeiej,w,ow,~,brown,fibroadipose,tissue,fragment,wrap,and,submit,in,Kl,.}","{NN,DT,DT,NN,POS,NN,CC,:,NN,:,NN,NN,NN,NN,JJ,NN,NN,NN,VBD,CC,VBD,IN,NNP,.}","{21,6,4,6,0,1,0,0,6,0,14,14,14,9,18,18,18,6,0,0,19,0,19,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_219,"abeied with the patient 's name and ow ? bzown fibraadipose tissue measuring","{abeied,with,the,patient,'s,name,and,ow,?,bzown,fibraadipose,tissue,measuring}","{abei,with,the,patient,'s,name,and,ow,?,bzown,fibraadipose,tissue,measure}","{VBN,IN,DT,NN,POS,NN,CC,NN,NN,NN,NN,NN,VBG}","{0,0,4,6,0,13,0,12,12,12,12,13,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_220,"? pped and gubmitted in L1 .","{?,pped,and,gubmitted,in,L1,.}","{?,pped,and,gubmitt,in,l1,.}","{NN,VBD,CC,VBD,IN,NN,.}","{2,0,0,2,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_221,"formalin tabeied with the patient 's name and segment left upper Lobe " is a ptevtously secticned","{formalin,tabeied,with,the,patient,'s,name,and,segment,left,upper,Lobe,",is,a,ptevtously,secticned}","{formalin,tabei,with,the,patient,'s,name,and,segment,leave,upper,lobe,",be,a,ptevtously,secticn}","{NN,VBD,IN,DT,NN,POS,NN,CC,NN,VBD,JJ,NN,'',VBZ,DT,RB,VBN}","{2,0,10,5,7,0,10,0,10,2,12,10,12,15,12,17,15}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_222,"? ~ upper } ohe Lung weighing 50 grams and measuring ; -- .1 .","{?,~,upper,},ohe,Lung,weighing,50,grams,and,measuring,;,--,.1,.}","{?,~,upper,},ohe,lung,weigh,50,gram,and,measure,;,--,.1,.}","{NN,NN,JJ,NN,NN,NN,VBG,CD,NNS,CC,VBG,:,:,NN,.}","{2,3,0,6,6,3,0,6,8,0,8,0,0,6,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_223,"? _","{?,_}","{?,_}","{NN,SYM}","{0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_224,"w aqwrewate 10 x 6 x ?","{w,aqwrewate,10,x,6,x,?}","{w,aqwrewate,10,x,6,x,?}","{NN,NN,CD,CC,CD,NN,.}","{2,0,2,0,6,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_225,"3 cm .","{3,cm,.}","{3,cm,.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_226,"The specimen has a staple line on the edaex , which is removed in inked in black .","{The,specimen,has,a,staple,line,on,the,edaex,,,which,is,removed,in,inked,in,black,.}","{the,specimen,have,a,staple,line,on,the,edaex,,,which,be,remove,in,ink,in,black,.}","{DT,NN,VBZ,DT,JJ,NN,IN,DT,NN,,,WDT,VBZ,VBN,IN,VBN,IN,JJ,.}","{2,3,0,6,6,3,0,9,6,0,13,13,9,0,13,0,15,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_227,"The lung a qray ? brown and spongy .","{The,lung,a,qray,?,brown,and,spongy,.}","{the,lung,a,qray,?,brown,and,spongy,.}","{DT,NN,DT,NN,CD,JJ,CC,JJ,.}","{2,0,4,2,4,4,0,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_228,"No tumor is grossly","{No,tumor,is,grossly}","{no,tumor,be,grossly}","{DT,NN,VBZ,RB}","{2,3,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_229,"The specimen is repzesented as tollowsz parencnyma","{The,specimen,is,repzesented,as,tollowsz,parencnyma}","{the,specimen,be,repzesent,as,tollowsz,parencnyma}","{DT,NN,VBZ,VBN,IN,NN,NN}","{2,4,4,0,0,7,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_230,"? ma inked Loses on marqinmMl .","{?,ma,inked,Loses,on,marqinmMl,.}","{?,ma,ink,lose,on,marqinmml,.}","{NN,NN,VBD,VBZ,IN,NN,.}","{2,3,0,3,0,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_231,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_232,"M4 ; lung pareachyma = M5 .","{M4,;,lung,pareachyma,=,M5,.}","{m4,;,lung,pareachyma,=,m5,.}","{NN,:,NN,NN,JJ,NN,.}","{0,0,4,1,6,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_233,"the same container is an undesignatcd detached suture .","{the,same,container,is,an,undesignatcd,detached,suture,.}","{the,same,container,be,a,undesignatcd,detach,suture,.}","{DT,JJ,NN,VBZ,DT,JJ,VBN,NN,.}","{3,3,6,6,6,0,6,7,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_234,"N.","{N.}","{N.}","{NNP}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_235,"* 1ment left upper lube F3 " are two gLay ~ tan frozen ? qments .","{*,1ment,left,upper,lube,F3,",are,two,gLay,~,tan,frozen,?,qments,.}","{*,1ment,leave,upper,lube,f3,",be,two,glay,~,tan,frozen,?,qment,.}","{NN,NN,VBD,JJ,NN,NN,'',VBP,CD,JJ,NN,NN,JJ,NN,NNS,.}","{2,3,0,6,6,12,6,12,12,12,12,3,15,15,12,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_236,"The larger fragment measures 2 x 1.2","{The,larger,fragment,measures,2,x,1.2}","{the,larger,fragment,measure,2,x,1.2}","{DT,JJR,NN,NNS,CD,CC,CD}","{4,4,4,0,4,0,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_237,"? let fragment measures 1 X 0.9 : m. Wrapped and","{?,let,fragment,measures,1,X,0.9,:,m.,Wrapped,and}","{?,let,fragment,measure,1,x,0.9,:,m.,wrap,and}","{NN,VBD,NN,NNS,CD,NN,CD,:,VB,VBD,CC}","{2,0,4,6,6,2,6,0,10,2,10}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_238,"Lmalin Lab?led With the patient 's name and a = eLluw ? tan fibroadipuse Lissue fragment","{Lmalin,Lab?led,With,the,patient,'s,name,and,a,=,eLluw,?,tan,fibroadipuse,Lissue,fragment}","{Lmalin,Lab?led,with,the,patient,'s,name,and,a,=,elluw,?,tan,fibroadipuse,Lissue,fragment}","{NNP,NNP,IN,DT,NN,POS,NN,CC,DT,JJ,NN,NN,NN,NN,NNP,NN}","{2,0,2,5,7,0,3,0,16,16,16,16,16,16,16,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_239,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_240,".5 cm .","{.5,cm,.}","{.5,cm,.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_241,"Wrapped and submitted in 01 .","{Wrapped,and,submitted,in,01,.}","{wrap,and,submit,in,01,.}","{VBN,CC,VBN,IN,CD,.}","{0,0,1,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_242,"Iotmalin labeled with the patient ? s name and is a wedge Of lung segment stitch at n ams , measuring E x 5 x 2.4 cm .","{Iotmalin,labeled,with,the,patient,?,s,name,and,is,a,wedge,Of,lung,segment,stitch,at,n,ams,,,measuring,E,x,5,x,2.4,cm,.}","{iotmalin,label,with,the,patient,?,s,name,and,be,a,wedge,of,lung,segment,stitch,at,n,am,,,measure,e,x,5,x,2.4,cm,.}","{NN,VBN,IN,DT,NN,CD,NNS,NN,CC,VBZ,DT,NN,IN,NN,NN,VBP,IN,NN,NNS,,,VBG,NN,NN,CD,CC,CD,NN,.}","{16,1,0,5,2,7,5,7,0,12,12,2,0,15,12,0,0,19,16,0,16,23,24,21,0,27,21,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_243,"The specimen has a whitx is removed .","{The,specimen,has,a,whitx,is,removed,.}","{the,specimen,have,a,whitx,be,remove,.}","{DT,NN,VBZ,DT,NN,VBZ,VBN,.}","{2,3,0,5,3,7,5,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_244,"The specimen iuned .","{The,specimen,iuned,.}","{the,specimen,iun,.}","{DT,NN,VBN,.}","{2,3,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_245,"Sectioning showa a '","{Sectioning,showa,a,'}","{section,showa,a,'}","{VBG,NN,DT,''}","{0,1,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_246,"a3utinq 1.4 X E X 0.7 cm .","{a3utinq,1.4,X,E,X,0.7,cm,.}","{a3utinq,1.4,x,e,x,0.7,cm,.}","{NN,CD,NN,NN,NN,CD,NN,.}","{4,4,4,0,7,7,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_247,"Fha","{Fha}","{fha}","{NN}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_248,"; ? qray ~ brown and spongy , and no Qther l? '","{;,?,qray,~,brown,and,spongy,,,and,no,Qther,l?,'}","{;,?,qray,~,brown,and,spongy,,,and,no,qther,l?,'}","{:,CD,NN,NN,JJ,CC,JJ,,,CC,DT,NN,NN,''}","{0,3,4,0,4,0,5,0,0,12,12,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_249,"im & n is represented as follows :","{im,&,n,is,represented,as,follows,:}","{im,&,n,be,represent,as,follow,:}","{NN,CC,NN,VBZ,VBN,IN,VBZ,:}","{5,0,5,5,0,7,5,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_250,"1a .","{1a,.}","{1a,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_251,"} .","{},.}","{},.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_252,"n1. : xr , ' g ' L11 = P1 ; e ? .","{n1.,:,xr,,,',g,',L11,=,P1,;,e,?,.}","{n1.,:,xr,,,',g,',l11,=,p1,;,e,?,.}","{NN,:,NN,,,'',NN,'',NN,JJ,NN,:,SYM,CD,.}","{0,0,1,0,0,8,0,1,10,8,0,13,10,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_253,"!","{!}","{!}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_254,"n1 ' ; ' i. ? re lesioli [ ma adjacent to the lc5ion * P5 ~ P7 : and","{n1,',;,',i.,?,re,lesioli,[,ma,adjacent,to,the,lc5ion,*,P5,~,P7,:,and}","{n1,',;,',i.,?,re,lesioli,[,ma,adjacent,to,the,lc5ion,*,p5,~,p7,:,and}","{NN,'',:,'',FW,FW,FW,FW,FW,FW,JJ,TO,DT,NN,CD,NN,NN,NN,:,CC}","{0,0,0,0,10,10,10,10,10,1,10,0,14,11,18,18,18,14,0,14}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_255,"{ J51 r ? c2","{{,J51,r,?,c2}","{{,j51,r,?,c2}","{NN,NN,NN,CD,NN}","{3,3,0,5,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_256,"tough tho staple resection marqin = ? 8 .","{tough,tho,staple,resection,marqin,=,?,8,.}","{tough,tho,staple,resection,marqin,=,?,8,.}","{JJ,NN,NN,NN,NN,JJ,CD,CD,.}","{5,5,5,5,0,8,8,5,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_257,"Page 4 of ( 3","{Page,4,of,(,3}","{Page,4,of,(,3}","{NNP,CD,IN,CD,CD}","{0,1,0,5,2}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_258,"P ? eSof6 E US","{P,?,eSof6,E,US}","{p,?,esof6,e,US}","{NN,CD,NN,NN,NNP}","{4,4,4,0,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_259,"?m en : E5 " is a qray ? tan frozen section","{?m,en,:,E5,",is,a,qray,?,tan,frozen,section}","{?m,en,:,e5,",be,a,qray,?,tan,frozen,section}","{NN,IN,:,NN,'',VBZ,DT,NN,NN,NN,JJ,NN}","{0,0,0,1,4,10,10,10,10,4,12,10}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_260,"= urinq 1.5 X 1.0 cm .","{=,urinq,1.5,X,1.0,cm,.}","{=,urinq,1.5,x,1.0,cm,.}","{JJ,NN,CD,NN,CD,NN,.}","{2,0,4,2,6,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_261,"Wrapped and submitted wcw reviewed w : : h","{Wrapped,and,submitted,wcw,reviewed,w,:,:,h}","{wrap,and,submit,wcw,review,w,:,:,h}","{VBN,CC,VBN,NN,VBN,NN,:,:,NN}","{0,0,1,3,4,5,0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_262,"BLQJJK","{BLQJJK}","{blqjjk}","{NN}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_263,"BLCIUPC","{BLCIUPC}","{blciupc}","{NN}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_264,"FL .","{FL,.}","{fl,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_265,"/ 3:3 .","{/,3:3,.}","{/,3:3,.}","{:,CD,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_266,"Elm ? ; i Ed BLC-CK k " _ & EL X ; 15 .","{Elm,?,;,i,Ed,BLC-CK,k,",_,&,EL,X,;,15,.}","{Elm,?,;,i,Ed,BLC-CK,k,",_,&,EL,x,;,15,.}","{NNP,CD,:,LS,NNP,NNP,NN,'',NNP,CC,NNP,NN,:,CD,.}","{0,1,0,7,7,7,1,7,12,0,12,7,0,7,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_267,"AZ ? .","{AZ,?,.}","{AZ,?,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_268,"H - \ ' r } rT Xi ii : .","{H,-,\,',r,},rT,Xi,ii,:,.}","{h,-,\,',r,},rt,xi,ii,:,.}","{NN,:,NN,'',NN,CD,NN,NN,LS,:,.}","{0,0,5,0,1,8,8,5,5,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_269,": . "","{:,.,"}","{:,.,"}","{:,.,''}","{0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_270,"E ' _ ? i ? I ? .","{E,',_,?,i,?,I,?,.}","{e,',_,?,i,?,I,?,.}","{NN,'',SYM,CD,FW,FW,PRP,VBP,.}","{0,0,4,1,6,1,8,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_271,"H&EI X ] .","{H&EI,X,],.}","{h&ei,x,],.}","{NN,NN,CD,.}","{2,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_272,"B CCK","{B,CCK}","{b,cck}","{NN,NN}","{2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_273,": < ? ) U ? ] ? , : ' .","{:,<,?,),U,?,],?,,,:,',.}","{:,<,?,),U,?,],?,,,:,',.}","{:,JJR,CD,CD,NNP,CD,CD,NN,,,:,'',.}","{0,0,4,5,2,7,8,2,0,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_274,"NE HMS .","{NE,HMS,.}","{ne,HMS,.}","{NNS,NNP,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_275,"X1 BLOCK ? '","{X1,BLOCK,?,'}","{x1,BLOCK,?,'}","{NN,NNP,.,''}","{0,1,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_276,"I < \ ; lC X3 .","{I,<,\,;,lC,X3,.}","{I,<,\,;,lc,x3,.}","{PRP,JJR,CD,:,NN,NN,.}","{2,0,2,0,6,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_277,"I ? .","{I,?,.}","{I,?,.}","{PRP,VBP,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_278,"3.2 .","{3.2,.}","{3.2,.}","{CD,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_279,"E - ? .","{E,-,?,.}","{e,-,?,.}","{NN,:,NN,.}","{0,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_280,"< " ) ( } ' I ? ?","{<,",),(,},',I,?,?}","{<,",),(,},',I,?,?}","{JJR,``,CD,CD,NN,'',PRP,RB,.}","{4,4,4,0,4,0,8,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_281,"1 ? IF , [ ? .","{1,?,IF,,,[,?,.}","{1,?,if,,,[,?,.}","{CD,CD,IN,,,CD,NN,.}","{2,0,2,0,6,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_282,"& F ' .","{&,F,',.}","{&,f,',.}","{CC,NN,'',.}","{2,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_283,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_284,"Kl BLOCK I-Y . '","{Kl,BLOCK,I-Y,.,'}","{Kl,BLOCK,i-y,.,'}","{NNP,NNP,NN,.,''}","{0,1,2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_285,"~ " f ' . )","{~,",f,',.,)}","{~,",f,',.,)}","{JJ,``,FW,'',.,SYM}","{0,3,1,0,0,3}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_286,"1 ? !","{1,?,!}","{1,?,!}","{CD,NN,.}","{2,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_287,"R3 .","{R3,.}","{r3,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_288,": ? .","{:,?,.}","{:,?,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_289,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_290,"l ? ~ .","{l,?,~,.}","{l,?,~,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_291,"RC","{RC}","{rc}","{NN}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_292,"I362 E X .1 BLOITZK H if : K .1 ? .","{I362,E,X,.1,BLOITZK,H,if,:,K,.1,?,.}","{i362,e,x,.1,bloitzk,h,if,:,K,.1,?,.}","{NN,NN,NN,CD,NN,NN,IN,:,NNP,CD,CD,.}","{6,6,6,6,6,0,6,0,6,11,9,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_293,"H51 ?","{H51,?}","{h51,?}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_294,"X1 .","{X1,.}","{x1,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_295,"[ 5 .","{[,5,.}","{[,5,.}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_296,"Oi ' .","{Oi,',.}","{ous,',.}","{NN,'',.}","{0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_297,"IK","{IK}","{ik}","{NN}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_298,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_299,"? < Ed } 3I .","{?,<,Ed,},3I,.}","{?,<,Ed,},3us,.}","{NN,JJR,NNP,CD,NN,.}","{0,1,5,5,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_300,"OCK BLOCK","{OCK,BLOCK}","{OCK,BLOCK}","{NNP,NNP}","{2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_301,"Q ,","{Q,,}","{Q,,}","{NNP,,}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_302,"H :2 E ? X1 LiE .","{H,:2,E,?,X1,LiE,.}","{h,:2,e,?,x1,lie,.}","{NN,CD,NN,CD,NN,NN,.}","{0,1,6,6,6,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_303,"OC ' c ~ ? .","{OC,',c,~,?,.}","{oc,',c,~,?,.}","{NN,'',NN,VBD,CD,.}","{4,0,4,0,4,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_304,"3 m x M ? Z. OC ? < C. TI .","{3,m,x,M,?,Z.,OC,?,<,C.,TI,.}","{3,m,x,m,?,Z.,OC,?,<,c.,TI,.}","{CD,NN,NN,NN,CD,NNP,NNP,NN,JJR,FW,NNP,.}","{4,4,4,0,8,8,8,4,8,4,10,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_305,"R-HE ?","{R-HE,?}","{r-he,?}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_306,"R1 BI .","{R1,BI,.}","{r1,bus,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_307,"UCK .","{UCK,.}","{UCK,.}","{NNP,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_308,"2 X 1 .","{2,X,1,.}","{2,x,1,.}","{CD,NN,CD,.}","{2,0,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_309,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_310,"?","{?}","{?}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_311,".","{.}","{.}","{.}","{0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_312,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_313,"? ~ LC , ? CK .","{?,~,LC,,,?,CK,.}","{?,~,lc,,,?,ck,.}","{NN,NN,NN,,,CD,NN,.}","{3,3,0,0,6,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_314,".3 ENE X1 BLi ) ( . '","{.3,ENE,X1,BLi,),(,.,'}","{.3,ene,x1,blus,),(,.,'}","{NN,NN,NN,NN,CD,NN,.,''}","{3,3,0,3,6,4,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_315,"I \ ' .","{I,\,',.}","{I,\,',.}","{PRP,VBP,'',.}","{2,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_316,"5 : p?Ed X1 ? 3LOCK .5","{5,:,p?Ed,X1,?,3LOCK,.5}","{5,:,p?ed,x1,?,3lock,.5}","{CD,:,NN,NN,CD,CD,CD}","{0,0,4,1,6,7,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_317,"Z ? < , _ _ v ? : ? > L = ? 3CK","{Z,?,<,,,_,_,v,?,:,?,>,L,=,?,3CK}","{z,?,<,,,_,_,v,?,:,?,>,l,=,?,3ck}","{NN,NN,JJR,,,CD,CD,LS,CD,:,CD,JJR,NN,JJ,CD,CD}","{2,0,2,0,6,3,6,7,0,12,12,6,12,15,13}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_318,"} 5L < f ? ) ( .","{},5L,<,f,?,),(,.}","{},5l,<,f,?,),(,.}","{NN,NN,JJR,FW,FW,FW,FW,.}","{2,0,2,7,7,7,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_319,"IK .","{IK,.}","{ik,.}","{NN,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_320,"7 .","{7,.}","{7,.}","{CD,.}","{0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_321,"p A , - .","{p,A,,,-,.}","{p,a,,,-,.}","{NN,NN,,,:,.}","{2,0,0,0,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_322,"P-O ? - L " ' L ? Z [ R","{P-O,?,-,L,",',L,?,Z,[,R}","{p-o,?,-,l,",',l,?,z,[,r}","{NN,SYM,:,NN,'','',NN,CD,NN,CD,NN}","{0,1,0,1,4,0,4,9,7,11,4}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_323,"X1 BLOCK .","{X1,BLOCK,.}","{x1,BLOCK,.}","{NN,NNP,.}","{0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_324,"4 F. 2 " \ .","{4,F.,2,",\,.}","{4,F.,2,",\,.}","{CD,NNP,CD,``,NN,.}","{2,0,2,5,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_325,"[ \ 7 ~ ? .","{[,\,7,~,?,.}","{[,\,7,~,?,.}","{NN,NN,CD,NN,NN,.}","{2,0,5,5,2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_326,"( " T. " ' f ? TNE .","{(,",T.,",',f,?,TNE,.}","{(,",t.,",',f,?,tne,.}","{RB,``,FW,``,'',FW,FW,NN,.}","{0,3,1,3,0,8,8,3,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_327,"H&E X " ; RLO-C2K .","{H&E,X,",;,RLO-C2K,.}","{h&e,x,",;,rlo-c2k,.}","{NN,NN,'',:,NN,.}","{0,1,2,0,1,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_328,"? . "","{?,.,"}","{?,.,"}","{NN,.,''}","{0,0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_329,"H_L ~ ' I ) CK .","{H_L,~,',I,),CK,.}","{h_l,~,',I,),ck,.}","{NN,NN,'',PRP,VBP,NN,.}","{2,5,0,5,0,5,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_330,"E5 BLOCK","{E5,BLOCK}","{e5,BLOCK}","{NN,NNP}","{0,1}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_331,"__ ?repared","{__,?repared}","{__,?repared}","{NN,VBD}","{2,0}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_332,"- iagnusis Dncltpancy ary rumor Site Discrapuncv","{-,iagnusis,Dncltpancy,ary,rumor,Site,Discrapuncv}","{-,iagnusis,Dncltpancy,ary,rumor,site,Discrapuncv}","{:,NN,NNP,JJ,NN,NN,NNP}","{0,0,7,7,7,7,2}","{}"
+TCGA-J2-A4AE, TCGA-J2-A4AESENT_333,"Page 6 M6 No","{Page,6,M6,No}","{Page,6,m6,no}","{NNP,CD,NN,DT}","{0,1,1,3}","{}"

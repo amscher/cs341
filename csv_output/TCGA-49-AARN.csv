@@ -1,384 +1,384 @@
-TCGA-49-AARN, TCGA-49-AARNSENT_1,{},{uuIu,:19256999,-,CAE3-4004-AA1c-15sa4Ea9acD1},{uuiu,:19256999,-,cae3-4004-aa1c-15sa4ea9acd1},{NN,CD,:,NN},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_2,{},{TCGA-49-AARN-01A-PR,Redacted,'},{tcga-49-aarn-01a-pr,redacted,'},{NN,JJ,''},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_3,{},{;,;,.},{;,;,.},{:,:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_4,{},{;,;,,,?,.},{;,;,,,?,.},{:,:,,,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_5,{},{*,.},{*,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_6,{},{.,'},{.,'},{.,''},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_7,{},{ra,.},{ra,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_8,{},{*,:,aa,:,a,:,r,',;,;,p,:,:,:,*,',.},{*,:,aa,:,a,:,r,',;,;,p,:,:,:,*,',.},{NNP,:,NN,:,DT,:,NN,'',:,:,NN,:,:,:,NN,'',.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_9,{},{:,a,*,",*,',*,",:,:,:,e,:,:,wa.,:,:,',a,:,',",m,',*,",",-,-,I,-,"},{:,a,*,",*,',*,",:,:,:,e,:,:,wa.,:,:,',a,:,',",m,',*,",",-,-,I,-,"},{:,DT,JJ,``,NN,'',CD,``,:,:,:,LS,:,:,VB,:,:,'',DT,:,'',``,NN,'',CD,``,``,:,:,PRP,:,''},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_10,{},{llllllll,lllllllllllll,llllllllllllllllllllllllllllllllllllllll,?},{llllllll,lllllllllllll,llllllllllllllllllllllllllllllllllllllll,?},{NN,NN,NN,NN},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_11,{},{INTERPRETATION,AND,DIAGNOSIS,:},{interpretation,and,diagnosis,:},{NN,CC,NN,:},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_12,{},{1,.},{1,.},{LS,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_13,{},{LUNG,,,RIGHT,LOWER,LOBE,(,RIGHT,LOWER,LOBECTOMY,),:,INFILTRATING,MODERATELY,DIFFERENTIATED,ADENOCARCINOMA,(,2.2,CM,),.},{lung,,,RIGHT,LOWER,LOBE,(,RIGHT,LOWER,LOBECTOMY,),:,INFILTRATING,moderately,differentiate,adenocarcinoma,(,2.2,cm,),.},{NN,,,NNP,NNP,NNP,VBD,NNP,NNP,NNP,CD,:,NNP,RB,VBD,NN,CD,CD,NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_14,{},{THE,NEOPLASM,DOES,NOT,INVADE,INTO,THE,PLEURA,.},{the,NEOPLASM,do,NOT,invade,into,the,pleuron,.},{DT,NNP,VBZ,NNP,VB,IN,DT,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_15,{},{NO,VASCULAR,INVASION,IS,IDENTIFIED,.},{no,vascular,invasion,be,IDENTIFIED,.},{NN,NN,NN,VBZ,NNP,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_16,{},{ALL,SURGICAL,MARGINS,ARE,NEGATIVE,FOR,TUMOR,.},{all,surgical,margin,be,negative,for,tumor,.},{NN,JJ,NNS,VBP,JJ,IN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_17,{},{THE,PATHOLOGIC,STAGE,IS,TINOMX,.},{the,PATHOLOGIC,STAGE,be,TINOMX,.},{DT,NNP,NNP,VBZ,NNP,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_18,{},{2,.},{2,.},{LS,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_19,{},{LYMPH,NODE,,,LEVEL,7,(,BX,.,)},{lymph,node,,,level,7,(,bx,.,)},{NN,NN,,,NN,CD,CD,NN,.,SYM},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_20,{},{:,TWO,(,2,),LYMPH,NODES,AND,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,FOR,TUMOR,.},{:,two,(,2,),LYMPH,NODES,and,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,for,tumor,.},{:,CD,NN,CD,CD,NNP,NNPS,CC,NNPS,NNP,NNP,,,NNP,IN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_21,{},{3,.},{3,.},{LS,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_22,{},{LYMPH,NODE,,,4R,(,BX,),:,ONE,(,1,),LYMPH,NODE,AND,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,FOR,TUMOR,.},{lymph,node,,,4r,(,bx,),:,one,(,1,),LYMPH,NODE,and,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,for,tumor,.},{NN,NN,,,NN,CD,NN,NN,:,CD,NN,CD,CD,NNP,NNP,CC,NNP,NNP,NNP,,,NNP,IN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_23,{},{NOTE,:,Immunohistochemical,studies,confirm,the,primary,lung,origin,of,this,tumor,.},{note,:,immunohistochemical,study,confirm,the,primary,lung,origin,of,this,tumor,.},{VB,:,JJ,NNS,VBP,DT,JJ,NN,NN,IN,DT,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_24,{},{Specifically,,,the,tumor,cells,are,immunoreactive,for,TTF-1,;,and,they,are,non-immunoreactive,for,estrogen,receptor,,,progesterone,receptor,and,gross,cystic,disease,fluid,protein,.},{specifically,,,the,tumor,cell,be,immunoreactive,for,ttf-1,;,and,they,be,non-immunoreactive,for,estrogen,receptor,,,progesterone,receptor,and,gross,cystic,disease,fluid,protein,.},{RB,,,DT,NN,NNS,VBP,JJ,IN,NN,:,CC,PRP,VBP,JJ,IN,NN,NN,,,NN,NN,CC,JJ,JJ,NN,NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_25,{},{*,Electronic,signature,.},{*,electronic,signature,.},{NN,JJ,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_26,{},{?,.,?,.,?,.},{?,CD,?,CD,?,.},{NN,.,CD,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_27,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_28,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_29,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_30,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_31,{},{.....,_,.},{.....,_,.},{NNP,NNP,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_32,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_33,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_34,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_35,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_36,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_37,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_38,{},{....,_,.},{....,_,.},{NNP,NNP,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_39,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_40,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_41,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_42,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_43,{},{?,.,?,.},{?,CD,?,.},{NN,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_44,{},{.....,___,.},{.....,___,.},{NN,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_45,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_46,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_47,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_48,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_49,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_50,{},{....,.},{....,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_51,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_52,{},{-,.},{-,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_53,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_54,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_55,{},{n,.},{n,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_56,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_57,{},{-,...,-,.....,_,.},{-,...,-,.....,_,.},{:,:,:,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_58,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_59,{},{_,.....,...,_,.},{_,.....,...,_,.},{NN,CD,:,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_60,{},{_,...,_,.},{_,...,_,.},{NN,:,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_61,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_62,{},{_,...,_,.},{_,...,_,.},{NN,:,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_63,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_64,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_65,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_66,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_67,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_68,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_69,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_70,{},{_,.....,__,.},{_,.....,__,.},{NN,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_71,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_72,{},{_,.....,.},{_,.....,.},{NN,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_73,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_74,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_75,{},{_,.....,.....,_,.},{_,.....,.....,_,.},{NN,CD,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_76,{},{__,.},{__,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_77,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_78,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_79,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_80,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_81,{},{n,_,....,_,.},{n,_,....,_,.},{NN,SYM,FW,FW,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_82,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_83,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_84,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_85,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_86,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_87,{},{o,.},{o,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_88,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_89,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_90,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_91,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_92,{},{-,.},{-,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_93,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_94,{},{--,.},{--,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_95,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_96,{},{---,.},{---,.},{CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_97,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_98,{},{?,_,.},{?,_,.},{NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_99,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_100,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_101,{},{___,.},{___,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_102,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_103,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_104,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_105,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_106,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_107,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_108,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_109,{},{-,o,:,--,n.,--,.},{-,o,:,--,n.,--,.},{:,NN,:,:,NN,:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_110,{},{?,.,?,.},{?,CD,?,.},{NN,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_111,{},{....,.},{....,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_112,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_113,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_114,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_115,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_116,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_117,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_118,{},{-,_,.},{-,_,.},{:,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_119,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_120,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_121,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_122,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_123,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_124,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_125,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_126,{},{----,3,.},{----,3,.},{CD,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_127,{},{--,an,--,_,.},{--,a,--,_,.},{:,DT,:,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_128,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_129,{},{____,.},{____,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_130,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_131,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_132,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_133,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_134,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_135,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_136,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_137,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_138,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_139,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_140,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_141,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_142,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_143,{},{-,u1,?,.},{-,u1,?,.},{:,NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_144,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_145,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_146,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_147,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_148,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_149,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_150,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_151,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_152,{},{?,.,?,.},{?,CD,?,.},{NN,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_153,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_154,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_155,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_156,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_157,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_158,{},{-,.},{-,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_159,{},{?,.,?,.},{?,CD,?,.},{NN,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_160,{},{-,n,--,.},{-,n,--,.},{:,NN,:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_161,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_162,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_163,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_164,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_165,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_166,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_167,{},{n},{n},{NN},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_168,{},{GROSS,DESCRIPTION},{gross,description},{JJ,NN},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_169,{},{(,Continued,on,next,page,.,)},{(,continue,on,next,page,.,)},{RB,VBN,IN,JJ,NN,.,SYM},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_170,{},{?,Page,2},{?,Page,2},{NN,NNP,CD},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_171,{},{__,.},{__,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_172,{},{_,.....,.....,....,_,.},{_,.....,.....,....,_,.},{NN,CD,CD,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_173,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_174,{},{__,.},{__,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_175,{},{___,.},{___,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_176,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_177,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_178,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_179,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_180,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_181,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_182,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_183,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_184,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_185,{},{_,.....,.....,.},{_,.....,.....,.},{NN,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_186,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_187,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_188,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_189,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_190,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_191,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_192,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_193,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_194,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_195,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_196,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_197,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_198,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_199,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_200,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_201,{},{___,.},{___,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_202,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_203,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_204,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_205,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_206,{},{_,...,_,...,.},{_,...,_,...,.},{NN,:,CD,:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_207,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_208,{},{-,.},{-,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_209,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_210,{},{_,...,-,.},{_,...,-,.},{NN,:,:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_211,{},{___,.},{___,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_212,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_213,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_214,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_215,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_216,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_217,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_218,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_219,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_220,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_221,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_222,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_223,{},{?,.,?,.},{?,CD,?,.},{NN,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_224,{},{__,.},{__,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_225,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_226,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_227,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_228,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_229,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_230,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_231,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_232,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_233,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_234,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_235,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_236,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_237,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_238,{},{gu.,:,.},{gu.,:,.},{NNP,:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_239,{},{__,.},{__,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_240,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_241,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_242,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_243,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_244,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_245,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_246,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_247,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_248,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_249,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_250,{},{:,.},{:,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_251,{},{?,.,?,.},{?,CD,?,.},{NN,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_252,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_253,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_254,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_255,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_256,{},{.....,_,.},{.....,_,.},{NNP,NNP,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_257,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_258,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_259,{},{__,.},{__,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_260,{},{__,.},{__,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_261,{},{?,.,?,.,?,.},{?,CD,?,CD,?,.},{NN,.,CD,.,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_262,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_263,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_264,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_265,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_266,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_267,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_268,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_269,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_270,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_271,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_272,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_273,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_274,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_275,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_276,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_277,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_278,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_279,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_280,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_281,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_282,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_283,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_284,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_285,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_286,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_287,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_288,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_289,{},{u.,.},{u.,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_290,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_291,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_292,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_293,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_294,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_295,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_296,{},{$,.},{$,.},{$,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_297,{},{$,$,.},{$,$,.},{$,$,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_298,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_299,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_300,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_301,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_302,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_303,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_304,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_305,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_306,{},{....,?,u,.},{....,?,u,.},{RB,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_307,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_308,{},{_,.},{_,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_309,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_310,{},{PART},{part},{NN},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_311,{},{#,1,:,RIGHT,LUNG,Resident,Pathologist,:,The,specimen,is,received,fresh,labeled,?,and,designated,right,lung,.},{#,1,:,right,lung,resident,pathologist,:,the,specimen,be,receive,fresh,label,?,and,designate,right,lung,.},{#,CD,:,VB,NN,NN,NN,:,DT,NN,VBZ,VBN,JJ,VBN,NN,CC,VBN,JJ,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_312,{},{It,consists,of,a,lobe,of,lung,weighing,260,gms,,,and,measuring,13,x,13,x,3,cm,.},{it,consist,of,a,lobe,of,lung,weigh,260,gm,,,and,measure,13,x,13,x,3,cm,.},{PRP,VBZ,IN,DT,NN,IN,NN,VBG,CD,NNS,,,CC,VBG,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_313,{},{on,sectioning,,,externally,,,the,tumor,is,located,peripherally,,,with,distinct,pleura,puckering,.},{on,sectioning,,,externally,,,the,tumor,be,located,peripherally,,,with,distinct,pleuron,puckering,.},{IN,NN,,,RB,,,DT,NN,VBZ,JJ,RB,,,IN,JJ,NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_314,{},{The,tumor,is,grossly,away,from,the,bronchial,and,vascular,margin,(,greater,than,2,cm,),.},{the,tumor,be,grossly,away,from,the,bronchial,and,vascular,margin,(,greater,than,2,cm,),.},{DT,NN,VBZ,RB,RB,IN,DT,JJ,CC,JJ,NN,RB,JJR,IN,CD,NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_315,{},{The,bronchial,and,vascular,margins,are,shaved,off,.},{the,bronchial,and,vascular,margin,be,shave,off,.},{DT,JJ,CC,JJ,NNS,VBP,VBN,RP,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_316,{},{There,is,a,stapled,margin,approximately,1.5,cm,in,length,which,is,shaved,and,a,portion,placed,in,cassette,C.,Upon,sectioning,gross,tumor,is,identified,.},{there,be,a,stapled,margin,approximately,1.5,cm,in,length,which,be,shave,and,a,portion,place,in,cassette,c.,upon,sectioning,gross,tumor,be,identify,.},{EX,VBZ,DT,JJ,NN,RB,CD,NN,IN,NN,WDT,VBZ,VBN,CC,DT,NN,VBN,IN,NN,NN,IN,NN,JJ,NN,VBZ,VBN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_317,{},{The,tumor,is,located,peripherally,,,the,tumor,measures,2.2,x,2,x,1.8,cm,.},{the,tumor,be,located,peripherally,,,the,tumor,measure,2.2,x,2,x,1.8,cm,.},{DT,NN,VBZ,JJ,RB,,,DT,NN,VBZ,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_318,{},{The,tumor,appears,discrete,,,solid,,,and,firm,,,tan,?,gray,in,color,.},{the,tumor,appear,discrete,,,solid,,,and,firm,,,tan,?,gray,in,color,.},{DT,NN,VBZ,JJ,,,JJ,,,CC,NN,,,NN,CD,JJ,IN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_319,{},{The,surrounding,pleura,parenchyma,does,not,seem,to,be,involved,by,the,tumor,.},{the,surround,pleuron,parenchyma,do,not,seem,to,be,involve,by,the,tumor,.},{DT,VBG,NN,NN,VBZ,RB,VB,TO,VB,VBN,IN,DT,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_320,{},{There,is,distinct,pleura,puckering,on,the,surface,.},{there,be,distinct,pleuron,puckering,on,the,surface,.},{EX,VBZ,JJ,NN,NN,IN,DT,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_321,{},{The,bronchial,segments,are,opened,from,the,bronchial,margin,towards,the,tumor,and,grossly,no,tumor,involvement,is,identified,.},{the,bronchial,segment,be,open,from,the,bronchial,margin,towards,the,tumor,and,grossly,no,tumor,involvement,be,identify,.},{DT,JJ,NNS,VBP,VBN,IN,DT,JJ,NN,IN,DT,NN,CC,RB,DT,NN,NN,VBZ,VBN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_322,{},{Vascular,vessels,of,the,specimen,are,also,opened,with,no,grossly,identifiable,tumor,.},{vascular,vessel,of,the,specimen,be,also,open,with,no,grossly,identifiable,tumor,.},{JJ,NNS,IN,DT,NN,VBP,RB,VBN,IN,DT,RB,JJ,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_323,{},{The,tumor,grossly,does,not,penetrate,the,visceral,pleura,.},{the,tumor,grossly,do,not,penetrate,the,visceral,pleuron,.},{DT,NN,RB,VBZ,RB,VB,DT,JJ,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_324,{},{The,distance,of,tumor,from,the,bronchial,margin,of,resection,is,greater,than,2,cm,.},{the,distance,of,tumor,from,the,bronchial,margin,of,resection,be,greater,than,2,cm,.},{DT,NN,IN,NN,IN,DT,JJ,NN,IN,NN,VBZ,JJR,IN,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_325,{},{The,origin,of,the,tumor,from,the,bronchus,is,not,identified,.},{the,origin,of,the,tumor,from,the,bronchus,be,not,identify,.},{DT,NN,IN,DT,NN,IN,DT,NN,VBZ,RB,VBN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_326,{},{The,non,?,neop1astic,lung,appears,to,be,closely,unremarkable,.},{the,non,?,neop1astic,lung,appear,to,be,closely,unremarkable,.},{DT,JJ,NN,JJ,NN,VBZ,TO,VB,RB,JJ,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_327,{},{Dissection,of,the,hilar,area,,,reveals,no,lymph,nodes,.},{dissection,of,the,hilar,area,,,reveal,no,lymph,node,.},{NN,IN,DT,JJ,NN,,,VBZ,DT,NN,NNS,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_328,{},{Sections,of,the,hilar,region,as,well,as,normal,non,?,neoplastic,lung,are,submitted,.},{section,of,the,hilar,region,as,well,as,normal,non,?,neoplastic,lung,be,submit,.},{NNS,IN,DT,JJ,NN,RB,RB,IN,JJ,JJ,NN,JJ,NN,VBP,VBN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_329,{},{Frozen,section,are,not,taken,.},{frozen,section,be,not,take,.},{JJ,NN,VBP,RB,VBN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_330,{},{A,small,portion,of,the,tumor,is,submitted,for,tumor,bank,,,along,with,normal,tissue,from,the,specimen,.},{a,small,portion,of,the,tumor,be,submit,for,tumor,bank,,,along,with,normal,tissue,from,the,specimen,.},{DT,JJ,NN,IN,DT,NN,VBZ,VBN,IN,NN,NN,,,IN,IN,JJ,NN,IN,DT,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_331,{},{SUMARY,OF,SECTIONS,:,1,-,A,-,1,(,BRONCHIAL,MARGIN,),1,?,B,-,3,(,VASCULAR,MARGIN,),1,-,c,:,?,2,(,STAPLED,MARGIN,),1,.},{SUMARY,of,SECTIONS,:,1,-,a,-,1,(,bronchial,margin,),1,?,b,-,3,(,vascular,margin,),1,-,c,:,?,2,(,STAPLED,MARGIN,),1,.},{NNP,IN,NNP,:,LS,:,NN,:,CD,CD,JJ,NN,NN,CD,NN,NN,:,CD,CD,NN,NN,CD,LS,:,NN,:,NN,CD,CD,NNP,NNP,CD,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_332,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_333,{},{D,.},{d,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_334,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_335,{},{G,-,1,EA,.},{g,-,1,ea,.},{NN,:,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_336,{},{(,TUMOR,sscrxons,),1,?,H,?,1,(,NORMAL,LUNG,),1,?,1,-,1,(,HILAR,AREA,),9,?,TOTAL,-,12},{(,tumor,sscrxon,),1,?,h,?,1,(,normal,lung,),1,?,1,-,1,(,HILAR,area,),9,?,total,-,12},{JJ,NN,NNS,VBP,CD,CD,NN,NN,CD,CD,JJ,NN,NN,CD,NN,CD,:,CD,CD,NNP,NN,VBD,CD,CD,NN,:,CD},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_337,{},{(,Continued,on,next,page,.,)},{(,continue,on,next,page,.,)},{RB,VBN,IN,JJ,NN,.,SYM},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_338,{},{?,v,Page,3},{?,v,Page,3},{RB,LS,NNP,CD},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_339,{},{F,_,",?,-,.},{f,_,",?,-,.},{NN,SYM,``,SYM,:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_340,{},{?,.,"},{?,.,"},{NN,.,''},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_341,{},{-,.},{-,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_342,{},{?,.,","},{?,.,","},{NN,.,'',''},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_343,{},{-,.},{-,.},{:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_344,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_345,{},{=,=,=,=,Z5EF,_,?,.},{=,=,=,=,z5ef,_,?,.},{JJ,JJ,JJ,JJ,NN,NN,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_346,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_347,{},{22,.},{22,.},{CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_348,{},{=,-,=,3,?,:,?,.},{=,-,=,3,?,:,?,.},{SYM,:,JJ,CD,NN,:,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_349,{},{?,.,",'},{?,.,",'},{NN,.,'',''},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_350,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_351,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_352,{},{$,.},{$,.},{$,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_353,{},{-,T,-.2,=,3,=,$,$,=,=,=,=,',=,',=,?,=,E,?,=,',%,$,-,',.},{-,t,-.2,=,3,=,$,$,=,=,=,=,',=,',=,?,=,e,?,=,',%,$,-,',.},{:,NN,CD,JJ,CD,JJ,$,$,JJ,JJ,JJ,JJ,'',JJ,'',JJ,NN,JJ,NN,NN,JJ,'',NN,$,:,'',.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_354,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_355,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_356,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_357,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_358,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_359,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_360,{},{=,?,&,',%,=,?,=,',?},{=,?,&,',%,=,?,=,',?},{JJ,NN,CC,'',NN,JJ,NN,JJ,'',.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_361,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_362,{},{?,',.},{?,',.},{NN,'',.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_363,{},{_,',-,.},{_,',-,.},{NN,'',:,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_364,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_365,{},{=,1,",%,=,?,;,=,=,=,.},{=,1,",%,=,?,;,=,=,=,.},{JJ,CD,``,NN,JJ,NN,:,JJ,JJ,JJ,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_366,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_367,{},{?,F_F,_,=,.},{?,f_f,_,=,.},{NN,NN,NN,JJ,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_368,{},{?,.},{?,.},{NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_369,{},{?,-,?,T,-,$,",?,_,.},{?,-,?,t,-,$,",?,_,.},{SYM,:,NN,NN,:,$,``,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_370,{},{.},{.},{.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_371,{},{$,=},{$,=},{$,JJ},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_372,{},{PART,#,2,:,LEVEL,7,Resident,Pathologist,:,The,specimen,is,received,fresh,labeled,*,and,designated,level,7,.},{part,#,2,:,level,7,Resident,Pathologist,:,the,specimen,be,receive,fresh,label,*,and,designate,level,7,.},{NN,#,CD,:,NN,CD,NNP,NNP,:,DT,NN,VBZ,VBN,JJ,VBN,NN,CC,VBN,NN,CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_373,{},{It,consists,of,a,single,piece,of,fibroa,pose,tissue,grossly,consistent,with,a,portion,of,lymph,node,.},{it,consist,of,a,single,piece,of,fibroa,pose,tissue,grossly,consistent,with,a,portion,of,lymph,node,.},{PRP,VBZ,IN,DT,JJ,NN,IN,NN,VBP,NN,RB,JJ,IN,DT,NN,IN,NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_374,{},{The,total,surface,is,anthracotic,and,measures,1.2,x,0.6,x,0.2,cm,.},{the,total,surface,be,anthracotic,and,measure,1.2,x,0.6,x,0.2,cm,.},{DT,JJ,NN,VBZ,JJ,CC,NNS,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_375,{},{The,specimen,is,bivalved,and,submitted,.},{the,specimen,be,bivalve,and,submit,.},{DT,NN,VBZ,VBN,CC,VBN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_376,{},{SUMARY,OF,SECTIONS,:,1,~,A,-,2,1,-,TOTAL,-,2},{SUMARY,of,SECTIONS,:,1,~,a,-,2,1,-,total,-,2},{NNP,IN,NNP,:,CD,NN,NN,:,CD,LS,:,NN,:,CD},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_377,{},{PART,#,3,:,4,R,Resident,Pathologist,:,The,specimen,is,received,fresh,labe1ed,and,designated,4-12,.},{part,#,3,:,4,r,resident,pathologist,:,the,specimen,be,receive,fresh,labe1ed,and,designate,4-12,.},{NN,#,CD,:,CD,NN,NN,NN,:,DT,NN,VBZ,VBN,JJ,JJ,CC,VBN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_378,{},{It,consists,of,a,single,piece,of,1,roa,ipos,issue,grossly,consistent,with,a,lymph,node,measuring,1,x,0.5,x,0.2,cm,.},{it,consist,of,a,single,piece,of,1,roa,ipo,issue,grossly,consistent,with,a,lymph,node,measure,1,x,0.5,x,0.2,cm,.},{PRP,VBZ,IN,DT,JJ,NN,IN,CD,NN,NNS,VBP,RB,JJ,IN,DT,NN,NN,VBG,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_379,{},{The,specimen,is,bivalved,and,submitted,in,its,entirety,.},{the,specimen,be,bivalve,and,submit,in,its,entirety,.},{DT,NN,VBZ,VBN,CC,VBN,IN,PRP$,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_380,{},{SUMMARY,OF,SECTIONS,:,1,-,A,-,2,1,-,TOTAL,-,2},{summary,of,section,:,1,-,a,-,2,1,-,total,-,2},{NN,IN,NNS,:,LS,:,NN,:,CD,LS,:,NN,:,CD},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_381,{},{(,End,of,Report,),printed},{(,end,of,Report,),print},{NN,NN,IN,NNP,CD,VBD},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_382,{},{_____________,?,__,P,g,W,H,P,?,'',',?,?},{_____________,?,__,p,g,w,h,p,?,'',',?,?},{NN,CD,NN,NN,NN,NN,NN,NN,NN,'','',CD,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_383,{},{\,',Yurnor,Site,Discrepancy,HIPAA,Discrlpancy,Pm,",Miliinancy,History,Dual/S,.},{\,',Yurnor,site,Discrepancy,HIPAA,Discrlpancy,Pm,",Miliinancy,history,dual/s,.},{NN,'',NNP,NN,NNP,NNP,NNP,NNP,``,NNP,NN,NN,.},{}
-TCGA-49-AARN, TCGA-49-AARNSENT_384,{},{L,.},{l,.},{NN,.},{}
+TCGA-49-AARN, TCGA-49-AARNSENT_1,"uuIu :19256999 - CAE3-4004-AA1c-15sa4Ea9acD1","{uuIu,:19256999,-,CAE3-4004-AA1c-15sa4Ea9acD1}","{uuiu,:19256999,-,cae3-4004-aa1c-15sa4ea9acd1}","{NN,CD,:,NN}","{0,1,0,1}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_2,"TCGA-49-AARN-01A-PR Redacted '","{TCGA-49-AARN-01A-PR,Redacted,'}","{tcga-49-aarn-01a-pr,redacted,'}","{NN,JJ,''}","{2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_3,"; ; .","{;,;,.}","{;,;,.}","{:,:,.}","{0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_4,"; ; , ? .","{;,;,,,?,.}","{;,;,,,?,.}","{:,:,,,NN,.}","{0,0,0,2,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_5,"* .","{*,.}","{*,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_6,". '","{.,'}","{.,'}","{.,''}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_7,"ra .","{ra,.}","{ra,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_8,"* : aa : a : r ' ; ; p : : : * ' .","{*,:,aa,:,a,:,r,',;,;,p,:,:,:,*,',.}","{*,:,aa,:,a,:,r,',;,;,p,:,:,:,*,',.}","{NNP,:,NN,:,DT,:,NN,'',:,:,NN,:,:,:,NN,'',.}","{0,0,1,0,3,0,5,0,0,0,3,0,0,0,1,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_9,": a * " * ' * " : : : e : : wa. : : ' a : ' " m ' * " " - - I - "","{:,a,*,",*,',*,",:,:,:,e,:,:,wa.,:,:,',a,:,',",m,',*,",",-,-,I,-,"}","{:,a,*,",*,',*,",:,:,:,e,:,:,wa.,:,:,',a,:,',",m,',*,",",-,-,I,-,"}","{:,DT,JJ,``,NN,'',CD,``,:,:,:,LS,:,:,VB,:,:,'',DT,:,'',``,NN,'',CD,``,``,:,:,PRP,:,''}","{0,0,2,5,23,0,12,12,0,0,0,5,0,0,12,0,0,0,18,0,0,23,3,0,27,27,23,0,0,27,0,27}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_10,"llllllll lllllllllllll llllllllllllllllllllllllllllllllllllllll ?","{llllllll,lllllllllllll,llllllllllllllllllllllllllllllllllllllll,?}","{llllllll,lllllllllllll,llllllllllllllllllllllllllllllllllllllll,?}","{NN,NN,NN,NN}","{4,4,4,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_11,"INTERPRETATION AND DIAGNOSIS :","{INTERPRETATION,AND,DIAGNOSIS,:}","{interpretation,and,diagnosis,:}","{NN,CC,NN,:}","{0,0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_12,"1 .","{1,.}","{1,.}","{LS,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_13,"LUNG , RIGHT LOWER LOBE ( RIGHT LOWER LOBECTOMY ) : INFILTRATING MODERATELY DIFFERENTIATED ADENOCARCINOMA ( 2.2 CM ) .","{LUNG,,,RIGHT,LOWER,LOBE,(,RIGHT,LOWER,LOBECTOMY,),:,INFILTRATING,MODERATELY,DIFFERENTIATED,ADENOCARCINOMA,(,2.2,CM,),.}","{lung,,,RIGHT,LOWER,LOBE,(,RIGHT,LOWER,LOBECTOMY,),:,INFILTRATING,moderately,differentiate,adenocarcinoma,(,2.2,cm,),.}","{NN,,,NNP,NNP,NNP,VBD,NNP,NNP,NNP,CD,:,NNP,RB,VBD,NN,CD,CD,NN,NN,.}","{6,0,5,5,1,0,9,9,6,9,0,14,14,9,19,17,19,19,14,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_14,"THE NEOPLASM DOES NOT INVADE INTO THE PLEURA .","{THE,NEOPLASM,DOES,NOT,INVADE,INTO,THE,PLEURA,.}","{the,NEOPLASM,do,NOT,invade,into,the,pleuron,.}","{DT,NNP,VBZ,NNP,VB,IN,DT,NN,.}","{2,3,0,5,3,0,8,5,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_15,"NO VASCULAR INVASION IS IDENTIFIED .","{NO,VASCULAR,INVASION,IS,IDENTIFIED,.}","{no,vascular,invasion,be,IDENTIFIED,.}","{NN,NN,NN,VBZ,NNP,.}","{3,3,5,5,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_16,"ALL SURGICAL MARGINS ARE NEGATIVE FOR TUMOR .","{ALL,SURGICAL,MARGINS,ARE,NEGATIVE,FOR,TUMOR,.}","{all,surgical,margin,be,negative,for,tumor,.}","{NN,JJ,NNS,VBP,JJ,IN,NN,.}","{3,3,5,5,0,0,5,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_17,"THE PATHOLOGIC STAGE IS TINOMX .","{THE,PATHOLOGIC,STAGE,IS,TINOMX,.}","{the,PATHOLOGIC,STAGE,be,TINOMX,.}","{DT,NNP,NNP,VBZ,NNP,.}","{3,3,5,5,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_18,"2 .","{2,.}","{2,.}","{LS,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_19,"LYMPH NODE , LEVEL 7 ( BX . )","{LYMPH,NODE,,,LEVEL,7,(,BX,.,)}","{lymph,node,,,level,7,(,bx,.,)}","{NN,NN,,,NN,CD,CD,NN,.,SYM}","{2,0,0,2,7,7,4,0,4}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_20,": TWO ( 2 ) LYMPH NODES AND ASSOCIATED FIBROADIPOSE TISSUE , NEGATIVE FOR TUMOR .","{:,TWO,(,2,),LYMPH,NODES,AND,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,FOR,TUMOR,.}","{:,two,(,2,),LYMPH,NODES,and,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,for,tumor,.}","{:,CD,NN,CD,CD,NNP,NNPS,CC,NNPS,NNP,NNP,,,NNP,IN,NN,.}","{0,3,0,5,3,7,5,0,5,13,13,0,5,0,3,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_21,"3 .","{3,.}","{3,.}","{LS,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_22,"LYMPH NODE , 4R ( BX ) : ONE ( 1 ) LYMPH NODE AND ASSOCIATED FIBROADIPOSE TISSUE , NEGATIVE FOR TUMOR .","{LYMPH,NODE,,,4R,(,BX,),:,ONE,(,1,),LYMPH,NODE,AND,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,FOR,TUMOR,.}","{lymph,node,,,4r,(,bx,),:,one,(,1,),LYMPH,NODE,and,ASSOCIATED,FIBROADIPOSE,TISSUE,,,NEGATIVE,for,tumor,.}","{NN,NN,,,NN,CD,NN,NN,:,CD,NN,CD,CD,NNP,NNP,CC,NNP,NNP,NNP,,,NNP,IN,NN,.}","{2,0,0,7,7,7,2,0,10,2,12,10,14,12,0,18,18,12,0,2,0,20,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_23,"NOTE : Immunohistochemical studies confirm the primary lung origin of this tumor .","{NOTE,:,Immunohistochemical,studies,confirm,the,primary,lung,origin,of,this,tumor,.}","{note,:,immunohistochemical,study,confirm,the,primary,lung,origin,of,this,tumor,.}","{VB,:,JJ,NNS,VBP,DT,JJ,NN,NN,IN,DT,NN,.}","{0,0,4,5,1,9,9,9,5,0,12,9,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_24,"Specifically , the tumor cells are immunoreactive for TTF-1 ; and they are non-immunoreactive for estrogen receptor , progesterone receptor and gross cystic disease fluid protein .","{Specifically,,,the,tumor,cells,are,immunoreactive,for,TTF-1,;,and,they,are,non-immunoreactive,for,estrogen,receptor,,,progesterone,receptor,and,gross,cystic,disease,fluid,protein,.}","{specifically,,,the,tumor,cell,be,immunoreactive,for,ttf-1,;,and,they,be,non-immunoreactive,for,estrogen,receptor,,,progesterone,receptor,and,gross,cystic,disease,fluid,protein,.}","{RB,,,DT,NN,NNS,VBP,JJ,IN,NN,:,CC,PRP,VBP,JJ,IN,NN,NN,,,NN,NN,CC,JJ,JJ,NN,NN,NN,.}","{7,0,5,5,7,7,0,0,7,0,0,26,26,26,0,17,14,0,20,17,0,25,25,25,14,7,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_25,"* Electronic signature .","{*,Electronic,signature,.}","{*,electronic,signature,.}","{NN,JJ,NN,.}","{0,3,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_26,"? . ? . ? .","{?,.,?,.,?,.}","{?,CD,?,CD,?,.}","{NN,.,CD,.,NN,.}","{0,.,1,.,3,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_27,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_28,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_29,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_30,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_31,"..... _ .","{.....,_,.}","{.....,_,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_32,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_33,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_34,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_35,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_36,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_37,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_38,".... _ .","{....,_,.}","{....,_,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_39,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_40,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_41,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_42,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_43,"? . ? .","{?,.,?,.}","{?,CD,?,.}","{NN,.,NN,.}","{0,.,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_44,"..... ___ .","{.....,___,.}","{.....,___,.}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_45,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_46,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_47,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_48,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_49,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_50,".... .","{....,.}","{....,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_51,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_52,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_53,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_54,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_55,"n .","{n,.}","{n,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_56,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_57,"- ... - ..... _ .","{-,...,-,.....,_,.}","{-,...,-,.....,_,.}","{:,:,:,CD,NN,.}","{0,0,0,5,2,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_58,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_59,"_ ..... ... _ .","{_,.....,...,_,.}","{_,.....,...,_,.}","{NN,CD,:,CD,.}","{0,1,0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_60,"_ ... _ .","{_,...,_,.}","{_,...,_,.}","{NN,:,CD,.}","{0,0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_61,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_62,"_ ... _ .","{_,...,_,.}","{_,...,_,.}","{NN,:,CD,.}","{0,0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_63,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_64,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_65,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_66,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_67,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_68,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_69,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_70,"_ ..... __ .","{_,.....,__,.}","{_,.....,__,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_71,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_72,"_ ..... .","{_,.....,.}","{_,.....,.}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_73,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_74,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_75,"_ ..... ..... _ .","{_,.....,.....,_,.}","{_,.....,.....,_,.}","{NN,CD,CD,NN,.}","{0,3,1,3,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_76,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_77,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_78,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_79,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_80,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_81,"n _ .... _ .","{n,_,....,_,.}","{n,_,....,_,.}","{NN,SYM,FW,FW,.}","{4,4,4,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_82,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_83,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_84,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_85,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_86,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_87,"o .","{o,.}","{o,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_88,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_89,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_90,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_91,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_92,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_93,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_94,"-- .","{--,.}","{--,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_95,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_96,"--- .","{---,.}","{---,.}","{CD,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_97,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_98,"? _ .","{?,_,.}","{?,_,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_99,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_100,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_101,"___ .","{___,.}","{___,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_102,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_103,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_104,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_105,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_106,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_107,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_108,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_109,"- o : -- n. -- .","{-,o,:,--,n.,--,.}","{-,o,:,--,n.,--,.}","{:,NN,:,:,NN,:,.}","{0,0,0,0,2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_110,"? . ? .","{?,.,?,.}","{?,CD,?,.}","{NN,.,NN,.}","{0,.,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_111,".... .","{....,.}","{....,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_112,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_113,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_114,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_115,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_116,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_117,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_118,"- _ .","{-,_,.}","{-,_,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_119,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_120,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_121,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_122,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_123,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_124,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_125,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_126,"---- 3 .","{----,3,.}","{----,3,.}","{CD,CD,.}","{2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_127,"-- an -- _ .","{--,an,--,_,.}","{--,a,--,_,.}","{:,DT,:,NN,.}","{0,0,0,2,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_128,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_129,"____ .","{____,.}","{____,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_130,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_131,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_132,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_133,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_134,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_135,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_136,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_137,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_138,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_139,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_140,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_141,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_142,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_143,"- u1 ? .","{-,u1,?,.}","{-,u1,?,.}","{:,NN,NN,.}","{0,3,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_144,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_145,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_146,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_147,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_148,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_149,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_150,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_151,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_152,"? . ? .","{?,.,?,.}","{?,CD,?,.}","{NN,.,NN,.}","{0,.,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_153,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_154,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_155,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_156,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_157,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_158,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_159,"? . ? .","{?,.,?,.}","{?,CD,?,.}","{NN,.,NN,.}","{0,.,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_160,"- n -- .","{-,n,--,.}","{-,n,--,.}","{:,NN,:,.}","{0,0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_161,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_162,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_163,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_164,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_165,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_166,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_167,"n","{n}","{n}","{NN}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_168,"GROSS DESCRIPTION","{GROSS,DESCRIPTION}","{gross,description}","{JJ,NN}","{2,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_169,"( Continued on next page . )","{(,Continued,on,next,page,.,)}","{(,continue,on,next,page,.,)}","{RB,VBN,IN,JJ,NN,.,SYM}","{0,1,0,5,2,0,1}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_170,"? Page 2","{?,Page,2}","{?,Page,2}","{NN,NNP,CD}","{0,1,2}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_171,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_172,"_ ..... ..... .... _ .","{_,.....,.....,....,_,.}","{_,.....,.....,....,_,.}","{NN,CD,CD,CD,NN,.}","{0,3,1,5,3,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_173,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_174,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_175,"___ .","{___,.}","{___,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_176,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_177,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_178,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_179,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_180,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_181,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_182,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_183,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_184,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_185,"_ ..... ..... .","{_,.....,.....,.}","{_,.....,.....,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_186,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_187,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_188,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_189,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_190,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_191,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_192,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_193,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_194,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_195,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_196,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_197,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_198,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_199,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_200,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_201,"___ .","{___,.}","{___,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_202,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_203,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_204,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_205,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_206,"_ ... _ ... .","{_,...,_,...,.}","{_,...,_,...,.}","{NN,:,CD,:,.}","{0,0,1,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_207,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_208,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_209,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_210,"_ ... - .","{_,...,-,.}","{_,...,-,.}","{NN,:,:,.}","{0,0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_211,"___ .","{___,.}","{___,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_212,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_213,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_214,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_215,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_216,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_217,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_218,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_219,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_220,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_221,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_222,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_223,"? . ? .","{?,.,?,.}","{?,CD,?,.}","{NN,.,NN,.}","{0,.,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_224,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_225,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_226,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_227,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_228,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_229,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_230,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_231,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_232,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_233,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_234,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_235,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_236,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_237,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_238,"gu. : .","{gu.,:,.}","{gu.,:,.}","{NNP,:,.}","{0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_239,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_240,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_241,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_242,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_243,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_244,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_245,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_246,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_247,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_248,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_249,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_250,": .","{:,.}","{:,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_251,"? . ? .","{?,.,?,.}","{?,CD,?,.}","{NN,.,NN,.}","{0,.,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_252,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_253,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_254,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_255,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_256,"..... _ .","{.....,_,.}","{.....,_,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_257,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_258,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_259,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_260,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_261,"? . ? . ? .","{?,.,?,.,?,.}","{?,CD,?,CD,?,.}","{NN,.,CD,.,NN,.}","{0,.,1,.,3,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_262,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_263,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_264,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_265,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_266,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_267,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_268,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_269,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_270,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_271,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_272,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_273,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_274,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_275,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_276,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_277,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_278,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_279,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_280,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_281,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_282,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_283,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_284,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_285,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_286,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_287,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_288,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_289,"u. .","{u.,.}","{u.,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_290,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_291,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_292,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_293,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_294,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_295,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_296,"$ .","{$,.}","{$,.}","{$,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_297,"$ $ .","{$,$,.}","{$,$,.}","{$,$,.}","{2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_298,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_299,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_300,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_301,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_302,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_303,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_304,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_305,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_306,".... ? u .","{....,?,u,.}","{....,?,u,.}","{RB,CD,NN,.}","{3,3,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_307,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_308,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_309,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_310,"PART","{PART}","{part}","{NN}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_311,"# 1 : RIGHT LUNG Resident Pathologist : The specimen is received fresh labeled ? and designated right lung .","{#,1,:,RIGHT,LUNG,Resident,Pathologist,:,The,specimen,is,received,fresh,labeled,?,and,designated,right,lung,.}","{#,1,:,right,lung,resident,pathologist,:,the,specimen,be,receive,fresh,label,?,and,designate,right,lung,.}","{#,CD,:,VB,NN,NN,NN,:,DT,NN,VBZ,VBN,JJ,VBN,NN,CC,VBN,JJ,NN,.}","{2,12,0,12,7,7,4,0,10,12,12,0,12,13,14,0,19,19,14,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_312,"It consists of a lobe of lung weighing 260 gms , and measuring 13 x 13 x 3 cm .","{It,consists,of,a,lobe,of,lung,weighing,260,gms,,,and,measuring,13,x,13,x,3,cm,.}","{it,consist,of,a,lobe,of,lung,weigh,260,gm,,,and,measure,13,x,13,x,3,cm,.}","{PRP,VBZ,IN,DT,NN,IN,NN,VBG,CD,NNS,,,CC,VBG,CD,CC,CD,CC,CD,NN,.}","{2,0,0,5,13,0,5,2,10,8,0,0,2,13,0,13,0,19,16,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_313,"on sectioning , externally , the tumor is located peripherally , with distinct pleura puckering .","{on,sectioning,,,externally,,,the,tumor,is,located,peripherally,,,with,distinct,pleura,puckering,.}","{on,sectioning,,,externally,,,the,tumor,be,located,peripherally,,,with,distinct,pleuron,puckering,.}","{IN,NN,,,RB,,,DT,NN,VBZ,JJ,RB,,,IN,JJ,NN,NN,.}","{0,9,0,9,0,7,9,9,0,9,0,0,15,15,9,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_314,"The tumor is grossly away from the bronchial and vascular margin ( greater than 2 cm ) .","{The,tumor,is,grossly,away,from,the,bronchial,and,vascular,margin,(,greater,than,2,cm,),.}","{the,tumor,be,grossly,away,from,the,bronchial,and,vascular,margin,(,greater,than,2,cm,),.}","{DT,NN,VBZ,RB,RB,IN,DT,JJ,CC,JJ,NN,RB,JJR,IN,CD,NN,NN,.}","{2,17,17,17,0,0,11,11,0,11,17,17,14,15,17,17,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_315,"The bronchial and vascular margins are shaved off .","{The,bronchial,and,vascular,margins,are,shaved,off,.}","{the,bronchial,and,vascular,margin,be,shave,off,.}","{DT,JJ,CC,JJ,NNS,VBP,VBN,RP,.}","{5,5,0,5,7,7,0,7,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_316,"There is a stapled margin approximately 1.5 cm in length which is shaved and a portion placed in cassette C. Upon sectioning gross tumor is identified .","{There,is,a,stapled,margin,approximately,1.5,cm,in,length,which,is,shaved,and,a,portion,placed,in,cassette,C.,Upon,sectioning,gross,tumor,is,identified,.}","{there,be,a,stapled,margin,approximately,1.5,cm,in,length,which,be,shave,and,a,portion,place,in,cassette,c.,upon,sectioning,gross,tumor,be,identify,.}","{EX,VBZ,DT,JJ,NN,RB,CD,NN,IN,NN,WDT,VBZ,VBN,CC,DT,NN,VBN,IN,NN,NN,IN,NN,JJ,NN,VBZ,VBN,.}","{2,0,5,5,2,7,8,5,0,8,13,13,5,0,16,26,16,0,20,17,0,24,24,26,26,2,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_317,"The tumor is located peripherally , the tumor measures 2.2 x 2 x 1.8 cm .","{The,tumor,is,located,peripherally,,,the,tumor,measures,2.2,x,2,x,1.8,cm,.}","{the,tumor,be,located,peripherally,,,the,tumor,measure,2.2,x,2,x,1.8,cm,.}","{DT,NN,VBZ,JJ,RB,,,DT,NN,VBZ,CD,CC,CD,CC,CD,NN,.}","{2,4,4,9,4,0,8,9,0,12,0,9,0,15,9,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_318,"The tumor appears discrete , solid , and firm , tan ? gray in color .","{The,tumor,appears,discrete,,,solid,,,and,firm,,,tan,?,gray,in,color,.}","{the,tumor,appear,discrete,,,solid,,,and,firm,,,tan,?,gray,in,color,.}","{DT,NN,VBZ,JJ,,,JJ,,,CC,NN,,,NN,CD,JJ,IN,NN,.}","{2,11,11,11,0,11,0,0,11,0,0,13,11,0,11,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_319,"The surrounding pleura parenchyma does not seem to be involved by the tumor .","{The,surrounding,pleura,parenchyma,does,not,seem,to,be,involved,by,the,tumor,.}","{the,surround,pleuron,parenchyma,do,not,seem,to,be,involve,by,the,tumor,.}","{DT,VBG,NN,NN,VBZ,RB,VB,TO,VB,VBN,IN,DT,NN,.}","{4,4,4,7,7,7,0,10,10,7,0,13,10,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_320,"There is distinct pleura puckering on the surface .","{There,is,distinct,pleura,puckering,on,the,surface,.}","{there,be,distinct,pleuron,puckering,on,the,surface,.}","{EX,VBZ,JJ,NN,NN,IN,DT,NN,.}","{2,0,5,5,2,0,8,5,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_321,"The bronchial segments are opened from the bronchial margin towards the tumor and grossly no tumor involvement is identified .","{The,bronchial,segments,are,opened,from,the,bronchial,margin,towards,the,tumor,and,grossly,no,tumor,involvement,is,identified,.}","{the,bronchial,segment,be,open,from,the,bronchial,margin,towards,the,tumor,and,grossly,no,tumor,involvement,be,identify,.}","{DT,JJ,NNS,VBP,VBN,IN,DT,JJ,NN,IN,DT,NN,CC,RB,DT,NN,NN,VBZ,VBN,.}","{3,3,5,5,0,0,9,9,5,0,12,9,0,19,17,17,19,19,5,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_322,"Vascular vessels of the specimen are also opened with no grossly identifiable tumor .","{Vascular,vessels,of,the,specimen,are,also,opened,with,no,grossly,identifiable,tumor,.}","{vascular,vessel,of,the,specimen,be,also,open,with,no,grossly,identifiable,tumor,.}","{JJ,NNS,IN,DT,NN,VBP,RB,VBN,IN,DT,RB,JJ,NN,.}","{2,8,0,5,2,8,8,0,0,13,12,13,8,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_323,"The tumor grossly does not penetrate the visceral pleura .","{The,tumor,grossly,does,not,penetrate,the,visceral,pleura,.}","{the,tumor,grossly,do,not,penetrate,the,visceral,pleuron,.}","{DT,NN,RB,VBZ,RB,VB,DT,JJ,NN,.}","{2,6,6,6,6,0,9,9,6,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_324,"The distance of tumor from the bronchial margin of resection is greater than 2 cm .","{The,distance,of,tumor,from,the,bronchial,margin,of,resection,is,greater,than,2,cm,.}","{the,distance,of,tumor,from,the,bronchial,margin,of,resection,be,greater,than,2,cm,.}","{DT,NN,IN,NN,IN,DT,JJ,NN,IN,NN,VBZ,JJR,IN,CD,NN,.}","{2,15,0,2,0,8,8,4,0,8,15,13,14,15,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_325,"The origin of the tumor from the bronchus is not identified .","{The,origin,of,the,tumor,from,the,bronchus,is,not,identified,.}","{the,origin,of,the,tumor,from,the,bronchus,be,not,identify,.}","{DT,NN,IN,DT,NN,IN,DT,NN,VBZ,RB,VBN,.}","{2,11,0,5,2,0,8,5,11,11,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_326,"The non ? neop1astic lung appears to be closely unremarkable .","{The,non,?,neop1astic,lung,appears,to,be,closely,unremarkable,.}","{the,non,?,neop1astic,lung,appear,to,be,closely,unremarkable,.}","{DT,JJ,NN,JJ,NN,VBZ,TO,VB,RB,JJ,.}","{5,5,5,5,6,0,10,10,10,6,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_327,"Dissection of the hilar area , reveals no lymph nodes .","{Dissection,of,the,hilar,area,,,reveals,no,lymph,nodes,.}","{dissection,of,the,hilar,area,,,reveal,no,lymph,node,.}","{NN,IN,DT,JJ,NN,,,VBZ,DT,NN,NNS,.}","{7,0,5,5,1,0,0,10,10,7,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_328,"Sections of the hilar region as well as normal non ? neoplastic lung are submitted .","{Sections,of,the,hilar,region,as,well,as,normal,non,?,neoplastic,lung,are,submitted,.}","{section,of,the,hilar,region,as,well,as,normal,non,?,neoplastic,lung,be,submit,.}","{NNS,IN,DT,JJ,NN,RB,RB,IN,JJ,JJ,NN,JJ,NN,VBP,VBN,.}","{15,0,5,5,1,0,0,0,11,11,1,13,11,15,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_329,"Frozen section are not taken .","{Frozen,section,are,not,taken,.}","{frozen,section,be,not,take,.}","{JJ,NN,VBP,RB,VBN,.}","{2,5,5,5,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_330,"A small portion of the tumor is submitted for tumor bank , along with normal tissue from the specimen .","{A,small,portion,of,the,tumor,is,submitted,for,tumor,bank,,,along,with,normal,tissue,from,the,specimen,.}","{a,small,portion,of,the,tumor,be,submit,for,tumor,bank,,,along,with,normal,tissue,from,the,specimen,.}","{DT,JJ,NN,IN,DT,NN,VBZ,VBN,IN,NN,NN,,,IN,IN,JJ,NN,IN,DT,NN,.}","{3,3,8,0,6,3,8,0,0,11,8,0,0,0,16,11,0,19,8,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_331,"SUMARY OF SECTIONS : 1 - A - 1 ( BRONCHIAL MARGIN ) 1 ? B - 3 ( VASCULAR MARGIN ) 1 - c : ? 2 ( STAPLED MARGIN ) 1 .","{SUMARY,OF,SECTIONS,:,1,-,A,-,1,(,BRONCHIAL,MARGIN,),1,?,B,-,3,(,VASCULAR,MARGIN,),1,-,c,:,?,2,(,STAPLED,MARGIN,),1,.}","{SUMARY,of,SECTIONS,:,1,-,a,-,1,(,bronchial,margin,),1,?,b,-,3,(,vascular,margin,),1,-,c,:,?,2,(,STAPLED,MARGIN,),1,.}","{NNP,IN,NNP,:,LS,:,NN,:,CD,CD,JJ,NN,NN,CD,NN,NN,:,CD,CD,NN,NN,CD,LS,:,NN,:,NN,CD,CD,NNP,NNP,CD,CD,.}","{0,0,1,0,1,0,5,0,10,1,16,16,16,16,16,10,0,19,21,21,1,21,22,0,1,0,31,31,31,31,25,33,31,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_332,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_333,"D .","{D,.}","{d,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_334,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_335,"G - 1 EA .","{G,-,1,EA,.}","{g,-,1,ea,.}","{NN,:,CD,NN,.}","{0,0,4,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_336,"( TUMOR sscrxons ) 1 ? H ? 1 ( NORMAL LUNG ) 1 ? 1 - 1 ( HILAR AREA ) 9 ? TOTAL - 12","{(,TUMOR,sscrxons,),1,?,H,?,1,(,NORMAL,LUNG,),1,?,1,-,1,(,HILAR,AREA,),9,?,TOTAL,-,12}","{(,tumor,sscrxon,),1,?,h,?,1,(,normal,lung,),1,?,1,-,1,(,HILAR,area,),9,?,total,-,12}","{JJ,NN,NNS,VBP,CD,CD,NN,NN,CD,CD,JJ,NN,NN,CD,NN,CD,:,CD,CD,NNP,NN,VBD,CD,CD,NN,:,CD}","{3,3,4,0,6,8,8,13,10,13,13,13,4,15,13,13,0,13,21,21,22,18,24,25,22,0,13}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_337,"( Continued on next page . )","{(,Continued,on,next,page,.,)}","{(,continue,on,next,page,.,)}","{RB,VBN,IN,JJ,NN,.,SYM}","{0,1,0,5,2,0,1}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_338,"? v Page 3","{?,v,Page,3}","{?,v,Page,3}","{RB,LS,NNP,CD}","{0,1,2,3}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_339,"F _ " ? - .","{F,_,",?,-,.}","{f,_,",?,-,.}","{NN,SYM,``,SYM,:,.}","{2,0,2,2,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_340,"? . "","{?,.,"}","{?,.,"}","{NN,.,''}","{0,0,1}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_341,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_342,"? . " "","{?,.,","}","{?,.,","}","{NN,.,'',''}","{0,0,1,3}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_343,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_344,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_345,"= = = = Z5EF _ ? .","{=,=,=,=,Z5EF,_,?,.}","{=,=,=,=,z5ef,_,?,.}","{JJ,JJ,JJ,JJ,NN,NN,CD,.}","{6,6,6,6,6,0,6,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_346,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_347,"22 .","{22,.}","{22,.}","{CD,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_348,"= - = 3 ? : ? .","{=,-,=,3,?,:,?,.}","{=,-,=,3,?,:,?,.}","{SYM,:,JJ,CD,NN,:,CD,.}","{3,0,7,3,3,0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_349,"? . " '","{?,.,",'}","{?,.,",'}","{NN,.,'',''}","{0,0,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_350,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_351,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_352,"$ .","{$,.}","{$,.}","{$,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_353,"- T -.2 = 3 = $ $ = = = = ' = ' = ? = E ? = ' % $ - ' .","{-,T,-.2,=,3,=,$,$,=,=,=,=,',=,',=,?,=,E,?,=,',%,$,-,',.}","{-,t,-.2,=,3,=,$,$,=,=,=,=,',=,',=,?,=,e,?,=,',%,$,-,',.}","{:,NN,CD,JJ,CD,JJ,$,$,JJ,JJ,JJ,JJ,'',JJ,'',JJ,NN,JJ,NN,NN,JJ,'',NN,$,:,'',.}","{0,0,4,2,6,2,8,2,8,8,12,8,0,8,0,8,19,19,16,21,19,0,8,23,0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_354,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_355,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_356,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_357,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_358,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_359,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_360,"= ? & ' % = ? = ' ?","{=,?,&,',%,=,?,=,',?}","{=,?,&,',%,=,?,=,',?}","{JJ,NN,CC,'',NN,JJ,NN,JJ,'',.}","{2,7,7,0,7,7,0,7,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_361,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_362,"? ' .","{?,',.}","{?,',.}","{NN,'',.}","{0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_363,"_ ' - .","{_,',-,.}","{_,',-,.}","{NN,'',:,.}","{0,0,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_364,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_365,"= 1 " % = ? ; = = = .","{=,1,",%,=,?,;,=,=,=,.}","{=,1,",%,=,?,;,=,=,=,.}","{JJ,CD,``,NN,JJ,NN,:,JJ,JJ,JJ,.}","{2,0,2,6,6,2,0,2,10,8,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_366,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_367,"? F_F _ = .","{?,F_F,_,=,.}","{?,f_f,_,=,.}","{NN,NN,NN,JJ,.}","{3,3,4,0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_368,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_369,"? - ? T - $ " ? _ .","{?,-,?,T,-,$,",?,_,.}","{?,-,?,t,-,$,",?,_,.}","{SYM,:,NN,NN,:,$,``,CD,NN,.}","{4,0,4,0,0,9,6,6,4,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_370,".","{.}","{.}","{.}","{0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_371,"$ =","{$,=}","{$,=}","{$,JJ}","{0,1}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_372,"PART # 2 : LEVEL 7 Resident Pathologist : The specimen is received fresh labeled * and designated level 7 .","{PART,#,2,:,LEVEL,7,Resident,Pathologist,:,The,specimen,is,received,fresh,labeled,*,and,designated,level,7,.}","{part,#,2,:,level,7,Resident,Pathologist,:,the,specimen,be,receive,fresh,label,*,and,designate,level,7,.}","{NN,#,CD,:,NN,CD,NNP,NNP,:,DT,NN,VBZ,VBN,JJ,VBN,NN,CC,VBN,NN,CD,.}","{13,3,1,0,8,8,8,3,0,11,13,13,0,13,14,15,0,14,18,19,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_373,"It consists of a single piece of fibroa pose tissue grossly consistent with a portion of lymph node .","{It,consists,of,a,single,piece,of,fibroa,pose,tissue,grossly,consistent,with,a,portion,of,lymph,node,.}","{it,consist,of,a,single,piece,of,fibroa,pose,tissue,grossly,consistent,with,a,portion,of,lymph,node,.}","{PRP,VBZ,IN,DT,JJ,NN,IN,NN,VBP,NN,RB,JJ,IN,DT,NN,IN,NN,NN,.}","{2,0,0,6,6,2,0,6,8,12,12,9,0,15,12,0,18,15,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_374,"The total surface is anthracotic and measures 1.2 x 0.6 x 0.2 cm .","{The,total,surface,is,anthracotic,and,measures,1.2,x,0.6,x,0.2,cm,.}","{the,total,surface,be,anthracotic,and,measure,1.2,x,0.6,x,0.2,cm,.}","{DT,JJ,NN,VBZ,JJ,CC,NNS,CD,CC,CD,CC,CD,NN,.}","{3,3,5,5,0,0,5,7,0,5,0,13,10,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_375,"The specimen is bivalved and submitted .","{The,specimen,is,bivalved,and,submitted,.}","{the,specimen,be,bivalve,and,submit,.}","{DT,NN,VBZ,VBN,CC,VBN,.}","{2,4,4,0,0,4,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_376,"SUMARY OF SECTIONS : 1 ~ A - 2 1 - TOTAL - 2","{SUMARY,OF,SECTIONS,:,1,~,A,-,2,1,-,TOTAL,-,2}","{SUMARY,of,SECTIONS,:,1,~,a,-,2,1,-,total,-,2}","{NNP,IN,NNP,:,CD,NN,NN,:,CD,LS,:,NN,:,CD}","{0,0,1,0,7,7,1,0,7,9,0,9,0,7}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_377,"PART # 3 : 4 R Resident Pathologist : The specimen is received fresh labe1ed and designated 4-12 .","{PART,#,3,:,4,R,Resident,Pathologist,:,The,specimen,is,received,fresh,labe1ed,and,designated,4-12,.}","{part,#,3,:,4,r,resident,pathologist,:,the,specimen,be,receive,fresh,labe1ed,and,designate,4-12,.}","{NN,#,CD,:,CD,NN,NN,NN,:,DT,NN,VBZ,VBN,JJ,JJ,CC,VBN,NN,.}","{0,3,1,0,8,8,8,1,0,11,1,13,11,15,13,0,18,1,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_378,"It consists of a single piece of 1 roa ipos issue grossly consistent with a lymph node measuring 1 x 0.5 x 0.2 cm .","{It,consists,of,a,single,piece,of,1,roa,ipos,issue,grossly,consistent,with,a,lymph,node,measuring,1,x,0.5,x,0.2,cm,.}","{it,consist,of,a,single,piece,of,1,roa,ipo,issue,grossly,consistent,with,a,lymph,node,measure,1,x,0.5,x,0.2,cm,.}","{PRP,VBZ,IN,DT,JJ,NN,IN,CD,NN,NNS,VBP,RB,JJ,IN,DT,NN,NN,VBG,CD,CC,CD,CC,CD,NN,.}","{2,11,0,6,6,2,0,10,10,6,0,13,11,0,17,17,13,17,18,0,11,0,24,11,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_379,"The specimen is bivalved and submitted in its entirety .","{The,specimen,is,bivalved,and,submitted,in,its,entirety,.}","{the,specimen,be,bivalve,and,submit,in,its,entirety,.}","{DT,NN,VBZ,VBN,CC,VBN,IN,PRP$,NN,.}","{2,4,4,0,0,4,0,9,4,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_380,"SUMMARY OF SECTIONS : 1 - A - 2 1 - TOTAL - 2","{SUMMARY,OF,SECTIONS,:,1,-,A,-,2,1,-,TOTAL,-,2}","{summary,of,section,:,1,-,a,-,2,1,-,total,-,2}","{NN,IN,NNS,:,LS,:,NN,:,CD,LS,:,NN,:,CD}","{0,0,1,0,3,0,3,0,3,9,0,3,0,3}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_381,"( End of Report ) printed","{(,End,of,Report,),printed}","{(,end,of,Report,),print}","{NN,NN,IN,NNP,CD,VBD}","{2,6,0,2,4,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_382,"_____________ ? __ P g W H P ? '' ' ? ?","{_____________,?,__,P,g,W,H,P,?,'',',?,?}","{_____________,?,__,p,g,w,h,p,?,'',',?,?}","{NN,CD,NN,NN,NN,NN,NN,NN,NN,'','',CD,.}","{4,4,4,0,9,9,9,9,4,0,0,9,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_383,"\ ' Yurnor Site Discrepancy HIPAA Discrlpancy Pm " Miliinancy History Dual/S .","{\,',Yurnor,Site,Discrepancy,HIPAA,Discrlpancy,Pm,",Miliinancy,History,Dual/S,.}","{\,',Yurnor,site,Discrepancy,HIPAA,Discrlpancy,Pm,",Miliinancy,history,dual/s,.}","{NN,'',NNP,NN,NNP,NNP,NNP,NNP,``,NNP,NN,NN,.}","{0,0,8,8,8,8,8,1,8,12,12,8,0}","{}"
+TCGA-49-AARN, TCGA-49-AARNSENT_384,"L .","{L,.}","{l,.}","{NN,.}","{0,0}","{}"

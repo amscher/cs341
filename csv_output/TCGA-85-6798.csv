@@ -1,2 +1,2 @@
-TCGA-85-6798, TCGA-85-6798SENT_1,{},{Formatted,Path,Report},{formatted,path,Report},{JJ,NN,NNP},{}
-TCGA-85-6798, TCGA-85-6798SENT_2,{},{Date,of,Procurement},{date,of,Procurement},{NN,IN,NNP},{}
+TCGA-85-6798, TCGA-85-6798SENT_1,"Formatted Path Report","{Formatted,Path,Report}","{formatted,path,Report}","{JJ,NN,NNP}","{2,0,2}","{}"
+TCGA-85-6798, TCGA-85-6798SENT_2,"Date of Procurement","{Date,of,Procurement}","{date,of,Procurement}","{NN,IN,NNP}","{0,0,1}","{}"

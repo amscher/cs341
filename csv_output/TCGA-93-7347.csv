@@ -1,76 +1,76 @@
-TCGA-93-7347, TCGA-93-7347SENT_1,{},{.},{.},{.},{}
-TCGA-93-7347, TCGA-93-7347SENT_2,{},{,,Us,",1G,.},{,,Us,",1g,.},{,,NNP,``,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_3,{},{RIGHT,UPPE},{right,uppe},{NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_4,{},{-,r-JUL,TIFOCAL,AT,?,/,F,?,!},{-,r-jul,tifocal,at,?,/,f,?,!},{:,NN,NN,IN,CD,:,NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_5,{},{R,LOBE,.},{r,lobe,.},{NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_6,{},{LOBECTOMY,(,IN},{lobectomy,(,in},{NN,CD,IN},{}
-TCGA-93-7347, TCGA-93-7347SENT_7,{},{:,{,MPH,MODES,.},{:,{,mph,mode,.},{:,CD,NN,NNS,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_8,{},{PERIBRONCHOAL,.},{peribronchoal,.},{NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_9,{},{-,NO,EVIDENCE,OF,~,HY/XLINIZED,AND,.},{-,no,evidence,of,~,hy/xlinized,and,.},{:,NN,NN,IN,NN,NN,CC,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_10,{},{,,L,,,?,v,?,.5,.},{,,l,,,?,v,?,.5,.},{,,NN,,,CD,LS,CD,CD,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_11,{},{/,1PH,NODE,,,JR.,.},{/,1ph,node,,,JR.,.},{:,NN,NN,,,NNP,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_12,{},{EXCISION},{excision},{NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_13,{},{?,NO,EVIDENCE,OF,MAUGNANCY,W,ONE,L,?,:,/,MPH,NODE,(,O/1,)},{?,no,evidence,of,MAUGNANCY,W,one,l,?,:,/,mph,node,(,o/1,)},{NN,NN,NN,IN,NNP,NNP,CD,NN,CD,:,:,NN,NN,CD,NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_14,{},{L?rMF,?,H,NUDE,,,?,.,",'},{l?rmf,?,h,nude,,,?,.,",'},{NN,NN,NN,NN,,,NN,.,'',''},{}
-TCGA-93-7347, TCGA-93-7347SENT_15,{},{1CefryI4},{1cefryi4},{NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_16,{},{{,ntraogerative,Consultation,;,(,Brought,to,frozen,S,?},{{,ntraogerative,consultation,;,(,Brought,to,frozen,s,?},{NN,JJ,NN,:,CD,NNP,TO,JJ,NN,IN},{}
-TCGA-93-7347, TCGA-93-7347SENT_17,{},{pper,lone,wedge,runq,',c,:,onsistinq,ofa,3.5,x,3.8,x,2.4,cm,seqment,of,tuna,mm,3,9.5},{pper,lone,wedge,runq,',c,:,onsistinq,ofa,3.5,x,3.8,x,2.4,cm,seqment,of,tuna,mm,3,9.5},{NN,JJ,NN,NN,'',NN,:,NN,NN,CD,CC,CD,CC,CD,NN,NN,IN,NN,NN,CD,CD},{}
-TCGA-93-7347, TCGA-93-7347SENT_18,{},{?,m,stapra,margin,.},{?,m,stapra,margin,.},{NN,NN,NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_19,{},{Sectioned,to,shows,I,5,x,1,5,x,1,1,cm,tan,-,=,?,ass,grossly,at,the,stapled,ma,7,",?,',?,>,re,.},{section,to,show,I,5,x,1,5,x,1,1,cm,tan,-,=,?,ass,grossly,at,the,stapled,ma,7,",?,',?,>,re,.},{VBN,TO,NNS,PRP,CD,CC,CD,CD,NN,CD,CD,NN,NN,:,JJ,CD,NN,RB,IN,DT,JJ,NN,CD,``,NN,'',CD,JJR,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_20,{},{<,;,entarive,sectzon,frozen,as,?,F,S1,.},{<,;,entarive,sectzon,freeze,as,?,f,s1,.},{JJR,:,NN,NN,VBN,IN,NN,NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_21,{},{?,Txsue,taken,f,Rest,for,permanent,,,?,DY,*,?,J,D.,f,~,:,mur,;,nt,to,fmren,?,mm,upper,lobe,wrth,hroncmai,marqms?,ctonsistinq,of,Mo,pomons,mi,lunq,measurinr,;,13.7,:,<,8.4,x,3,3,cm,rm,?,1.4,cm,.},{?,txsue,take,f,rest,for,permanent,,,?,dy,*,?,J,D.,f,~,:,mur,;,nt,to,fmren,?,mm,upper,lobe,wrth,hroncmaus,marqms?,ctonsistinq,of,mo,pomon,mi,lunq,measurinr,;,13.7,:,<,8.4,x,3,3,cm,rm,?,1.4,cm,.},{NN,NN,VBN,LS,VB,IN,JJ,,,JJ,NN,NN,CD,NNP,NNP,FW,FW,:,NN,:,NN,TO,VB,CD,NN,JJ,NN,NN,NN,NN,NN,IN,NN,NNS,FW,FW,NN,:,CD,:,JJR,CD,NN,CD,NN,NN,CD,CD,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_22,{},{Bronchial,margin,of,me,varaest,oomon,taken,as,?,FS4,',MD.,.},{bronchial,margin,of,I,varaest,oomon,take,as,?,fs4,',MD.,.},{JJ,NN,IN,PRP,JJS,NN,VBN,IN,NN,NN,'',NNP,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_23,{},{I317,Lzmq,,,nqht,upper,face,.},{i317,lzmq,,,nqht,upper,face,.},{NN,NN,,,NN,JJ,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_24,{},{wed},{wed},{VBN},{}
-TCGA-93-7347, TCGA-93-7347SENT_25,{},{,,qa,exc,?},{,,qa,exc,?},{,,NN,NN,CD},{}
-TCGA-93-7347, TCGA-93-7347SENT_26,{},{.},{.},{.},{}
-TCGA-93-7347, TCGA-93-7347SENT_27,{},{,,?,\,denacarr,:,inorna,\,?,!},{,,?,\,denacarr,:,inorna,\,?,!},{,,CD,NN,NN,:,NN,CD,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_28,{},{7,',32,:,1,evat,10,tvmoh,nod},{7,',32,:,1,evat,10,tvmoh,nod},{CD,'',CD,:,CD,NN,CD,NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_29,{},{,,Ware,mdcinou,mat,are,absent,n,',ener,revel,,,nondinqnosric,for,carcinoma,.,"},{,,Ware,mdcinou,mat,be,absent,n,',ener,revel,,,nondinqnosric,for,carcinoma,.,"},{,,NNP,NNP,NN,VBP,JJ,NN,'',JJR,VBP,,,JJ,IN,NN,.,''},{}
-TCGA-93-7347, TCGA-93-7347SENT_30,{},{by,1,?,W,If,.},{by,1,?,w,if,.},{IN,CD,CD,NN,IN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_31,{},{@Yt,&,/,?ux,),.},{@Yt,&,/,?ux,),.},{NNP,CC,:,NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_32,{},{584,:,Piqht,uoper,lobe,?,bronchial,margms,,,lobect},{584,:,piqht,uoper,lobe,?,bronchial,margm,,,lobect},{CD,:,NN,NN,NN,CD,JJ,NNS,,,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_33,{},{,,nfo,emdence,or,mali?nanm,,,/,W,W,I},{,,nfo,emdence,or,mali?nanm,,,/,W,W,I},{,,NN,NN,CC,NN,,,:,NNP,NNP,PRP},{}
-TCGA-93-7347, TCGA-93-7347SENT_34,{},{?,/,licroscogic,Descrigtion,and,Comment,:,.7,.3,level,10,#,21,.},{?,/,licroscogic,descrigtion,and,comment,:,.7,.3,level,10,#,21,.},{NN,:,JJ,NN,CC,NN,:,CD,NN,NN,CD,#,CD,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_35,{},{?,V},{?,v},{NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_36,{},{M,:1,gcanent,:3,a,1th,1,rrqm,upper,lobe,Izmq,mass,.},{m,:1,gcanent,:3,a,1th,1,rrqm,upper,lobe,izmq,mass,.},{NN,CD,NN,CD,DT,NN,CD,NN,JJ,NN,NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_37,{},{Operatwe,m,lymph,node,drssectron,.},{operatwe,m,lymph,node,drssectron,.},{NN,NN,NN,NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_38,{},{?,gecimen,(,s,},Received,:,.},{?,geciman,(,s,},receive,:,.},{NN,NNS,VBP,NNS,CD,VBN,:,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_39,{},{o,&,Na,mam,up},{o,&,na,mam,up},{NN,CC,NN,NN,IN},{}
-TCGA-93-7347, TCGA-93-7347SENT_40,{},{PER,LOSE,WEDGE},{per,lose,wedge},{IN,VB,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_41,{},{I3,:,I,?,x,MPH,MODE,,,LEVEL,10,L,?,7,",.},{i3,:,I,?,x,mph,mode,,,level,10,l,?,7,",.},{NN,:,PRP,VBP,CC,VBP,NN,,,NN,CD,NN,NN,CD,``,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_42,{},{!},{!},{.},{}
-TCGA-93-7347, TCGA-93-7347SENT_43,{},{PH,?,IODE,,,LEVEL,H7,#,2,f,?,r,",?,JPH,?,IODE,,,LEVEL,11},{ph,?,iode,,,level,h7,#,2,f,?,r,",?,jph,?,iode,,,level,11},{NN,CD,NN,,,NN,NN,#,CD,FW,FW,NN,'',CD,NN,CD,NN,,,NN,CD},{}
-TCGA-93-7347, TCGA-93-7347SENT_44,{},{R,WHH,BRONCMAL},{r,whh,broncmal},{NN,NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_45,{},{,,?,-,.},{,,?,-,.},{,,SYM,:,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_46,{},{-1,ARG.,:,?,NS},{-1,ARG.,:,?,n},{CD,NNP,:,CD,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_47,{},{?,a,?,;,e2r,),f4},{?,a,?,;,e2r,),f4},{NN,DT,NN,:,NN,CD,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_48,{},{?,ed,con,!},{?,ed,con,!},{NN,VBD,RB,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_49,{},{.},{.},{.},{}
-TCGA-93-7347, TCGA-93-7347SENT_50,{},{.},{.},{.},{}
-TCGA-93-7347, TCGA-93-7347SENT_51,{},{a,lung,",and,?,F91/X,",It,issue,.},{a,lung,",and,?,f91/x,",it,issue,.},{DT,NN,'',CC,CD,NN,'',PRP,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_52,{},{Labeled,A1,surface,and,the,nieural,<,:,u,zuckennq,.},{label,a1,surface,and,the,nieural,<,:,u,zuckennq,.},{VBN,NN,NN,CC,DT,JJ,JJR,:,NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_53,{},{The,remaining,I,marzve,to,ample,?ne,:,A3,?},{the,remain,I,marzve,to,ample,?ne,:,a3,?},{DT,VBG,PRP,VBP,TO,JJ,NN,:,NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_54,{},{We,fifth,container,',labeled,",right,:1,?,;,.},{we,fifth,container,',label,",right,:1,?,;,.},{PRP,JJ,NN,'',VBN,``,NN,CD,NN,:,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_55,{},{:,;,nrains,a,branch,?,lmces,of,mnq,;,me,smaller},{:,;,nrain,a,branch,?,lmce,of,mnq,;,I,smaller},{:,:,NNS,DT,NN,NN,NNS,IN,NN,:,PRP,JJR},{}
-TCGA-93-7347, TCGA-93-7347SENT_56,{},{8,?,_,.},{8,?,_,.},{CD,CD,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_57,{},{.},{.},{.},{}
-TCGA-93-7347, TCGA-93-7347SENT_58,{},{hj,,,/,ma,with,no,ma,removed,and,the,u,dad,?},{hj,,,/,ma,with,no,ma,remove,and,the,u,dad,?},{NN,,,:,NN,IN,DT,NN,VBD,CC,DT,NN,NN,CD},{}
-TCGA-93-7347, TCGA-93-7347SENT_59,{},{qnrzw,a,sgzonqy,red,p,section,from},{qnrzw,a,sgzonqy,red,p,section,from},{NN,DT,NN,JJ,NN,NN,IN},{}
-TCGA-93-7347, TCGA-93-7347SENT_60,{},{,,ung,parenchyma,?},{,,ung,parenchyma,?},{,,JJ,NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_61,{},{?,,,arenchyrna,and,no,focal,Iesi,opposite,staple,line,:,E4,~,Va.,?,7,?,mpresenvarive,s,.},{?,,,arenchyrna,and,no,focal,iesus,opposite,staple,line,:,e4,~,Va.,?,7,?,mpresenvarive,s,.},{NN,,,NN,CC,DT,JJ,NN,JJ,NN,NN,:,NN,CD,NNP,CD,CD,NN,NN,NNS,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_62,{},{Jion,from,smailer,inc,-r,rs,mbeied,",if,?},{jion,from,smailer,inc,-r,r,mbeied,",if,?},{NN,IN,NN,NN,VBZ,JJ,``,IN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_63,{},{f,suspicious,IOR,,,W,rapped,.},{f,suspicious,IOR,,,W,rap,.},{LS,JJ,NNP,,,NNP,VBD,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_64,{},{fymoh,node,.,"},{fymoh,node,.,"},{NN,NN,.,''},{}
-TCGA-93-7347, TCGA-93-7347SENT_65,{},{Labeled,H1,.},{label,h1,.},{VBN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_66,{},{I},{I},{PRP},{}
-TCGA-93-7347, TCGA-93-7347SENT_67,{},{J,?,1,?,),e,',93rJf4},{J,?,1,?,),e,',93rjf4},{NNP,CD,CD,CD,NN,SYM,'',NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_68,{},{SURG,!},{surg,!},{NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_69,{},{CAL,PATHOLOGY,REPORT,?},{CAL,PATHOLOGY,REPORT,?},{NNP,NNP,NNP,IN},{}
-TCGA-93-7347, TCGA-93-7347SENT_70,{},{HISTOLOGIC,GRADE,(,G,),The,grade,of,the,tumor,:3,moderately,differentiated,(,G2,),TUMOR,SIZE,The,maxprnum,dimensron,of,the,tumor,:3,15,cm,L,?,/,MPHATIC,INVASION,Lymphatic,mvasion,by,tumor,is,absent,(,LO,),VENOUS,?,N\/ASION,?,v.,??,enous,invasion,by,tumor,as,absent,(,Vo,),ARTERIAL,INVASION,fsmanai,invasion,by,tumor,:3,absent,43L,EURAL,INVOLVEMENT,f7,',eura,#,in,:,/,oivement,is,absent,;,?,/,AMPLED,SPECIMEN,MARGINS,rm,sampfed,surgical,marqms,are,unmvofved,by,tumor,PRIMARY,TUMOR,(,T,),Tumor,<,=,2,cm,in,greatest,dimension,(,T13,),REGIONAL,LYMPH,NODES,(,N,),No,regionaf,lymph,node,metastasis,histoiogicall,y,:,no,examination,for,ITC,(,pNO,)},{histologic,grade,(,g,),the,grade,of,the,tumor,:3,moderately,differentiate,(,g2,),tumor,size,the,maxprnum,dimensron,of,the,tumor,:3,15,cm,l,?,/,MPHATIC,INVASION,lymphatic,mvasion,by,tumor,be,absent,(,lo,),venous,?,n\/asion,?,v.,??,enous,invasion,by,tumor,as,absent,(,vo,),arterial,invasion,fsmanaus,invasion,by,tumor,:3,absent,43l,eural,involvement,f7,',eura,#,in,:,/,oivement,be,absent,;,?,/,AMPLED,SPECIMEN,MARGINS,rm,sampfed,surgical,marqm,be,unmvofved,by,tumor,primary,tumor,(,t,),tumor,<,=,2,cm,in,greatest,dimension,(,t13,),REGIONAL,LYMPH,node,(,n,),no,regionaf,lymph,node,metastasis,histoiogicall,y,:,no,examination,for,ITC,(,pno,)},{JJ,NN,CD,NN,CD,DT,NN,IN,DT,NN,CD,RB,VBN,NN,NN,CD,NN,NN,DT,NN,NN,IN,DT,NN,CD,CD,NN,NN,CD,:,NNP,NNP,JJ,NN,IN,NN,VBZ,JJ,NN,NN,CD,NN,CD,NN,CD,CC,CD,JJ,NN,IN,NN,IN,JJ,NN,NN,CD,NN,NN,NN,NN,IN,NN,CD,JJ,NN,NN,NN,NN,'',FW,#,IN,:,:,NN,VBZ,JJ,:,CD,:,NNP,NNP,NNPS,NN,JJ,JJ,NNS,VBP,JJ,IN,NN,NN,NN,CD,NN,CD,NN,JJR,JJ,CD,NN,IN,JJS,NN,CD,NN,CD,NNP,NNP,VBZ,CD,NN,CD,DT,NN,NN,NN,NN,NN,NN,:,DT,NN,IN,NNP,CD,NN,NN},{}
-TCGA-93-7347, TCGA-93-7347SENT_71,{},{rhea,Iota,!},{rhea,iota,!},{NN,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_72,{},{number,of,lymph,nodes,examined,is,9},{number,of,lymph,node,examine,be,9},{NN,IN,NN,NNS,VBN,VBZ,CD},{}
-TCGA-93-7347, TCGA-93-7347SENT_73,{},{SISTANT,METASTASIS,(,M,),Disiant,metastasis,can,not,be,assessed,(,MX,),STAGE,GROUPING,We,overali,intema?onai,stage,:3,T1aNOMX,{,he,pamologic,stage,asssgned,here,should,be,r,7,data,not,provided,wrth,this,specwmen,.},{sistant,metastasis,(,m,),disiant,metastasis,can,not,be,assess,(,MX,),STAGE,GROUPING,we,overali,intema?onai,stage,:3,t1anomx,{,he,pamologic,stage,asssgn,here,should,be,r,7,datum,not,provide,wrth,this,specwman,.},{JJ,NN,CD,NN,NN,JJ,NN,MD,RB,VB,VBN,CD,NNP,NNP,NNP,NNP,PRP,VBP,JJ,NN,CD,NN,NN,PRP,JJ,NN,VBN,RB,MD,VB,NN,CD,NNS,RB,VBN,NN,DT,NN,.},{}
-TCGA-93-7347, TCGA-93-7347SENT_74,{},{.},{.},{.},{}
-TCGA-93-7347, TCGA-93-7347SENT_75,{},{~,',*,ac,,,?,e,3,cf,4},{~,',*,ac,,,?,e,3,cf,4},{NN,POS,NN,NN,,,NN,SYM,CD,NN,CD},{}
-TCGA-93-7347, TCGA-93-7347SENT_76,{},{END,OF,REPORT},{end,of,report},{NN,IN,NN},{}
+TCGA-93-7347, TCGA-93-7347SENT_1,".","{.}","{.}","{.}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_2,", Us " 1G .","{,,Us,",1G,.}","{,,Us,",1g,.}","{,,NNP,``,NN,.}","{0,0,2,2,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_3,"RIGHT UPPE","{RIGHT,UPPE}","{right,uppe}","{NN,NN}","{2,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_4,"- r-JUL TIFOCAL AT ? / F ? !","{-,r-JUL,TIFOCAL,AT,?,/,F,?,!}","{-,r-jul,tifocal,at,?,/,f,?,!}","{:,NN,NN,IN,CD,:,NN,NN,.}","{0,3,0,3,4,3,3,7,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_5,"R LOBE .","{R,LOBE,.}","{r,lobe,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_6,"LOBECTOMY ( IN","{LOBECTOMY,(,IN}","{lobectomy,(,in}","{NN,CD,IN}","{0,1,2}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_7,": { MPH MODES .","{:,{,MPH,MODES,.}","{:,{,mph,mode,.}","{:,CD,NN,NNS,.}","{0,0,4,2,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_8,"PERIBRONCHOAL .","{PERIBRONCHOAL,.}","{peribronchoal,.}","{NN,.}","{0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_9,"- NO EVIDENCE OF ~ HY/XLINIZED AND .","{-,NO,EVIDENCE,OF,~,HY/XLINIZED,AND,.}","{-,no,evidence,of,~,hy/xlinized,and,.}","{:,NN,NN,IN,NN,NN,CC,.}","{0,3,0,0,6,3,6,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_10,", L , ? v ? .5 .","{,,L,,,?,v,?,.5,.}","{,,l,,,?,v,?,.5,.}","{,,NN,,,CD,LS,CD,CD,.}","{0,7,0,7,7,7,0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_11,"/ 1PH NODE , JR. .","{/,1PH,NODE,,,JR.,.}","{/,1ph,node,,,JR.,.}","{:,NN,NN,,,NNP,.}","{3,3,0,0,3,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_12,"EXCISION","{EXCISION}","{excision}","{NN}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_13,"? NO EVIDENCE OF MAUGNANCY W ONE L ? : / MPH NODE ( O/1 )","{?,NO,EVIDENCE,OF,MAUGNANCY,W,ONE,L,?,:,/,MPH,NODE,(,O/1,)}","{?,no,evidence,of,MAUGNANCY,W,one,l,?,:,/,mph,node,(,o/1,)}","{NN,NN,NN,IN,NNP,NNP,CD,NN,CD,:,:,NN,NN,CD,NN,NN}","{3,3,4,9,6,4,8,6,0,0,9,9,12,15,16,13}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_14,"L?rMF ? H NUDE , ? . " '","{L?rMF,?,H,NUDE,,,?,.,",'}","{l?rmf,?,h,nude,,,?,.,",'}","{NN,NN,NN,NN,,,NN,.,'',''}","{2,3,0,3,0,4,0,3,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_15,"1CefryI4","{1CefryI4}","{1cefryi4}","{NN}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_16,"{ ntraogerative Consultation ; ( Brought to frozen S ?","{{,ntraogerative,Consultation,;,(,Brought,to,frozen,S,?}","{{,ntraogerative,consultation,;,(,Brought,to,frozen,s,?}","{NN,JJ,NN,:,CD,NNP,TO,JJ,NN,IN}","{3,3,0,0,6,3,3,9,7,3}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_17,"pper lone wedge runq ' c : onsistinq ofa 3.5 x 3.8 x 2.4 cm seqment of tuna mm 3 9.5","{pper,lone,wedge,runq,',c,:,onsistinq,ofa,3.5,x,3.8,x,2.4,cm,seqment,of,tuna,mm,3,9.5}","{pper,lone,wedge,runq,',c,:,onsistinq,ofa,3.5,x,3.8,x,2.4,cm,seqment,of,tuna,mm,3,9.5}","{NN,JJ,NN,NN,'',NN,:,NN,NN,CD,CC,CD,CC,CD,NN,NN,IN,NN,NN,CD,CD}","{0,6,6,6,0,1,0,9,1,9,0,9,0,16,16,12,0,19,9,21,19}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_18,"? m stapra margin .","{?,m,stapra,margin,.}","{?,m,stapra,margin,.}","{NN,NN,NN,NN,.}","{4,4,4,0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_19,"Sectioned to shows I 5 x 1 5 x 1 1 cm tan - = ? ass grossly at the stapled ma 7 " ? ' ? > re .","{Sectioned,to,shows,I,5,x,1,5,x,1,1,cm,tan,-,=,?,ass,grossly,at,the,stapled,ma,7,",?,',?,>,re,.}","{section,to,show,I,5,x,1,5,x,1,1,cm,tan,-,=,?,ass,grossly,at,the,stapled,ma,7,",?,',?,>,re,.}","{VBN,TO,NNS,PRP,CD,CC,CD,CD,NN,CD,CD,NN,NN,:,JJ,CD,NN,RB,IN,DT,JJ,NN,CD,``,NN,'',CD,JJR,NN,.}","{0,0,1,25,4,0,8,9,4,11,13,13,9,0,9,17,18,15,0,22,22,15,25,25,3,0,29,29,25,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_20,"< ; entarive sectzon frozen as ? F S1 .","{<,;,entarive,sectzon,frozen,as,?,F,S1,.}","{<,;,entarive,sectzon,freeze,as,?,f,s1,.}","{JJR,:,NN,NN,VBN,IN,NN,NN,NN,.}","{0,0,4,1,4,0,9,9,5,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_21,"? Txsue taken f Rest for permanent , ? DY * ? J D. f ~ : mur ; nt to fmren ? mm upper lobe wrth hroncmai marqms? ctonsistinq of Mo pomons mi lunq measurinr ; 13.7 : < 8.4 x 3,3 cm rm ? 1.4 cm .","{?,Txsue,taken,f,Rest,for,permanent,,,?,DY,*,?,J,D.,f,~,:,mur,;,nt,to,fmren,?,mm,upper,lobe,wrth,hroncmai,marqms?,ctonsistinq,of,Mo,pomons,mi,lunq,measurinr,;,13.7,:,<,8.4,x,3,3,cm,rm,?,1.4,cm,.}","{?,txsue,take,f,rest,for,permanent,,,?,dy,*,?,J,D.,f,~,:,mur,;,nt,to,fmren,?,mm,upper,lobe,wrth,hroncmaus,marqms?,ctonsistinq,of,mo,pomon,mi,lunq,measurinr,;,13.7,:,<,8.4,x,3,3,cm,rm,?,1.4,cm,.}","{NN,NN,VBN,LS,VB,IN,JJ,,,JJ,NN,NN,CD,NNP,NNP,FW,FW,:,NN,:,NN,TO,VB,CD,NN,JJ,NN,NN,NN,NN,NN,IN,NN,NNS,FW,FW,NN,:,CD,:,JJR,CD,NN,CD,NN,NN,CD,CD,NN,.}","{2,0,2,5,3,0,11,0,11,11,5,14,14,5,16,14,0,14,0,14,22,20,24,22,30,30,30,30,30,2,0,33,30,36,36,30,0,2,0,38,42,40,45,45,40,47,48,40,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_22,"Bronchial margin of me varaest oomon taken as ? FS4 ' MD. .","{Bronchial,margin,of,me,varaest,oomon,taken,as,?,FS4,',MD.,.}","{bronchial,margin,of,I,varaest,oomon,take,as,?,fs4,',MD.,.}","{JJ,NN,IN,PRP,JJS,NN,VBN,IN,NN,NN,'',NNP,.}","{2,0,0,2,6,7,2,0,10,7,0,7,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_23,"I317 Lzmq , nqht upper face .","{I317,Lzmq,,,nqht,upper,face,.}","{i317,lzmq,,,nqht,upper,face,.}","{NN,NN,,,NN,JJ,NN,.}","{2,0,0,6,6,2,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_24,"wed","{wed}","{wed}","{VBN}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_25,", qa exc ?","{,,qa,exc,?}","{,,qa,exc,?}","{,,NN,NN,CD}","{0,3,0,3}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_26,".","{.}","{.}","{.}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_27,", ? \ denacarr : inorna \ ? !","{,,?,\,denacarr,:,inorna,\,?,!}","{,,?,\,denacarr,:,inorna,\,?,!}","{,,CD,NN,NN,:,NN,CD,NN,.}","{0,4,4,0,0,4,8,6,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_28,"7 ' 32 : 1 evat 10 tvmoh nod","{7,',32,:,1,evat,10,tvmoh,nod}","{7,',32,:,1,evat,10,tvmoh,nod}","{CD,'',CD,:,CD,NN,CD,NN,NN}","{0,0,1,0,6,1,9,9,6}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_29,", Ware mdcinou mat are absent n ' ener revel , nondinqnosric for carcinoma . "","{,,Ware,mdcinou,mat,are,absent,n,',ener,revel,,,nondinqnosric,for,carcinoma,.,"}","{,,Ware,mdcinou,mat,be,absent,n,',ener,revel,,,nondinqnosric,for,carcinoma,.,"}","{,,NNP,NNP,NN,VBP,JJ,NN,'',JJR,VBP,,,JJ,IN,NN,.,''}","{0,3,6,6,6,0,10,0,7,6,0,6,0,12,0,6}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_30,"by 1 ? W If .","{by,1,?,W,If,.}","{by,1,?,w,if,.}","{IN,CD,CD,NN,IN,.}","{0,3,4,1,4,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_31,"@Yt & / ?ux ) .","{@Yt,&,/,?ux,),.}","{@Yt,&,/,?ux,),.}","{NNP,CC,:,NN,NN,.}","{0,1,5,5,1,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_32,"584 : Piqht uoper lobe ? bronchial margms , lobect","{584,:,Piqht,uoper,lobe,?,bronchial,margms,,,lobect}","{584,:,piqht,uoper,lobe,?,bronchial,margm,,,lobect}","{CD,:,NN,NN,NN,CD,JJ,NNS,,,NN}","{0,0,5,5,1,8,8,5,0,8}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_33,", nfo emdence or mali?nanm , / W W I","{,,nfo,emdence,or,mali?nanm,,,/,W,W,I}","{,,nfo,emdence,or,mali?nanm,,,/,W,W,I}","{,,NN,NN,CC,NN,,,:,NNP,NNP,PRP}","{0,0,2,0,2,0,2,9,2,9}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_34,"? / licroscogic Descrigtion and Comment : .7 .3 level 10 # 21 .","{?,/,licroscogic,Descrigtion,and,Comment,:,.7,.3,level,10,#,21,.}","{?,/,licroscogic,descrigtion,and,comment,:,.7,.3,level,10,#,21,.}","{NN,:,JJ,NN,CC,NN,:,CD,NN,NN,CD,#,CD,.}","{0,1,1,3,0,3,0,10,10,3,10,13,11,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_35,"? V","{?,V}","{?,v}","{NN,NN}","{2,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_36,"M :1 gcanent :3 a 1th 1 rrqm upper lobe Izmq mass .","{M,:1,gcanent,:3,a,1th,1,rrqm,upper,lobe,Izmq,mass,.}","{m,:1,gcanent,:3,a,1th,1,rrqm,upper,lobe,izmq,mass,.}","{NN,CD,NN,CD,DT,NN,CD,NN,JJ,NN,NN,NN,.}","{0,1,1,3,6,3,8,1,12,12,12,8,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_37,"Operatwe m lymph node drssectron .","{Operatwe,m,lymph,node,drssectron,.}","{operatwe,m,lymph,node,drssectron,.}","{NN,NN,NN,NN,NN,.}","{0,5,5,5,1,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_38,"? gecimen ( s } Received : .","{?,gecimen,(,s,},Received,:,.}","{?,geciman,(,s,},receive,:,.}","{NN,NNS,VBP,NNS,CD,VBN,:,.}","{2,3,0,3,4,4,0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_39,"o & Na mam up","{o,&,Na,mam,up}","{o,&,na,mam,up}","{NN,CC,NN,NN,IN}","{5,0,4,5,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_40,"PER LOSE WEDGE","{PER,LOSE,WEDGE}","{per,lose,wedge}","{IN,VB,NN}","{0,1,2}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_41,"I3 : I ? x MPH MODE , LEVEL 10 L ? 7 " .","{I3,:,I,?,x,MPH,MODE,,,LEVEL,10,L,?,7,",.}","{i3,:,I,?,x,mph,mode,,,level,10,l,?,7,",.}","{NN,:,PRP,VBP,CC,VBP,NN,,,NN,CD,NN,NN,CD,``,.}","{0,0,6,1,0,4,12,0,12,12,12,13,6,13,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_42,"!","{!}","{!}","{.}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_43,"PH ? IODE , LEVEL H7 # 2 f ? r " ? JPH ? IODE , LEVEL 11","{PH,?,IODE,,,LEVEL,H7,#,2,f,?,r,",?,JPH,?,IODE,,,LEVEL,11}","{ph,?,iode,,,level,h7,#,2,f,?,r,",?,jph,?,iode,,,level,11}","{NN,CD,NN,,,NN,NN,#,CD,FW,FW,NN,'',CD,NN,CD,NN,,,NN,CD}","{3,3,0,0,6,3,8,3,10,11,8,11,14,11,16,14,0,16,18}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_44,"R WHH BRONCMAL","{R,WHH,BRONCMAL}","{r,whh,broncmal}","{NN,NN,NN}","{0,3,1}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_45,", ? - .","{,,?,-,.}","{,,?,-,.}","{,,SYM,:,.}","{0,4,0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_46,"-1 ARG. : ? NS","{-1,ARG.,:,?,NS}","{-1,ARG.,:,?,n}","{CD,NNP,:,CD,NN}","{2,0,0,5,2}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_47,"? a ? ; e2r ) f4","{?,a,?,;,e2r,),f4}","{?,a,?,;,e2r,),f4}","{NN,DT,NN,:,NN,CD,NN}","{0,3,1,0,7,7,3}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_48,"? ed con !","{?,ed,con,!}","{?,ed,con,!}","{NN,VBD,RB,.}","{2,0,2,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_49,".","{.}","{.}","{.}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_50,".","{.}","{.}","{.}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_51,"a lung " and ? F91/X " It issue .","{a,lung,",and,?,F91/X,",It,issue,.}","{a,lung,",and,?,f91/x,",it,issue,.}","{DT,NN,'',CC,CD,NN,'',PRP,NN,.}","{2,0,2,0,2,2,6,9,6,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_52,"Labeled A1 surface and the nieural < : u zuckennq .","{Labeled,A1,surface,and,the,nieural,<,:,u,zuckennq,.}","{label,a1,surface,and,the,nieural,<,:,u,zuckennq,.}","{VBN,NN,NN,CC,DT,JJ,JJR,:,NN,NN,.}","{0,3,1,0,6,1,6,0,10,3,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_53,"The remaining I marzve to ample ?ne : A3 ?","{The,remaining,I,marzve,to,ample,?ne,:,A3,?}","{the,remain,I,marzve,to,ample,?ne,:,a3,?}","{DT,VBG,PRP,VBP,TO,JJ,NN,:,NN,NN}","{0,1,4,1,0,7,4,0,10,4}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_54,"We fifth container ' labeled " right :1 ? ; .","{We,fifth,container,',labeled,",right,:1,?,;,.}","{we,fifth,container,',label,",right,:1,?,;,.}","{PRP,JJ,NN,'',VBN,``,NN,CD,NN,:,.}","{5,1,2,0,0,9,9,9,5,0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_55,": ; nrains a branch ? lmces of mnq ; me smaller","{:,;,nrains,a,branch,?,lmces,of,mnq,;,me,smaller}","{:,;,nrain,a,branch,?,lmce,of,mnq,;,I,smaller}","{:,:,NNS,DT,NN,NN,NNS,IN,NN,:,PRP,JJR}","{0,0,7,6,6,3,12,0,7,0,9,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_56,"8 ? _ .","{8,?,_,.}","{8,?,_,.}","{CD,CD,NN,.}","{2,0,2,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_57,".","{.}","{.}","{.}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_58,"hj , / ma with no ma removed and the u dad ?","{hj,,,/,ma,with,no,ma,removed,and,the,u,dad,?}","{hj,,,/,ma,with,no,ma,remove,and,the,u,dad,?}","{NN,,,:,NN,IN,DT,NN,VBD,CC,DT,NN,NN,CD}","{8,0,4,1,0,7,4,0,12,12,12,8,12}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_59,"qnrzw a sgzonqy red p section from","{qnrzw,a,sgzonqy,red,p,section,from}","{qnrzw,a,sgzonqy,red,p,section,from}","{NN,DT,NN,JJ,NN,NN,IN}","{0,6,6,6,6,1,6}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_60,", ung parenchyma ?","{,,ung,parenchyma,?}","{,,ung,parenchyma,?}","{,,JJ,NN,NN}","{0,4,4,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_61,"? , arenchyrna and no focal Iesi opposite staple line : E4 ~ Va. ? 7 ? mpresenvarive s .","{?,,,arenchyrna,and,no,focal,Iesi,opposite,staple,line,:,E4,~,Va.,?,7,?,mpresenvarive,s,.}","{?,,,arenchyrna,and,no,focal,iesus,opposite,staple,line,:,e4,~,Va.,?,7,?,mpresenvarive,s,.}","{NN,,,NN,CC,DT,JJ,NN,JJ,NN,NN,:,NN,CD,NNP,CD,CD,NN,NN,NNS,.}","{0,0,1,0,10,10,10,10,10,1,0,14,14,1,16,19,19,19,14,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_62,"Jion from smailer inc,-r rs mbeied " if ?","{Jion,from,smailer,inc,-r,rs,mbeied,",if,?}","{jion,from,smailer,inc,-r,r,mbeied,",if,?}","{NN,IN,NN,NN,VBZ,JJ,``,IN,.}","{5,0,4,1,0,8,8,5,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_63,"f suspicious IOR , W rapped .","{f,suspicious,IOR,,,W,rapped,.}","{f,suspicious,IOR,,,W,rap,.}","{LS,JJ,NNP,,,NNP,VBD,.}","{6,5,5,0,6,0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_64,"fymoh node . "","{fymoh,node,.,"}","{fymoh,node,.,"}","{NN,NN,.,''}","{2,0,0,2}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_65,"Labeled H1 .","{Labeled,H1,.}","{label,h1,.}","{VBN,NN,.}","{0,1,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_66,"I","{I}","{I}","{PRP}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_67,"J ? 1 ? ) e ' 93rJf4","{J,?,1,?,),e,',93rJf4}","{J,?,1,?,),e,',93rjf4}","{NNP,CD,CD,CD,NN,SYM,'',NN}","{0,1,4,8,8,8,0,2}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_68,"SURG !","{SURG,!}","{surg,!}","{NN,.}","{0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_69,"CAL PATHOLOGY REPORT ?","{CAL,PATHOLOGY,REPORT,?}","{CAL,PATHOLOGY,REPORT,?}","{NNP,NNP,NNP,IN}","{3,3,0,3}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_70,"HISTOLOGIC GRADE ( G ) The grade of the tumor :3 moderately differentiated ( G2 ) TUMOR SIZE The maxprnum dimensron of the tumor :3 15 cm L ? / MPHATIC INVASION Lymphatic mvasion by tumor is absent ( LO ) VENOUS ? N\/ASION ? v. ?? enous invasion by tumor as absent ( Vo ) ARTERIAL INVASION fsmanai invasion by tumor :3 absent 43L EURAL INVOLVEMENT f7 ' eura # in : / oivement is absent ; ? / AMPLED SPECIMEN MARGINS rm sampfed surgical marqms are unmvofved by tumor PRIMARY TUMOR ( T ) Tumor < = 2 cm in greatest dimension ( T13 ) REGIONAL LYMPH NODES ( N ) No regionaf lymph node metastasis histoiogicall y : no examination for ITC ( pNO )","{HISTOLOGIC,GRADE,(,G,),The,grade,of,the,tumor,:3,moderately,differentiated,(,G2,),TUMOR,SIZE,The,maxprnum,dimensron,of,the,tumor,:3,15,cm,L,?,/,MPHATIC,INVASION,Lymphatic,mvasion,by,tumor,is,absent,(,LO,),VENOUS,?,N\/ASION,?,v.,??,enous,invasion,by,tumor,as,absent,(,Vo,),ARTERIAL,INVASION,fsmanai,invasion,by,tumor,:3,absent,43L,EURAL,INVOLVEMENT,f7,',eura,#,in,:,/,oivement,is,absent,;,?,/,AMPLED,SPECIMEN,MARGINS,rm,sampfed,surgical,marqms,are,unmvofved,by,tumor,PRIMARY,TUMOR,(,T,),Tumor,<,=,2,cm,in,greatest,dimension,(,T13,),REGIONAL,LYMPH,NODES,(,N,),No,regionaf,lymph,node,metastasis,histoiogicall,y,:,no,examination,for,ITC,(,pNO,)}","{histologic,grade,(,g,),the,grade,of,the,tumor,:3,moderately,differentiate,(,g2,),tumor,size,the,maxprnum,dimensron,of,the,tumor,:3,15,cm,l,?,/,MPHATIC,INVASION,lymphatic,mvasion,by,tumor,be,absent,(,lo,),venous,?,n\/asion,?,v.,??,enous,invasion,by,tumor,as,absent,(,vo,),arterial,invasion,fsmanaus,invasion,by,tumor,:3,absent,43l,eural,involvement,f7,',eura,#,in,:,/,oivement,be,absent,;,?,/,AMPLED,SPECIMEN,MARGINS,rm,sampfed,surgical,marqm,be,unmvofved,by,tumor,primary,tumor,(,t,),tumor,<,=,2,cm,in,greatest,dimension,(,t13,),REGIONAL,LYMPH,node,(,n,),no,regionaf,lymph,node,metastasis,histoiogicall,y,:,no,examination,for,ITC,(,pno,)}","{JJ,NN,CD,NN,CD,DT,NN,IN,DT,NN,CD,RB,VBN,NN,NN,CD,NN,NN,DT,NN,NN,IN,DT,NN,CD,CD,NN,NN,CD,:,NNP,NNP,JJ,NN,IN,NN,VBZ,JJ,NN,NN,CD,NN,CD,NN,CD,CC,CD,JJ,NN,IN,NN,IN,JJ,NN,NN,CD,NN,NN,NN,NN,IN,NN,CD,JJ,NN,NN,NN,NN,'',FW,#,IN,:,:,NN,VBZ,JJ,:,CD,:,NNP,NNP,NNPS,NN,JJ,JJ,NNS,VBP,JJ,IN,NN,NN,NN,CD,NN,CD,NN,JJR,JJ,CD,NN,IN,JJS,NN,CD,NN,CD,NNP,NNP,VBZ,CD,NN,CD,DT,NN,NN,NN,NN,NN,NN,:,DT,NN,IN,NNP,CD,NN,NN}","{128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,0,128,128,128,0,128,128,128,128,0,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,128,0,128,128,128,128,128,128,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_71,"rhea Iota !","{rhea,Iota,!}","{rhea,iota,!}","{NN,NN,.}","{2,0,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_72,"number of lymph nodes examined is 9","{number,of,lymph,nodes,examined,is,9}","{number,of,lymph,node,examine,be,9}","{NN,IN,NN,NNS,VBN,VBZ,CD}","{7,0,4,1,4,7,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_73,"SISTANT METASTASIS ( M ) Disiant metastasis can not be assessed ( MX ) STAGE GROUPING We overali intema?onai stage :3 T1aNOMX { he pamologic stage asssgned here should be r 7 data not provided wrth this specwmen .","{SISTANT,METASTASIS,(,M,),Disiant,metastasis,can,not,be,assessed,(,MX,),STAGE,GROUPING,We,overali,intema?onai,stage,:3,T1aNOMX,{,he,pamologic,stage,asssgned,here,should,be,r,7,data,not,provided,wrth,this,specwmen,.}","{sistant,metastasis,(,m,),disiant,metastasis,can,not,be,assess,(,MX,),STAGE,GROUPING,we,overali,intema?onai,stage,:3,t1anomx,{,he,pamologic,stage,asssgn,here,should,be,r,7,datum,not,provide,wrth,this,specwman,.}","{JJ,NN,CD,NN,NN,JJ,NN,MD,RB,VB,VBN,CD,NNP,NNP,NNP,NNP,PRP,VBP,JJ,NN,CD,NN,NN,PRP,JJ,NN,VBN,RB,MD,VB,NN,CD,NNS,RB,VBN,NN,DT,NN,.}","{5,5,5,5,11,7,11,11,11,11,0,11,16,16,16,35,18,16,23,23,23,23,24,18,26,31,26,27,31,31,16,33,34,35,12,38,38,35,0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_74,".","{.}","{.}","{.}","{0}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_75,"~ ' * ac , ? e 3 cf 4","{~,',*,ac,,,?,e,3,cf,4}","{~,',*,ac,,,?,e,3,cf,4}","{NN,POS,NN,NN,,,NN,SYM,CD,NN,CD}","{4,0,4,0,0,4,9,9,6,4}","{}"
+TCGA-93-7347, TCGA-93-7347SENT_76,"END OF REPORT","{END,OF,REPORT}","{end,of,report}","{NN,IN,NN}","{0,0,1}","{}"

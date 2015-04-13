@@ -1,20 +1,20 @@
-TCGA-63-A5MN, TCGA-63-A5MNSENT_1,{},{UUID,:,DEaBDA98-3AB9-4cED-A854-B1226E2397B6},{UUID,:,deabda98-3ab9-4ced-a854-b1226e2397b6},{NNP,:,NN},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_2,{},{TCGA-53-ASMN-31A-PR,Redacted,ll,IllllllllllIIIIIIIIIIIIIIIIIIHIIllllllllllllllHIIIIIIIIIHIIII,I,III,lllIlllllllllllllIllllllllllllllllllIIIIIIIIIIIIIIHI,|,|,|,|,|,|,|,|,IH,Illll,I,I,II,II,|,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,|,|,|,|,|,|,|,II,|,|,|,|,|,|,|,|,|,IIIII,II,III},{tcga-53-asmn-31a-pr,redacted,ll,illlllllllliiiiiiiiiiiiiiiiiihiillllllllllllllhiiiiiiiiihiiius,I,iii,lllilllllllllllllilllllllllllllllllliiiiiiiiiiiiiihus,|,|,|,|,|,|,|,|,ih,illll,I,I,ii,ii,|,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,|,|,|,|,|,|,|,ii,|,|,|,|,|,|,|,|,|,iiiii,ii,iii},{NN,JJ,NN,NN,PRP,CD,NN,CD,CD,NN,CD,NN,CD,CD,NN,NN,NN,PRP,PRP,CD,CD,NNS,VBP,CD,CD,NN,PRP,VBP,CD,CD,NN,CD,NN,PRP,VBP,CD,CD,NN,CD,CD,NN,CD,CD,NN,CD,NN,CD,NN,CD,CD,NNS,VBP,CD,JJ,NN,CD,CD},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_3,{},{Sample,Number,Sample,Type,TUMOUR},{sample,Number,Sample,type,tumour},{VB,NNP,NNP,NN,NN},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_4,{},{Right,upper,lobe},{right,upper,lobe},{RB,JJ,NN},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_5,{},{Squamous,carcinoma},{squamous,carcinoma},{JJ,NN},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_6,{},{Days,to,Diagnosis},{day,to,diagnosis},{NNS,TO,NN},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_7,{},{,,.},{,,.},{,,.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_8,{},{?,Ed,?,b,~,o,?,L3,"},{?,Ed,?,b,~,o,?,l3,"},{NN,NNP,CD,NN,NN,NN,CD,NN,''},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_9,{},{??,?,?,?,*,4,~,,,%,tLamws,ae,.},{??,?,?,?,*,4,~,,,%,tlamw,ae,.},{NN,CD,CD,CD,NN,CD,NN,,,NN,NN,NN,.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_10,{},{/,I,A105,@,I,",/,2,;,s,85,70,/,(,3},{/,I,a105,@,I,",/,2,;,s,85,70,/,(,3},{:,PRP,VBP,IN,PRP,``,:,CD,:,NNS,CD,CD,:,CD,CD},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_11,{},{riteri,:,?,aenosxs,Dxscvepancv,',rimary,Turuar,Sue,Disctepancy,|,_,IPAA,Discrepancy},{riterus,:,?,aenosx,Dxscvepancv,',rimary,Turuar,Sue,Disctepancy,|,_,IPAA,discrepancy},{NN,:,CD,NNS,NNP,POS,JJ,NNP,NNP,NNP,VBD,CD,NNP,NN},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_12,{},{V,:},{v,:},{NN,:},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_13,{},{~,?,",T,4n,aIignan,;,y,;,q,;,,,m,,,Y,",*,??,-,*,~,.},{~,?,",t,4n,aiignan,;,y,;,q,;,,,m,,,y,",*,??,-,*,~,.},{NN,CD,``,NN,JJ,NN,:,NN,:,NN,:,,,NN,,,NN,'',CD,SYM,:,NN,NN,.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_14,{},{?,.},{?,.},{NN,.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_15,{},{.},{.},{.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_16,{},{?,.},{?,.},{NN,.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_17,{},{-,?,_,.},{-,?,_,.},{:,NN,NN,.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_18,{},{.},{.},{.},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_19,{},{1,no,Ii,2,:,W,',3,g,?,_,UFIED},{1,no,ii,2,:,W,',3,g,?,_,ufied},{CD,DT,NN,CD,:,NNP,POS,CD,NN,CD,CD,NN},{}
-TCGA-63-A5MN, TCGA-63-A5MNSENT_20,{},{/,_,nIsr1uA,ale,Reviewed,:,_,/},{/,_,nisr1ua,ale,review,:,_,/},{:,CD,NN,NN,VBN,:,CD,:},{}
+TCGA-63-A5MN, TCGA-63-A5MNSENT_1,"UUID : DEaBDA98-3AB9-4cED-A854-B1226E2397B6","{UUID,:,DEaBDA98-3AB9-4cED-A854-B1226E2397B6}","{UUID,:,deabda98-3ab9-4ced-a854-b1226e2397b6}","{NNP,:,NN}","{0,0,1}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_2,"TCGA-53-ASMN-31A-PR Redacted ll IllllllllllIIIIIIIIIIIIIIIIIIHIIllllllllllllllHIIIIIIIIIHIIII I III lllIlllllllllllllIllllllllllllllllllIIIIIIIIIIIIIIHI | | | | | | | | IH Illll I I II II | | | | | I | | | | | | I | | | | | | | | | | II | | | | | | | | | IIIII II III","{TCGA-53-ASMN-31A-PR,Redacted,ll,IllllllllllIIIIIIIIIIIIIIIIIIHIIllllllllllllllHIIIIIIIIIHIIII,I,III,lllIlllllllllllllIllllllllllllllllllIIIIIIIIIIIIIIHI,|,|,|,|,|,|,|,|,IH,Illll,I,I,II,II,|,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,|,|,|,|,|,|,|,II,|,|,|,|,|,|,|,|,|,IIIII,II,III}","{tcga-53-asmn-31a-pr,redacted,ll,illlllllllliiiiiiiiiiiiiiiiiihiillllllllllllllhiiiiiiiiihiiius,I,iii,lllilllllllllllllilllllllllllllllllliiiiiiiiiiiiiihus,|,|,|,|,|,|,|,|,ih,illll,I,I,ii,ii,|,|,|,|,|,I,|,|,|,|,|,|,I,|,|,|,|,|,|,|,|,|,|,ii,|,|,|,|,|,|,|,|,|,iiiii,ii,iii}","{NN,JJ,NN,NN,PRP,CD,NN,CD,CD,NN,CD,NN,CD,CD,NN,NN,NN,PRP,PRP,CD,CD,NNS,VBP,CD,CD,NN,PRP,VBP,CD,CD,NN,CD,NN,PRP,VBP,CD,CD,NN,CD,CD,NN,CD,CD,NN,CD,NN,CD,NN,CD,CD,NNS,VBP,CD,JJ,NN,CD,CD}","{7,4,4,1,7,7,12,9,7,9,10,17,12,17,17,17,19,17,0,22,22,23,19,25,26,23,28,26,31,31,28,33,31,35,33,37,35,44,40,38,44,41,44,48,46,44,48,33,50,51,52,48,55,55,57,57,52}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_3,"Sample Number Sample Type TUMOUR","{Sample,Number,Sample,Type,TUMOUR}","{sample,Number,Sample,type,tumour}","{VB,NNP,NNP,NN,NN}","{0,5,5,5,1}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_4,"Right upper lobe","{Right,upper,lobe}","{right,upper,lobe}","{RB,JJ,NN}","{0,3,1}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_5,"Squamous carcinoma","{Squamous,carcinoma}","{squamous,carcinoma}","{JJ,NN}","{2,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_6,"Days to Diagnosis","{Days,to,Diagnosis}","{day,to,diagnosis}","{NNS,TO,NN}","{0,0,1}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_7,", .","{,,.}","{,,.}","{,,.}","{0,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_8,"? Ed ? b ~ o ? L3 "","{?,Ed,?,b,~,o,?,L3,"}","{?,Ed,?,b,~,o,?,l3,"}","{NN,NNP,CD,NN,NN,NN,CD,NN,''}","{0,1,2,8,8,8,8,1,8}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_9,"?? ? ? ? * 4 ~ , % tLamws ae .","{??,?,?,?,*,4,~,,,%,tLamws,ae,.}","{??,?,?,?,*,4,~,,,%,tlamw,ae,.}","{NN,CD,CD,CD,NN,CD,NN,,,NN,NN,NN,.}","{5,1,1,1,0,7,5,0,11,11,7,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_10,"/ I A105 @ I " / 2 ; s 85 70 / ( 3","{/,I,A105,@,I,",/,2,;,s,85,70,/,(,3}","{/,I,a105,@,I,",/,2,;,s,85,70,/,(,3}","{:,PRP,VBP,IN,PRP,``,:,CD,:,NNS,CD,CD,:,CD,CD}","{3,3,0,0,3,5,8,10,0,5,12,10,14,12,14}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_11,"riteri : ? aenosxs Dxscvepancv ' rimary Turuar Sue Disctepancy | _ IPAA Discrepancy","{riteri,:,?,aenosxs,Dxscvepancv,',rimary,Turuar,Sue,Disctepancy,|,_,IPAA,Discrepancy}","{riterus,:,?,aenosx,Dxscvepancv,',rimary,Turuar,Sue,Disctepancy,|,_,IPAA,discrepancy}","{NN,:,CD,NNS,NNP,POS,JJ,NNP,NNP,NNP,VBD,CD,NNP,NN}","{11,0,4,1,10,0,10,10,10,4,0,14,14,11}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_12,"V :","{V,:}","{v,:}","{NN,:}","{0,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_13,"~ ? " T 4n aIignan ; y ; q ; , m , Y " * ?? - * ~ .","{~,?,",T,4n,aIignan,;,y,;,q,;,,,m,,,Y,",*,??,-,*,~,.}","{~,?,",t,4n,aiignan,;,y,;,q,;,,,m,,,y,",*,??,-,*,~,.}","{NN,CD,``,NN,JJ,NN,:,NN,:,NN,:,,,NN,,,NN,'',CD,SYM,:,NN,NN,.}","{0,1,6,6,6,2,0,6,0,8,0,0,8,0,13,6,6,21,0,21,6,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_14,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_15,".","{.}","{.}","{.}","{0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_16,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_17,"- ? _ .","{-,?,_,.}","{-,?,_,.}","{:,NN,NN,.}","{0,3,0,0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_18,".","{.}","{.}","{.}","{0}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_19,"1 no Ii 2 : W ' 3 g ? _ UFIED","{1,no,Ii,2,:,W,',3,g,?,_,UFIED}","{1,no,ii,2,:,W,',3,g,?,_,ufied}","{CD,DT,NN,CD,:,NNP,POS,CD,NN,CD,CD,NN}","{0,3,1,3,0,9,0,9,3,11,12,9}","{}"
+TCGA-63-A5MN, TCGA-63-A5MNSENT_20,"/ _ nIsr1uA ale Reviewed : _ /","{/,_,nIsr1uA,ale,Reviewed,:,_,/}","{/,_,nisr1ua,ale,review,:,_,/}","{:,CD,NN,NN,VBN,:,CD,:}","{4,4,4,0,4,0,5,7}","{}"

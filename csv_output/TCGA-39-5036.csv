@@ -1,201 +1,201 @@
-TCGA-39-5036, TCGA-39-5036SENT_1,{},{CGA,-,39,-5035},{cga,-,39,-5035},{SYM,:,CD,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_2,{},{Clinical,Diagnosis,6,:,History,:,LED,nodule,increased,in,size,;,IE,biopsy,was,hanign,.},{clinical,diagnosis,6,:,history,:,lead,nodule,increase,in,size,;,ie,biopsy,be,hanign,.},{JJ,NN,CD,:,NN,:,VBD,NN,VBN,IN,NN,:,JJ,NN,VBD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_3,{},{PE,?,?},{pe,?,?},{NN,CD,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_4,{},{showecl,LUL,nodule,with,moderate,uptake,.},{showecl,lul,nodule,with,moderate,uptake,.},{NN,NN,NN,IN,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_5,{},{Specimens,Suhithed,:,1,:,SP1,Eaaft,upper,lobe,nodule,biapsy,-,?,2,:,SP,:,Laval,five,lymph,node,3,:,SP,:,5135,:,:,upper,lobe,wedge,lung,E,4,:,SP,:,Lait,level,tar,:,lymph,node,5,:,SP,:,Left,level,alavan,intarlobar,lymph,node,6,:,SP,:,I-aft,upper,lung,lobe,:,DIAGNOSIS,:},{specimen,Suhithed,:,1,:,sp1,eaaft,upper,lobe,nodule,biapsy,-,?,2,:,sp,:,Laval,five,lymph,node,3,:,sp,:,5135,:,:,upper,lobe,wedge,lung,e,4,:,sp,:,lait,level,tar,:,lymph,node,5,:,sp,:,leave,level,alavan,intarlobar,lymph,node,6,:,sp,:,i-aft,upper,lung,lobe,:,diagnosis,:},{NNS,NNP,:,CD,:,NN,NN,JJ,NN,NN,NN,:,NN,CD,:,NN,:,NNP,CD,NN,NN,CD,:,NN,:,CD,:,:,JJ,NN,NN,NN,NN,CD,:,NN,:,NN,NN,NN,:,NN,NN,CD,:,NN,:,VBN,NN,NN,NN,NN,NN,CD,:,NN,:,NN,JJ,NN,NN,:,NN,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_6,{},{1,),LUNG,,,LEFT,UPPER,L032,NODULE,;,EIOPSY,:},{1,),lung,,,LEFT,UPPER,l032,nodule,;,EIOPSY,:},{CD,CD,NN,,,NNP,NNP,NN,NN,:,NNP,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_7,{},{?,SQUAMOUS,CELL,CRRCINOHA,,,POORLY,DIFFERZNTIATBD,.},{?,SQUAMOUS,CELL,CRRCINOHA,,,poorly,differzntiatbd,.},{RB,NNP,NNP,NNP,,,RB,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_8,{},{2,},LY?@H,NOD35,,,LEVEL,v,;,EXCISION,:,-,wwo,aznxau,L,?,MPH,Nonzs,(,DI2,),.},{2,},ly?@h,nod35,,,LEVEL,v,;,EXCISION,:,-,wwo,aznxau,l,?,mph,nonz,(,di2,),.},{CD,CD,NN,NN,,,NNP,LS,:,NNP,:,:,NN,NN,NN,CD,NN,NNS,VBP,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_9,{},{~,SQUAHOUS,OKLL,CARCINOMA,,,MODERATEDY,To,PDORLY,DIF,?,EHE,.},{~,SQUAHOUS,OKLL,CARCINOMA,,,MODERATEDY,to,pdorly,dif,?,ehe,.},{NN,NNP,NNP,NNP,,,NNP,TO,VB,NN,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_10,{},{N,?,1,?,IA'i,?,ED,!},{n,?,1,?,ia'us,?,ed,!},{NN,CD,CD,NN,NN,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_11,{},{13NDIF,?},{13ndif,?},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_12,{},{EREN,',1,?,IA,',1,?,ED,.},{EREN,',1,?,ia,',1,?,ED,.},{NNP,POS,CD,CD,NN,'',CD,CD,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_13,{},{o,?},{o,?},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_14,{},{LEFT,UPPER,LOBE,.},{LEFT,UPPER,LOBE,.},{NNP,NNP,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_15,{},{-,?,THE,-,runoa,MEASURES,2.0,X,2.0,X,1.5,cu,.},{-,?,the,-,runoa,measure,2.0,x,2.0,x,1.5,cu,.},{:,CD,DT,:,NN,NNS,CD,NN,CD,NN,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_16,{},{-,NO,VASCULAR,INVASION,IS,IDENTIFIED,.},{-,no,vascular,invasion,be,IDENTIFIED,.},{:,NN,NN,NN,VBZ,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_17,{},{-,NO,PERIHEURAL,INVASION,IS,IDENTIFIED,.},{-,no,PERIHEURAL,INVASION,be,IDENTIFIED,.},{:,NN,NNP,NNP,VBZ,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_18,{},{-,THE,TUMOR,INVOLVES,THE,SURFACE,OF,THE,VISCERAD,Pb????,.},{-,the,tumor,involve,the,surface,of,the,viscerad,pb????,.},{:,DT,NN,VBZ,DT,NN,IN,DT,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_19,{},{-,THE,N03-NEOPLRSTIC,LUNG,SHOWS,THE,FODLOWING,ABNORHALITIES,:,PARENCHYMAL,GRANIJLDMAS,AND,SCARRING,.},{-,the,n03-neoplrstic,lung,show,the,fodlowing,abnorhality,:,parenchymal,granijldma,and,scarring,.},{:,DT,NN,NN,VBZ,DT,NN,NNS,:,JJ,NNS,CC,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_20,{},{3,),LUNG,:,LEFT,UPPER,BORE,;,WEDGE,RESBCTION,:,|,I},{3,),lung,:,LEFT,UPPER,bear,;,WEDGE,RESBCTION,:,|,I},{CD,CD,NN,:,NNP,NNP,VBD,:,NNP,NNP,:,CD,PRP},{}
-TCGA-39-5036, TCGA-39-5036SENT_21,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_22,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_23,{},{I},{I},{PRP},{}
-TCGA-39-5036, TCGA-39-5036SENT_24,{},{as,LYHPH,NOD35,,,LEE,?},{as,lyhph,nod35,,,LEE,?},{IN,NN,NN,,,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_25,{},{LEVEL,x,;,EXCISION,:},{level,x,;,EXCISION,:},{NN,NN,:,NNP,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_26,{},{?,sxx,anwuaacowxc,LYMPH,MODES,.},{?,sxx,anwuaacowxc,lymph,mode,.},{NN,NN,NN,NN,NNS,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_27,{},{NEGATIV3,won,muna?,tors,),.},{negativ3,win,muna?,tor,),.},{NN,VBD,JJ,NNS,RB,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_28,{},{5,},LYMPH,NOD39,,,LEFT,LEVEL,XI,INTERLOBAR,;,BKCISIONI},{5,},lymph,nod39,,,LEFT,LEVEL,XI,INTERLOBAR,;,BKCISIONI},{CD,CD,NN,NN,,,NNP,NNP,NNP,NNP,:,NNP},{}
-TCGA-39-5036, TCGA-39-5036SENT_29,{},{-,THREE,ANTHRACOTIC,BYHPH,NOD25,,,NO,EUMOR,SEEN,{,OI3,},.},{-,three,anthracotic,byhph,nod25,,,no,eumor,seen,{,oi3,},.},{:,CD,NN,NN,NN,,,NN,NN,NN,CD,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_30,{},{E,},BVNG,,,LEFT,UPPER,L033,!},{e,},BVNG,,,LEFT,UPPER,l033,!},{NN,CD,NNP,,,NNP,NNP,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_31,{},{LOBECTOMYB},{lobectomyb},{NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_32,{},{-,No,RESIDUAL,CARCINOMA,SEEN,.},{-,no,RESIDUAL,CARCINOMA,SEEN,.},{:,UH,NNP,NNP,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_33,{},{-,THE,NGN,*,NEOPhA5TIC,LUHG,SHOWS,CHRONIC,BRONCHITIS,AHD,FOCAL,SCARRING,.},{-,the,ngn,*,neopha5tic,luhg,show,chronic,bronchitis,ahd,focal,scarring,.},{:,DT,NN,CD,NN,NN,VBZ,JJ,NN,NN,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_34,{},{-,BRGNCHIAL,HARGINS,ARE,FREE,OF,TUMOR,.},{-,brgnchial,hargin,be,free,of,tumor,.},{:,NN,NNS,VBP,NNS,IN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_35,{},{H,continued,on,next,.},{h,continue,on,next,.},{NN,VBD,IN,JJ,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_36,{},{page,:,H},{page,:,h},{NN,:,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_37,{},{----------------------------------------------------------,Page,2,of,5,-,EIGHT,LYMPH,NDDES,.},{----------------------------------------------------------,Page,2,of,5,-,eight,lymph,ndde,.},{JJ,NNP,CD,IN,CD,:,CD,NN,NNS,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_38,{},{NEGATIVR,FOR,TUMOR,(,013,),.},{negativr,for,tumor,(,013,),.},{NN,IN,NN,CD,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_39,{},{I,ATTEST,THAT,THE,ABOVE,DIAGNOSIS,IS,BREED,UPON,HY,PERSONREJ,EXAMINATION,OF,THE,SLIDES,(,ARI,),/,OR,OTHER,MATERIAL,),.},{I,attest,that,the,above,diagnosis,be,BREED,UPON,HY,PERSONREJ,EXAMINATION,of,the,slide,(,ARI,),/,or,OTHER,material,),.},{PRP,VBP,WDT,DT,IN,NN,VBZ,NNP,NNP,NNP,NNP,NNP,IN,DT,NNS,VBP,NNP,CD,:,NN,NNP,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_40,{},{AND,TIIEAT,I,RAVE,REVIEWED,mm,APPROVED,THIS,RSPORF,?},{and,tiieat,I,rave,review,mm,approve,this,rsporf,?},{CC,NN,PRP,VBP,VBN,NN,VBN,NNS,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_41,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_42,{},{1,),.},{1,),.},{CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_43,{},{The,specimen,is,received,fresh,for,frozen,Section,consultation,,,labeled,?,Left,upper,lobe,nodule,biopsy,",and,consists,of,two,fragments,of,pink-tan,soft,tissue,ranging,item,0.4,to,1.5,cm,in,greatest,dimension,.},{the,specimen,be,receive,fresh,for,frozen,section,consultation,,,label,?,leave,upper,lobe,nodule,biopsy,",and,consist,of,two,fragment,of,pink-tan,soft,tissue,range,item,0.4,to,1.5,cm,in,greatest,dimension,.},{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,,,VBN,CD,VBN,JJ,NN,NN,NN,'',CC,VBZ,IN,CD,NNS,IN,NN,JJ,NN,VBG,NN,CD,TO,CD,NN,IN,JJS,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_44,{},{Entirely,submitted,for,frozen,section,.},{entirely,submit,for,frozen,section,.},{RB,VBN,IN,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_45,{},{summary,of,sections,:,FSC,-,H,frozen,section,control,2,},.},{summary,of,section,:,fsc,-,h,frozen,section,control,2,},.},{NN,IN,NNS,:,SYM,:,NN,JJ,NN,NN,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_46,{},{The,specimen,is,received,fresh,for,frozen,nootion,conaultation,,,labeled,?,Level,5,lymph,node,?,and,consists,af,two,anbhracotic,lymph,nedan,measuring,l.,5,and,o.,?,cm,.},{the,specimen,be,receive,fresh,for,frozen,nootion,conaultation,,,label,?,level,5,lymph,node,?,and,consist,af,two,anbhracotic,lymph,nedan,measure,l.,5,and,o.,?,cm,.},{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,,,VBN,CD,NN,CD,NN,NN,NN,CC,VBZ,FW,CD,JJ,NN,NN,VBG,NN,CD,CC,NN,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_47,{},{The,largest,lymph,node,is,bisecte?,and,the,lymh,no?ea,are,entirely,submitted,for,frozen,santion,.},{the,largest,lymph,node,be,bisecte?,and,the,lymh,no?ea,be,entirely,submit,for,frozen,santion,.},{DT,JJS,NN,NN,VBZ,NN,CC,DT,NN,NN,VBP,RB,VBN,IN,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_48,{},{Summary,of,sections,:,p,Ro,",',EIDZGU,soution,C0nt,?,01},{summary,of,section,:,p,ro,",',eidzgu,soution,c0nt,?,01},{NN,IN,NNS,:,NN,NN,'','',JJ,NN,NN,NN,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_49,{},{3,},?,The,5Deciman,is,received,in,formalin,and,in,labeled,",bait,upper,lobe,weage,lung,",.},{3,},?,the,5deciman,be,receive,in,formalin,and,in,label,",bait,upper,lobe,weage,lung,",.},{CD,NN,CD,DT,NN,VBZ,VBN,IN,NN,CC,IN,VBN,``,NN,JJ,NN,NN,NN,'',.},{}
-TCGA-39-5036, TCGA-39-5036SENT_50,{},{It,consists,of,a,7,x,6,x,2,cm,wedge,of,lung,tissue,with,a,staple,line,.},{it,consist,of,a,7,x,6,x,2,cm,wedge,of,lung,tissue,with,a,staple,line,.},{PRP,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,NN,IN,DT,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_51,{},{The,pleural,surface,is,pink,tan,received,previously,sectioned,with,visibla,.},{the,pleural,surface,be,pink,tan,receive,previously,section,with,visiblum,.},{DT,JJ,NN,VBZ,JJ,NN,VBD,RB,VBN,IN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_52,{},{palpable,nodule,.},{palpable,nodule,.},{JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_53,{},{The,staple,line,is,ramva?,and,serial,sectioning,reveals,a,white,tan,111,defined,indurated,tumor,measuring,2,x,2,x,1-5,Cm,:,l?cat??,abutting,the,stapla?,margin,,,located,5,cm,from,the,stapled,margin,and,abutting,tha,pleural,surfuca,.},{the,staple,line,be,ramva?,and,serial,sectioning,reveal,a,white,tan,111,define,indurated,tumor,measuring,2,x,2,x,1-5,cm,:,l?cat??,abut,the,stapla?,margin,,,located,5,cm,from,the,stapled,margin,and,abut,tha,pleural,surfuca,.},{DT,NN,NN,VBZ,NN,CC,NN,NN,VBZ,DT,JJ,NN,CD,VBN,JJ,NN,NN,CD,NN,CD,CC,CD,NN,:,NN,VBG,DT,NN,NN,,,JJ,CD,NN,IN,DT,JJ,NN,CC,VBG,NN,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_54,{},{Raprasantative,submitted,including,the,shaved,staple,margin,.},{raprasantative,submit,include,the,shave,staple,margin,.},{JJ,VBN,VBG,DT,VBN,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_55,{},{Sumazy,of,sectiona,:,T1,tumor,near,the,stapled,margin,T2,?,tumor,far,from,stapled,margin,M,-,margin},{Sumazy,of,sectiona,:,t1,tumor,near,the,stapled,margin,t2,?,tumor,far,from,stapled,margin,m,-,margin},{NNP,IN,NN,:,NN,NN,IN,DT,JJ,NN,NN,CD,NN,RB,IN,JJ,NN,NN,:,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_56,{},{**,Conbinuud,on,next,page,*,'},{**,conbinuud,on,next,page,*,'},{NN,NN,IN,JJ,NN,NN,''},{}
-TCGA-39-5036, TCGA-39-5036SENT_57,{},{w,.},{w,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_58,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_59,{},{--,.},{--,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_60,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_61,{},{~,~,.},{~,~,.},{NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_62,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_63,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_64,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_65,{},{~,w,-,.},{~,w,-,.},{NN,SYM,:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_66,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_67,{},{--,.},{--,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_68,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_69,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_70,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_71,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_72,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_73,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_74,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_75,{},{-----,.},{-----,.},{CD,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_76,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_77,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_78,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_79,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_80,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_81,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_82,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_83,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_84,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_85,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_86,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_87,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_88,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_89,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_90,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_91,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_92,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_93,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_94,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_95,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_96,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_97,{},{~,.},{~,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_98,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_99,{},{~,?,ww,~,.},{~,?,ww,~,.},{NN,CD,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_100,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_101,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_102,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_103,{},{--,Page,3,of,5,L,?,uninvolved,lung},{--,Page,3,of,5,l,?,uninvolved,lung},{:,NNP,CD,IN,CD,NN,NN,JJ,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_104,{},{4,),.},{4,),.},{CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_105,{},{The,specimen,is,received,in,Eormalin,.},{the,specimen,be,receive,in,Eormalin,.},{DT,NN,VBZ,VBN,IN,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_106,{},{labeled,?,Left,level,tun,lymph,nodes,?,and,consists,of,four,gray,tan,anbhracobie,lymph,nodes,msasuring,from,0.4,ho1,.6,cm,in,greatest,dimension,.},{label,?,leave,level,tun,lymph,node,?,and,consist,of,four,gray,tan,anbhracobie,lymph,node,msasure,from,0.4,ho1,.6,cm,in,greatest,dimension,.},{VBN,JJ,VBN,NN,NN,NN,NNS,CD,CC,VBZ,IN,CD,JJ,NN,NN,NN,NNS,VBG,IN,CD,NN,CD,NN,IN,JJS,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_107,{},{The,lymph,nodes,are,entirely,submitts?,.},{the,lymph,node,be,entirely,submitts?,.},{DT,NN,NNS,VBP,RB,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_108,{},{Summary,of,sections,:,nN,-,lymph,nodes},{summary,of,section,:,nn,-,lymph,node},{NN,IN,NNS,:,SYM,:,NN,NNS},{}
-TCGA-39-5036, TCGA-39-5036SENT_109,{},{5,},.},{5,},.},{CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_110,{},{The,specimen,is,received,in,formalin,.},{the,specimen,be,receive,in,formalin,.},{DT,NN,VBZ,VBN,IN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_111,{},{labeled,?,Left,level,elavan,interlobar,lymph,node,?,sn?,consists,of,two,gray,tan,anthracotic,lymph,nodes,maaauring,0.3,an,&,o.,?},{label,?,leave,level,elavan,interlobar,lymph,node,?,sn?,consist,of,two,gray,tan,anthracotic,lymph,node,maaaur,0.3,a,&,o.,?},{VBN,JJ,VBN,NN,NN,NN,NN,NN,CD,NN,VBZ,IN,CD,JJ,NN,JJ,NN,NNS,VBG,CD,DT,CC,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_112,{},{cm,in,greatest,dimension,.},{cm,in,greatest,dimension,.},{NN,IN,JJS,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_113,{},{who,lymph,noaas,are,entirely,submitted,.},{who,lymph,noaa,be,entirely,submit,.},{WP,NN,NNS,VBP,RB,VBN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_114,{},{Summary,of,sections,:,nH,?,lymh,nodes},{summary,of,section,:,nh,?,lymh,node},{NN,IN,NNS,:,NN,CD,NN,NNS},{}
-TCGA-39-5036, TCGA-39-5036SENT_115,{},{5,),.},{5,),.},{CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_116,{},{The,specimen,is,received,?rssh,and,in,labeled,,,",left,upper,lobe,lung,?,.},{the,specimen,be,receive,?rssh,and,in,label,,,",leave,upper,lobe,lung,?,.},{DT,NN,VBZ,VBN,JJ,CC,IN,VBN,,,``,VBD,JJ,NN,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_117,{},{It,consists,of,a,15.5,x,10.5,x,2.5,cm,lung,lobe,with,attached,bronchus,and,blood,vessels,sbraddle?,by,multiple,staple,lines,,,which,weighs,170,gm,.},{it,consist,of,a,15.5,x,10.5,x,2.5,cm,lung,lobe,with,attach,bronchus,and,blood,vessel,sbraddle?,by,multiple,staple,line,,,which,weigh,170,gm,.},{PRP,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,NN,IN,VBN,NNS,CC,NN,NNS,NN,IN,JJ,NN,NNS,,,WDT,VBZ,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_118,{},{The,attached,bronchus,measures,2.4,x,1.6,cm,.},{the,attach,bronchus,measure,2.4,x,1.6,cm,.},{DT,VBN,NN,NNS,CD,CC,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_119,{},{A,raw,area,(,6.5,x,2.5,cm,),.},{a,raw,area,(,6.5,x,2.5,cm,),.},{DT,JJ,NN,NN,CD,CC,CD,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_120,{},{exposing,portion,oE,lung,parsnchyma,without,pleural,surface,is,noted,on,the,postorolataral,aspect,,,otherwise,the,pleural,surface,is,smooth,and,glistening,.},{expose,portion,oe,lung,parsnchyma,without,pleural,surface,be,note,on,the,postorolataral,aspect,,,otherwise,the,pleural,surface,be,smooth,and,glistening,.},{VBG,NN,NN,NN,NN,IN,JJ,NN,VBZ,VBN,IN,DT,JJ,NN,,,RB,DT,JJ,NN,VBZ,JJ,CC,JJ,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_121,{},{The,pleural,surface,is,inked,black,.},{the,pleural,surface,be,ink,black,.},{DT,JJ,NN,VBZ,VBN,JJ,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_122,{},{Two,staple,lines,are,notaa,.},{two,staple,line,be,notaa,.},{CD,NN,NNS,VBP,JJ,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_123,{},{one,along,the,inferior,aspaut,15.0,om,long,and,another,pezi,?,hilar,medially,8.0,cm,long,.},{one,along,the,inferior,aspaut,15.0,om,long,and,another,pezus,?,hilar,medially,8.0,cm,long,.},{CD,IN,DT,JJ,NN,CD,NN,RB,CC,DT,NN,NN,JJ,RB,CD,NN,RB,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_124,{},{Serial,sectioning,reveals,no,definite,mans,grossly,identified,.},{serial,sectioning,reveal,no,definite,man,grossly,identify,.},{JJ,NN,VBZ,DT,JJ,NNS,RB,VBN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_125,{},{The,bronchial,mucosa,is,smooth,aha,glistening,.},{the,bronchial,mucosa,be,smooth,aha,glistening,.},{DT,JJ,NN,VBZ,JJ,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_126,{},{Peribronchiai,anthracotio,lymph,nodes,are,idenhiiiea,ranging,from,0.3,to,0.9,om,greatest,dimension,and,submitted,.},{Peribronchiai,anthracotio,lymph,node,be,idenhiiiea,range,from,0.3,to,0.9,om,greatest,dimension,and,submit,.},{NNP,NN,NN,NNS,VBP,JJ,VBG,IN,CD,TO,CD,NN,JJS,NN,CC,VBN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_127,{},{The,uninvolved,lung,paranohyma,showa,mil?,congestion,and,frothy,fluid,.},{the,uninvolved,lung,paranohyma,showa,mil?,congestion,and,frothy,fluid,.},{DT,JJ,NN,NN,NN,NN,NN,CC,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_128,{},{Representative,sections,are,submitted,.},{Representative,section,be,submit,.},{NNP,NNS,VBP,VBN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_129,{},{Photographs,are,taken,.},{photograph,be,take,.},{NNS,VBP,VBN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_130,{},{summary,of,sections,:,BM,-,bronchial,margin,.},{summary,of,section,:,bm,-,bronchial,margin,.},{NN,IN,NNS,:,NN,:,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_131,{},{UH,~,~,vascular,margin,.},{UH,~,~,vascular,margin,.},{NNP,NNP,NN,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_132,{},{SH,:,-,staple,nargin,inferior,SHPH,-,staple,margin,parihilar,RA,~,random,lung,parenchyma,at,least,3,am,away,from,inferior,aspect,RC,?,random,lung,paronchyma,close,to,inferior,aspect,LN,~,-,lymph,nodes,.},{sh,:,-,staple,nargin,inferior,shph,-,staple,margin,parihilar,ra,~,random,lung,parenchyma,at,least,3,be,away,from,inferior,aspect,rc,?,random,lung,paronchyma,close,to,inferior,aspect,ln,~,-,lymph,node,.},{NN,:,:,NN,NN,JJ,NN,:,NN,NN,JJ,NN,NN,JJ,NN,NN,IN,JJS,CD,VBP,RB,IN,JJ,NN,NN,CD,JJ,NN,NN,NN,TO,JJ,NN,NN,SYM,:,NN,NNS,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_133,{},{Summary,of,sections,:,par,:,1,:,SP,:,Left,upper,lobe,nodule,biopsy,-,**},{summary,of,section,:,par,:,1,:,sp,:,leave,upper,lobe,nodule,biopsy,-,**},{NN,IN,NNS,:,NN,:,CD,:,NN,:,VBN,JJ,NN,NN,NN,:,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_134,{},{Continued,on,next,page,*,?},{continue,on,next,page,*,?},{VBN,IN,JJ,NN,CD,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_135,{},{Block},{Block},{NNP},{}
-TCGA-39-5036, TCGA-39-5036SENT_136,{},{P323,?,.},{p323,?,.},{NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_137,{},{25,Black},{25,black},{CD,JJ},{}
-TCGA-39-5036, TCGA-39-5036SENT_138,{},{Part,3,:,Block,I-9-i,--,{,ll,Part,4,:},{Part,3,:,Block,I-9-i,--,{,ll,part,4,:},{NNP,CD,:,NNP,NNP,:,CD,NN,NN,CD,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_139,{},{SPSCIAB,STAINS,FOR,ACID-FAST,BACILLI,{,AFB,},AND,FUNGI,(,GHS,),ARE,NEGATIVE,IN},{SPSCIAB,STAINS,for,acid-fast,bacillus,{,afb,},and,FUNGI,(,GHS,),be,negative,in},{NNP,NNP,IN,JJ,NN,CD,NN,CD,CC,NNP,CD,NNP,CD,VBP,JJ,IN},{}
-TCGA-39-5036, TCGA-39-5036SENT_140,{},{SP,:},{sp,:},{NN,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_141,{},{SP,:},{sp,:},{NN,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_142,{},{SP,:},{sp,:},{NN,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_143,{},{SP,:},{sp,:},{NN,:},{}
-TCGA-39-5036, TCGA-39-5036SENT_144,{},{SP,!},{sp,!},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_145,{},{--,.},{--,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_146,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_147,{},{?,--,Page,I,of,5},{?,--,Page,I,of,5},{NN,:,NNP,NNP,IN,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_148,{},{aact,.},{aact,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_149,{},{Site,Pcs,fsc,2,Level,five,lymph,node,-,Sect,.},{site,pc,fsc,2,level,five,lymph,node,-,Sect,.},{NN,NNS,NN,CD,NN,CD,NN,NN,:,NNP,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_150,{},{Site,PC3},{site,pc3},{NN,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_151,{},{fan,1},{fan,1},{NN,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_152,{},{naft,upper,lobe,wedge,lung,Sect,.},{naft,upper,lobe,wedge,lung,sect,.},{NN,JJ,NN,NN,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_153,{},{Site,pan},{site,pan},{NN,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_154,{},{L,5,H,1,T1,4,T2,1,Left,level,tan,lymph,nocio,site},{l,5,h,1,t1,4,t2,1,leave,level,tan,lymph,nocio,site},{NN,CD,NN,CD,NN,CD,NN,CD,VBN,NN,NN,NN,NN,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_155,{},{pas,Ln,4},{pas,ln,4},{FW,FW,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_156,{},{SB,?},{sb,?},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_157,{},{-,t.},{-,t.},{:,IN},{}
-TCGA-39-5036, TCGA-39-5036SENT_158,{},{Left,-,.},{leave,-,.},{VBN,:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_159,{},{level,eleven,interlobr,lymph,node,?,sect,.},{level,eleven,interlobr,lymph,node,?,sect,.},{NN,NNS,NN,NN,NN,CD,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_160,{},{Site,Pea},{site,pea},{NN,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_161,{},{EN,2},{en,2},{IN,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_162,{},{Left,uppax,:,lung,lobe,_,Site,309,EH,h?,RA,RC,SMI,4,SHPH,3,VH,1},{leave,uppax,:,lung,lobe,_,site,309,eh,h?,ra,rc,smus,4,shph,3,vh,1},{VBN,NN,:,NN,NN,NN,NN,CD,NN,NN,NN,NN,NN,CD,NN,CD,NN,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_163,{},{Seat,.},{seat,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_164,{},{HUI,?,-39,-,?},{HUI,?,-39,-,?},{NNP,CD,CD,:,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_165,{},{THE,RREA,OF,PARENCHYMRL,GRANULOMA,.,'},{the,rrea,of,PARENCHYMRL,GRANULOMA,.,'},{DT,NN,IN,NNP,NNP,.,''},{}
-TCGA-39-5036, TCGA-39-5036SENT_166,{},{*,continued,on,next,pago,**},{*,continue,on,next,pago,**},{RB,VBN,IN,JJ,NN,IN},{}
-TCGA-39-5036, TCGA-39-5036SENT_167,{},{.....,.....,.....,.....,.....,.....,.....,.....,.},{.....,.....,.....,.....,.....,.....,.....,.....,.},{FW,FW,FW,FW,FW,FW,FW,FW,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_168,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_169,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_170,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_171,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_172,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_173,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_174,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_175,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_176,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_177,{},{+,.},{+,.},{CC,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_178,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_179,{},{~,.},{~,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_180,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_181,{},{-,~,.},{-,~,.},{:,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_182,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_183,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_184,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_185,{},{.},{.},{.},{}
-TCGA-39-5036, TCGA-39-5036SENT_186,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_187,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_188,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_189,{},{-,.},{-,.},{:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_190,{},{?,.},{?,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_191,{},{?,page,5,of,5},{?,page,5,of,5},{JJ,NN,CD,IN,CD},{}
-TCGA-39-5036, TCGA-39-5036SENT_192,{},{Intraoparative,consultation,:,note,:,?},{intraoparative,consultation,:,note,:,?},{JJ,NN,:,NN,:,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_193,{},{he,diagnoses,given,in,thia,saation,pertain,only,to,the,tissua,sample,examined,at,the,time,of,the,intraoperative,consultation,.},{he,diagnose,give,in,thia,saation,pertain,only,to,the,tissua,sample,examine,at,the,time,of,the,intraoperative,consultation,.},{PRP,VBZ,VBN,IN,FW,FW,NN,RB,TO,DT,NN,NN,VBN,IN,DT,NN,IN,DT,JJ,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_194,{},{1,.},{1,.},{LS,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_195,{},{FROZEN,SECTION,DIAGNOSIS,:,$,9,:,Left,:,uppm,:,lobe,nodule,biopsy,-,=,NON-SHALI,;,(,231.1,.},{frozen,section,diagnosis,:,$,9,:,leave,:,uppm,:,lobe,nodule,biopsy,-,=,non-shalus,;,(,231.1,.},{JJ,NN,NN,:,$,CD,:,VBN,:,NN,:,NN,NN,NN,:,JJ,NN,:,CD,CD,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_196,{},{caxcxuozvua,.},{caxcxuozvua,.},{NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_197,{},{PERHANEM,?,DIAGNOSIS,:,sum},{perhanem,?,diagnosis,:,sum},{NN,CD,NN,:,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_198,{},{2,.},{2,.},{LS,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_199,{},{snozzn,em,:,-,rxon,DIAGNOSIS,:,3,:,?,:,novel,five,lymph,node,-,_,nnemrxvm,tron,czmczuorm,.},{snozzn,em,:,-,rxon,diagnosis,:,3,:,?,:,novel,five,lymph,node,-,_,nnemrxvm,tron,czmczuorm,.},{NN,NN,:,:,NN,NN,:,CD,:,CD,:,JJ,CD,NN,NN,:,NN,NN,NN,NN,.},{}
-TCGA-39-5036, TCGA-39-5036SENT_200,{},{PERMANENT,DIAGNOSIS,:,SAME},{permanent,diagnosis,:,same},{JJ,NN,:,NN},{}
-TCGA-39-5036, TCGA-39-5036SENT_201,{},{**,End,of,Raporx,:,"},{**,end,of,Raporx,:,"},{NN,NN,IN,NNP,:,''},{}
+TCGA-39-5036, TCGA-39-5036SENT_1,"CGA - 39 -5035","{CGA,-,39,-5035}","{cga,-,39,-5035}","{SYM,:,CD,CD}","{4,0,4,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_2,"Clinical Diagnosis 6 : History : LED nodule increased in size ; IE biopsy was hanign .","{Clinical,Diagnosis,6,:,History,:,LED,nodule,increased,in,size,;,IE,biopsy,was,hanign,.}","{clinical,diagnosis,6,:,history,:,lead,nodule,increase,in,size,;,ie,biopsy,be,hanign,.}","{JJ,NN,CD,:,NN,:,VBD,NN,VBN,IN,NN,:,JJ,NN,VBD,NN,.}","{2,7,2,0,2,0,0,7,8,0,9,0,14,16,16,7,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_3,"PE ? ?","{PE,?,?}","{pe,?,?}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_4,"showecl LUL nodule with moderate uptake .","{showecl,LUL,nodule,with,moderate,uptake,.}","{showecl,lul,nodule,with,moderate,uptake,.}","{NN,NN,NN,IN,JJ,NN,.}","{3,3,0,0,6,3,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_5,"Specimens Suhithed : 1 : SP1 Eaaft upper lobe nodule biapsy - ? 2 : SP : Laval five lymph node 3 : SP : 5135 : : upper lobe wedge lung E 4 : SP : Lait level tar : lymph node 5 : SP : Left level alavan intarlobar lymph node 6 : SP : I-aft upper lung lobe : DIAGNOSIS :","{Specimens,Suhithed,:,1,:,SP1,Eaaft,upper,lobe,nodule,biapsy,-,?,2,:,SP,:,Laval,five,lymph,node,3,:,SP,:,5135,:,:,upper,lobe,wedge,lung,E,4,:,SP,:,Lait,level,tar,:,lymph,node,5,:,SP,:,Left,level,alavan,intarlobar,lymph,node,6,:,SP,:,I-aft,upper,lung,lobe,:,DIAGNOSIS,:}","{specimen,Suhithed,:,1,:,sp1,eaaft,upper,lobe,nodule,biapsy,-,?,2,:,sp,:,Laval,five,lymph,node,3,:,sp,:,5135,:,:,upper,lobe,wedge,lung,e,4,:,sp,:,lait,level,tar,:,lymph,node,5,:,sp,:,leave,level,alavan,intarlobar,lymph,node,6,:,sp,:,i-aft,upper,lung,lobe,:,diagnosis,:}","{NNS,NNP,:,CD,:,NN,NN,JJ,NN,NN,NN,:,NN,CD,:,NN,:,NNP,CD,NN,NN,CD,:,NN,:,CD,:,:,JJ,NN,NN,NN,NN,CD,:,NN,:,NN,NN,NN,:,NN,NN,CD,:,NN,:,VBN,NN,NN,NN,NN,NN,CD,:,NN,:,NN,JJ,NN,NN,:,NN,:}","{0,1,0,2,0,7,4,11,11,11,7,0,7,13,0,13,0,20,20,7,20,21,0,21,0,24,0,0,33,33,33,33,7,33,0,7,0,40,40,36,0,43,7,43,0,4,0,2,53,53,53,53,48,53,0,53,0,56,61,61,58,0,53,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_6,"1 ) LUNG , LEFT UPPER L032 NODULE ; EIOPSY :","{1,),LUNG,,,LEFT,UPPER,L032,NODULE,;,EIOPSY,:}","{1,),lung,,,LEFT,UPPER,l032,nodule,;,EIOPSY,:}","{CD,CD,NN,,,NNP,NNP,NN,NN,:,NNP,:}","{3,3,0,0,8,8,8,3,0,8,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_7,"? SQUAMOUS CELL CRRCINOHA , POORLY DIFFERZNTIATBD .","{?,SQUAMOUS,CELL,CRRCINOHA,,,POORLY,DIFFERZNTIATBD,.}","{?,SQUAMOUS,CELL,CRRCINOHA,,,poorly,differzntiatbd,.}","{RB,NNP,NNP,NNP,,,RB,NN,.}","{7,4,4,7,0,4,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_8,"2 } LY?@H NOD35 , LEVEL v ; EXCISION : - wwo aznxau L ? MPH Nonzs ( DI2 ) .","{2,},LY?@H,NOD35,,,LEVEL,v,;,EXCISION,:,-,wwo,aznxau,L,?,MPH,Nonzs,(,DI2,),.}","{2,},ly?@h,nod35,,,LEVEL,v,;,EXCISION,:,-,wwo,aznxau,l,?,mph,nonz,(,di2,),.}","{CD,CD,NN,NN,,,NNP,LS,:,NNP,:,:,NN,NN,NN,CD,NN,NNS,VBP,NN,NN,.}","{2,4,4,18,0,4,6,0,6,0,0,17,17,17,17,17,18,0,20,18,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_9,"~ SQUAHOUS OKLL CARCINOMA , MODERATEDY To PDORLY DIF ? EHE .","{~,SQUAHOUS,OKLL,CARCINOMA,,,MODERATEDY,To,PDORLY,DIF,?,EHE,.}","{~,SQUAHOUS,OKLL,CARCINOMA,,,MODERATEDY,to,pdorly,dif,?,ehe,.}","{NN,NNP,NNP,NNP,,,NNP,TO,VB,NN,NN,NN,.}","{4,4,4,0,0,4,8,6,11,11,8,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_10,"N ? 1 ? IA'i ? ED !","{N,?,1,?,IA'i,?,ED,!}","{n,?,1,?,ia'us,?,ed,!}","{NN,CD,CD,NN,NN,CD,NN,.}","{0,3,7,7,7,7,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_11,"13NDIF ?","{13NDIF,?}","{13ndif,?}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_12,"EREN ' 1 ? IA ' 1 ? ED .","{EREN,',1,?,IA,',1,?,ED,.}","{EREN,',1,?,ia,',1,?,ED,.}","{NNP,POS,CD,CD,NN,'',CD,CD,NNP,.}","{0,0,4,1,1,0,8,9,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_13,"o ?","{o,?}","{o,?}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_14,"LEFT UPPER LOBE .","{LEFT,UPPER,LOBE,.}","{LEFT,UPPER,LOBE,.}","{NNP,NNP,NNP,.}","{3,3,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_15,"- ? THE - runoa MEASURES 2.0 X 2.0 X 1.5 cu .","{-,?,THE,-,runoa,MEASURES,2.0,X,2.0,X,1.5,cu,.}","{-,?,the,-,runoa,measure,2.0,x,2.0,x,1.5,cu,.}","{:,CD,DT,:,NN,NNS,CD,NN,CD,NN,CD,NN,.}","{0,3,0,0,6,3,8,9,6,3,12,10,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_16,"- NO VASCULAR INVASION IS IDENTIFIED .","{-,NO,VASCULAR,INVASION,IS,IDENTIFIED,.}","{-,no,vascular,invasion,be,IDENTIFIED,.}","{:,NN,NN,NN,VBZ,NNP,.}","{0,4,4,6,6,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_17,"- NO PERIHEURAL INVASION IS IDENTIFIED .","{-,NO,PERIHEURAL,INVASION,IS,IDENTIFIED,.}","{-,no,PERIHEURAL,INVASION,be,IDENTIFIED,.}","{:,NN,NNP,NNP,VBZ,NNP,.}","{0,4,4,6,6,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_18,"- THE TUMOR INVOLVES THE SURFACE OF THE VISCERAD Pb???? .","{-,THE,TUMOR,INVOLVES,THE,SURFACE,OF,THE,VISCERAD,Pb????,.}","{-,the,tumor,involve,the,surface,of,the,viscerad,pb????,.}","{:,DT,NN,VBZ,DT,NN,IN,DT,NN,NN,.}","{0,3,4,0,6,4,0,10,10,6,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_19,"- THE N03-NEOPLRSTIC LUNG SHOWS THE FODLOWING ABNORHALITIES : PARENCHYMAL GRANIJLDMAS AND SCARRING .","{-,THE,N03-NEOPLRSTIC,LUNG,SHOWS,THE,FODLOWING,ABNORHALITIES,:,PARENCHYMAL,GRANIJLDMAS,AND,SCARRING,.}","{-,the,n03-neoplrstic,lung,show,the,fodlowing,abnorhality,:,parenchymal,granijldma,and,scarring,.}","{:,DT,NN,NN,VBZ,DT,NN,NNS,:,JJ,NNS,CC,NN,.}","{0,4,4,5,0,8,8,5,0,11,8,0,8,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_20,"3 ) LUNG : LEFT UPPER BORE ; WEDGE RESBCTION : | I","{3,),LUNG,:,LEFT,UPPER,BORE,;,WEDGE,RESBCTION,:,|,I}","{3,),lung,:,LEFT,UPPER,bear,;,WEDGE,RESBCTION,:,|,I}","{CD,CD,NN,:,NNP,NNP,VBD,:,NNP,NNP,:,CD,PRP}","{3,3,7,0,6,3,0,0,10,7,0,10,7}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_21,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_22,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_23,"I","{I}","{I}","{PRP}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_24,"as LYHPH NOD35 , LEE ?","{as,LYHPH,NOD35,,,LEE,?}","{as,lyhph,nod35,,,LEE,?}","{IN,NN,NN,,,NNP,.}","{5,3,1,0,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_25,"LEVEL x ; EXCISION :","{LEVEL,x,;,EXCISION,:}","{level,x,;,EXCISION,:}","{NN,NN,:,NNP,:}","{2,0,0,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_26,"? sxx anwuaacowxc LYMPH MODES .","{?,sxx,anwuaacowxc,LYMPH,MODES,.}","{?,sxx,anwuaacowxc,lymph,mode,.}","{NN,NN,NN,NN,NNS,.}","{3,3,0,5,3,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_27,"NEGATIV3 won muna? tors ) .","{NEGATIV3,won,muna?,tors,),.}","{negativ3,win,muna?,tor,),.}","{NN,VBD,JJ,NNS,RB,.}","{2,0,4,2,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_28,"5 } LYMPH NOD39 , LEFT LEVEL XI INTERLOBAR ; BKCISIONI","{5,},LYMPH,NOD39,,,LEFT,LEVEL,XI,INTERLOBAR,;,BKCISIONI}","{5,},lymph,nod39,,,LEFT,LEVEL,XI,INTERLOBAR,;,BKCISIONI}","{CD,CD,NN,NN,,,NNP,NNP,NNP,NNP,:,NNP}","{2,0,4,2,0,9,9,9,4,0,4}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_29,"- THREE ANTHRACOTIC BYHPH NOD25 , NO EUMOR SEEN { OI3 } .","{-,THREE,ANTHRACOTIC,BYHPH,NOD25,,,NO,EUMOR,SEEN,{,OI3,},.}","{-,three,anthracotic,byhph,nod25,,,no,eumor,seen,{,oi3,},.}","{:,CD,NN,NN,NN,,,NN,NN,NN,CD,NN,NN,.}","{0,5,5,5,0,0,12,12,12,12,12,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_30,"E } BVNG , LEFT UPPER L033 !","{E,},BVNG,,,LEFT,UPPER,L033,!}","{e,},BVNG,,,LEFT,UPPER,l033,!}","{NN,CD,NNP,,,NNP,NNP,NN,.}","{3,3,0,0,7,7,3,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_31,"LOBECTOMYB","{LOBECTOMYB}","{lobectomyb}","{NN}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_32,"- No RESIDUAL CARCINOMA SEEN .","{-,No,RESIDUAL,CARCINOMA,SEEN,.}","{-,no,RESIDUAL,CARCINOMA,SEEN,.}","{:,UH,NNP,NNP,NNP,.}","{0,5,5,5,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_33,"- THE NGN * NEOPhA5TIC LUHG SHOWS CHRONIC BRONCHITIS AHD FOCAL SCARRING .","{-,THE,NGN,*,NEOPhA5TIC,LUHG,SHOWS,CHRONIC,BRONCHITIS,AHD,FOCAL,SCARRING,.}","{-,the,ngn,*,neopha5tic,luhg,show,chronic,bronchitis,ahd,focal,scarring,.}","{:,DT,NN,CD,NN,NN,VBZ,JJ,NN,NN,NN,NN,.}","{0,6,6,6,6,7,0,12,12,12,12,7,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_34,"- BRGNCHIAL HARGINS ARE FREE OF TUMOR .","{-,BRGNCHIAL,HARGINS,ARE,FREE,OF,TUMOR,.}","{-,brgnchial,hargin,be,free,of,tumor,.}","{:,NN,NNS,VBP,NNS,IN,NN,.}","{0,3,5,5,0,0,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_35,"H continued on next .","{H,continued,on,next,.}","{h,continue,on,next,.}","{NN,VBD,IN,JJ,.}","{2,0,0,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_36,"page : H","{page,:,H}","{page,:,h}","{NN,:,NN}","{0,0,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_37,"---------------------------------------------------------- Page 2 of 5 - EIGHT LYMPH NDDES .","{----------------------------------------------------------,Page,2,of,5,-,EIGHT,LYMPH,NDDES,.}","{----------------------------------------------------------,Page,2,of,5,-,eight,lymph,ndde,.}","{JJ,NNP,CD,IN,CD,:,CD,NN,NNS,.}","{2,0,2,0,2,0,9,9,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_38,"NEGATIVR FOR TUMOR ( 013 ) .","{NEGATIVR,FOR,TUMOR,(,013,),.}","{negativr,for,tumor,(,013,),.}","{NN,IN,NN,CD,CD,NN,.}","{0,0,1,5,1,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_39,"I ATTEST THAT THE ABOVE DIAGNOSIS IS BREED UPON HY PERSONREJ EXAMINATION OF THE SLIDES ( ARI ) / OR OTHER MATERIAL ) .","{I,ATTEST,THAT,THE,ABOVE,DIAGNOSIS,IS,BREED,UPON,HY,PERSONREJ,EXAMINATION,OF,THE,SLIDES,(,ARI,),/,OR,OTHER,MATERIAL,),.}","{I,attest,that,the,above,diagnosis,be,BREED,UPON,HY,PERSONREJ,EXAMINATION,of,the,slide,(,ARI,),/,or,OTHER,material,),.}","{PRP,VBP,WDT,DT,IN,NN,VBZ,NNP,NNP,NNP,NNP,NNP,IN,DT,NNS,VBP,NNP,CD,:,NN,NNP,NN,NN,.}","{2,16,12,6,6,12,12,12,12,12,12,2,0,15,12,0,16,17,20,17,23,23,20,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_40,"AND TIIEAT I RAVE REVIEWED mm APPROVED THIS RSPORF ?","{AND,TIIEAT,I,RAVE,REVIEWED,mm,APPROVED,THIS,RSPORF,?}","{and,tiieat,I,rave,review,mm,approve,this,rsporf,?}","{CC,NN,PRP,VBP,VBN,NN,VBN,NNS,NN,.}","{2,0,4,2,2,5,6,9,7,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_41,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_42,"1 ) .","{1,),.}","{1,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_43,"The specimen is received fresh for frozen Section consultation , labeled ? Left upper lobe nodule biopsy " and consists of two fragments of pink-tan soft tissue ranging item 0.4 to 1.5 cm in greatest dimension .","{The,specimen,is,received,fresh,for,frozen,Section,consultation,,,labeled,?,Left,upper,lobe,nodule,biopsy,",and,consists,of,two,fragments,of,pink-tan,soft,tissue,ranging,item,0.4,to,1.5,cm,in,greatest,dimension,.}","{the,specimen,be,receive,fresh,for,frozen,section,consultation,,,label,?,leave,upper,lobe,nodule,biopsy,",and,consist,of,two,fragment,of,pink-tan,soft,tissue,range,item,0.4,to,1.5,cm,in,greatest,dimension,.}","{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,,,VBN,CD,VBN,JJ,NN,NN,NN,'',CC,VBZ,IN,CD,NNS,IN,NN,JJ,NN,VBG,NN,CD,TO,CD,NN,IN,JJS,NN,.}","{2,20,4,0,4,0,9,9,4,0,4,11,12,17,17,17,13,17,0,4,0,23,20,0,23,27,20,27,28,29,0,33,29,0,36,33,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_44,"Entirely submitted for frozen section .","{Entirely,submitted,for,frozen,section,.}","{entirely,submit,for,frozen,section,.}","{RB,VBN,IN,JJ,NN,.}","{2,0,0,5,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_45,"summary of sections : FSC - H frozen section control 2 } .","{summary,of,sections,:,FSC,-,H,frozen,section,control,2,},.}","{summary,of,section,:,fsc,-,h,frozen,section,control,2,},.}","{NN,IN,NNS,:,SYM,:,NN,JJ,NN,NN,CD,NN,.}","{0,0,1,0,1,0,9,9,1,12,12,9,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_46,"The specimen is received fresh for frozen nootion conaultation , labeled ? Level 5 lymph node ? and consists af two anbhracotic lymph nedan measuring l. 5 and o. ? cm .","{The,specimen,is,received,fresh,for,frozen,nootion,conaultation,,,labeled,?,Level,5,lymph,node,?,and,consists,af,two,anbhracotic,lymph,nedan,measuring,l.,5,and,o.,?,cm,.}","{the,specimen,be,receive,fresh,for,frozen,nootion,conaultation,,,label,?,level,5,lymph,node,?,and,consist,af,two,anbhracotic,lymph,nedan,measure,l.,5,and,o.,?,cm,.}","{DT,NN,VBZ,VBN,JJ,IN,JJ,NN,NN,,,VBN,CD,NN,CD,NN,NN,NN,CC,VBZ,FW,CD,JJ,NN,NN,VBG,NN,CD,CC,NN,CD,NN,.}","{2,19,4,0,4,0,9,9,4,0,4,13,17,17,17,17,11,0,4,25,24,24,24,25,19,25,26,0,31,31,25,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_47,"The largest lymph node is bisecte? and the lymh no?ea are entirely submitted for frozen santion .","{The,largest,lymph,node,is,bisecte?,and,the,lymh,no?ea,are,entirely,submitted,for,frozen,santion,.}","{the,largest,lymph,node,be,bisecte?,and,the,lymh,no?ea,be,entirely,submit,for,frozen,santion,.}","{DT,JJS,NN,NN,VBZ,NN,CC,DT,NN,NN,VBP,RB,VBN,IN,JJ,NN,.}","{4,4,4,6,6,0,0,10,10,13,13,13,6,0,16,13,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_48,"Summary of sections : p Ro " ' EIDZGU soution C0nt ? 01","{Summary,of,sections,:,p,Ro,",',EIDZGU,soution,C0nt,?,01}","{summary,of,section,:,p,ro,",',eidzgu,soution,c0nt,?,01}","{NN,IN,NNS,:,NN,NN,'','',JJ,NN,NN,NN,CD}","{0,0,1,0,6,3,3,0,11,11,1,1,12}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_49,"3 } ? The 5Deciman is received in formalin and in labeled " bait upper lobe weage lung " .","{3,},?,The,5Deciman,is,received,in,formalin,and,in,labeled,",bait,upper,lobe,weage,lung,",.}","{3,},?,the,5deciman,be,receive,in,formalin,and,in,label,",bait,upper,lobe,weage,lung,",.}","{CD,NN,CD,DT,NN,VBZ,VBN,IN,NN,CC,IN,VBN,``,NN,JJ,NN,NN,NN,'',.}","{2,12,2,5,2,7,0,0,7,0,12,7,18,18,18,18,18,12,18,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_50,"It consists of a 7 x 6 x 2 cm wedge of lung tissue with a staple line .","{It,consists,of,a,7,x,6,x,2,cm,wedge,of,lung,tissue,with,a,staple,line,.}","{it,consist,of,a,7,x,6,x,2,cm,wedge,of,lung,tissue,with,a,staple,line,.}","{PRP,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,NN,IN,DT,NN,NN,.}","{2,0,0,5,2,0,2,0,11,11,2,0,14,11,0,18,18,7,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_51,"The pleural surface is pink tan received previously sectioned with visibla .","{The,pleural,surface,is,pink,tan,received,previously,sectioned,with,visibla,.}","{the,pleural,surface,be,pink,tan,receive,previously,section,with,visiblum,.}","{DT,JJ,NN,VBZ,JJ,NN,VBD,RB,VBN,IN,NN,.}","{3,3,5,5,0,7,5,7,7,0,9,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_52,"palpable nodule .","{palpable,nodule,.}","{palpable,nodule,.}","{JJ,NN,.}","{2,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_53,"The staple line is ramva? and serial sectioning reveals a white tan 111 defined indurated tumor measuring 2 x 2 x 1-5 Cm : l?cat?? abutting the stapla? margin , located 5 cm from the stapled margin and abutting tha pleural surfuca .","{The,staple,line,is,ramva?,and,serial,sectioning,reveals,a,white,tan,111,defined,indurated,tumor,measuring,2,x,2,x,1-5,Cm,:,l?cat??,abutting,the,stapla?,margin,,,located,5,cm,from,the,stapled,margin,and,abutting,tha,pleural,surfuca,.}","{the,staple,line,be,ramva?,and,serial,sectioning,reveal,a,white,tan,111,define,indurated,tumor,measuring,2,x,2,x,1-5,cm,:,l?cat??,abut,the,stapla?,margin,,,located,5,cm,from,the,stapled,margin,and,abut,tha,pleural,surfuca,.}","{DT,NN,NN,VBZ,NN,CC,NN,NN,VBZ,DT,JJ,NN,CD,VBN,JJ,NN,NN,CD,NN,CD,CC,CD,NN,:,NN,VBG,DT,NN,NN,,,JJ,CD,NN,IN,DT,JJ,NN,CC,VBG,NN,JJ,NN,.}","{3,3,8,8,8,0,8,9,0,12,12,9,12,12,17,17,14,19,17,9,0,23,9,0,20,25,29,29,26,0,33,31,29,0,37,37,26,0,42,42,42,37,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_54,"Raprasantative submitted including the shaved staple margin .","{Raprasantative,submitted,including,the,shaved,staple,margin,.}","{raprasantative,submit,include,the,shave,staple,margin,.}","{JJ,VBN,VBG,DT,VBN,NN,NN,.}","{2,0,0,7,7,7,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_55,"Sumazy of sectiona : T1 tumor near the stapled margin T2 ? tumor far from stapled margin M - margin","{Sumazy,of,sectiona,:,T1,tumor,near,the,stapled,margin,T2,?,tumor,far,from,stapled,margin,M,-,margin}","{Sumazy,of,sectiona,:,t1,tumor,near,the,stapled,margin,t2,?,tumor,far,from,stapled,margin,m,-,margin}","{NNP,IN,NN,:,NN,NN,IN,DT,JJ,NN,NN,CD,NN,RB,IN,JJ,NN,NN,:,NN}","{0,0,1,0,6,1,0,11,11,11,6,13,11,0,0,18,18,11,0,18}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_56,"** Conbinuud on next page * '","{**,Conbinuud,on,next,page,*,'}","{**,conbinuud,on,next,page,*,'}","{NN,NN,IN,JJ,NN,NN,''}","{2,0,0,6,6,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_57,"w .","{w,.}","{w,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_58,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_59,"-- .","{--,.}","{--,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_60,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_61,"~ ~ .","{~,~,.}","{~,~,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_62,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_63,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_64,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_65,"~ w - .","{~,w,-,.}","{~,w,-,.}","{NN,SYM,:,.}","{0,1,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_66,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_67,"-- .","{--,.}","{--,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_68,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_69,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_70,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_71,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_72,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_73,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_74,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_75,"----- .","{-----,.}","{-----,.}","{CD,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_76,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_77,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_78,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_79,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_80,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_81,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_82,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_83,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_84,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_85,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_86,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_87,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_88,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_89,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_90,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_91,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_92,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_93,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_94,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_95,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_96,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_97,"~ .","{~,.}","{~,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_98,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_99,"~ ? ww ~ .","{~,?,ww,~,.}","{~,?,ww,~,.}","{NN,CD,NN,NN,.}","{0,4,4,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_100,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_101,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_102,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_103,"-- Page 3 of 5 L ? uninvolved lung","{--,Page,3,of,5,L,?,uninvolved,lung}","{--,Page,3,of,5,l,?,uninvolved,lung}","{:,NNP,CD,IN,CD,NN,NN,JJ,NN}","{0,9,2,0,7,7,2,9,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_104,"4 ) .","{4,),.}","{4,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_105,"The specimen is received in Eormalin .","{The,specimen,is,received,in,Eormalin,.}","{the,specimen,be,receive,in,Eormalin,.}","{DT,NN,VBZ,VBN,IN,NNP,.}","{2,4,4,0,0,4,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_106,"labeled ? Left level tun lymph nodes ? and consists of four gray tan anbhracobie lymph nodes msasuring from 0.4 ho1 .6 cm in greatest dimension .","{labeled,?,Left,level,tun,lymph,nodes,?,and,consists,of,four,gray,tan,anbhracobie,lymph,nodes,msasuring,from,0.4,ho1,.6,cm,in,greatest,dimension,.}","{label,?,leave,level,tun,lymph,node,?,and,consist,of,four,gray,tan,anbhracobie,lymph,node,msasure,from,0.4,ho1,.6,cm,in,greatest,dimension,.}","{VBN,JJ,VBN,NN,NN,NN,NNS,CD,CC,VBZ,IN,CD,JJ,NN,NN,NN,NNS,VBG,IN,CD,NN,CD,NN,IN,JJS,NN,.}","{3,1,0,7,7,7,3,7,0,3,0,17,17,17,17,17,10,17,0,21,18,23,18,0,26,23,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_107,"The lymph nodes are entirely submitts? .","{The,lymph,nodes,are,entirely,submitts?,.}","{the,lymph,node,be,entirely,submitts?,.}","{DT,NN,NNS,VBP,RB,NN,.}","{3,3,6,6,6,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_108,"Summary of sections : nN - lymph nodes","{Summary,of,sections,:,nN,-,lymph,nodes}","{summary,of,section,:,nn,-,lymph,node}","{NN,IN,NNS,:,SYM,:,NN,NNS}","{0,1,2,0,8,0,8,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_109,"5 } .","{5,},.}","{5,},.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_110,"The specimen is received in formalin .","{The,specimen,is,received,in,formalin,.}","{the,specimen,be,receive,in,formalin,.}","{DT,NN,VBZ,VBN,IN,NN,.}","{2,4,4,0,0,4,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_111,"labeled ? Left level elavan interlobar lymph node ? sn? consists of two gray tan anthracotic lymph nodes maaauring 0.3 an & o. ?","{labeled,?,Left,level,elavan,interlobar,lymph,node,?,sn?,consists,of,two,gray,tan,anthracotic,lymph,nodes,maaauring,0.3,an,&,o.,?}","{label,?,leave,level,elavan,interlobar,lymph,node,?,sn?,consist,of,two,gray,tan,anthracotic,lymph,node,maaaur,0.3,a,&,o.,?}","{VBN,JJ,VBN,NN,NN,NN,NN,NN,CD,NN,VBZ,IN,CD,JJ,NN,JJ,NN,NNS,VBG,CD,DT,CC,NNP,.}","{3,1,0,8,8,8,8,3,10,11,8,0,18,18,18,18,18,19,11,19,20,0,19,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_112,"cm in greatest dimension .","{cm,in,greatest,dimension,.}","{cm,in,greatest,dimension,.}","{NN,IN,JJS,NN,.}","{0,0,4,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_113,"who lymph noaas are entirely submitted .","{who,lymph,noaas,are,entirely,submitted,.}","{who,lymph,noaa,be,entirely,submit,.}","{WP,NN,NNS,VBP,RB,VBN,.}","{6,3,6,6,6,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_114,"Summary of sections : nH ? lymh nodes","{Summary,of,sections,:,nH,?,lymh,nodes}","{summary,of,section,:,nh,?,lymh,node}","{NN,IN,NNS,:,NN,CD,NN,NNS}","{0,0,1,0,1,8,8,5}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_115,"5 ) .","{5,),.}","{5,),.}","{CD,NN,.}","{0,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_116,"The specimen is received ?rssh and in labeled , " left upper lobe lung ? .","{The,specimen,is,received,?rssh,and,in,labeled,,,",left,upper,lobe,lung,?,.}","{the,specimen,be,receive,?rssh,and,in,label,,,",leave,upper,lobe,lung,?,.}","{DT,NN,VBZ,VBN,JJ,CC,IN,VBN,,,``,VBD,JJ,NN,NN,NN,.}","{2,4,4,0,4,0,8,4,0,4,4,15,15,15,11,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_117,"It consists of a 15.5 x 10.5 x 2.5 cm lung lobe with attached bronchus and blood vessels sbraddle? by multiple staple lines , which weighs 170 gm .","{It,consists,of,a,15.5,x,10.5,x,2.5,cm,lung,lobe,with,attached,bronchus,and,blood,vessels,sbraddle?,by,multiple,staple,lines,,,which,weighs,170,gm,.}","{it,consist,of,a,15.5,x,10.5,x,2.5,cm,lung,lobe,with,attach,bronchus,and,blood,vessel,sbraddle?,by,multiple,staple,line,,,which,weigh,170,gm,.}","{PRP,VBZ,IN,DT,CD,CC,CD,CC,CD,NN,NN,NN,IN,VBN,NNS,CC,NN,NNS,NN,IN,JJ,NN,NNS,,,WDT,VBZ,CD,NN,.}","{2,0,0,5,2,0,14,0,12,12,12,14,12,5,19,0,18,19,14,0,23,23,14,0,26,23,28,26,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_118,"The attached bronchus measures 2.4 x 1.6 cm .","{The,attached,bronchus,measures,2.4,x,1.6,cm,.}","{the,attach,bronchus,measure,2.4,x,1.6,cm,.}","{DT,VBN,NN,NNS,CD,CC,CD,NN,.}","{2,0,4,5,2,0,8,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_119,"A raw area ( 6.5 x 2.5 cm ) .","{A,raw,area,(,6.5,x,2.5,cm,),.}","{a,raw,area,(,6.5,x,2.5,cm,),.}","{DT,JJ,NN,NN,CD,CC,CD,NN,NN,.}","{4,4,4,0,4,0,9,9,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_120,"exposing portion oE lung parsnchyma without pleural surface is noted on the postorolataral aspect , otherwise the pleural surface is smooth and glistening .","{exposing,portion,oE,lung,parsnchyma,without,pleural,surface,is,noted,on,the,postorolataral,aspect,,,otherwise,the,pleural,surface,is,smooth,and,glistening,.}","{expose,portion,oe,lung,parsnchyma,without,pleural,surface,be,note,on,the,postorolataral,aspect,,,otherwise,the,pleural,surface,be,smooth,and,glistening,.}","{VBG,NN,NN,NN,NN,IN,JJ,NN,VBZ,VBN,IN,DT,JJ,NN,,,RB,DT,JJ,NN,VBZ,JJ,CC,JJ,.}","{10,5,5,5,1,0,8,1,10,0,0,14,14,10,0,10,19,19,23,21,10,0,10,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_121,"The pleural surface is inked black .","{The,pleural,surface,is,inked,black,.}","{the,pleural,surface,be,ink,black,.}","{DT,JJ,NN,VBZ,VBN,JJ,.}","{3,3,5,5,0,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_122,"Two staple lines are notaa .","{Two,staple,lines,are,notaa,.}","{two,staple,line,be,notaa,.}","{CD,NN,NNS,VBP,JJ,.}","{3,3,5,5,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_123,"one along the inferior aspaut 15.0 om long and another pezi ? hilar medially 8.0 cm long .","{one,along,the,inferior,aspaut,15.0,om,long,and,another,pezi,?,hilar,medially,8.0,cm,long,.}","{one,along,the,inferior,aspaut,15.0,om,long,and,another,pezus,?,hilar,medially,8.0,cm,long,.}","{CD,IN,DT,JJ,NN,CD,NN,RB,CC,DT,NN,NN,JJ,RB,CD,NN,RB,.}","{0,0,5,5,1,7,8,5,0,16,16,16,16,13,13,5,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_124,"Serial sectioning reveals no definite mans grossly identified .","{Serial,sectioning,reveals,no,definite,mans,grossly,identified,.}","{serial,sectioning,reveal,no,definite,man,grossly,identify,.}","{JJ,NN,VBZ,DT,JJ,NNS,RB,VBN,.}","{2,3,0,6,6,3,8,6,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_125,"The bronchial mucosa is smooth aha glistening .","{The,bronchial,mucosa,is,smooth,aha,glistening,.}","{the,bronchial,mucosa,be,smooth,aha,glistening,.}","{DT,JJ,NN,VBZ,JJ,NN,NN,.}","{3,3,7,7,7,7,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_126,"Peribronchiai anthracotio lymph nodes are idenhiiiea ranging from 0.3 to 0.9 om greatest dimension and submitted .","{Peribronchiai,anthracotio,lymph,nodes,are,idenhiiiea,ranging,from,0.3,to,0.9,om,greatest,dimension,and,submitted,.}","{Peribronchiai,anthracotio,lymph,node,be,idenhiiiea,range,from,0.3,to,0.9,om,greatest,dimension,and,submit,.}","{NNP,NN,NN,NNS,VBP,JJ,VBG,IN,CD,TO,CD,NN,JJS,NN,CC,VBN,.}","{4,4,4,16,6,0,6,0,7,0,12,6,14,12,0,6,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_127,"The uninvolved lung paranohyma showa mil? congestion and frothy fluid .","{The,uninvolved,lung,paranohyma,showa,mil?,congestion,and,frothy,fluid,.}","{the,uninvolved,lung,paranohyma,showa,mil?,congestion,and,frothy,fluid,.}","{DT,JJ,NN,NN,NN,NN,NN,CC,JJ,NN,.}","{4,4,4,0,7,7,4,0,10,4,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_128,"Representative sections are submitted .","{Representative,sections,are,submitted,.}","{Representative,section,be,submit,.}","{NNP,NNS,VBP,VBN,.}","{2,4,4,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_129,"Photographs are taken .","{Photographs,are,taken,.}","{photograph,be,take,.}","{NNS,VBP,VBN,.}","{3,3,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_130,"summary of sections : BM - bronchial margin .","{summary,of,sections,:,BM,-,bronchial,margin,.}","{summary,of,section,:,bm,-,bronchial,margin,.}","{NN,IN,NNS,:,NN,:,JJ,NN,.}","{0,0,1,0,1,0,8,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_131,"UH ~ ~ vascular margin .","{UH,~,~,vascular,margin,.}","{UH,~,~,vascular,margin,.}","{NNP,NNP,NN,JJ,NN,.}","{2,0,5,5,2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_132,"SH : - staple nargin inferior SHPH - staple margin parihilar RA ~ random lung parenchyma at least 3 am away from inferior aspect RC ? random lung paronchyma close to inferior aspect LN ~ - lymph nodes .","{SH,:,-,staple,nargin,inferior,SHPH,-,staple,margin,parihilar,RA,~,random,lung,parenchyma,at,least,3,am,away,from,inferior,aspect,RC,?,random,lung,paronchyma,close,to,inferior,aspect,LN,~,-,lymph,nodes,.}","{sh,:,-,staple,nargin,inferior,shph,-,staple,margin,parihilar,ra,~,random,lung,parenchyma,at,least,3,be,away,from,inferior,aspect,rc,?,random,lung,paronchyma,close,to,inferior,aspect,ln,~,-,lymph,node,.}","{NN,:,:,NN,NN,JJ,NN,:,NN,NN,JJ,NN,NN,JJ,NN,NN,IN,JJS,CD,VBP,RB,IN,JJ,NN,NN,CD,JJ,NN,NN,NN,TO,JJ,NN,NN,SYM,:,NN,NNS,.}","{28,0,0,5,1,7,5,0,10,28,13,13,10,16,16,10,19,17,16,28,0,0,25,25,28,28,28,0,28,0,0,34,34,28,28,0,38,28,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_133,"Summary of sections : par : 1 : SP : Left upper lobe nodule biopsy - **","{Summary,of,sections,:,par,:,1,:,SP,:,Left,upper,lobe,nodule,biopsy,-,**}","{summary,of,section,:,par,:,1,:,sp,:,leave,upper,lobe,nodule,biopsy,-,**}","{NN,IN,NNS,:,NN,:,CD,:,NN,:,VBN,JJ,NN,NN,NN,:,NN}","{0,0,1,0,3,0,3,0,3,0,1,15,15,15,11,0,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_134,"Continued on next page * ?","{Continued,on,next,page,*,?}","{continue,on,next,page,*,?}","{VBN,IN,JJ,NN,CD,NN}","{0,0,6,6,6,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_135,"Block","{Block}","{Block}","{NNP}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_136,"P323 ? .","{P323,?,.}","{p323,?,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_137,"25 Black","{25,Black}","{25,black}","{CD,JJ}","{0,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_138,"Part 3 : Block I-9-i -- { ll Part 4 :","{Part,3,:,Block,I-9-i,--,{,ll,Part,4,:}","{Part,3,:,Block,I-9-i,--,{,ll,part,4,:}","{NNP,CD,:,NNP,NNP,:,CD,NN,NN,CD,:}","{0,1,0,5,1,0,9,9,5,9,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_139,"SPSCIAB STAINS FOR ACID-FAST BACILLI { AFB } AND FUNGI ( GHS ) ARE NEGATIVE IN","{SPSCIAB,STAINS,FOR,ACID-FAST,BACILLI,{,AFB,},AND,FUNGI,(,GHS,),ARE,NEGATIVE,IN}","{SPSCIAB,STAINS,for,acid-fast,bacillus,{,afb,},and,FUNGI,(,GHS,),be,negative,in}","{NNP,NNP,IN,JJ,NN,CD,NN,CD,CC,NNP,CD,NNP,CD,VBP,JJ,IN}","{2,8,0,5,2,7,8,12,8,8,10,0,12,15,12,15}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_140,"SP :","{SP,:}","{sp,:}","{NN,:}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_141,"SP :","{SP,:}","{sp,:}","{NN,:}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_142,"SP :","{SP,:}","{sp,:}","{NN,:}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_143,"SP :","{SP,:}","{sp,:}","{NN,:}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_144,"SP !","{SP,!}","{sp,!}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_145,"-- .","{--,.}","{--,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_146,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_147,"? -- Page I of 5","{?,--,Page,I,of,5}","{?,--,Page,I,of,5}","{NN,:,NNP,NNP,IN,CD}","{0,0,4,1,0,4}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_148,"aact .","{aact,.}","{aact,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_149,"Site Pcs fsc 2 Level five lymph node - Sect .","{Site,Pcs,fsc,2,Level,five,lymph,node,-,Sect,.}","{site,pc,fsc,2,level,five,lymph,node,-,Sect,.}","{NN,NNS,NN,CD,NN,CD,NN,NN,:,NNP,.}","{2,7,2,5,7,7,10,7,0,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_150,"Site PC3","{Site,PC3}","{site,pc3}","{NN,NN}","{2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_151,"fan 1","{fan,1}","{fan,1}","{NN,CD}","{0,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_152,"naft upper lobe wedge lung Sect .","{naft,upper,lobe,wedge,lung,Sect,.}","{naft,upper,lobe,wedge,lung,sect,.}","{NN,JJ,NN,NN,NN,NN,.}","{0,6,6,6,6,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_153,"Site pan","{Site,pan}","{site,pan}","{NN,NN}","{2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_154,"L 5 H 1 T1 4 T2 1 Left level tan lymph nocio site","{L,5,H,1,T1,4,T2,1,Left,level,tan,lymph,nocio,site}","{l,5,h,1,t1,4,t2,1,leave,level,tan,lymph,nocio,site}","{NN,CD,NN,CD,NN,CD,NN,CD,VBN,NN,NN,NN,NN,NN}","{5,1,5,3,8,7,5,0,8,11,9,14,14,11}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_155,"pas Ln 4","{pas,Ln,4}","{pas,ln,4}","{FW,FW,CD}","{2,0,2}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_156,"SB ?","{SB,?}","{sb,?}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_157,"- t.","{-,t.}","{-,t.}","{:,IN}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_158,"Left - .","{Left,-,.}","{leave,-,.}","{VBN,:,.}","{0,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_159,"level eleven interlobr lymph node ? sect .","{level,eleven,interlobr,lymph,node,?,sect,.}","{level,eleven,interlobr,lymph,node,?,sect,.}","{NN,NNS,NN,NN,NN,CD,NN,.}","{2,0,5,5,2,7,5,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_160,"Site Pea","{Site,Pea}","{site,pea}","{NN,NN}","{2,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_161,"EN 2","{EN,2}","{en,2}","{IN,CD}","{0,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_162,"Left uppax : lung lobe _ Site 309 EH h? RA RC SMI 4 SHPH 3 VH 1","{Left,uppax,:,lung,lobe,_,Site,309,EH,h?,RA,RC,SMI,4,SHPH,3,VH,1}","{leave,uppax,:,lung,lobe,_,site,309,eh,h?,ra,rc,smus,4,shph,3,vh,1}","{VBN,NN,:,NN,NN,NN,NN,CD,NN,NN,NN,NN,NN,CD,NN,CD,NN,CD}","{0,1,0,6,6,2,10,10,10,17,13,13,10,15,17,17,2,17}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_163,"Seat .","{Seat,.}","{seat,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_164,"HUI ? -39 - ?","{HUI,?,-39,-,?}","{HUI,?,-39,-,?}","{NNP,CD,CD,:,CD}","{0,1,5,0,1}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_165,"THE RREA OF PARENCHYMRL GRANULOMA . '","{THE,RREA,OF,PARENCHYMRL,GRANULOMA,.,'}","{the,rrea,of,PARENCHYMRL,GRANULOMA,.,'}","{DT,NN,IN,NNP,NNP,.,''}","{2,0,0,5,2,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_166,"* continued on next pago **","{*,continued,on,next,pago,**}","{*,continue,on,next,pago,**}","{RB,VBN,IN,JJ,NN,IN}","{2,0,0,5,2,2}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_167,"..... ..... ..... ..... ..... ..... ..... ..... .","{.....,.....,.....,.....,.....,.....,.....,.....,.}","{.....,.....,.....,.....,.....,.....,.....,.....,.}","{FW,FW,FW,FW,FW,FW,FW,FW,.}","{0,8,8,8,8,8,8,1,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_168,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_169,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_170,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_171,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_172,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_173,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_174,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_175,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_176,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_177,"+ .","{+,.}","{+,.}","{CC,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_178,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_179,"~ .","{~,.}","{~,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_180,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_181,"- ~ .","{-,~,.}","{-,~,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_182,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_183,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_184,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_185,".","{.}","{.}","{.}","{0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_186,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_187,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_188,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_189,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_190,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_191,"? page 5 of 5","{?,page,5,of,5}","{?,page,5,of,5}","{JJ,NN,CD,IN,CD}","{2,0,2,0,3}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_192,"Intraoparative consultation : note : ?","{Intraoparative,consultation,:,note,:,?}","{intraoparative,consultation,:,note,:,?}","{JJ,NN,:,NN,:,.}","{2,0,0,2,0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_193,"he diagnoses given in thia saation pertain only to the tissua sample examined at the time of the intraoperative consultation .","{he,diagnoses,given,in,thia,saation,pertain,only,to,the,tissua,sample,examined,at,the,time,of,the,intraoperative,consultation,.}","{he,diagnose,give,in,thia,saation,pertain,only,to,the,tissua,sample,examine,at,the,time,of,the,intraoperative,consultation,.}","{PRP,VBZ,VBN,IN,FW,FW,NN,RB,TO,DT,NN,NN,VBN,IN,DT,NN,IN,DT,JJ,NN,.}","{2,0,2,3,7,7,4,13,0,12,12,8,7,0,16,13,0,20,20,16,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_194,"1 .","{1,.}","{1,.}","{LS,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_195,"FROZEN SECTION DIAGNOSIS : $ 9 : Left : uppm : lobe nodule biopsy - = NON-SHALI ; ( 231.1 .","{FROZEN,SECTION,DIAGNOSIS,:,$,9,:,Left,:,uppm,:,lobe,nodule,biopsy,-,=,NON-SHALI,;,(,231.1,.}","{frozen,section,diagnosis,:,$,9,:,leave,:,uppm,:,lobe,nodule,biopsy,-,=,non-shalus,;,(,231.1,.}","{JJ,NN,NN,:,$,CD,:,VBN,:,NN,:,NN,NN,NN,:,JJ,NN,:,CD,CD,.}","{2,0,8,0,3,5,0,2,0,2,0,14,14,10,0,17,2,0,20,17,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_196,"caxcxuozvua .","{caxcxuozvua,.}","{caxcxuozvua,.}","{NN,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_197,"PERHANEM ? DIAGNOSIS : sum","{PERHANEM,?,DIAGNOSIS,:,sum}","{perhanem,?,diagnosis,:,sum}","{NN,CD,NN,:,NN}","{3,3,0,0,3}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_198,"2 .","{2,.}","{2,.}","{LS,.}","{0,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_199,"snozzn em : - rxon DIAGNOSIS : 3 : ? : novel five lymph node - _ nnemrxvm tron czmczuorm .","{snozzn,em,:,-,rxon,DIAGNOSIS,:,3,:,?,:,novel,five,lymph,node,-,_,nnemrxvm,tron,czmczuorm,.}","{snozzn,em,:,-,rxon,diagnosis,:,3,:,?,:,novel,five,lymph,node,-,_,nnemrxvm,tron,czmczuorm,.}","{NN,NN,:,:,NN,NN,:,CD,:,CD,:,JJ,CD,NN,NN,:,NN,NN,NN,NN,.}","{0,1,0,0,6,1,0,10,0,6,0,13,10,6,14,0,18,1,20,18,0}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_200,"PERMANENT DIAGNOSIS : SAME","{PERMANENT,DIAGNOSIS,:,SAME}","{permanent,diagnosis,:,same}","{JJ,NN,:,NN}","{2,0,0,2}","{}"
+TCGA-39-5036, TCGA-39-5036SENT_201,"** End of Raporx : "","{**,End,of,Raporx,:,"}","{**,end,of,Raporx,:,"}","{NN,NN,IN,NNP,:,''}","{0,1,0,2,0,2}","{}"

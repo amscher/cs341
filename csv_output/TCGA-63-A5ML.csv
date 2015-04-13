@@ -1,15 +1,15 @@
-TCGA-63-A5ML, TCGA-63-A5MLSENT_1,{},{UUID,:,F595F7AB-555C-4FEF-M9A,-,E7B7DB8E9352},{UUID,:,f595f7ab-555c-4fef-m9a,-,e7b7db8e9352},{NNP,:,NN,:,NN},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_2,{},{llllllllllllllllllllllllllll??lllllced},{llllllllllllllllllllllllllll??lllllced},{VBN},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_3,{},{Illllllllllllllllllllllll,u,IllIIlllllilllllIllllllIIllllllllllllllllllllllllllillllllllllll,IllIllllllllllllllllllIillllll,|,|,|,|,|,|,II,|,|,|,|,l,|,|,llllllllllllllll},{illllllllllllllllllllllll,u,illiilllllilllllilllllliillllllllllllllllllllllllllillllllllllll,illilllllllllllllllllliillllll,|,|,|,|,|,|,ii,|,|,|,|,l,|,|,llllllllllllllll},{NN,NN,NN,NN,CD,CD,NN,CD,CD,NN,CD,NN,CD,CD,NN,NN,CD,NN,NN},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_4,{},{Sample,Number,Sample,Type,TUMOUR,Diagnosis,Year,of,Sample,Collection,Age,at,Sample,Collection,(,yrs,),Days,to,Procedure,Date},{sample,Number,Sample,type,tumour,diagnosis,year,of,Sample,Collection,Age,at,Sample,Collection,(,yr,),day,to,Procedure,Date},{VB,NNP,NNP,NN,NN,NN,NN,IN,NNP,NNP,NNP,IN,NNP,NNP,NN,VBZ,CD,NNS,TO,NNP,NNP},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_5,{},{Squamous,Cell,Carcinoma,,,Not,Otherwise,Specified,(,NOS,)},{squamous,cell,carcinoma,,,not,otherwise,specify,(,no,)},{JJ,NN,NN,,,RB,RB,VBN,CD,NN,CD},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_6,{},{7,Squamous,carcinoma,No,Mo},{7,squamous,carcinoma,no,mo},{CD,JJ,NN,DT,NN},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_7,{},{Sample,Number,Sample,Type,BUFFY,Year,of,Sample,Collection,Age,at,Sample,Collection,(,yrs,)},{sample,Number,Sample,type,BUFFY,year,of,Sample,Collection,Age,at,Sample,Collection,(,yr,)},{VB,NNP,NNP,NN,NNP,NN,IN,NNP,NNP,NNP,IN,NNP,NNP,NN,VBZ,CD},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_8,{},{_,ZZ,?,D,<,3,5},{_,zz,?,d,<,3,5},{NN,NN,NN,NN,JJR,CD,CD},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_9,{},{Clara,tm,>,Jo5za,.},{Clara,tm,>,jo5za,.},{NNP,NN,JJR,NN,.},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_10,{},{.},{.},{.},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_11,{},{,,gzaamou,5,Cell,/,l/63},{,,gzaamou,5,cell,/,l/63},{,,NN,CD,NN,:,NN},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_12,{},{8/7,?,:,?,?,u,,,I,/,acd?r,/,obi,.},{8/7,?,:,?,?,u,,,I,/,acd?r,/,obus,.},{CD,CD,:,CD,CD,NN,,,PRP,:,NN,:,NN,.},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_13,{},{<,3,?,<,),:,.},{<,3,?,<,),:,.},{JJR,CD,NN,JJR,CD,:,.},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_14,{},{z1,/,/,13},{z1,/,/,13},{NN,:,:,CD},{}
-TCGA-63-A5ML, TCGA-63-A5MLSENT_15,{},{a34,:,.3},{a34,:,.3},{NN,:,NN},{}
+TCGA-63-A5ML, TCGA-63-A5MLSENT_1,"UUID : F595F7AB-555C-4FEF-M9A - E7B7DB8E9352","{UUID,:,F595F7AB-555C-4FEF-M9A,-,E7B7DB8E9352}","{UUID,:,f595f7ab-555c-4fef-m9a,-,e7b7db8e9352}","{NNP,:,NN,:,NN}","{0,0,1,0,3}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_2,"llllllllllllllllllllllllllll??lllllced","{llllllllllllllllllllllllllll??lllllced}","{llllllllllllllllllllllllllll??lllllced}","{VBN}","{0}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_3,"Illllllllllllllllllllllll u IllIIlllllilllllIllllllIIllllllllllllllllllllllllllillllllllllll IllIllllllllllllllllllIillllll | | | | | | II | | | | l | | llllllllllllllll","{Illllllllllllllllllllllll,u,IllIIlllllilllllIllllllIIllllllllllllllllllllllllllillllllllllll,IllIllllllllllllllllllIillllll,|,|,|,|,|,|,II,|,|,|,|,l,|,|,llllllllllllllll}","{illllllllllllllllllllllll,u,illiilllllilllllilllllliillllllllllllllllllllllllllillllllllllll,illilllllllllllllllllliillllll,|,|,|,|,|,|,ii,|,|,|,|,l,|,|,llllllllllllllll}","{NN,NN,NN,NN,CD,CD,NN,CD,CD,NN,CD,NN,CD,CD,NN,NN,CD,NN,NN}","{4,4,4,10,6,4,10,7,10,0,12,10,14,19,19,19,19,19,12}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_4,"Sample Number Sample Type TUMOUR Diagnosis Year of Sample Collection Age at Sample Collection ( yrs ) Days to Procedure Date","{Sample,Number,Sample,Type,TUMOUR,Diagnosis,Year,of,Sample,Collection,Age,at,Sample,Collection,(,yrs,),Days,to,Procedure,Date}","{sample,Number,Sample,type,tumour,diagnosis,year,of,Sample,Collection,Age,at,Sample,Collection,(,yr,),day,to,Procedure,Date}","{VB,NNP,NNP,NN,NN,NN,NN,IN,NNP,NNP,NNP,IN,NNP,NNP,NN,VBZ,CD,NNS,TO,NNP,NNP}","{0,3,1,7,7,7,16,0,11,11,7,0,15,15,11,3,18,16,0,21,16}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_5,"Squamous Cell Carcinoma , Not Otherwise Specified ( NOS )","{Squamous,Cell,Carcinoma,,,Not,Otherwise,Specified,(,NOS,)}","{squamous,cell,carcinoma,,,not,otherwise,specify,(,no,)}","{JJ,NN,NN,,,RB,RB,VBN,CD,NN,CD}","{3,3,0,0,7,7,3,9,7,9}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_6,"7 Squamous carcinoma No Mo","{7,Squamous,carcinoma,No,Mo}","{7,squamous,carcinoma,no,mo}","{CD,JJ,NN,DT,NN}","{3,3,0,5,3}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_7,"Sample Number Sample Type BUFFY Year of Sample Collection Age at Sample Collection ( yrs )","{Sample,Number,Sample,Type,BUFFY,Year,of,Sample,Collection,Age,at,Sample,Collection,(,yrs,)}","{sample,Number,Sample,type,BUFFY,year,of,Sample,Collection,Age,at,Sample,Collection,(,yr,)}","{VB,NNP,NNP,NN,NNP,NN,IN,NNP,NNP,NNP,IN,NNP,NNP,NN,VBZ,CD}","{0,5,5,5,1,15,0,10,10,6,0,14,14,10,5,15}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_8,"_ ZZ ? D < 3 5","{_,ZZ,?,D,<,3,5}","{_,zz,?,d,<,3,5}","{NN,NN,NN,NN,JJR,CD,CD}","{4,4,4,0,4,7,5}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_9,"Clara tm > Jo5za .","{Clara,tm,>,Jo5za,.}","{Clara,tm,>,jo5za,.}","{NNP,NN,JJR,NN,.}","{2,0,4,2,0}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_10,".","{.}","{.}","{.}","{0}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_11,", gzaamou 5 Cell / l/63","{,,gzaamou,5,Cell,/,l/63}","{,,gzaamou,5,cell,/,l/63}","{,,NN,CD,NN,:,NN}","{0,0,4,2,6,4}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_12,"8/7 ? : ? ? u , I / acd?r / obi .","{8/7,?,:,?,?,u,,,I,/,acd?r,/,obi,.}","{8/7,?,:,?,?,u,,,I,/,acd?r,/,obus,.}","{CD,CD,:,CD,CD,NN,,,PRP,:,NN,:,NN,.}","{0,1,0,5,6,2,0,6,1,1,10,10,0}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_13,"< 3 ? < ) : .","{<,3,?,<,),:,.}","{<,3,?,<,),:,.}","{JJR,CD,NN,JJR,CD,:,.}","{0,3,1,3,4,0,0}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_14,"z1 / / 13","{z1,/,/,13}","{z1,/,/,13}","{NN,:,:,CD}","{0,1,1,3}","{}"
+TCGA-63-A5ML, TCGA-63-A5MLSENT_15,"a34 : .3","{a34,:,.3}","{a34,:,.3}","{NN,:,NN}","{0,0,1}","{}"

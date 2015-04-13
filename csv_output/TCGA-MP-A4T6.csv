@@ -1,59 +1,59 @@
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_1,{},{cric?ria,I,4,',I,Dlagnusis,n,;,5,?,,,ep,?,+,.},{cric?ria,i,4,',I,Dlagnusis,n,;,5,?,,,ep,?,+,.},{NN,CD,CD,'',PRP,NNPS,NN,:,CD,NN,,,NN,NN,CC,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_2,{},{_,NV,__,?,.},{_,NV,__,?,.},{NN,NNP,NNP,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_3,{},{~,P,",m,",VTI-I-7,.,"},{~,p,",m,",vti-i-7,.,"},{NN,NN,'',NN,'',NN,.,''},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_4,{},{-,<,2-rTDury,?,,,,,anTV,~,~,....,.},{-,<,2-rtdury,?,,,,,antv,~,~,....,.},{:,JJR,JJ,NN,,,,,NN,NN,NN,CD,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_5,{},{_,link,Discrepancy,",:,?,?,~,~},{_,link,discrepancy,",:,?,?,~,~},{NN,NN,NN,'',:,CD,NN,NN,NN},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_6,{},{UUID,:,ZFABSFBE-DDSB-45AF-5160-DZBECCASSAZD},{UUID,:,zfabsfbe-ddsb-45af-5160-dzbeccassazd},{NNP,:,NN},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_7,{},{?},{?},{.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_8,{},{$,?,"},{$,?,"},{$,.,''},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_9,{},{?},{?},{.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_10,{},{:,;,?EE,;,_,~,",_,.},{:,;,?ee,;,_,~,",_,.},{:,:,NN,:,CD,CD,``,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_11,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_12,{},{_,~,?,w,.},{_,~,?,w,.},{NN,NN,CD,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_13,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_14,{},{_,?,~,",",??,?,;,;,7,??,TCGA,MP,A4T6,d,4,_,-,',:,-,:,;,:,g,?,-,-,-91,A-PR,Re,acted,_,?,;,LiiE,!},{_,?,~,",",??,?,;,;,7,??,tcga,mp,a4t6,d,4,_,-,',:,-,:,;,:,g,?,-,-,-91,a-pr,Re,act,_,?,;,liie,!},{NN,CD,CD,``,``,CD,NN,:,:,CD,CD,NN,NN,NN,NN,CD,SYM,:,'',:,:,:,:,:,NN,SYM,:,:,CD,NN,NNP,VBD,CD,NN,:,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_15,{},{ui.,,,I,.},{ui.,,,I,.},{NN,,,PRP,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_16,{},{i.,.},{i.,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_17,{},{.},{.},{.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_18,{},{n.,i,;,;,-,g.,_,Illll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,Illllllllllllllll,3,.},{n.,i,;,;,-,g.,_,illll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,illllllllllllllll,3,.},{NN,FW,:,:,:,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,NN,CD,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_19,{},{.},{.},{.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_20,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_21,{},{~,.},{~,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_22,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_23,{},{+,?,.},{+,?,.},{CC,CD,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_24,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_25,{},{.},{.},{.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_26,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_27,{},{.},{.},{.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_28,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_29,{},{-,+,.},{-,+,.},{:,CC,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_30,{},{,7,E,?,I,=,?,.},{,7,e,?,i,=,?,.},{CD,NN,NN,NN,JJ,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_31,{},{/,7,?,I,?,IIHIHIIHlllll,|,|,|,|,|,|,|,|,IIIIIHIIIIIIIIIIIIIIIIHIHHII,ll,Ill},{/,7,?,I,?,iihihiihlllll,|,|,|,|,|,|,|,|,IIIIIHIIIIIIIIIIIIIIIIHIHHII,ll,Ill},{:,CD,CD,PRP,VBP,NN,CD,CD,NN,CD,CD,NN,CD,CD,NNP,NN,NNP},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_32,{},{Ill,|,|,|,|,|,II,|,|,|,I,|,|,I,|,|,|,|,|,|,I,lllllll,ll,|,l,ll,I,III,I,Illlll,irgicai,Pathology,.},{Ill,|,|,|,|,|,ii,|,|,|,I,|,|,I,|,|,|,|,|,|,I,lllllll,ll,|,l,ll,I,iii,I,illlll,irgicai,pathology,.},{NNP,NNP,VBD,CD,CD,NN,CD,NN,CD,NN,PRP,VBP,CD,PRP,VBP,CD,CD,NN,CD,NN,PRP,VBP,NN,NN,NN,NN,PRP,CD,PRP,VBP,JJ,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_33,{},{Requested,By,:},{request,by,:},{VBN,IN,:},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_34,{},{TISSUE,DESCRIPTION,:},{tissue,description,:},{NN,NN,:},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_35,{},{A1,B1,B2,B3,B4,C1,D1,D2,E1,E2,E3,E4,F1,G1,.},{a1,b1,b2,b3,b4,c1,d1,d2,e1,e2,e3,e4,f1,g1,.},{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_36,{},{G2,G3,G4,G5},{g2,g3,g4,g5},{NN,NN,NN,NN},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_37,{},{Left,iower,iobe,iung,(,140.0,grams,),,,ieft,upper,1obe,iung,1ymph,node,.},{leave,iower,iobe,iung,(,140.0,gram,),,,ieft,upper,1obe,iung,1ymph,node,.},{VBN,JJ,NN,NN,CD,CD,NNS,RB,,,NN,JJ,NN,NN,NN,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_38,{},{station,4L,,,6,.},{station,4l,,,6,.},{NN,NN,,,CD,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_39,{},{and,7,Iymph,nodes,.},{and,7,iymph,node,.},{CC,CD,NN,NNS,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_40,{},{DIAGNOSIS,:,_,_,Lun,,,1eft,Tower,,,iobectomy,:,Invasive,grade,3,(,of,4,),adenocarcinoma,forming,a,2.5,x,2.5,x,2.5,cm,subp1eura1,mass,that,abuts,but,does,not,invoive,the,puckered,p1eura1,surface,.},{diagnosis,:,_,_,Lun,,,1eft,tower,,,iobectomy,:,invasive,grade,3,(,of,4,),adenocarcinoma,form,a,2.5,x,2.5,x,2.5,cm,subp1eura1,mass,that,abut,but,do,not,invoive,the,puckered,p1eura1,surface,.},{NN,:,CD,CD,NNP,,,CD,NN,,,NN,:,JJ,NN,CD,NN,IN,CD,CD,NN,VBG,DT,CD,CC,CD,CC,CD,NN,NN,NN,WDT,VBZ,CC,VBZ,RB,VB,DT,JJ,NN,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_41,{},{The,bronchia1,resection,margin,is,free,of,tumor,.},{the,bronchia1,resection,margin,be,free,of,tumor,.},{DT,NN,NN,NN,VBZ,JJ,IN,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_42,{},{Lymph,nodes,,,1eft,upoer,1ung,.},{lymph,node,,,1eft,upoer,1ung,.},{NN,NNS,,,JJ,NN,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_43,{},{e,;,cision,:,_,_,-,A,singie,ymph,node,is,positive,for,metastatic,adenocarcinoma,.},{e,;,cision,:,_,_,-,a,singie,ymph,node,be,positive,for,metastatic,adenocarcinoma,.},{LS,:,NN,:,CD,SYM,:,NN,NN,NN,NN,VBZ,JJ,IN,JJ,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_44,{},{Lymph,nodes,,,intrapuimonary/hiiar,,,exgision,:,_,_,_,_},{lymph,node,,,intrapuimonary/hiiar,,,exgision,:,_,_,_,_},{NN,NNS,,,JJ,,,NN,:,CD,CD,CD,IN},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_45,{},{~,Metastatic,adenocarcinoma,is,identified,in,mu1tip1e,_,(,3,of},{~,metastatic,adenocarcinoma,be,identify,in,mu1tip1e,_,(,3,of},{NN,JJ,NN,VBZ,VBN,IN,JJ,NN,NN,CD,IN},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_46,{},{4,),intrapuimonary,peribronchiai,1ymph,nodes,.},{4,),intrapuimonary,peribronchiaus,1ymph,node,.},{CD,NN,JJ,NN,NN,NNS,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_47,{},{Lymph,nodes,,,left,mediastinai,,,excision,:},{lymph,node,,,leave,mediastinaus,,,excision,:},{NN,NNS,,,VBD,NNS,,,NN,:},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_48,{},{.},{.},{.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_49,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_50,{},{Metastatic,adenocarcinoma,15,identified,in,multipie,(,3,of},{metastatic,adenocarcinoma,15,identify,in,multipie,(,3,of},{JJ,NN,CD,VBN,IN,JJ,NN,CD,IN},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_51,{},{25,),subcarinai,(,station,7,),iymph,nodes,.},{25,),subcarinaus,(,station,7,),iymph,node,.},{CD,NN,NN,CD,NN,CD,NN,NN,NNS,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_52,{},{_},{_},{NN},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_53,{},{~,No,tumor,is,identified,in,muitipie,(,5,),1eft,1ower,paratracheai,(,station,4t,),1ymph,nodes,.},{~,no,tumor,be,identify,in,muitipie,(,5,),1eft,1ower,paratracheaus,(,station,4t,),1ymph,node,.},{RB,DT,NN,VBZ,VBN,IN,NN,CD,CD,NN,CD,NN,NN,CD,NN,NN,CD,NN,NNS,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_54,{},{_,?,.},{_,?,.},{NN,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_55,{},{?,.},{?,.},{NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_56,{},{No,tumor,is,identified,in,a,sing1e,(,of,1,),para,?,aortic},{no,tumor,be,identify,in,a,sing1e,(,of,1,),para,?,aortic},{DT,NN,VBZ,VBN,IN,DT,JJ,NN,IN,CD,CD,NN,CD,JJ},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_57,{},{(,station,6,),iymph,node,.},{(,station,6,),iymph,node,.},{NN,NN,CD,NN,NN,NN,.},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_58,{},{/,CA-0-3,a,/,/,orwuumiv?a,,,N01,g,??,',??,?,/,3,Si?ci,/,0.07,@b1W,?,/,-,?,/,59,6343},{/,ca-0-3,a,/,/,orwuumiv?a,,,n01,g,??,',??,?,/,3,si?ci,/,0.07,@b1w,?,/,-,?,/,59,6343},{:,NN,DT,:,:,NN,,,NN,NN,NN,'',CD,CD,:,CD,NN,:,CD,NN,CD,:,:,CD,:,CD,CD},{}
-TCGA-MP-A4T6, TCGA-MP-A4T6SENT_59,{},{/,v,/,qfaq,/,?,J,-},{/,v,/,qfaq,/,?,j,-},{:,LS,:,NN,:,CD,NN,:},{}
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_1,"cric?ria I 4 ' I Dlagnusis n ; 5 ? , ep ? + .","{cric?ria,I,4,',I,Dlagnusis,n,;,5,?,,,ep,?,+,.}","{cric?ria,i,4,',I,Dlagnusis,n,;,5,?,,,ep,?,+,.}","{NN,CD,CD,'',PRP,NNPS,NN,:,CD,NN,,,NN,NN,CC,.}","{0,3,1,0,6,7,3,0,10,7,0,13,3,0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_2,"_ NV __ ? .","{_,NV,__,?,.}","{_,NV,__,?,.}","{NN,NNP,NNP,NN,.}","{3,3,0,3,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_3,"~ P " m " VTI-I-7 . "","{~,P,",m,",VTI-I-7,.,"}","{~,p,",m,",vti-i-7,.,"}","{NN,NN,'',NN,'',NN,.,''}","{0,1,2,2,2,2,0,1}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_4,"- < 2-rTDury ? , , anTV ~ ~ .... .","{-,<,2-rTDury,?,,,,,anTV,~,~,....,.}","{-,<,2-rtdury,?,,,,,antv,~,~,....,.}","{:,JJR,JJ,NN,,,,,NN,NN,NN,CD,.}","{0,10,4,2,0,0,4,9,2,0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_5,"_ link Discrepancy " : ? ? ~ ~","{_,link,Discrepancy,",:,?,?,~,~}","{_,link,discrepancy,",:,?,?,~,~}","{NN,NN,NN,'',:,CD,NN,NN,NN}","{2,0,2,3,0,9,9,9,3}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_6,"UUID : ZFABSFBE-DDSB-45AF-5160-DZBECCASSAZD","{UUID,:,ZFABSFBE-DDSB-45AF-5160-DZBECCASSAZD}","{UUID,:,zfabsfbe-ddsb-45af-5160-dzbeccassazd}","{NNP,:,NN}","{0,0,1}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_7,"?","{?}","{?}","{.}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_8,"$ ? "","{$,?,"}","{$,?,"}","{$,.,''}","{0,0,1}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_9,"?","{?}","{?}","{.}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_10,": ; ?EE ; _ ~ " _ .","{:,;,?EE,;,_,~,",_,.}","{:,;,?ee,;,_,~,",_,.}","{:,:,NN,:,CD,CD,``,NN,.}","{0,0,1,0,6,3,8,6,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_11,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_12,"_ ~ ? w .","{_,~,?,w,.}","{_,~,?,w,.}","{NN,NN,CD,NN,.}","{2,0,4,2,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_13,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_14,"_ ? ~ " " ?? ? ; ; 7 ?? TCGA MP A4T6 d 4 _ - ' : - : ; : g ? - - -91 A-PR Re acted _ ? ; LiiE !","{_,?,~,",",??,?,;,;,7,??,TCGA,MP,A4T6,d,4,_,-,',:,-,:,;,:,g,?,-,-,-91,A-PR,Re,acted,_,?,;,LiiE,!}","{_,?,~,",",??,?,;,;,7,??,tcga,mp,a4t6,d,4,_,-,',:,-,:,;,:,g,?,-,-,-91,a-pr,Re,act,_,?,;,liie,!}","{NN,CD,CD,``,``,CD,NN,:,:,CD,CD,NN,NN,NN,NN,CD,SYM,:,'',:,:,:,:,:,NN,SYM,:,:,CD,NN,NNP,VBD,CD,NN,:,NN,.}","{0,3,1,3,7,7,3,0,0,12,12,1,12,13,14,15,14,0,0,0,0,0,0,0,23,23,0,0,30,1,32,30,34,32,0,34,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_15,"ui. , I .","{ui.,,,I,.}","{ui.,,,I,.}","{NN,,,PRP,.}","{0,0,1,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_16,"i. .","{i.,.}","{i.,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_17,".","{.}","{.}","{.}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_18,"n. i ; ; - g. _ Illll | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Illllllllllllllll 3 .","{n.,i,;,;,-,g.,_,Illll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,Illllllllllllllll,3,.}","{n.,i,;,;,-,g.,_,illll,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,|,illllllllllllllll,3,.}","{NN,FW,:,:,:,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,FW,NN,CD,.}","{0,1,0,0,0,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,53,4,53,54,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_19,".","{.}","{.}","{.}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_20,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_21,"~ .","{~,.}","{~,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_22,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_23,"+ ? .","{+,?,.}","{+,?,.}","{CC,CD,.}","{2,0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_24,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_25,".","{.}","{.}","{.}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_26,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_27,".","{.}","{.}","{.}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_28,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_29,"- + .","{-,+,.}","{-,+,.}","{:,CC,.}","{0,0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_30,",7 E ? I = ? .","{,7,E,?,I,=,?,.}","{,7,e,?,i,=,?,.}","{CD,NN,NN,NN,JJ,NN,.}","{4,4,4,0,6,4,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_31,"/ 7 ? I ? IIHIHIIHlllll | | | | | | | | IIIIIHIIIIIIIIIIIIIIIIHIHHII ll Ill","{/,7,?,I,?,IIHIHIIHlllll,|,|,|,|,|,|,|,|,IIIIIHIIIIIIIIIIIIIIIIHIHHII,ll,Ill}","{/,7,?,I,?,iihihiihlllll,|,|,|,|,|,|,|,|,IIIIIHIIIIIIIIIIIIIIIIHIHHII,ll,Ill}","{:,CD,CD,PRP,VBP,NN,CD,CD,NN,CD,CD,NN,CD,CD,NNP,NN,NNP}","{3,3,0,5,3,9,6,9,5,12,12,9,14,9,17,17,14}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_32,"Ill | | | | | II | | | I | | I | | | | | | I lllllll ll | l ll I III I Illlll irgicai Pathology .","{Ill,|,|,|,|,|,II,|,|,|,I,|,|,I,|,|,|,|,|,|,I,lllllll,ll,|,l,ll,I,III,I,Illlll,irgicai,Pathology,.}","{Ill,|,|,|,|,|,ii,|,|,|,I,|,|,I,|,|,|,|,|,|,I,lllllll,ll,|,l,ll,I,iii,I,illlll,irgicai,pathology,.}","{NNP,NNP,VBD,CD,CD,NN,CD,NN,CD,NN,PRP,VBP,CD,PRP,VBP,CD,CD,NN,CD,NN,PRP,VBP,NN,NN,NN,NN,PRP,CD,PRP,VBP,JJ,NN,.}","{2,12,12,5,6,3,10,10,10,3,12,0,12,15,13,17,18,15,20,18,22,20,26,26,26,28,26,22,30,28,32,30,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_33,"Requested By :","{Requested,By,:}","{request,by,:}","{VBN,IN,:}","{0,1,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_34,"TISSUE DESCRIPTION :","{TISSUE,DESCRIPTION,:}","{tissue,description,:}","{NN,NN,:}","{2,0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_35,"A1 B1 B2 B3 B4 C1 D1 D2 E1 E2 E3 E4 F1 G1 .","{A1,B1,B2,B3,B4,C1,D1,D2,E1,E2,E3,E4,F1,G1,.}","{a1,b1,b2,b3,b4,c1,d1,d2,e1,e2,e3,e4,f1,g1,.}","{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,.}","{3,3,0,14,14,14,14,14,14,14,14,14,14,3,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_36,"G2 G3 G4 G5","{G2,G3,G4,G5}","{g2,g3,g4,g5}","{NN,NN,NN,NN}","{4,4,4,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_37,"Left iower iobe iung ( 140.0 grams ) , ieft upper 1obe iung 1ymph node .","{Left,iower,iobe,iung,(,140.0,grams,),,,ieft,upper,1obe,iung,1ymph,node,.}","{leave,iower,iobe,iung,(,140.0,gram,),,,ieft,upper,1obe,iung,1ymph,node,.}","{VBN,JJ,NN,NN,CD,CD,NNS,RB,,,NN,JJ,NN,NN,NN,NN,.}","{0,4,4,1,6,7,4,7,0,4,15,15,15,15,10,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_38,"station 4L , 6 .","{station,4L,,,6,.}","{station,4l,,,6,.}","{NN,NN,,,CD,.}","{2,0,0,2,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_39,"and 7 Iymph nodes .","{and,7,Iymph,nodes,.}","{and,7,iymph,node,.}","{CC,CD,NN,NNS,.}","{2,0,4,2,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_40,"DIAGNOSIS : _ _ Lun , 1eft Tower , iobectomy : Invasive grade 3 ( of 4 ) adenocarcinoma forming a 2.5 x 2.5 x 2.5 cm subp1eura1 mass that abuts but does not invoive the puckered p1eura1 surface .","{DIAGNOSIS,:,_,_,Lun,,,1eft,Tower,,,iobectomy,:,Invasive,grade,3,(,of,4,),adenocarcinoma,forming,a,2.5,x,2.5,x,2.5,cm,subp1eura1,mass,that,abuts,but,does,not,invoive,the,puckered,p1eura1,surface,.}","{diagnosis,:,_,_,Lun,,,1eft,tower,,,iobectomy,:,invasive,grade,3,(,of,4,),adenocarcinoma,form,a,2.5,x,2.5,x,2.5,cm,subp1eura1,mass,that,abut,but,do,not,invoive,the,puckered,p1eura1,surface,.}","{NN,:,CD,CD,NNP,,,CD,NN,,,NN,:,JJ,NN,CD,NN,IN,CD,CD,NN,VBG,DT,CD,CC,CD,CC,CD,NN,NN,NN,WDT,VBZ,CC,VBZ,RB,VB,DT,JJ,NN,NN,.}","{0,0,4,10,10,0,8,10,0,1,0,13,10,15,13,0,18,19,10,19,22,20,0,19,0,29,29,29,20,35,29,0,35,35,31,39,39,39,35,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_41,"The bronchia1 resection margin is free of tumor .","{The,bronchia1,resection,margin,is,free,of,tumor,.}","{the,bronchia1,resection,margin,be,free,of,tumor,.}","{DT,NN,NN,NN,VBZ,JJ,IN,NN,.}","{4,4,4,6,6,0,0,6,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_42,"Lymph nodes , 1eft upoer 1ung .","{Lymph,nodes,,,1eft,upoer,1ung,.}","{lymph,node,,,1eft,upoer,1ung,.}","{NN,NNS,,,JJ,NN,NN,.}","{2,0,0,6,6,2,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_43,"e ; cision : _ _ - A singie ymph node is positive for metastatic adenocarcinoma .","{e,;,cision,:,_,_,-,A,singie,ymph,node,is,positive,for,metastatic,adenocarcinoma,.}","{e,;,cision,:,_,_,-,a,singie,ymph,node,be,positive,for,metastatic,adenocarcinoma,.}","{LS,:,NN,:,CD,SYM,:,NN,NN,NN,NN,VBZ,JJ,IN,JJ,NN,.}","{0,0,1,0,3,3,0,9,1,11,13,13,9,0,16,13,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_44,"Lymph nodes , intrapuimonary/hiiar , exgision : _ _ _ _","{Lymph,nodes,,,intrapuimonary/hiiar,,,exgision,:,_,_,_,_}","{lymph,node,,,intrapuimonary/hiiar,,,exgision,:,_,_,_,_}","{NN,NNS,,,JJ,,,NN,:,CD,CD,CD,IN}","{2,0,0,2,0,2,0,9,10,6,10}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_45,"~ Metastatic adenocarcinoma is identified in mu1tip1e _ ( 3 of","{~,Metastatic,adenocarcinoma,is,identified,in,mu1tip1e,_,(,3,of}","{~,metastatic,adenocarcinoma,be,identify,in,mu1tip1e,_,(,3,of}","{NN,JJ,NN,VBZ,VBN,IN,JJ,NN,NN,CD,IN}","{3,3,5,5,0,0,9,9,5,11,5}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_46,"4 ) intrapuimonary peribronchiai 1ymph nodes .","{4,),intrapuimonary,peribronchiai,1ymph,nodes,.}","{4,),intrapuimonary,peribronchiaus,1ymph,node,.}","{CD,NN,JJ,NN,NN,NNS,.}","{2,0,6,6,6,2,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_47,"Lymph nodes , left mediastinai , excision :","{Lymph,nodes,,,left,mediastinai,,,excision,:}","{lymph,node,,,leave,mediastinaus,,,excision,:}","{NN,NNS,,,VBD,NNS,,,NN,:}","{2,4,0,0,4,0,5,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_48,".","{.}","{.}","{.}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_49,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_50,"Metastatic adenocarcinoma 15 identified in multipie ( 3 of","{Metastatic,adenocarcinoma,15,identified,in,multipie,(,3,of}","{metastatic,adenocarcinoma,15,identify,in,multipie,(,3,of}","{JJ,NN,CD,VBN,IN,JJ,NN,CD,IN}","{2,0,2,2,0,7,4,7,2}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_51,"25 ) subcarinai ( station 7 ) iymph nodes .","{25,),subcarinai,(,station,7,),iymph,nodes,.}","{25,),subcarinaus,(,station,7,),iymph,node,.}","{CD,NN,NN,CD,NN,CD,NN,NN,NNS,.}","{3,3,0,5,3,9,9,9,5,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_52,"_","{_}","{_}","{NN}","{0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_53,"~ No tumor is identified in muitipie ( 5 ) 1eft 1ower paratracheai ( station 4t ) 1ymph nodes .","{~,No,tumor,is,identified,in,muitipie,(,5,),1eft,1ower,paratracheai,(,station,4t,),1ymph,nodes,.}","{~,no,tumor,be,identify,in,muitipie,(,5,),1eft,1ower,paratracheaus,(,station,4t,),1ymph,node,.}","{RB,DT,NN,VBZ,VBN,IN,NN,CD,CD,NN,CD,NN,NN,CD,NN,NN,CD,NN,NNS,.}","{5,3,5,5,0,0,5,9,7,13,13,13,9,16,16,5,19,19,16,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_54,"_ ? .","{_,?,.}","{_,?,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_55,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_56,"No tumor is identified in a sing1e ( of 1 ) para ? aortic","{No,tumor,is,identified,in,a,sing1e,(,of,1,),para,?,aortic}","{no,tumor,be,identify,in,a,sing1e,(,of,1,),para,?,aortic}","{DT,NN,VBZ,VBN,IN,DT,JJ,NN,IN,CD,CD,NN,CD,JJ}","{2,4,4,0,0,8,8,4,0,11,12,8,14,12}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_57,"( station 6 ) iymph node .","{(,station,6,),iymph,node,.}","{(,station,6,),iymph,node,.}","{NN,NN,CD,NN,NN,NN,.}","{2,0,6,6,6,2,0}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_58,"/ CA-0-3 a / / orwuumiv?a , N01 g ?? ' ?? ? / 3 Si?ci / 0.07 @b1W ? / - ? / 59 6343","{/,CA-0-3,a,/,/,orwuumiv?a,,,N01,g,??,',??,?,/,3,Si?ci,/,0.07,@b1W,?,/,-,?,/,59,6343}","{/,ca-0-3,a,/,/,orwuumiv?a,,,n01,g,??,',??,?,/,3,si?ci,/,0.07,@b1w,?,/,-,?,/,59,6343}","{:,NN,DT,:,:,NN,,,NN,NN,NN,'',CD,CD,:,CD,NN,:,CD,NN,CD,:,:,CD,:,CD,CD}","{10,10,10,6,6,10,0,9,6,0,0,13,10,16,16,13,19,19,16,19,19,0,16,23,26,16}","{}"
+TCGA-MP-A4T6, TCGA-MP-A4T6SENT_59,"/ v / qfaq / ? J -","{/,v,/,qfaq,/,?,J,-}","{/,v,/,qfaq,/,?,j,-}","{:,LS,:,NN,:,CD,NN,:}","{4,4,4,0,4,4,6,0}","{}"

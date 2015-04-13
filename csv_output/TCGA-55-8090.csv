@@ -1,41 +1,41 @@
-TCGA-55-8090, TCGA-55-8090SENT_1,{},{",Final,Report,'},{",Final,Report,'},{``,NNP,NNP,POS},{}
-TCGA-55-8090, TCGA-55-8090SENT_2,{},{*,Final,Report,*},{*,Final,Report,*},{NNP,NNP,NNP,IN},{}
-TCGA-55-8090, TCGA-55-8090SENT_3,{},{SURG,PATH,FINAL,REPORT},{SURG,PATH,FINAL,REPORT},{NNP,NNP,NNP,NNP},{}
-TCGA-55-8090, TCGA-55-8090SENT_4,{},{SURGICAL,PATHOLOGY},{surgical,pathology},{JJ,NN},{}
-TCGA-55-8090, TCGA-55-8090SENT_5,{},{Collected,:,Accession,:,Physician,:},{collect,:,Accession,:,physician,:},{VBN,:,NNP,:,NN,:},{}
-TCGA-55-8090, TCGA-55-8090SENT_6,{},{PROCEDURE,Right,thoracoscopy,.},{procedure,right,thoracoscopy,.},{NN,RB,JJ,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_7,{},{SPECIMEN,:,Ri,ht,lower,lobe,lung,mass,.},{specimen,:,Ri,ht,lower,lobe,lung,mass,.},{NN,:,NNP,VBD,JJR,NN,NN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_8,{},{Frozen,section,-,check,margins,.},{frozen,section,-,check,margin,.},{JJ,NN,:,NN,NNS,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_9,{},{year-old,man,,,hx,.},{year-old,man,,,hx,.},{JJ,NN,,,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_10,{},{of,nonsmall,cell,carcinoma,with,hip,and,right,lower,lobe,nodule,.},{of,nonsmall,cell,carcinoma,with,hip,and,right,lower,lobe,nodule,.},{IN,JJ,NN,NN,IN,NN,CC,RB,JJR,NN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_11,{},{HISTORY},{history},{NN},{}
-TCGA-55-8090, TCGA-55-8090SENT_12,{},{Right,lung,mass,.},{right,lung,mass,.},{RB,NN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_13,{},{GROSS},{gross},{NNS},{}
-TCGA-55-8090, TCGA-55-8090SENT_14,{},{Specimen,received,in,fresh,for,frozen,section,labeled,as,",right,lower,lobe,lung,mass,,,",consists,of,a,wedge,of,lung,measuring,5,x,4,x,2.5,cm,.},{specimen,receive,in,fresh,for,frozen,section,label,as,",right,lower,lobe,lung,mass,,,",consist,of,a,wedge,of,lung,measure,5,x,4,x,2.5,cm,.},{NN,VBD,IN,JJ,IN,JJ,NN,VBN,IN,``,RB,JJR,NN,NN,NN,,,``,VBZ,IN,DT,NN,IN,NN,VBG,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_15,{},{By,opening,,,the,cut,surface,reveals,a,solid,tan-white,mass,measuring,2.5,x,2,x,2,cm,.},{by,open,,,the,cut,surface,reveal,a,solid,tan-white,mass,measure,2.5,x,2,x,2,cm,.},{IN,VBG,,,DT,NN,NN,VBZ,DT,JJ,JJ,NN,VBG,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_16,{},{The,sutured,margin,is,negative,,,3,mm,from,tumor,.},{the,sutured,margin,be,negative,,,3,mm,from,tumor,.},{DT,JJ,NN,VBZ,JJ,,,CD,NN,IN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_17,{},{The,serosal,surface,appears,involved,by,tumor,.},{the,serosal,surface,appear,involve,by,tumor,.},{DT,JJ,NN,VBZ,VBN,IN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_18,{},{Representative,section,is,processed,for,frozen,section,.},{Representative,section,be,process,for,frozen,section,.},{NNP,NN,VBZ,VBN,IN,JJ,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_19,{},{The,specimen,is,submitted,as,follows,:,1,.},{the,specimen,be,submit,as,follow,:,1,.},{DT,NN,VBZ,VBN,IN,VBZ,:,CD,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_20,{},{Frozen,control,.},{frozen,control,.},{JJ,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_21,{},{2-3,.},{2-3,.},{CD,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_22,{},{The,tumor,,,the,suture,margin,.},{the,tumor,,,the,suture,margin,.},{DT,NN,,,DT,NN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_23,{},{?,FROZEN,SECTION,DIAGNOSIS,Adenocarcinoma,.},{?,frozen,section,diagnosis,adenocarcinoma,.},{RB,JJ,NN,NN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_24,{},{?,is,notilfied,for,diagnosis,at,_,?},{?,be,notilfied,for,diagnosis,at,_,?},{NN,VBZ,JJ,IN,NN,IN,CD,CD},{}
-TCGA-55-8090, TCGA-55-8090SENT_25,{},{MICROSCOPIC,Performed,.},{MICROSCOPIC,Performed,.},{NNP,NNP,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_26,{},{DIAGNOSIS},{diagnosis},{NN},{}
-TCGA-55-8090, TCGA-55-8090SENT_27,{},{Right,lower,lobe,of,lung,,,wedgectomy,:},{right,lower,lobe,of,lung,,,wedgectomy,:},{RB,JJR,NN,IN,NN,,,NN,:},{}
-TCGA-55-8090, TCGA-55-8090SENT_28,{},{Adenocarcinoma,,,moderately,differentiated,(,2.5,cm,),.},{adenocarcinoma,,,moderately,differentiate,(,2.5,cm,),.},{NN,,,RB,VBN,NN,CD,NN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_29,{},{The,tumor,is,limited,in,lung,,,associated,with,scar,of,subpleura,.},{the,tumor,be,limit,in,lung,,,associate,with,scar,of,subpleura,.},{DT,NN,VBZ,VBN,IN,NN,,,VBN,IN,NN,IN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_30,{},{Resection,margins,are,negative,for,tumor,.},{resection,margin,be,negative,for,tumor,.},{NN,NNS,VBP,JJ,IN,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_31,{},{Lymphovascular,invasion,is,present,.},{lymphovascular,invasion,be,present,.},{JJ,NN,VBZ,JJ,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_32,{},{COMMENT},{comment},{JJ},{}
-TCGA-55-8090, TCGA-55-8090SENT_33,{},{Compare,to,left,lower,lung,biopsy,at,the},{compare,to,left,lower,lung,biopsy,at,the},{VB,TO,RB,JJR,NN,NN,IN,DT},{}
-TCGA-55-8090, TCGA-55-8090SENT_34,{},{Printed,by,:,Page,1,of,2,Printed,on,:,(,Continued,),"},{Printed,by,:,Page,1,of,2,Printed,on,:,(,continue,),"},{NNP,IN,:,NNP,CD,IN,CD,NNP,IN,:,CD,VBD,CD,''},{}
-TCGA-55-8090, TCGA-55-8090SENT_35,{},{Final,Report,"},{final,Report,"},{JJ,NNP,''},{}
-TCGA-55-8090, TCGA-55-8090SENT_36,{},{tumor,cells,of,two,biopsies,are,morphologically,similar,.},{tumor,cell,of,two,biopsy,be,morphologically,similar,.},{NN,NNS,IN,CD,NNS,VBP,RB,JJ,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_37,{},{Ereviewed,the,case,and,concurs,with,the,diagnosis,.},{ereview,the,case,and,concur,with,the,diagnosis,.},{VBN,DT,NN,CC,VBZ,IN,DT,NN,.},{}
-TCGA-55-8090, TCGA-55-8090SENT_38,{},{Completed,Action,List,:},{complete,Action,list,:},{VBN,NNP,NN,:},{}
-TCGA-55-8090, TCGA-55-8090SENT_39,{},{Type,:,Date,:,Status,:,Title,:,Encounter,info,:},{type,:,date,:,Status,:,Title,:,Encounter,info,:},{NN,:,NN,:,NNP,:,NNP,:,NNP,NN,:},{}
-TCGA-55-8090, TCGA-55-8090SENT_40,{},{Printed,by,:,Printed,on,:},{Printed,by,:,Printed,on,:},{NNP,IN,:,NNP,IN,:},{}
-TCGA-55-8090, TCGA-55-8090SENT_41,{},{Page,2,of,2,(,End,of,Report,)},{Page,2,of,2,(,end,of,Report,)},{NNP,CD,IN,CD,CD,NN,IN,NNP,CD},{}
+TCGA-55-8090, TCGA-55-8090SENT_1,"" Final Report '","{",Final,Report,'}","{",Final,Report,'}","{``,NNP,NNP,POS}","{0,3,1,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_2,"* Final Report *","{*,Final,Report,*}","{*,Final,Report,*}","{NNP,NNP,NNP,IN}","{3,3,0,3}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_3,"SURG PATH FINAL REPORT","{SURG,PATH,FINAL,REPORT}","{SURG,PATH,FINAL,REPORT}","{NNP,NNP,NNP,NNP}","{4,4,4,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_4,"SURGICAL PATHOLOGY","{SURGICAL,PATHOLOGY}","{surgical,pathology}","{JJ,NN}","{2,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_5,"Collected : Accession : Physician :","{Collected,:,Accession,:,Physician,:}","{collect,:,Accession,:,physician,:}","{VBN,:,NNP,:,NN,:}","{3,0,0,0,3,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_6,"PROCEDURE Right thoracoscopy .","{PROCEDURE,Right,thoracoscopy,.}","{procedure,right,thoracoscopy,.}","{NN,RB,JJ,.}","{2,0,2,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_7,"SPECIMEN : Ri ht lower lobe lung mass .","{SPECIMEN,:,Ri,ht,lower,lobe,lung,mass,.}","{specimen,:,Ri,ht,lower,lobe,lung,mass,.}","{NN,:,NNP,VBD,JJR,NN,NN,NN,.}","{0,0,4,1,7,7,4,7,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_8,"Frozen section - check margins .","{Frozen,section,-,check,margins,.}","{frozen,section,-,check,margin,.}","{JJ,NN,:,NN,NNS,.}","{2,0,0,5,2,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_9,"year-old man , hx .","{year-old,man,,,hx,.}","{year-old,man,,,hx,.}","{JJ,NN,,,NN,.}","{2,0,0,2,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_10,"of nonsmall cell carcinoma with hip and right lower lobe nodule .","{of,nonsmall,cell,carcinoma,with,hip,and,right,lower,lobe,nodule,.}","{of,nonsmall,cell,carcinoma,with,hip,and,right,lower,lobe,nodule,.}","{IN,JJ,NN,NN,IN,NN,CC,RB,JJR,NN,NN,.}","{0,4,4,1,0,11,6,9,6,11,4,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_11,"HISTORY","{HISTORY}","{history}","{NN}","{0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_12,"Right lung mass .","{Right,lung,mass,.}","{right,lung,mass,.}","{RB,NN,NN,.}","{0,1,2,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_13,"GROSS","{GROSS}","{gross}","{NNS}","{0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_14,"Specimen received in fresh for frozen section labeled as " right lower lobe lung mass , " consists of a wedge of lung measuring 5 x 4 x 2.5 cm .","{Specimen,received,in,fresh,for,frozen,section,labeled,as,",right,lower,lobe,lung,mass,,,",consists,of,a,wedge,of,lung,measuring,5,x,4,x,2.5,cm,.}","{specimen,receive,in,fresh,for,frozen,section,label,as,",right,lower,lobe,lung,mass,,,",consist,of,a,wedge,of,lung,measure,5,x,4,x,2.5,cm,.}","{NN,VBD,IN,JJ,IN,JJ,NN,VBN,IN,``,RB,JJR,NN,NN,NN,,,``,VBZ,IN,DT,NN,IN,NN,VBG,CD,CC,CD,CC,CD,NN,.}","{2,0,0,2,0,7,4,7,0,13,13,13,8,15,13,0,2,2,0,21,18,0,21,18,27,0,24,0,30,27,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_15,"By opening , the cut surface reveals a solid tan-white mass measuring 2.5 x 2 x 2 cm .","{By,opening,,,the,cut,surface,reveals,a,solid,tan-white,mass,measuring,2.5,x,2,x,2,cm,.}","{by,open,,,the,cut,surface,reveal,a,solid,tan-white,mass,measure,2.5,x,2,x,2,cm,.}","{IN,VBG,,,DT,NN,NN,VBZ,DT,JJ,JJ,NN,VBG,CD,CC,CD,CC,CD,NN,.}","{0,7,0,6,6,7,0,11,11,11,15,11,12,0,7,0,18,7,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_16,"The sutured margin is negative , 3 mm from tumor .","{The,sutured,margin,is,negative,,,3,mm,from,tumor,.}","{the,sutured,margin,be,negative,,,3,mm,from,tumor,.}","{DT,JJ,NN,VBZ,JJ,,,CD,NN,IN,NN,.}","{3,3,5,5,0,0,8,5,0,8,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_17,"The serosal surface appears involved by tumor .","{The,serosal,surface,appears,involved,by,tumor,.}","{the,serosal,surface,appear,involve,by,tumor,.}","{DT,JJ,NN,VBZ,VBN,IN,NN,.}","{3,3,5,5,0,0,5,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_18,"Representative section is processed for frozen section .","{Representative,section,is,processed,for,frozen,section,.}","{Representative,section,be,process,for,frozen,section,.}","{NNP,NN,VBZ,VBN,IN,JJ,NN,.}","{2,4,4,0,0,7,4,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_19,"The specimen is submitted as follows : 1 .","{The,specimen,is,submitted,as,follows,:,1,.}","{the,specimen,be,submit,as,follow,:,1,.}","{DT,NN,VBZ,VBN,IN,VBZ,:,CD,.}","{2,4,4,0,6,4,0,6,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_20,"Frozen control .","{Frozen,control,.}","{frozen,control,.}","{JJ,NN,.}","{2,0,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_21,"2-3 .","{2-3,.}","{2-3,.}","{CD,.}","{0,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_22,"The tumor , the suture margin .","{The,tumor,,,the,suture,margin,.}","{the,tumor,,,the,suture,margin,.}","{DT,NN,,,DT,NN,NN,.}","{2,0,0,6,6,2,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_23,"? FROZEN SECTION DIAGNOSIS Adenocarcinoma .","{?,FROZEN,SECTION,DIAGNOSIS,Adenocarcinoma,.}","{?,frozen,section,diagnosis,adenocarcinoma,.}","{RB,JJ,NN,NN,NN,.}","{2,3,0,3,4,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_24,"? is notilfied for diagnosis at _ ?","{?,is,notilfied,for,diagnosis,at,_,?}","{?,be,notilfied,for,diagnosis,at,_,?}","{NN,VBZ,JJ,IN,NN,IN,CD,CD}","{3,3,0,0,3,0,8,3}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_25,"MICROSCOPIC Performed .","{MICROSCOPIC,Performed,.}","{MICROSCOPIC,Performed,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_26,"DIAGNOSIS","{DIAGNOSIS}","{diagnosis}","{NN}","{0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_27,"Right lower lobe of lung , wedgectomy :","{Right,lower,lobe,of,lung,,,wedgectomy,:}","{right,lower,lobe,of,lung,,,wedgectomy,:}","{RB,JJR,NN,IN,NN,,,NN,:}","{2,3,0,0,3,0,5,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_28,"Adenocarcinoma , moderately differentiated ( 2.5 cm ) .","{Adenocarcinoma,,,moderately,differentiated,(,2.5,cm,),.}","{adenocarcinoma,,,moderately,differentiate,(,2.5,cm,),.}","{NN,,,RB,VBN,NN,CD,NN,NN,.}","{4,0,4,0,8,8,8,4,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_29,"The tumor is limited in lung , associated with scar of subpleura .","{The,tumor,is,limited,in,lung,,,associated,with,scar,of,subpleura,.}","{the,tumor,be,limit,in,lung,,,associate,with,scar,of,subpleura,.}","{DT,NN,VBZ,VBN,IN,NN,,,VBN,IN,NN,IN,NN,.}","{2,4,4,0,0,4,0,6,0,8,0,10,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_30,"Resection margins are negative for tumor .","{Resection,margins,are,negative,for,tumor,.}","{resection,margin,be,negative,for,tumor,.}","{NN,NNS,VBP,JJ,IN,NN,.}","{2,4,4,0,0,4,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_31,"Lymphovascular invasion is present .","{Lymphovascular,invasion,is,present,.}","{lymphovascular,invasion,be,present,.}","{JJ,NN,VBZ,JJ,.}","{2,4,4,0,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_32,"COMMENT","{COMMENT}","{comment}","{JJ}","{0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_33,"Compare to left lower lung biopsy at the","{Compare,to,left,lower,lung,biopsy,at,the}","{compare,to,left,lower,lung,biopsy,at,the}","{VB,TO,RB,JJR,NN,NN,IN,DT}","{0,0,4,6,6,1,1,7}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_34,"Printed by : Page 1 of 2 Printed on : ( Continued ) "","{Printed,by,:,Page,1,of,2,Printed,on,:,(,Continued,),"}","{Printed,by,:,Page,1,of,2,Printed,on,:,(,continue,),"}","{NNP,IN,:,NNP,CD,IN,CD,NNP,IN,:,CD,VBD,CD,''}","{0,0,0,1,4,0,8,4,0,0,8,11,12,8}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_35,"Final Report "","{Final,Report,"}","{final,Report,"}","{JJ,NNP,''}","{0,1,2}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_36,"tumor cells of two biopsies are morphologically similar .","{tumor,cells,of,two,biopsies,are,morphologically,similar,.}","{tumor,cell,of,two,biopsy,be,morphologically,similar,.}","{NN,NNS,IN,CD,NNS,VBP,RB,JJ,.}","{2,8,0,5,2,8,8,0,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_37,"Ereviewed the case and concurs with the diagnosis .","{Ereviewed,the,case,and,concurs,with,the,diagnosis,.}","{ereview,the,case,and,concur,with,the,diagnosis,.}","{VBN,DT,NN,CC,VBZ,IN,DT,NN,.}","{0,3,1,0,1,0,8,5,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_38,"Completed Action List :","{Completed,Action,List,:}","{complete,Action,list,:}","{VBN,NNP,NN,:}","{0,1,2,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_39,"Type : Date : Status : Title : Encounter info :","{Type,:,Date,:,Status,:,Title,:,Encounter,info,:}","{type,:,date,:,Status,:,Title,:,Encounter,info,:}","{NN,:,NN,:,NNP,:,NNP,:,NNP,NN,:}","{0,0,1,0,3,0,5,0,10,7,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_40,"Printed by : Printed on :","{Printed,by,:,Printed,on,:}","{Printed,by,:,Printed,on,:}","{NNP,IN,:,NNP,IN,:}","{0,0,0,1,4,0}","{}"
+TCGA-55-8090, TCGA-55-8090SENT_41,"Page 2 of 2 ( End of Report )","{Page,2,of,2,(,End,of,Report,)}","{Page,2,of,2,(,end,of,Report,)}","{NNP,CD,IN,CD,CD,NN,IN,NNP,CD}","{0,1,0,5,6,1,0,1,8}","{}"

@@ -1,18 +1,18 @@
-TCGA-63-A5MY, TCGA-63-A5MYSENT_1,{},{UUID,:,E2D395FB-F5F6-4870-86D7-F552BE2B4F65},{UUID,:,e2d395fb-f5f6-4870-86d7-f552be2b4f65},{NNP,:,NN},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_2,{},{TCGA,-,63,-,A5MY-B1A,-,PR},{tcga,-,63,-,a5my-b1a,-,pr},{SYM,:,CD,:,NN,:,NN},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_3,{},{Sample,Number,Sample,Type,TUMOUR},{sample,Number,Sample,type,tumour},{VB,NNP,NNP,NN,NN},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_4,{},{Squamous,Cell,Carcinoma,,,Not,Otherwise,Specified,(,NOS,),Year,of,sample,collection,Age,at,Sample,Collection,(,yrs,),l,H,Days,to,Procedure,Date},{squamous,cell,carcinoma,,,not,otherwise,specify,(,no,),year,of,sample,collection,age,at,Sample,Collection,(,yr,),l,h,day,to,Procedure,Date},{JJ,NN,NN,,,RB,RB,VBN,CD,NN,CD,NN,IN,NN,NN,NN,IN,NNP,NNP,NN,VBZ,CD,NN,NN,NNS,TO,NNP,NNP},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_5,{},{I},{I},{PRP},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_6,{},{Sample,Number,Sample,Type,BUFFY},{sample,Number,Sample,type,buffy},{VB,NNP,NNP,NN,NN},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_7,{},{Year,of,Sample,Collection,Age,at,Sample,Collection,(,yrs,),Days,to,Procedure,Date,Days,to,Diagnosis},{year,of,Sample,Collection,Age,at,Sample,Collection,(,yr,),day,to,Procedure,Date,day,to,diagnosis},{NN,IN,NNP,NNP,NNP,IN,NNP,NNP,NN,VBZ,CD,NNS,TO,NNP,NNP,NNS,TO,NN},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_8,{},{.},{.},{.},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_9,{},{_,Z,'d,?,D,~,65,?,.3},{_,z,would,?,d,~,65,?,.3},{NN,NN,MD,VB,NN,NN,CD,CD,NN},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_10,{},{Redacted,lllllllllllllllllllllllllllllllllllllllllllllIllllllllllllllll,IllllllllllllllIllllllllIlllllllllllllllllllllllllllll},{redacted,lllllllllllllllllllllllllllllllllllllllllllllillllllllllllllll,illllllllllllllillllllllilllllllllllllllllllllllllllll},{JJ,NN,NN},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_11,{},{&,7JCrIIb,/,/,40,~,,,6,?,aameus,M,!},{&,7JCrIIb,/,/,40,~,,,6,?,aameus,m,!},{CC,NNP,:,:,CD,NN,,,CD,NN,NN,NN,.},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_12,{},{I,A/as,Sfhs,3,CD,?,[,_,Qo,70/3},{I,a/as,sfh,3,CD,?,[,_,qo,70/3},{PRP,VBP,NNS,CD,NNP,CD,CD,NN,NN,CD},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_13,{},{x},{x},{CC},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_14,{},{,,,,.},{,,,,.},{,,,,.},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_15,{},{__,.},{__,.},{NN,.},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_16,{},{_,,,;,,,_,,,nis,,,uAL,;,;,iif,[,i,',-,",*,5,",",",?,.},{_,,,;,,,_,,,ni,,,ual,;,;,iif,[,i,',-,",*,5,",",",?,.},{NN,,,:,,,NN,,,NN,,,NN,:,:,FW,FW,FW,'',:,``,CD,CD,``,``,``,NN,.},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_17,{},{?,},.},{?,},.},{NN,NN,.},{}
-TCGA-63-A5MY, TCGA-63-A5MYSENT_18,{},{Ar,_,?,___,_,LDT},{ar,_,?,___,_,ldt},{FW,FW,FW,FW,FW,NN},{}
+TCGA-63-A5MY, TCGA-63-A5MYSENT_1,"UUID : E2D395FB-F5F6-4870-86D7-F552BE2B4F65","{UUID,:,E2D395FB-F5F6-4870-86D7-F552BE2B4F65}","{UUID,:,e2d395fb-f5f6-4870-86d7-f552be2b4f65}","{NNP,:,NN}","{0,0,1}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_2,"TCGA - 63 - A5MY-B1A - PR","{TCGA,-,63,-,A5MY-B1A,-,PR}","{tcga,-,63,-,a5my-b1a,-,pr}","{SYM,:,CD,:,NN,:,NN}","{3,0,0,0,7,0,3}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_3,"Sample Number Sample Type TUMOUR","{Sample,Number,Sample,Type,TUMOUR}","{sample,Number,Sample,type,tumour}","{VB,NNP,NNP,NN,NN}","{0,5,5,5,1}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_4,"Squamous Cell Carcinoma , Not Otherwise Specified ( NOS ) Year of sample collection Age at Sample Collection ( yrs ) l H Days to Procedure Date","{Squamous,Cell,Carcinoma,,,Not,Otherwise,Specified,(,NOS,),Year,of,sample,collection,Age,at,Sample,Collection,(,yrs,),l,H,Days,to,Procedure,Date}","{squamous,cell,carcinoma,,,not,otherwise,specify,(,no,),year,of,sample,collection,age,at,Sample,Collection,(,yr,),l,h,day,to,Procedure,Date}","{JJ,NN,NN,,,RB,RB,VBN,CD,NN,CD,NN,IN,NN,NN,NN,IN,NNP,NNP,NN,VBZ,CD,NN,NN,NNS,TO,NNP,NNP}","{3,3,20,0,7,7,3,9,7,11,9,0,15,15,9,0,19,19,15,0,24,24,24,20,0,27,20}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_5,"I","{I}","{I}","{PRP}","{0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_6,"Sample Number Sample Type BUFFY","{Sample,Number,Sample,Type,BUFFY}","{sample,Number,Sample,type,buffy}","{VB,NNP,NNP,NN,NN}","{0,5,5,5,1}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_7,"Year of Sample Collection Age at Sample Collection ( yrs ) Days to Procedure Date Days to Diagnosis","{Year,of,Sample,Collection,Age,at,Sample,Collection,(,yrs,),Days,to,Procedure,Date,Days,to,Diagnosis}","{year,of,Sample,Collection,Age,at,Sample,Collection,(,yr,),day,to,Procedure,Date,day,to,diagnosis}","{NN,IN,NNP,NNP,NNP,IN,NNP,NNP,NN,VBZ,CD,NNS,TO,NNP,NNP,NNS,TO,NN}","{10,0,5,5,1,0,9,9,5,0,12,10,0,16,16,12,0,10}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_8,".","{.}","{.}","{.}","{0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_9,"_ Z 'd ? D ~ 65 ? .3","{_,Z,'d,?,D,~,65,?,.3}","{_,z,would,?,d,~,65,?,.3}","{NN,NN,MD,VB,NN,NN,CD,CD,NN}","{2,4,4,0,6,4,6,9,4}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_10,"Redacted lllllllllllllllllllllllllllllllllllllllllllllIllllllllllllllll IllllllllllllllIllllllllIlllllllllllllllllllllllllllll","{Redacted,lllllllllllllllllllllllllllllllllllllllllllllIllllllllllllllll,IllllllllllllllIllllllllIlllllllllllllllllllllllllllll}","{redacted,lllllllllllllllllllllllllllllllllllllllllllllillllllllllllllll,illllllllllllllillllllllilllllllllllllllllllllllllllll}","{JJ,NN,NN}","{3,3,0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_11,"& 7JCrIIb / / 40 ~ , 6 ? aameus M !","{&,7JCrIIb,/,/,40,~,,,6,?,aameus,M,!}","{&,7JCrIIb,/,/,40,~,,,6,?,aameus,m,!}","{CC,NNP,:,:,CD,NN,,,CD,NN,NN,NN,.}","{2,10,2,6,6,2,0,9,6,0,10,0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_12,"I A/as Sfhs 3 CD ? [ _ Qo 70/3","{I,A/as,Sfhs,3,CD,?,[,_,Qo,70/3}","{I,a/as,sfh,3,CD,?,[,_,qo,70/3}","{PRP,VBP,NNS,CD,NNP,CD,CD,NN,NN,CD}","{2,0,2,5,3,5,9,9,2,9}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_13,"x","{x}","{x}","{CC}","{0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_14,", , .","{,,,,.}","{,,,,.}","{,,,,.}","{0,0,0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_15,"__ .","{__,.}","{__,.}","{NN,.}","{0,0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_16,"_ , ; , _ , nis , uAL ; ; iif [ i ' - " * 5 " " " ? .","{_,,,;,,,_,,,nis,,,uAL,;,;,iif,[,i,',-,",*,5,",",",?,.}","{_,,,;,,,_,,,ni,,,ual,;,;,iif,[,i,',-,",*,5,",",",?,.}","{NN,,,:,,,NN,,,NN,,,NN,:,:,FW,FW,FW,'',:,``,CD,CD,``,``,``,NN,.}","{20,0,0,0,1,0,20,0,7,0,0,14,14,7,0,0,18,14,7,0,23,23,20,0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_17,"? } .","{?,},.}","{?,},.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-63-A5MY, TCGA-63-A5MYSENT_18,"Ar _ ? ___ _ LDT","{Ar,_,?,___,_,LDT}","{ar,_,?,___,_,ldt}","{FW,FW,FW,FW,FW,NN}","{5,5,5,5,0,5}","{}"

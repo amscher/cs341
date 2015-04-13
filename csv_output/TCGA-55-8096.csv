@@ -1,74 +1,74 @@
-TCGA-55-8096, TCGA-55-8096SENT_1,{},{RAE,?,yen,-ax},{ra,?,yen,-ax},{NN,CD,NN},{}
-TCGA-55-8096, TCGA-55-8096SENT_2,{},{SPECIMEN,INF},{specimen,inf},{NN,NN},{}
-TCGA-55-8096, TCGA-55-8096SENT_3,{},{Collected,:},{collect,:},{VBN,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_4,{},{Received,:},{receive,:},{VBN,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_5,{},{Reported,:},{report,:},{VBN,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_6,{},{SL,.},{SL,.},{NNP,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_7,{},{u.,.....,n.,.},{u.,.....,n.,.},{NN,JJ,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_8,{},{.},{.},{.},{}
-TCGA-55-8096, TCGA-55-8096SENT_9,{},{.},{.},{.},{}
-TCGA-55-8096, TCGA-55-8096SENT_10,{},{ATHOLOGY,REPORT},{ATHOLOGY,REPORT},{NNP,NNP},{}
-TCGA-55-8096, TCGA-55-8096SENT_11,{},{DIAGNOSIS},{diagnosis},{NN},{}
-TCGA-55-8096, TCGA-55-8096SENT_12,{},{DIAGNOSIS,:,Lateral,section,of,left,upper,lobe,,,resection,:},{diagnosis,:,lateral,section,of,left,upper,lobe,,,resection,:},{NN,:,JJ,NN,IN,JJ,JJ,NN,,,NN,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_13,{},{Tumor,Characteristics,:,Histologic,type,:,Adenocarcinoma,.},{tumor,characteristic,:,histologic,type,:,adenocarcinoma,.},{NN,NNS,:,JJ,NN,:,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_14,{},{Histologic,grade,;,Moderately,differentiated,.},{histologic,grade,;,moderately,differentiate,.},{JJ,NN,:,RB,VBN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_15,{},{Tumor,site,:,Lateral,segment,left,upper,lobe,.},{tumor,site,:,lateral,segment,leave,upper,lobe,.},{NN,NN,:,JJ,NN,VBD,JJ,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_16,{},{Tumor,focality,:,Unifocal,.},{tumor,focality,:,Unifocal,.},{NN,NN,:,NNP,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_17,{},{Tumor,size,:,3.8,x,2.8,x,2.5,cm,.},{tumor,size,:,3.8,x,2.8,x,2.5,cm,.},{NN,NN,:,CD,CC,CD,CC,CD,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_18,{},{Visceral,pleural,invasion,:,Yes,.},{visceral,pleural,invasion,:,yes,.},{JJ,JJ,NN,:,UH,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_19,{},{Lymphovascular,space,invasion,:,No.,.},{lymphovascular,space,invasion,:,no.,.},{JJ,NN,NN,:,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_20,{},{Surgical,Margin,Status,:},{Surgical,margin,Status,:},{NNP,NN,NNP,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_21,{},{.},{.},{.},{}
-TCGA-55-8096, TCGA-55-8096SENT_22,{},{Tumor,distance,from,bronchial,margin,:,Within,o.,?},{tumor,distance,from,bronchial,margin,:,within,o.,?},{NN,NN,IN,JJ,NN,:,IN,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_23,{},{cm,.},{cm,.},{NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_24,{},{2,.},{2,.},{LS,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_25,{},{Tumor,distance,from,pare-nchymal,(,stapled,),margin,:,o.,?},{tumor,distance,from,pare-nchymal,(,staple,),margin,:,o.,?},{NN,NN,IN,JJ,NN,VBD,CD,NN,:,VB,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_26,{},{cm,.},{cm,.},{NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_27,{},{3,.},{3,.},{LS,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_28,{},{Tumor,distance,from,pleural,surface,:,Tumor,involves,the,pleura,.},{tumor,distance,from,pleural,surface,:,tumor,involve,the,pleuron,.},{NN,NN,IN,JJ,NN,:,NN,VBZ,DT,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_29,{},{Other,:},{other,:},{JJ,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_30,{},{1,.},{1,.},{LS,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_31,{},{pTNM,stage,:,T2,.,"},{ptnm,stage,:,t2,.,"},{NN,NN,:,NN,.,''},{}
-TCGA-55-8096, TCGA-55-8096SENT_32,{},{.},{.},{.},{}
-TCGA-55-8096, TCGA-55-8096SENT_33,{},{?,*,',F,",S-l,',*,:,?,*,F,",.,'},{?,*,',f,",s-l,',*,:,?,*,f,",.,'},{NN,NN,'',NN,'',NN,'',CD,:,CD,CD,NN,'',.,''},{}
-TCGA-55-8096, TCGA-55-8096SENT_34,{},{?,.,"},{?,.,"},{NN,.,''},{}
-TCGA-55-8096, TCGA-55-8096SENT_35,{},{?},{?},{NN},{}
-TCGA-55-8096, TCGA-55-8096SENT_36,{},{B.,Level,VI,lymph,node,,,excision,:},{B.,Level,VI,lymph,node,,,excision,:},{NNP,NNP,NNP,NN,NN,,,NN,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_37,{},{Single,lymph,node,,,negative,for,malignancy,(,0/1,),.},{single,lymph,node,,,negative,for,malignancy,(,0/1,),.},{JJ,NN,NN,,,JJ,IN,NN,CD,CD,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_38,{},{C.,Level,IX,lymph,node,,,excision,:},{C.,Level,ix,lymph,node,,,excision,:},{NNP,NNP,CD,NN,NN,,,NN,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_39,{},{Single,lymph,node,,,negative,for,malignancy,(,0I1,),.},{single,lymph,node,,,negative,for,malignancy,(,0i1,),.},{JJ,NN,NN,,,JJ,IN,NN,CD,NN,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_40,{},{COMMENTS,:,Tissue,will,be,submitted,for,lung,cancer,mutation,studies,;,separate,report,to,follow,.,'},{comment,:,tissue,will,be,submit,for,lung,cancer,mutation,study,;,separate,report,to,follow,.,'},{NNS,:,NN,MD,VB,VBN,IN,NN,NN,NN,NNS,:,JJ,NN,TO,VB,.,''},{}
-TCGA-55-8096, TCGA-55-8096SENT_41,{},{CLINICAL,?,INFORMATION},{clinical,?,information},{JJ,CD,NN},{}
-TCGA-55-8096, TCGA-55-8096SENT_42,{},{CLINICAL,HISTORY,:,Preoperative,Diagnosis,:,?,emale,with,left,upper,lobe,lung,nodule,with,history,smoking,and,GOPD,Postoperative,Diagnosis,:,Symptoms/Radiologic,Findings,:},{clinical,history,:,Preoperative,diagnosis,:,?,emale,with,left,upper,lobe,lung,nodule,with,history,smoking,and,GOPD,Postoperative,diagnosis,:,symptoms/radiologic,finding,:},{JJ,NN,:,NNP,NN,:,CD,NN,IN,JJ,JJ,NN,NN,NN,IN,NN,NN,CC,NNP,NNP,NN,:,JJ,NNS,:},{}
-TCGA-55-8096, TCGA-55-8096SENT_43,{},{SPECIMENS,:,A.,Lateral,segment,of,left,upper,lobe,B.,Level,Slymph,node,C.,Level,9,lymph,node},{specimen,:,a.,Lateral,segment,of,left,upper,lobe,B.,Level,Slymph,node,C.,Level,9,lymph,node},{NNS,:,NN,NNP,NN,IN,JJ,JJ,NN,NNP,NNP,NNP,NN,NNP,NNP,CD,NN,NN},{}
-TCGA-55-8096, TCGA-55-8096SENT_44,{},{SPECIMEN,DATA},{SPECIMEN,DATA},{NNP,NNP},{}
-TCGA-55-8096, TCGA-55-8096SENT_45,{},{GROSS,DESCRIPTION,:,The,specimen,is,received,in,three,formalin,?lled,containers,labeled,with,the,patient,'s,name,A.,Additionally,labeled,lateral,segment,of,left,upper,lobe,and,contains,an,11.8,x,8.8,x,4.0,cm,portion,of,lung,surfaced,by,purple-gray,anthracotic,pleura,and,featunng,two,serpiginous,staple,lines,17.5,and,4.0,cm,in,greatest,dimension,.},{gross,description,:,the,specimen,be,receive,in,three,formalin,?lled,container,label,with,the,patient,'s,name,a.,additionally,label,lateral,segment,of,left,upper,lobe,and,contain,a,11.8,x,8.8,x,4.0,cm,portion,of,lung,surface,by,purple-gray,anthracotic,pleuron,and,featunng,two,serpiginous,staple,line,17.5,and,4.0,cm,in,greatest,dimension,.},{JJ,NN,:,DT,NN,VBZ,VBN,IN,CD,NN,VBD,NNS,VBN,IN,DT,NN,POS,NN,NN,RB,VBN,JJ,NN,IN,JJ,JJ,NN,CC,VBZ,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,VBN,IN,NN,JJ,NN,CC,NN,CD,JJ,NN,NNS,CD,CC,CD,NN,IN,JJS,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_46,{},{The,pleura,is,remarkable,for,a,1.0,x,1.0,x,0.5,cm,area,of,umbilication,which,is,inked,blue,.},{the,pleuron,be,remarkable,for,a,1.0,x,1.0,x,0.5,cm,area,of,umbilication,which,be,ink,blue,.},{DT,NN,VBZ,JJ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,WDT,VBZ,VBN,JJ,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_47,{},{The,staple,lines,are,removed,and,the,underiying,parenchyma,is,inked,black,.},{the,staple,line,be,remove,and,the,underiy,parenchyma,be,ink,black,.},{DT,NN,NNS,VBP,VBN,CC,DT,VBG,NN,VBZ,VBN,JJ,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_48,{},{After,removing,the,staple,lines,exposed,segments,of,bronchi,and,vasctilature,are,prment,and,are,grossly,free,of,tumor,.},{after,remove,the,staple,line,expose,segment,of,bronchus,and,vasctilature,be,prment,and,be,grossly,free,of,tumor,.},{IN,VBG,DT,NN,NNS,VBN,NNS,IN,NNS,CC,NN,VBP,NN,CC,VBP,RB,JJ,IN,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_49,{},{Sectioning,reveals,a,3.8,x,2.8,x,2.5,cm,gray-white,mass,that,abuts,the,pleura,at,the,site,of,unbilicatiori,and,approaches,to,wilzhin,0.7,cm,of,the,inked,parenchymal,margin,.},{section,reveal,a,3.8,x,2.8,x,2.5,cm,gray-white,mass,that,abut,the,pleuron,at,the,site,of,unbilicatiorus,and,approach,to,wilzhin,0.7,cm,of,the,ink,parenchymal,margin,.},{VBG,VBZ,DT,CD,CC,CD,CC,CD,NN,JJ,NN,WDT,VBZ,DT,NN,IN,DT,NN,IN,NN,CC,VBZ,TO,VB,CD,NN,IN,DT,VBN,JJ,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_50,{},{The,mass,features,a,gray-white,friable,,,so?,cut,surface,.},{the,mass,feature,a,gray-white,friable,,,so?,cut,surface,.},{DT,NN,VBZ,DT,JJ,JJ,,,JJ,NN,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_51,{},{The,remainder,of,the,cut,surface,is,beefy,red,and,congested,with,areas,of,emphysematous,change,.},{the,remainder,of,the,cut,surface,be,beefy,red,and,congest,with,area,of,emphysematous,change,.},{DT,NN,IN,DT,NN,NN,VBZ,JJ,NN,CC,VBN,IN,NNS,IN,JJ,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_52,{},{Additional,masses,are,not,identi?ed,.},{additional,mass,be,not,identi?ed,.},{JJ,NNS,VBP,RB,VBN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_53,{},{Additionallah,",o,discrete,h,?},{additionallah,",o,discrete,h,?},{JJ,``,NN,JJ,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_54,{},{+,nodes,are,K,g,?},{+,node,be,K,g,?},{CC,NNS,VBP,NNP,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_55,{},{+,Representative,sections,are,submitted,in,cassettes,A1-8,labeled,designated,as,follows,:,1,--,exposed,:,>,r,:,~,",c.,",',2,',and,was,-,:,:,.},{+,Representative,section,be,submit,in,cassette,a1-8,label,designate,as,follow,:,1,--,expose,:,>,r,:,~,",c.,",',2,',and,be,-,:,:,.},{CC,NNP,NNS,VBP,VBN,IN,NNS,JJ,VBN,VBN,IN,VBZ,:,CD,:,VBN,:,JJR,NN,:,CD,``,VBP,``,'',CD,'',CC,VBD,:,:,:,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_56,{},{.},{.},{.},{}
-TCGA-55-8096, TCGA-55-8096SENT_57,{},{a,?,',.,"},{a,?,',.,"},{DT,NN,'',.,''},{}
-TCGA-55-8096, TCGA-55-8096SENT_58,{},{.},{.},{.},{}
-TCGA-55-8096, TCGA-55-8096SENT_59,{},{es,',;,fr,'s,en,?,aw,2,?,i,',nked,deep,margin,closest,to,mass,.},{e,',;,fr,'s,en,?,aw,2,?,i,',nked,deep,margin,closest,to,mass,.},{NNS,POS,:,NN,POS,IN,CD,NN,CD,CD,FW,'',JJ,JJ,NN,JJS,TO,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_60,{},{perpendicular,;,3-6,-,mass,to,inked,pleura,.},{perpendicular,;,3-6,-,mass,to,ink,pleuron,.},{JJ,:,CD,:,NN,TO,VBN,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_61,{},{perpendicular,;,7,-,?},{perpendicular,;,7,-,?},{JJ,:,CD,:,CD},{}
-TCGA-55-8096, TCGA-55-8096SENT_62,{},{I},{I},{PRP},{}
-TCGA-55-8096, TCGA-55-8096SENT_63,{},{-,r,-,Tclblue,cassette,are,submitted,tor,Lienomics,reseaicn},{-,r,-,tclblue,cassette,be,submit,tor,lienomic,reseaicn},{:,SYM,:,NN,NN,VBP,VBN,NN,NNS,VBP},{}
-TCGA-55-8096, TCGA-55-8096SENT_64,{},{_,_,I,appearing,parenchyma,.},{_,_,I,appear,parenchyma,.},{RB,CD,PRP,VBG,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_65,{},{Additionally,,,a,yellow,green,an,emphysematous,change,,,8,most,norma,each,labeled,ch,Th},{additionally,,,a,yellow,green,a,emphysematous,change,,,8,most,norma,each,label,ch,th},{RB,,,DT,JJ,JJ,DT,JJ,NN,,,CD,RBS,JJ,DT,VBN,NN,NN},{}
-TCGA-55-8096, TCGA-55-8096SENT_66,{},{.},{.},{.},{}
-TCGA-55-8096, TCGA-55-8096SENT_67,{},{.,'},{.,'},{.,''},{}
-TCGA-55-8096, TCGA-55-8096SENT_68,{},{?,I,k,d,I,co,s,',stent,with,anthracotic,lymph,nodes,1.0,cm,.},{?,i,k,d,I,co,s,',stent,with,anthracotic,lymph,node,1.0,cm,.},{NN,CD,NN,NN,PRP,VBP,NNS,POS,NN,IN,JJ,NN,NNS,CD,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_69,{},{ea,.},{ea,.},{NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_70,{},{e,),?,379},{e,),?,379},{SYM,CD,NN,CD},{}
-TCGA-55-8096, TCGA-55-8096SENT_71,{},{B.,Additionaliy,labeled,level,6,lymph,node,and,contains,two,irregular,b,ac,no,u,es,n,I,entirely,submitted,in,cassette,B,labeled},{B.,Additionaliy,label,level,6,lymph,node,and,contain,two,irregular,b,ac,no,u,es,n,I,entirely,submit,in,cassette,b,label},{NNP,NNP,VBN,NN,CD,NN,NN,CC,VBZ,CD,JJ,NN,IN,DT,FW,FW,NN,PRP,RB,VBD,IN,NN,NN,VBN},{}
-TCGA-55-8096, TCGA-55-8096SENT_72,{},{-,-,bb,nodule,bisected,to,reveal,a,black,,,anthracotic,cut,surface,c,_,Addgtionaily,labeled,level,9,lymph,node,and,contains,a,1.0,cm,PUTPIB,9733,!},{-,-,bb,nodule,bisect,to,reveal,a,black,,,anthracotic,cut,surface,c,_,Addgtionaily,label,level,9,lymph,node,and,contain,a,1.0,cm,putpib,9733,!},{:,:,NN,NN,VBN,TO,VB,DT,JJ,,,JJ,NN,NN,NN,CD,NNP,VBN,NN,CD,NN,NN,CC,VBZ,DT,CD,NN,NN,CD,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_73,{},{W,5W,n,sistent,with,lymph,node,.},{W,5w,n,sistent,with,lymph,node,.},{NNP,NN,NN,VBG,IN,NN,NN,.},{}
-TCGA-55-8096, TCGA-55-8096SENT_74,{},{The,specimen,is,enf,",e,',Y,Submitted,5,",Cassette,C,labeled,2,","},{the,specimen,be,enf,",e,',y,submit,5,",cassette,c,label,2,","},{DT,NN,VBZ,JJ,``,SYM,'',NN,VBN,CD,``,NN,NN,VBN,CD,``,''},{}
+TCGA-55-8096, TCGA-55-8096SENT_1,"RAE ? yen,-ax","{RAE,?,yen,-ax}","{ra,?,yen,-ax}","{NN,CD,NN}","{0,3,1}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_2,"SPECIMEN INF","{SPECIMEN,INF}","{specimen,inf}","{NN,NN}","{2,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_3,"Collected :","{Collected,:}","{collect,:}","{VBN,:}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_4,"Received :","{Received,:}","{receive,:}","{VBN,:}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_5,"Reported :","{Reported,:}","{report,:}","{VBN,:}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_6,"SL .","{SL,.}","{SL,.}","{NNP,.}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_7,"u. ..... n. .","{u.,.....,n.,.}","{u.,.....,n.,.}","{NN,JJ,NN,.}","{0,3,1,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_8,".","{.}","{.}","{.}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_9,".","{.}","{.}","{.}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_10,"ATHOLOGY REPORT","{ATHOLOGY,REPORT}","{ATHOLOGY,REPORT}","{NNP,NNP}","{2,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_11,"DIAGNOSIS","{DIAGNOSIS}","{diagnosis}","{NN}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_12,"DIAGNOSIS : Lateral section of left upper lobe , resection :","{DIAGNOSIS,:,Lateral,section,of,left,upper,lobe,,,resection,:}","{diagnosis,:,lateral,section,of,left,upper,lobe,,,resection,:}","{NN,:,JJ,NN,IN,JJ,JJ,NN,,,NN,:}","{0,0,4,1,0,8,8,4,0,1,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_13,"Tumor Characteristics : Histologic type : Adenocarcinoma .","{Tumor,Characteristics,:,Histologic,type,:,Adenocarcinoma,.}","{tumor,characteristic,:,histologic,type,:,adenocarcinoma,.}","{NN,NNS,:,JJ,NN,:,NN,.}","{2,0,0,5,2,0,5,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_14,"Histologic grade ; Moderately differentiated .","{Histologic,grade,;,Moderately,differentiated,.}","{histologic,grade,;,moderately,differentiate,.}","{JJ,NN,:,RB,VBN,.}","{2,0,0,5,2,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_15,"Tumor site : Lateral segment left upper lobe .","{Tumor,site,:,Lateral,segment,left,upper,lobe,.}","{tumor,site,:,lateral,segment,leave,upper,lobe,.}","{NN,NN,:,JJ,NN,VBD,JJ,NN,.}","{2,0,0,5,6,2,8,6,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_16,"Tumor focality : Unifocal .","{Tumor,focality,:,Unifocal,.}","{tumor,focality,:,Unifocal,.}","{NN,NN,:,NNP,.}","{2,0,0,2,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_17,"Tumor size : 3.8 x 2.8 x 2.5 cm .","{Tumor,size,:,3.8,x,2.8,x,2.5,cm,.}","{tumor,size,:,3.8,x,2.8,x,2.5,cm,.}","{NN,NN,:,CD,CC,CD,CC,CD,NN,.}","{2,0,0,2,0,2,0,9,6,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_18,"Visceral pleural invasion : Yes .","{Visceral,pleural,invasion,:,Yes,.}","{visceral,pleural,invasion,:,yes,.}","{JJ,JJ,NN,:,UH,.}","{3,3,0,0,3,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_19,"Lymphovascular space invasion : No. .","{Lymphovascular,space,invasion,:,No.,.}","{lymphovascular,space,invasion,:,no.,.}","{JJ,NN,NN,:,NN,.}","{3,3,0,0,3,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_20,"Surgical Margin Status :","{Surgical,Margin,Status,:}","{Surgical,margin,Status,:}","{NNP,NN,NNP,:}","{3,3,0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_21,".","{.}","{.}","{.}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_22,"Tumor distance from bronchial margin : Within o. ?","{Tumor,distance,from,bronchial,margin,:,Within,o.,?}","{tumor,distance,from,bronchial,margin,:,within,o.,?}","{NN,NN,IN,JJ,NN,:,IN,NN,.}","{2,0,2,5,3,0,2,7,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_23,"cm .","{cm,.}","{cm,.}","{NN,.}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_24,"2 .","{2,.}","{2,.}","{LS,.}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_25,"Tumor distance from pare-nchymal ( stapled ) margin : o. ?","{Tumor,distance,from,pare-nchymal,(,stapled,),margin,:,o.,?}","{tumor,distance,from,pare-nchymal,(,staple,),margin,:,o.,?}","{NN,NN,IN,JJ,NN,VBD,CD,NN,:,VB,.}","{2,6,0,5,2,0,8,6,0,8,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_26,"cm .","{cm,.}","{cm,.}","{NN,.}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_27,"3 .","{3,.}","{3,.}","{LS,.}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_28,"Tumor distance from pleural surface : Tumor involves the pleura .","{Tumor,distance,from,pleural,surface,:,Tumor,involves,the,pleura,.}","{tumor,distance,from,pleural,surface,:,tumor,involve,the,pleuron,.}","{NN,NN,IN,JJ,NN,:,NN,VBZ,DT,NN,.}","{2,8,0,7,7,0,2,0,10,8,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_29,"Other :","{Other,:}","{other,:}","{JJ,:}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_30,"1 .","{1,.}","{1,.}","{LS,.}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_31,"pTNM stage : T2 . "","{pTNM,stage,:,T2,.,"}","{ptnm,stage,:,t2,.,"}","{NN,NN,:,NN,.,''}","{2,0,0,2,0,2}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_32,".","{.}","{.}","{.}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_33,"? * ' F " S-l ' * : ? * F " . '","{?,*,',F,",S-l,',*,:,?,*,F,",.,'}","{?,*,',f,",s-l,',*,:,?,*,f,",.,'}","{NN,NN,'',NN,'',NN,'',CD,:,CD,CD,NN,'',.,''}","{2,0,0,6,6,2,0,6,0,11,6,11,2,0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_34,"? . "","{?,.,"}","{?,.,"}","{NN,.,''}","{0,0,1}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_35,"?","{?}","{?}","{NN}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_36,"B. Level VI lymph node , excision :","{B.,Level,VI,lymph,node,,,excision,:}","{B.,Level,VI,lymph,node,,,excision,:}","{NNP,NNP,NNP,NN,NN,,,NN,:}","{5,5,5,5,0,0,5,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_37,"Single lymph node , negative for malignancy ( 0/1 ) .","{Single,lymph,node,,,negative,for,malignancy,(,0/1,),.}","{single,lymph,node,,,negative,for,malignancy,(,0/1,),.}","{JJ,NN,NN,,,JJ,IN,NN,CD,CD,NN,.}","{3,3,0,0,10,0,5,9,10,3,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_38,"C. Level IX lymph node , excision :","{C.,Level,IX,lymph,node,,,excision,:}","{C.,Level,ix,lymph,node,,,excision,:}","{NNP,NNP,CD,NN,NN,,,NN,:}","{2,0,5,5,2,0,5,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_39,"Single lymph node , negative for malignancy ( 0I1 ) .","{Single,lymph,node,,,negative,for,malignancy,(,0I1,),.}","{single,lymph,node,,,negative,for,malignancy,(,0i1,),.}","{JJ,NN,NN,,,JJ,IN,NN,CD,NN,NN,.}","{3,3,0,0,3,0,10,10,10,5,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_40,"COMMENTS : Tissue will be submitted for lung cancer mutation studies ; separate report to follow . '","{COMMENTS,:,Tissue,will,be,submitted,for,lung,cancer,mutation,studies,;,separate,report,to,follow,.,'}","{comment,:,tissue,will,be,submit,for,lung,cancer,mutation,study,;,separate,report,to,follow,.,'}","{NNS,:,NN,MD,VB,VBN,IN,NN,NN,NN,NNS,:,JJ,NN,TO,VB,.,''}","{0,0,1,6,6,3,0,11,11,11,6,0,14,1,16,14,0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_41,"CLINICAL ? INFORMATION","{CLINICAL,?,INFORMATION}","{clinical,?,information}","{JJ,CD,NN}","{0,3,1}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_42,"CLINICAL HISTORY : Preoperative Diagnosis : ? emale with left upper lobe lung nodule with history smoking and GOPD Postoperative Diagnosis : Symptoms/Radiologic Findings :","{CLINICAL,HISTORY,:,Preoperative,Diagnosis,:,?,emale,with,left,upper,lobe,lung,nodule,with,history,smoking,and,GOPD,Postoperative,Diagnosis,:,Symptoms/Radiologic,Findings,:}","{clinical,history,:,Preoperative,diagnosis,:,?,emale,with,left,upper,lobe,lung,nodule,with,history,smoking,and,GOPD,Postoperative,diagnosis,:,symptoms/radiologic,finding,:}","{JJ,NN,:,NNP,NN,:,CD,NN,IN,JJ,JJ,NN,NN,NN,IN,NN,NN,CC,NNP,NNP,NN,:,JJ,NNS,:}","{2,0,0,5,2,0,8,5,0,14,14,14,14,8,0,17,8,0,21,21,5,0,24,21,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_43,"SPECIMENS : A. Lateral segment of left upper lobe B. Level Slymph node C. Level 9 lymph node","{SPECIMENS,:,A.,Lateral,segment,of,left,upper,lobe,B.,Level,Slymph,node,C.,Level,9,lymph,node}","{specimen,:,a.,Lateral,segment,of,left,upper,lobe,B.,Level,Slymph,node,C.,Level,9,lymph,node}","{NNS,:,NN,NNP,NN,IN,JJ,JJ,NN,NNP,NNP,NNP,NN,NNP,NNP,CD,NN,NN}","{0,0,1,3,17,0,9,9,5,15,15,15,15,15,17,17,1,17}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_44,"SPECIMEN DATA","{SPECIMEN,DATA}","{SPECIMEN,DATA}","{NNP,NNP}","{2,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_45,"GROSS DESCRIPTION : The specimen is received in three formalin ?lled containers labeled with the patient 's name A. Additionally labeled lateral segment of left upper lobe and contains an 11.8 x 8.8 x 4.0 cm portion of lung surfaced by purple-gray anthracotic pleura and featunng two serpiginous staple lines 17.5 and 4.0 cm in greatest dimension .","{GROSS,DESCRIPTION,:,The,specimen,is,received,in,three,formalin,?lled,containers,labeled,with,the,patient,'s,name,A.,Additionally,labeled,lateral,segment,of,left,upper,lobe,and,contains,an,11.8,x,8.8,x,4.0,cm,portion,of,lung,surfaced,by,purple-gray,anthracotic,pleura,and,featunng,two,serpiginous,staple,lines,17.5,and,4.0,cm,in,greatest,dimension,.}","{gross,description,:,the,specimen,be,receive,in,three,formalin,?lled,container,label,with,the,patient,'s,name,a.,additionally,label,lateral,segment,of,left,upper,lobe,and,contain,a,11.8,x,8.8,x,4.0,cm,portion,of,lung,surface,by,purple-gray,anthracotic,pleuron,and,featunng,two,serpiginous,staple,line,17.5,and,4.0,cm,in,greatest,dimension,.}","{JJ,NN,:,DT,NN,VBZ,VBN,IN,CD,NN,VBD,NNS,VBN,IN,DT,NN,POS,NN,NN,RB,VBN,JJ,NN,IN,JJ,JJ,NN,CC,VBZ,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,VBN,IN,NN,JJ,NN,CC,NN,CD,JJ,NN,NNS,CD,CC,CD,NN,IN,JJS,NN,.}","{2,7,0,5,7,7,11,0,10,7,0,11,12,0,16,19,0,19,13,21,19,23,21,0,27,27,23,0,11,31,33,0,29,0,36,29,11,0,37,39,0,44,44,40,0,44,50,50,50,11,54,0,54,50,0,57,54,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_46,"The pleura is remarkable for a 1.0 x 1.0 x 0.5 cm area of umbilication which is inked blue .","{The,pleura,is,remarkable,for,a,1.0,x,1.0,x,0.5,cm,area,of,umbilication,which,is,inked,blue,.}","{the,pleuron,be,remarkable,for,a,1.0,x,1.0,x,0.5,cm,area,of,umbilication,which,be,ink,blue,.}","{DT,NN,VBZ,JJ,IN,DT,CD,CC,CD,CC,CD,NN,NN,IN,NN,WDT,VBZ,VBN,JJ,.}","{2,4,4,0,0,7,4,0,4,0,13,13,4,0,13,18,18,13,18,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_47,"The staple lines are removed and the underiying parenchyma is inked black .","{The,staple,lines,are,removed,and,the,underiying,parenchyma,is,inked,black,.}","{the,staple,line,be,remove,and,the,underiy,parenchyma,be,ink,black,.}","{DT,NN,NNS,VBP,VBN,CC,DT,VBG,NN,VBZ,VBN,JJ,.}","{3,3,5,5,0,0,9,9,11,11,5,11,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_48,"After removing the staple lines exposed segments of bronchi and vasctilature are prment and are grossly free of tumor .","{After,removing,the,staple,lines,exposed,segments,of,bronchi,and,vasctilature,are,prment,and,are,grossly,free,of,tumor,.}","{after,remove,the,staple,line,expose,segment,of,bronchus,and,vasctilature,be,prment,and,be,grossly,free,of,tumor,.}","{IN,VBG,DT,NN,NNS,VBN,NNS,IN,NNS,CC,NN,VBP,NN,CC,VBP,RB,JJ,IN,NN,.}","{0,13,5,5,2,7,17,0,7,0,7,13,0,0,17,17,13,0,17,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_49,"Sectioning reveals a 3.8 x 2.8 x 2.5 cm gray-white mass that abuts the pleura at the site of unbilicatiori and approaches to wilzhin 0.7 cm of the inked parenchymal margin .","{Sectioning,reveals,a,3.8,x,2.8,x,2.5,cm,gray-white,mass,that,abuts,the,pleura,at,the,site,of,unbilicatiori,and,approaches,to,wilzhin,0.7,cm,of,the,inked,parenchymal,margin,.}","{section,reveal,a,3.8,x,2.8,x,2.5,cm,gray-white,mass,that,abut,the,pleuron,at,the,site,of,unbilicatiorus,and,approach,to,wilzhin,0.7,cm,of,the,ink,parenchymal,margin,.}","{VBG,VBZ,DT,CD,CC,CD,CC,CD,NN,JJ,NN,WDT,VBZ,DT,NN,IN,DT,NN,IN,NN,CC,VBZ,TO,VB,CD,NN,IN,DT,VBN,JJ,NN,.}","{0,1,4,6,0,2,0,9,6,11,1,22,11,15,13,0,18,13,0,18,0,13,24,22,26,24,0,26,28,31,29,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_50,"The mass features a gray-white friable , so? cut surface .","{The,mass,features,a,gray-white,friable,,,so?,cut,surface,.}","{the,mass,feature,a,gray-white,friable,,,so?,cut,surface,.}","{DT,NN,VBZ,DT,JJ,JJ,,,JJ,NN,NN,.}","{2,3,0,10,10,10,0,10,10,3,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_51,"The remainder of the cut surface is beefy red and congested with areas of emphysematous change .","{The,remainder,of,the,cut,surface,is,beefy,red,and,congested,with,areas,of,emphysematous,change,.}","{the,remainder,of,the,cut,surface,be,beefy,red,and,congest,with,area,of,emphysematous,change,.}","{DT,NN,IN,DT,NN,NN,VBZ,JJ,NN,CC,VBN,IN,NNS,IN,JJ,NN,.}","{2,11,0,6,6,2,9,9,0,0,9,0,11,0,16,13,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_52,"Additional masses are not identi?ed .","{Additional,masses,are,not,identi?ed,.}","{additional,mass,be,not,identi?ed,.}","{JJ,NNS,VBP,RB,VBN,.}","{2,5,5,5,0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_53,"Additionallah " o discrete h ?","{Additionallah,",o,discrete,h,?}","{additionallah,",o,discrete,h,?}","{JJ,``,NN,JJ,NN,.}","{0,3,1,5,3,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_54,"+ nodes are K g ?","{+,nodes,are,K,g,?}","{+,node,be,K,g,?}","{CC,NNS,VBP,NNP,NN,.}","{5,5,5,5,0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_55,"+ Representative sections are submitted in cassettes A1-8 labeled designated as follows : 1 -- exposed : > r : ~ " c. " ' 2 ' and was - : : .","{+,Representative,sections,are,submitted,in,cassettes,A1-8,labeled,designated,as,follows,:,1,--,exposed,:,>,r,:,~,",c.,",',2,',and,was,-,:,:,.}","{+,Representative,section,be,submit,in,cassette,a1-8,label,designate,as,follow,:,1,--,expose,:,>,r,:,~,",c.,",',2,',and,be,-,:,:,.}","{CC,NNP,NNS,VBP,VBN,IN,NNS,JJ,VBN,VBN,IN,VBZ,:,CD,:,VBN,:,JJR,NN,:,CD,``,VBP,``,'',CD,'',CC,VBD,:,:,:,.}","{2,5,2,5,0,0,5,7,7,9,12,10,0,7,0,14,0,19,16,0,23,23,19,23,0,24,0,0,23,0,0,0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_56,".","{.}","{.}","{.}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_57,"a ? ' . "","{a,?,',.,"}","{a,?,',.,"}","{DT,NN,'',.,''}","{2,3,0,0,3}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_58,".","{.}","{.}","{.}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_59,"es ' ; fr 's en ? aw 2 ? i ' nked deep margin closest to mass .","{es,',;,fr,'s,en,?,aw,2,?,i,',nked,deep,margin,closest,to,mass,.}","{e,',;,fr,'s,en,?,aw,2,?,i,',nked,deep,margin,closest,to,mass,.}","{NNS,POS,:,NN,POS,IN,CD,NN,CD,CD,FW,'',JJ,JJ,NN,JJS,TO,NN,.}","{0,0,0,7,4,4,8,17,10,17,10,0,15,15,11,11,1,17,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_60,"perpendicular ; 3-6 - mass to inked pleura .","{perpendicular,;,3-6,-,mass,to,inked,pleura,.}","{perpendicular,;,3-6,-,mass,to,ink,pleuron,.}","{JJ,:,CD,:,NN,TO,VBN,NN,.}","{0,0,1,0,3,7,5,7,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_61,"perpendicular ; 7 - ?","{perpendicular,;,7,-,?}","{perpendicular,;,7,-,?}","{JJ,:,CD,:,CD}","{0,0,5,0,1}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_62,"I","{I}","{I}","{PRP}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_63,"- r - Tclblue cassette are submitted tor Lienomics reseaicn","{-,r,-,Tclblue,cassette,are,submitted,tor,Lienomics,reseaicn}","{-,r,-,tclblue,cassette,be,submit,tor,lienomic,reseaicn}","{:,SYM,:,NN,NN,VBP,VBN,NN,NNS,VBP}","{0,7,0,5,2,7,0,9,10,7}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_64,"_ _ I appearing parenchyma .","{_,_,I,appearing,parenchyma,.}","{_,_,I,appear,parenchyma,.}","{RB,CD,PRP,VBG,NN,.}","{2,0,4,2,4,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_65,"Additionally , a yellow green an emphysematous change , 8 most norma each labeled ch Th","{Additionally,,,a,yellow,green,an,emphysematous,change,,,8,most,norma,each,labeled,ch,Th}","{additionally,,,a,yellow,green,a,emphysematous,change,,,8,most,norma,each,label,ch,th}","{RB,,,DT,JJ,JJ,DT,JJ,NN,,,CD,RBS,JJ,DT,VBN,NN,NN}","{14,0,5,5,14,8,8,14,0,8,12,10,10,0,16,14}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_66,".","{.}","{.}","{.}","{0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_67,". '","{.,'}","{.,'}","{.,''}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_68,"? I k d I co s ' stent with anthracotic lymph nodes 1.0 cm .","{?,I,k,d,I,co,s,',stent,with,anthracotic,lymph,nodes,1.0,cm,.}","{?,i,k,d,I,co,s,',stent,with,anthracotic,lymph,node,1.0,cm,.}","{NN,CD,NN,NN,PRP,VBP,NNS,POS,NN,IN,JJ,NN,NNS,CD,NN,.}","{4,4,4,0,6,4,9,0,6,0,13,13,9,15,13,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_69,"ea .","{ea,.}","{ea,.}","{NN,.}","{0,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_70,"e ) ? 379","{e,),?,379}","{e,),?,379}","{SYM,CD,NN,CD}","{3,3,4,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_71,"B. Additionaliy labeled level 6 lymph node and contains two irregular b ac no u es n I entirely submitted in cassette B labeled","{B.,Additionaliy,labeled,level,6,lymph,node,and,contains,two,irregular,b,ac,no,u,es,n,I,entirely,submitted,in,cassette,B,labeled}","{B.,Additionaliy,label,level,6,lymph,node,and,contain,two,irregular,b,ac,no,u,es,n,I,entirely,submit,in,cassette,b,label}","{NNP,NNP,VBN,NN,CD,NN,NN,CC,VBZ,CD,JJ,NN,IN,DT,FW,FW,NN,PRP,RB,VBD,IN,NN,NN,VBN}","{2,3,0,7,4,7,3,0,3,12,12,9,0,16,16,9,16,20,20,16,0,23,20,23}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_72,"- - bb nodule bisected to reveal a black , anthracotic cut surface c _ Addgtionaily labeled level 9 lymph node and contains a 1.0 cm PUTPIB 9733 !","{-,-,bb,nodule,bisected,to,reveal,a,black,,,anthracotic,cut,surface,c,_,Addgtionaily,labeled,level,9,lymph,node,and,contains,a,1.0,cm,PUTPIB,9733,!}","{-,-,bb,nodule,bisect,to,reveal,a,black,,,anthracotic,cut,surface,c,_,Addgtionaily,label,level,9,lymph,node,and,contain,a,1.0,cm,putpib,9733,!}","{:,:,NN,NN,VBN,TO,VB,DT,JJ,,,JJ,NN,NN,NN,CD,NNP,VBN,NN,CD,NN,NN,CC,VBZ,DT,CD,NN,NN,CD,.}","{0,0,4,7,4,5,0,13,13,0,13,13,7,16,16,7,16,21,18,21,17,0,7,27,27,27,28,23,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_73,"W 5W n sistent with lymph node .","{W,5W,n,sistent,with,lymph,node,.}","{W,5w,n,sistent,with,lymph,node,.}","{NNP,NN,NN,VBG,IN,NN,NN,.}","{3,3,0,3,0,7,4,0}","{}"
+TCGA-55-8096, TCGA-55-8096SENT_74,"The specimen is enf " e ' Y Submitted 5 " Cassette C labeled 2 " "","{The,specimen,is,enf,",e,',Y,Submitted,5,",Cassette,C,labeled,2,","}","{the,specimen,be,enf,",e,',y,submit,5,",cassette,c,label,2,","}","{DT,NN,VBZ,JJ,``,SYM,'',NN,VBN,CD,``,NN,NN,VBN,CD,``,''}","{2,4,4,0,8,8,0,14,8,9,9,13,9,4,14,4,4}","{}"

@@ -1,169 +1,169 @@
-TCGA-O1-A52J, TCGA-O1-A52JSENT_1,{},{UUID,:,E5CS4019,-,F494-IIFSD-847A-3OCF65F65E19},{UUID,:,e5cs4019,-,f494-iifsd-847a-3ocf65f65e19},{NNP,:,NN,:,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_2,{},{TCGA-O1-A52,],-61,A-PR,Redacted},{tcga-o1-a52,],-61,a-pr,redact},{NN,CD,CD,NN,VBN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_3,{},{|,|,|,|,III,I,|,|,|,|,|,|,|,|,|,I,II,Elllllllllllllllllllllllllllllllllll,Illllllllllllll},{|,|,|,|,iii,I,|,|,|,|,|,|,|,|,|,i,ii,Elllllllllllllllllllllllllllllllllll,Illllllllllllll},{RB,CD,CD,NN,CD,PRP,VBP,CD,CD,NN,CD,CD,NN,CD,NN,NN,CD,NNP,NNP},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_4,{},{Patient,:},{patient,:},{NN,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_5,{},{AP,surgxcgt,P8thuIogy,:,Addltfonal,am,Amara,",Imago,Cytal-ne,?,u,',_,y,_,?,x},{ap,surgxcgt,p8thuiogy,:,Addltfonal,be,Amara,",Imago,cytal-ne,?,u,',_,y,_,?,x},{NN,NN,NN,:,NNP,VBP,NNP,``,NNP,NN,CD,NN,'',FW,FW,CD,CD,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_6,{},{HERIINEU,IMKHJOHISTOCHZPECRL,iNA1,',.},{heriineu,imkhjohistochzpecrl,ina1,',.},{JJ,NN,NN,'',.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_7,{},{oYSI3,BY,DMw,-,i-ERCEPTBST},{oysi3,by,dmw,-,i-erceptbst},{NN,IN,SYM,:,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_8,{},{A,.52,_,Nos,:,of,the,invaniv,:,tumor,cells,exhibit,any,staining,at,their,cell,momhzanu,1,-,;,%,",5,(,score,o,),,,?,indicating,that,they,do,not,c,:,-,virczexprass,H232/neu,oncopxoeain,g,z,:,,,?,V,z,?,E,;,Q,IVIERPREIATIONSI,.},{a,.52,_,no,:,of,the,invaniv,:,tumor,cell,exhibit,any,staining,at,they,cell,momhzanu,1,-,;,%,",5,(,score,o,),,,?,indicate,that,they,do,not,c,:,-,virczexprass,h232/neu,oncopxoeain,g,z,:,,,?,v,z,?,e,;,Q,IVIERPREIATIONSI,.},{DT,CD,CD,NNS,:,IN,DT,NN,:,NN,NNS,VBP,DT,NN,IN,PRP$,NN,NN,CD,:,:,NN,'',CD,NN,NN,NN,CD,,,CD,VBG,IN,PRP,VBP,RB,NN,:,:,NN,NN,NN,NN,SYM,:,,,CD,NN,SYM,CD,NN,:,NNP,NNP,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_9,{},{\,.,'},{\,.,'},{NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_10,{},{@,\,>,~,>},{@,\,>,~,>},{IN,CD,JJR,NN,JJR},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_11,{},{TISSUE,?,TYPE,?,LEFT,LOWER,LOB,!},{tissue,?,type,?,LEFT,LOWER,LOB,!},{NN,CD,NN,CD,NNP,NNP,NNP,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_12,{},{BASVLAR,SE@1E3'I'EC'.'??GM?',CONTAINING,",WEI,.},{basvlar,se@1e3'i'ec'.'??gm?',contain,",WEI,.},{NN,NN,VBG,'',NNP,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_13,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_14,{},{L,.},{l,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_15,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_16,{},{DIE?E,?,ER1,',INTIA,',1,',ED,ADENOCARCINOHA,wrrx,?,CELL,92130253,E,?,-,",a,IM-IUNOB1,',5TOCHE,\,tIS,',z,',.,'},{die?e,?,er1,',intium,',1,',ED,ADENOCARCINOHA,wrrx,?,cell,92130253,e,?,-,",a,im-iunob1,',5toche,\,ti,',z,',.,'},{NN,CD,NN,'',NN,'',CD,'',NNP,NNP,NN,CD,NN,CD,NN,SYM,:,``,DT,NN,POS,NN,CD,NN,'',SYM,'',.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_17,{},{RY,:,STRONGLY,POSITIVE,(,34,-,),FOR,EXPRESSION,?,E.,5,?,?},{ry,:,strongly,positive,(,34,-,),for,expression,?,E.,5,?,?},{NN,:,RB,JJ,CD,CD,:,CD,IN,NN,CD,NNP,CD,CD,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_18,{},{o,?},{o,?},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_19,{},{EPIEEEMKL,GROWTH,FACTGR,RECEPTOR,.,"},{EPIEEEMKL,growth,factgr,receptor,.,"},{NNP,NN,NN,NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_20,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_21,{},{.,','},{.,','},{.,'',''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_22,{},{D9,H332/NEU,_,IM4,',{,m,',OHISTOCBEMISTR,?,:,NEGATIVE,(,o,),FOR,OVTBREXPRESSION,03,',8322/3120,\,:,_,Z,onconorszza,.},{d9,h332/neu,_,im4,',{,m,',ohistocbemistr,?,:,NEGATIVE,(,o,),for,ovtbrexpression,03,',8322/3120,\,:,_,z,onconorszza,.},{NN,NN,CD,NN,'',NN,NN,'',NN,NN,:,NNP,CD,NN,CD,IN,NN,NN,'',CD,CD,:,CD,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_23,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_24,{},{L,_,<,>,__,.},{l,_,<,>,__,.},{NN,NN,JJR,JJR,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_25,{},{p,z,V,W},{p,z,V,W},{NN,SYM,NNP,NNP},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_26,{},{EGFR,FISK,?},{egfr,fisk,?},{NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_27,{},{RE,?,U,?,TS,WILL,BE,ISSUED,IN,AN,ADDENDUM,TO,THIS,REPORT,J.,certizjr,that,I,personally,conducctcl,eh,:,diagnostic,avnluacion,at,the,above,E,av.-ac,mum,;,r,z,hava,randnrnd,the,above,daagnoaistesl,.},{re,?,U,?,t,will,be,ISSUED,in,a,ADDENDUM,to,THIS,REPORT,J.,certizjr,that,I,personally,conducctcl,eh,:,diagnostic,avnluacion,at,the,above,e,av.-ac,mum,;,r,z,hava,randnrnd,the,above,daagnoaistesl,.},{VB,CD,NNP,NNP,NN,MD,VB,NNP,IN,DT,NNP,TO,NNP,NNP,NNP,NN,IN,PRP,RB,VBP,UH,:,JJ,NN,IN,DT,JJ,NN,JJ,NN,:,NN,SYM,FW,FW,DT,JJ,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_28,{},{__,V,%,?,E,?,<},{__,v,%,?,e,?,<},{NN,NN,NN,CD,NN,NN,JJR},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_29,{},{c,:,Ann,:,xnu,=,2,;,EGFR,?,FISH},{c,:,Ann,:,xnu,=,2,;,egfr,?,fish},{NN,:,NNP,:,NN,JJ,CD,:,NN,CD,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_30,{},{?},{?},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_31,{},{1uo,_,:,:,e,:,=,encn,-,in,situ,hybridization,(,FISH,),with,probes,in,:,the,sum,ragion,of,Ch1,',?,m,?,l0m,?,7,(,7911-1-qJ,.1.1,.,)},{1uo,_,:,:,e,:,=,encn,-,in,situ,hybridization,(,fish,),with,probe,in,:,the,sum,ragion,of,ch1,',?,m,?,l0m,?,7,(,7911-1-qj,.1.1,.,)},{JJ,NN,:,:,LS,:,JJ,NN,:,FW,FW,NN,CD,NN,NN,IN,NNS,IN,:,DT,NN,NN,IN,NN,'',NN,NN,CD,NN,NN,CD,NN,NN,CD,.,SYM},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_32,{},{and,the,cencmmu-9,or,chromatamo,7,(,137m,),was,paxiormed,ani,,,?,block,as,.},{and,the,cencmmu-9,or,chromatamo,7,(,137m,),be,paxiormed,anus,,,?,block,as,.},{CC,DT,NN,CC,NN,CD,CD,NN,NN,VBD,JJ,NNS,,,NN,NN,IN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_33,{},{The,ram,and,centromere,7,signals,wcra,enumerated,in,60},{the,ram,and,centromere,7,signal,wcra,enumerate,in,60},{DT,NN,CC,NN,CD,NNS,VBP,VBN,IN,CD},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_34,{},{nuclei,from,an,area,of,:11,:,tumor,located,by,cctnpariaon,with,the,hemacoxylin,and,eauin,,,and,/,?,or,inuuunoscaincd,adjacent,:,sections,.},{nucleus,from,a,area,of,:11,:,tumor,located,by,cctnpariaon,with,the,hemacoxylin,and,eauin,,,and,/,?,or,inuuunoscaincd,adjacent,:,section,.},{NNS,IN,DT,NN,IN,CD,:,NN,JJ,IN,NN,IN,DT,NN,CC,NN,,,CC,:,CD,CC,JJ,JJ,:,NNS,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_35,{},{a,:,-,:,sm,.,'},{a,:,-,:,sm,.,'},{DT,:,:,:,NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_36,{},{:,s,-,=,-,-,V,m,z,Interphaaa,I,-,?,I58,?},{:,s,-,=,-,-,v,m,z,interphaaa,I,-,?,i58,?},{:,NNS,:,SYM,:,:,NN,NN,SYM,FW,PRP,:,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_37,{},{1,:,me,ish,7cah,(,D17z1x2,ce,.},{1,:,I,ish,7cah,(,d17z1x2,ce,.},{CD,:,PRP,JJ,JJ,NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_38,{},{n,:,rm,:,',er,:,r,~,7,ratio,was,1.11,+,%,?,-,?,0.35,(,calla,selected,fox,?,analysis,.,"},{n,:,rm,:,',er,:,r,~,7,ratio,be,1.11,+,%,?,-,?,0.35,(,calla,select,fox,?,analysis,.,"},{NN,:,NN,:,'',NN,:,NN,NN,CD,NN,VBD,CD,CC,NN,CD,:,CD,CD,NN,NN,VBN,NN,NN,NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_39,{},{indicatu,26,?},{indicatu,26,?},{NN,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_40,{},{:,gent,',amp11,.},{:,gent,',amp11,.},{:,NN,'',NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_41,{},{?,icae,2.00,or,great,:,was,7,%,,},{?,icae,2.00,or,great,:,be,7,%,,},{RB,FW,CD,CC,JJ,:,VBD,CD,NN,,},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_42,{},{-1,o,),.7,p12,=,rsarrx2-1a,),{,sc,},.},{-1,o,),.7,p12,=,rsarrx2-1a,),{,sc,},.},{CD,NN,CD,CD,NN,JJ,NN,CD,CD,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_43,{},{The,26:12,to,n,I,total,of,60,tumor,An,3631,?},{the,26:12,to,n,I,total,of,60,tumor,a,3631,?},{DT,CD,TO,NN,PRP,VBP,IN,CD,NN,DT,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_44,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_45,{},{to,D722,ratio,greater,than,2.00,usually,?},{to,d722,ratio,greater,than,2.00,usually,?},{TO,NN,NN,JJR,IN,CD,RB,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_46,{},{:,?,.},{:,?,.},{:,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_47,{},{an,.},{a,.},{DT,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_48,{},{The,percantaga,or,can,:,with,a,ratio,of},{the,percantaga,or,can,:,with,a,ratio,of},{DT,NN,CC,MD,:,IN,DT,NN,IN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_49,{},{1of6},{1of6},{NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_50,{},{the,average,?,copy,?,number,or,EGFR,was,5.4,:,L,-,;,The,part?ntage,?,.},{the,average,?,copy,?,number,or,egfr,be,5.4,:,l,-,;,the,part?ntage,?,.},{DT,JJ,CD,NN,NN,NN,CC,NN,VBD,CD,:,NN,:,:,DT,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_51,{},{of,cells,wi,.},{of,cell,wus,.},{IN,NNS,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_52,{},{-,.},{-,.},{:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_53,{},{h,',an,sen,:,copy,number,of,greater,than,2.0,was,95,%,.,"},{h,',a,sen,:,copy,number,of,greater,than,2.0,be,95,%,.,"},{NN,'',DT,NN,:,NN,NN,IN,JJR,IN,CD,VBD,CD,NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_54,{},{F,,,...,a,averagu,copy,number,at,cantromera,7,was,5.2,.},{f,,,...,a,averagu,copy,number,at,cantromera,7,be,5.2,.},{NN,,,:,DT,NN,NN,NN,IN,NN,CD,VBD,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_55,{},{ms,percentage,of,calls,with,a,ceatromare,7,copy,number,of,gzeater,than,1.0,.},{m,percentage,of,call,with,a,ceatromare,7,copy,number,of,gzeater,than,1.0,.},{NNS,NN,IN,NNS,IN,DT,NN,CD,NN,NN,IN,NN,IN,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_56,{},{was,35,%,.},{be,35,%,.},{VBD,CD,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_57,{},{An,increased,?,number,at,chromosome,7,cantrcmereu,ch,:,omoa_orm,.},{a,increase,?,number,at,chromosome,7,cantrcmereu,ch,:,omoa_orm,.},{DT,VBN,NN,NN,IN,NN,CD,NN,NN,:,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_58,{},{-,.},{-,.},{:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_59,{},{7,o,;,genaralizedv,anauploidy,.},{7,o,;,genaralizedv,anauploidy,.},{CD,NN,:,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_60,{},{indicates,aneusotny,at,uh,.},{indicate,aneusotny,at,uh,.},{VBZ,NN,IN,UH,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_61,{},{?,~,?,.},{?,~,?,.},{NN,NN,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_62,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_63,{},{aoqnuubugn,_,.,<},{aoqnuubugn,_,NN,<},{NN,CD,.,JJR},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_64,{},{~,u_p,?,?,71,*,?,=,~,pc,.},{~,u_p,?,?,71,*,?,=,~,pc,.},{NN,NN,CD,CD,CD,NN,NN,JJ,CD,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_65,{},{i,:,Gm,=,E,?,i5,',H,?,?,1,',tie,--,?,ei,:1,c,',l,",?,:,n-5,:71,growth,cacao,:,receptor,DNA,probe,from,nod,.},{i,:,gm,=,e,?,i5,',h,?,?,1,',tie,--,?,ei,:1,c,',l,",?,:,n-5,:71,growth,cacao,:,receptor,dna,probe,from,nod,.},{LS,:,NN,JJ,NN,CD,NN,'',NN,CD,NN,CD,'',NN,:,CD,FW,FW,NN,'',NN,'',CD,:,CD,CD,NN,NN,:,NN,NN,NN,IN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_66,{},{to,obtain,.},{to,obtain,.},{TO,VB,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_67,{},{thud,tuulta,.},{thud,tuulta,.},{NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_68,{},{The,DNA,probe,is,dtsigned,:,co.,daea?r,;,ampliricatlan,o,:,the,E633,gent,via,~,tluozueuncs,in,?,?,sin,:,hybridization,(,FISH,),.},{the,dna,probe,be,dtsign,:,co.,daea?r,;,ampliricatlan,o,:,the,e633,gent,via,~,tluozueunc,in,?,?,sin,:,hybridization,(,fish,),.},{DT,NN,NN,VBZ,VBN,:,NN,NN,:,NN,NN,:,DT,NN,NN,IN,NN,NNS,IN,CD,CD,NN,:,NN,CD,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_69,{},{in,?,orma1,',in,-,Eixcd,,,?,pm.-a,?,:1,n,',-,embadctod,human,cancnr,ciasue,spcaimcm,.,"},{in,?,orma1,',in,-,eixcd,,,?,pm.-a,?,:1,n,',-,embadctod,human,cancnr,ciasue,spcaimcm,.,"},{IN,CD,NN,'',IN,:,NN,,,CD,NN,CD,CD,NN,'',:,NN,JJ,NN,NN,NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_70,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_71,{},{?,III,!},{?,iii,!},{NN,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_72,{},{I,certify,?},{I,certify,?},{PRP,VBP,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_73,{},{?,ha1,?,:,.3,I,?,',pars,?,ona11yv,conducted,tho,diagnostic,evaluation,at,the,above,sgecimenjsl,.},{?,ha1,?,:,.3,I,?,',par,?,ona11yv,conduct,tho,diagnostic,evaluation,at,the,above,sgecimenjsl,.},{NN,NN,CD,:,NN,PRP,VBP,'',VBZ,CD,NN,VBN,NN,JJ,NN,IN,DT,JJ,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_74,{},{?,nt,.},{?,nt,.},{RB,NNS,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_75,{},{?,_,I.,h,_,?,7e,<,.},{?,_,i.,h,_,?,7e,<,.},{NN,CD,NN,NN,CD,CD,NN,JJR,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_76,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_77,{},{ze,;,:,dared,the,ahmra,diag,{,:,o,?,?,a,(,us,),.},{ze,;,:,dare,the,ahmra,diag,{,:,o,?,?,a,(,we,),.},{NN,:,:,VBD,DT,NN,NN,CD,:,NN,CD,CD,DT,NN,PRP,RB,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_78,{},{Pnztlobrx,-,_,n,$,_,Vd,bf,;},{pnztlobrx,-,_,n,$,_,vd,bf,;},{NN,:,NN,NN,$,CD,NN,NN,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_79,{},{Patient,:,4,A,",A,'},{patient,:,4,a,",a,'},{NN,:,CD,DT,``,NN,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_80,{},{u,_,.},{u,_,.},{FW,FW,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_81,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_82,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_83,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_84,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_85,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_86,{},{_,V,Elacuronicallir,Siglildr},{_,v,elacuronicallir,siglildr},{NN,NN,NN,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_87,{},{SUV,!},{suv,!},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_88,{},{PathCLINICAL},{pathclinical},{NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_89,{},{HI,',3TOR1,',?,.},{hus,',3tor1,',?,.},{NN,'',NN,'',NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_90,{},{v,L.,u,:,:,.},{v,l.,u,:,:,.},{LS,FW,FW,:,:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_91,{},{g.,cancer,?,.},{g.,cancer,?,.},{NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_92,{},{left,lbwez,-,?,lobe,luion,.},{left,lbwez,-,?,lobe,luion,.},{RB,SYM,:,NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_93,{},{GROSS,BXAMLVATICN1},{gross,bxamlvaticn1},{JJ,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_94,{},{2of6},{2of6},{NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_95,{},{A.,MR,lymph,node,(,AB,?,1,),",.},{a.,mr,lymph,node,(,AB,?,1,),",.},{NN,NN,NN,NN,CD,NNP,CD,CD,CD,``,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_96,{},{Receiv-d,fresh,?,for},{receiv-d,fresh,?,for},{JJ,JJ,NN,IN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_97,{},{-,erozen,section,.},{-,erozen,section,.},{:,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_98,{},{is,a,0.5,x,0.3,2,:},{be,a,0.5,x,0.3,2,:},{VBZ,DT,CD,CC,CD,CD,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_99,{},{0.2,cm,aggregate,of,.},{0.2,cm,aggregate,of,.},{CD,NN,NN,IN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_100,{},{?,yin,},:,-,black,tissue,Irazen,entirely,as,man,:,submitted,in,block,In,...},{?,yin,},:,-,black,tissue,irazen,entirely,as,man,:,submit,in,block,in,...},{NN,NN,CD,:,:,JJ,NN,NN,RB,IN,NN,:,VBN,IN,NN,IN,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_101,{},{3,.,"},{3,.,"},{LS,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_102,{},{412,lymph,ncda,(,BP1,),",.},{412,lymph,ncda,(,bp1,),",.},{CD,NN,NN,CD,NN,CD,``,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_103,{},{Received,treat,:,for,frozen,section,is,3,0.5,3,:,0.2,x,0.1,cm,aggregate,oz,p,,,?,nls,?,bleck,tissue,and,the,frozen,3,:,',?},{receive,treat,:,for,frozen,section,be,3,0.5,3,:,0.2,x,0.1,cm,aggregate,oz,p,,,?,nl,?,bleck,tissue,and,the,frozen,3,:,',?},{VBN,NN,:,IN,JJ,NN,VBZ,CD,CD,CD,:,CD,CC,CD,NN,NN,NN,NN,,,CD,NNS,CD,NN,NN,CC,DT,JJ,CD,:,'',SYM},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_104,{},{:,epreasn,',caz,:,:,Lva,M1},{:,epreasn,',caz,:,:,lva,m1},{:,NN,'',NN,:,:,NN,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_105,{},{and,the,frozen,section,2,:,:},{and,the,frozen,section,2,:,:},{CC,DT,JJ,NN,CD,:,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_106,{},{D.,",Luz,:,lover,lebe,ban.-la,:,?,seamen,section,is,a,133,gram,(,20.1,x,11,.},{D.,",Luz,:,lover,lebe,ban.-la,:,?,seaman,section,be,a,133,gram,(,20.1,x,11,.},{NNP,``,NNP,:,NN,NN,NN,:,CD,NNS,NN,VBZ,DT,CD,NN,CD,CD,NN,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_107,{},{?,1un,?,',:,hathasa2,.6,x2x},{?,1un,?,',:,hathasa2,.6,x2x},{NN,CD,NN,'',:,NN,CD,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_108,{},{1.2,cm,firm,gr,',a.,y,~,(,-,tan,.},{1.2,cm,firm,gr,',a.,y,~,(,-,tan,.},{CD,NN,NN,NN,'',FW,FW,FW,SYM,:,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_109,{},{parenchymal,circumscribed,man,.},{parenchymal,circumscribe,man,.},{NN,VBD,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_110,{},{can,and,w,thou,:,additional,lesiana,.},{can,and,w,thou,:,additional,lesiana,.},{MD,CC,VB,NN,:,JJ,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_111,{},{h,and,gli?taning,and,intact,.,'},{h,and,gli?taning,and,intact,.,'},{NN,CC,NN,CC,JJ,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_112,{},{J,:,',wo,~,lobar,lymph,nodes,are,?,identified,ranging,?,from,0.3,up,ta,a.,7,cm,in,grates,:,dimension,-,.},{j,:,',will,~,lobar,lymph,node,be,?,identify,range,?,from,0.3,up,ta,a.,7,cm,in,grate,:,dimension,-,.},{NN,:,'',MD,VB,JJ,NN,NNS,VBP,RB,VBN,VBG,CD,IN,CD,IN,NN,NN,CD,NN,IN,NNS,:,NN,:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_113,{},{A,-,',41,!},{a,-,',41,!},{DT,:,'',CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_114,{},{?,lymph,?,x,:,ade,*,:,AE,',1f,-,negeeive,:02,:,malignancy,3,.},{?,lymph,?,x,:,ade,*,:,ae,',1f,-,negeeive,:02,:,malignancy,3,.},{NN,NN,CD,NN,:,VB,CD,:,NN,'',SYM,:,JJ,CD,:,NN,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_115,{},{?,',41,.},{?,',41,.},{NN,'',CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_116,{},{lymph,?,1:04,;,",:,531,-,negati,-,:,e.,for,malignancy,C.,",Level,7-r,?,1yn,:,ph,;,noda,",:,cF1,-,negative,{,or,mu,o.,?,Let,:,loves,:,lobe,builaz,:,segmencecrouxr,:,D31,(,representative,mun,),?,',carcinama,comistenc,with,.},{lymph,?,1:04,;,",:,531,-,negatus,-,:,e.,for,malignancy,c.,",Level,7-r,?,1yn,:,ph,;,noda,",:,cf1,-,negative,{,or,mu,o.,?,let,:,love,:,lobe,builaz,:,segmencecrouxr,:,d31,(,representative,mun,),?,',carcinama,comistenc,with,.},{NN,CD,CD,:,``,:,CD,:,NN,:,:,VB,IN,NN,NN,'',NNP,JJ,NN,CD,:,NN,:,NNS,``,:,NN,:,JJ,NN,CC,NN,NN,CD,VBD,:,VBZ,:,NN,NN,:,NN,:,NN,CD,JJ,NN,CD,NN,'',NN,NN,IN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_117,{},{?,bronchial,alvenlag,cgrcinomg},{?,bronchial,alvenlag,cgrcinomg},{NN,JJ,NN,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_118,{},{NOTE,:,Intazmacien,on,pathology,augetransmitted,co,eh-is,zn,?,ec1tutz,?,.},{note,:,Intazmacien,on,pathology,augetransmitt,co,eh-is,zn,?,ec1tutz,?,.},{VB,:,NNP,IN,NN,VBD,NN,JJ,NN,NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_119,{},{on,',past,pau,:,h.,eJ,:,ogy,=,inrarmation,,,imaging,studi,?,findings,.},{on,',past,pau,:,h.,ej,:,ogy,=,inrarmation,,,imaging,studus,?,finding,.},{IN,'',JJ,NN,:,VB,NN,:,NN,JJ,NN,,,NN,NN,CD,NNS,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_120,{},{Pathology,stage,is,only,a,c,d,urAdx,?,rosrs,',:,?,-,.},{pathology,stage,be,only,a,c,d,uradx,?,rosr,',:,?,-,.},{NN,NN,VBZ,RB,DT,NN,NN,NN,CD,NNS,POS,:,SYM,:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_121,{},{A.,",43,LYMPR,NCPE,{,A-P1,),",?,`,~},{a.,",43,lympr,ncpe,{,a-p1,),",?,`,~},{NN,'',CD,NN,NN,CD,NN,CD,``,CD,``,FW},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_122,{},{3af6},{3af6},{NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_123,{},{CARCINGMK,OP,LUNG,?},{carcingmk,op,lung,?},{CD,NN,NN,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_124,{},{Histologic,uypu,anmmmncrxum,wm-3,?,p,czu,.},{histologic,uypu,anmmmncrxum,wm-3,?,p,czu,.},{JJ,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_125,{},{PEA,:,-,ujgzs,I-Eisnolcgic,grade,:,wsnn-nrprznznrrrn-rm,Extsnt,of,invasicn,-,Max,.},{pea,:,-,ujgz,i-eisnolcgic,grade,:,wsnn-nrprznznrrrn-rm,extsnt,of,invasicn,-,Max,.},{NN,:,:,NNS,JJ,NN,:,NN,NN,IN,NN,:,NNP,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_126,{},{tumor,diameter,:,1.5,C1,-,Mainstem,bronchus,:,NEGATIVE,-,Viscernl,pleura,:,NEGATIVE,?,-,Chest,:,wan,:,N/A,-,Med,.},{tumor,diameter,:,1.5,c1,-,Mainstem,bronchus,:,negative,-,viscernl,pleuron,:,NEGATIVE,?,-,chest,:,wan,:,n/a,-,Med,.},{NN,NN,:,CD,NN,:,NNP,VBZ,:,NN,:,NN,NN,:,NNP,SYM,:,NN,:,VB,:,SYM,:,NNP,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_127,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_128,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_129,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_130,{},{ast,?,inum,:,-,?,N/A,.},{ast,?,inum,:,-,?,n/a,.},{IN,CD,NN,:,:,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_131,{},{-,:1,tumor,nodules,?},{-,:1,tumor,nodule,?},{:,NN,NN,NNS,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_132,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_133,{},{usatrnra,-,Panlehar,syn,:,-,o.,l,_,.},{usatrnra,-,panlehar,syn,:,-,o.,l,_,.},{NN,:,NN,NN,:,:,NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_134,{},{ec,:,asis1,unaawnrs,Margin,:,P,y,p,,,-,Bronchia-1.,:,NEGATIVE,-,Vaaculart,?,?,NEGATIV3,-,Parenchymtlu,manna,?,-,Pleuxalr,?,NEGATIVE,othe,:,?,p1,:,:,:,gnas,:,ic,features,?,-,vascular,iuvasicm,?acarnm,Sttgionial,?,lymph,nodes,:},{ec,:,asis1,unaawnr,margin,:,p,y,p,,,-,bronchia-1.,:,negative,-,Vaaculart,?,?,negativ3,-,parenchymtlu,manna,?,-,pleuxalr,?,NEGATIVE,othe,:,?,p1,:,:,:,gna,:,ic,feature,?,-,vascular,iuvasicm,?acarnm,sttgionial,?,lymph,node,:},{NN,:,NN,VBZ,NN,:,NN,NN,NN,,,:,NN,:,NN,:,NNP,CD,CD,NN,:,NN,NN,SYM,:,NN,CD,NNP,NN,:,CD,NN,:,:,:,NNS,:,JJ,NNS,SYM,:,JJ,NN,NN,JJ,NN,NN,NNS,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_135,{},{uzmrxvi,(,0/2,)},{uzmrxvus,(,0/2,)},{NN,CD,CD,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_136,{},{Addicioul,?,in,.},{addicioul,?,in,.},{JJ,NN,IN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_137,{},{din,.},{din,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_138,{},{gs,:},{g,:},{NNS,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_139,{},{2,:,.,"},{2,:,.,"},{CD,:,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_140,{},{LEVEL,10,?,l,;,1,?,l,!},{level,10,?,l,;,1,?,l,!},{NN,CD,NN,NN,:,CD,CD,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_141,{},{4PlI,",},IOD3,?,.,'},{4plus,",},iod3,?,.,'},{NN,'',CD,NN,NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_142,{},{(,szczsxcw,NC,!},{(,szczsxcw,nc,!},{NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_143,{},{PATIELOGIC,DIAQIOSIS,(,NO,?,1,',UZ,?,DR,3331,!},{patielogic,diaqiosis,(,no,?,1,',uz,?,dr,3331,!},{NN,NN,CD,NN,NN,CD,'',JJ,NN,NN,CD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_144,{},{;},{;},{:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_145,{},{I,ca,.},{I,can,.},{PRP,MD,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_146,{},{-,.},{-,.},{:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_147,{},{-,buy,?,than,I.,?,porno,:,-,.},{-,buy,?,than,i.,?,porno,:,-,.},{:,VB,RB,IN,NN,CD,NN,:,:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_148,{},{uJ,.1,y,conducted,?,the,diagnostic,cvn,luabion,.},{uj,.1,y,conduct,?,the,diagnostic,cvn,luabion,.},{NN,CD,NN,VBN,IN,DT,JJ,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_149,{},{at,ch,:,above,s,_,;,:,ecimun,(,s,),~,,,@,p,haw,undated,eh,:,lbovc,diagncniolee,),.},{at,ch,:,above,s,_,;,:,ecimun,(,s,),~,,,@,p,haw,undated,eh,:,lbovc,diagncniolee,),.},{IN,NN,:,IN,NNS,VBP,:,:,VB,NN,NNS,VBP,NN,,,IN,NN,NN,JJ,UH,:,NN,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_150,{},{c,:,P,b,p,1,:,",",Y,p,Please,set,?},{c,:,p,b,p,1,:,",",y,p,please,set,?},{NN,:,NN,NN,NN,CD,:,``,``,NN,NN,VB,VB,NNS},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_151,{},{fa,:,results,at,supplernentlzy,testt,.,'},{fa,:,result,at,supplernentlzy,testt,.,'},{NN,:,NNS,IN,JJ,NN,.,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_152,{},{I},{I},{PRP},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_153,{},{.5},{.5},{NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_154,{},{I,certify,that,I,personally,coaducted,thl,diagho?tic,tvalluav,.},{I,certify,that,I,personally,coaduct,thl,diagho?tic,tvalluav,.},{PRP,VBP,IN,PRP,RB,VBD,NN,JJ,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_155,{},{-.10,:,at,the,above,'},{-.10,:,at,the,above,'},{CD,:,IN,DT,JJ,''},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_156,{},{-,.},{-,.},{:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_157,{},{adored,the,abava,diagnolismai,.},{adore,the,abava,diagnolismaus,.},{VBD,DT,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_158,{},{?},{?},{NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_159,{},{Eiactzonicnllv,signed,:},{Eiactzonicnllv,sign,:},{NNP,VBD,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_160,{},{E,?,-,.},{e,?,-,.},{NN,SYM,:,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_161,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_162,{},{.},{.},{.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_163,{},{?,.},{?,.},{NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_164,{},{j,",",j,",r,Dxagrmsn,\,T,|,screP3,?,Q/i,p.,,,m,r.,.},{j,",",j,",r,Dxagrmsn,\,t,|,screp3,?,Q/i,p.,,,m,r.,.},{NN,'',``,NN,'',NN,NNP,CD,NN,CD,NN,CD,NNP,NN,,,NN,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_165,{},{mv.,:,v,Site,.},{mv.,:,v,site,.},{NNP,:,LS,NN,.},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_166,{},{D,>,s,:,re,?,a_n,_,?,V},{d,>,s,:,re,?,a_n,_,?,v},{NN,JJR,NNS,:,VB,CD,JJ,NN,CD,NN},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_167,{},{,,?,3.51,-,',uA,?,.1,r1,:},{,,?,3.51,-,',ua,?,.1,r1,:},{,,CD,CD,:,'',NN,CD,CD,NN,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_168,{},{wewed,:,.4933,;},{wew,:,.4933,;},{VBN,:,CD,:},{}
-TCGA-O1-A52J, TCGA-O1-A52JSENT_169,{},{D,_},{d,_},{NN,SYM},{}
+TCGA-O1-A52J, TCGA-O1-A52JSENT_1,"UUID : E5CS4019 - F494-IIFSD-847A-3OCF65F65E19","{UUID,:,E5CS4019,-,F494-IIFSD-847A-3OCF65F65E19}","{UUID,:,e5cs4019,-,f494-iifsd-847a-3ocf65f65e19}","{NNP,:,NN,:,NN}","{0,0,1,0,3}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_2,"TCGA-O1-A52 ] -61 A-PR Redacted","{TCGA-O1-A52,],-61,A-PR,Redacted}","{tcga-o1-a52,],-61,a-pr,redact}","{NN,CD,CD,NN,VBN}","{0,1,4,1,1}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_3,"| | | | III I | | | | | | | | | I II Elllllllllllllllllllllllllllllllllll Illllllllllllll","{|,|,|,|,III,I,|,|,|,|,|,|,|,|,|,I,II,Elllllllllllllllllllllllllllllllllll,Illllllllllllll}","{|,|,|,|,iii,I,|,|,|,|,|,|,|,|,|,i,ii,Elllllllllllllllllllllllllllllllllll,Illllllllllllll}","{RB,CD,CD,NN,CD,PRP,VBP,CD,CD,NN,CD,CD,NN,CD,NN,NN,CD,NNP,NNP}","{2,4,4,5,0,7,5,9,10,7,12,10,16,16,16,12,19,19,12}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_4,"Patient :","{Patient,:}","{patient,:}","{NN,:}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_5,"AP surgxcgt P8thuIogy : Addltfonal am Amara " Imago Cytal-ne ? u ' _ y _ ? x","{AP,surgxcgt,P8thuIogy,:,Addltfonal,am,Amara,",Imago,Cytal-ne,?,u,',_,y,_,?,x}","{ap,surgxcgt,p8thuiogy,:,Addltfonal,be,Amara,",Imago,cytal-ne,?,u,',_,y,_,?,x}","{NN,NN,NN,:,NNP,VBP,NNP,``,NNP,NN,CD,NN,'',FW,FW,CD,CD,NN}","{3,3,0,0,3,7,5,10,10,7,10,10,0,15,10,17,18,15}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_6,"HERIINEU IMKHJOHISTOCHZPECRL iNA1 ' .","{HERIINEU,IMKHJOHISTOCHZPECRL,iNA1,',.}","{heriineu,imkhjohistochzpecrl,ina1,',.}","{JJ,NN,NN,'',.}","{2,0,2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_7,"oYSI3 BY DMw - i-ERCEPTBST","{oYSI3,BY,DMw,-,i-ERCEPTBST}","{oysi3,by,dmw,-,i-erceptbst}","{NN,IN,SYM,:,NN}","{0,1,5,0,2}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_8,"A .52 _ Nos : of the invaniv : tumor cells exhibit any staining at their cell momhzanu 1 - ; % " 5 ( score o ) , ? indicating that they do not c : - virczexprass H232/neu oncopxoeain g z : , ? V z ? E ; Q IVIERPREIATIONSI .","{A,.52,_,Nos,:,of,the,invaniv,:,tumor,cells,exhibit,any,staining,at,their,cell,momhzanu,1,-,;,%,",5,(,score,o,),,,?,indicating,that,they,do,not,c,:,-,virczexprass,H232/neu,oncopxoeain,g,z,:,,,?,V,z,?,E,;,Q,IVIERPREIATIONSI,.}","{a,.52,_,no,:,of,the,invaniv,:,tumor,cell,exhibit,any,staining,at,they,cell,momhzanu,1,-,;,%,",5,(,score,o,),,,?,indicate,that,they,do,not,c,:,-,virczexprass,h232/neu,oncopxoeain,g,z,:,,,?,v,z,?,e,;,Q,IVIERPREIATIONSI,.}","{DT,CD,CD,NNS,:,IN,DT,NN,:,NN,NNS,VBP,DT,NN,IN,PRP$,NN,NN,CD,:,:,NN,'',CD,NN,NN,NN,CD,,,CD,VBG,IN,PRP,VBP,RB,NN,:,:,NN,NN,NN,NN,SYM,:,,,CD,NN,SYM,CD,NN,:,NNP,NNP,.}","{2,4,4,0,0,0,8,4,0,11,8,11,14,12,11,18,18,15,18,0,0,8,22,27,27,27,22,27,0,27,30,34,34,31,36,34,0,0,22,39,42,40,39,0,0,47,4,49,47,49,0,53,50,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_9,"\ . '","{\,.,'}","{\,.,'}","{NN,.,''}","{0,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_10,"@ \ > ~ >","{@,\,>,~,>}","{@,\,>,~,>}","{IN,CD,JJR,NN,JJR}","{0,4,4,1,4}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_11,"TISSUE ? TYPE ? LEFT LOWER LOB !","{TISSUE,?,TYPE,?,LEFT,LOWER,LOB,!}","{tissue,?,type,?,LEFT,LOWER,LOB,!}","{NN,CD,NN,CD,NNP,NNP,NNP,.}","{0,1,7,7,7,7,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_12,"BASVLAR SE@1E3'I'EC'.'??GM?' CONTAINING " WEI .","{BASVLAR,SE@1E3'I'EC'.'??GM?',CONTAINING,",WEI,.}","{basvlar,se@1e3'i'ec'.'??gm?',contain,",WEI,.}","{NN,NN,VBG,'',NNP,.}","{2,3,0,3,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_13,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_14,"L .","{L,.}","{l,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_15,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_16,"DIE?E ? ER1 ' INTIA ' 1 ' ED ADENOCARCINOHA wrrx ? CELL 92130253 E ? - " a IM-IUNOB1 ' 5TOCHE \ tIS ' z ' . '","{DIE?E,?,ER1,',INTIA,',1,',ED,ADENOCARCINOHA,wrrx,?,CELL,92130253,E,?,-,",a,IM-IUNOB1,',5TOCHE,\,tIS,',z,',.,'}","{die?e,?,er1,',intium,',1,',ED,ADENOCARCINOHA,wrrx,?,cell,92130253,e,?,-,",a,im-iunob1,',5toche,\,ti,',z,',.,'}","{NN,CD,NN,'',NN,'',CD,'',NNP,NNP,NN,CD,NN,CD,NN,SYM,:,``,DT,NN,POS,NN,CD,NN,'',SYM,'',.,''}","{22,1,5,0,1,0,5,0,15,15,15,15,15,15,22,22,0,22,20,22,0,0,22,22,0,22,0,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_17,"RY : STRONGLY POSITIVE ( 34 - ) FOR EXPRESSION ? E. 5 ? ?","{RY,:,STRONGLY,POSITIVE,(,34,-,),FOR,EXPRESSION,?,E.,5,?,?}","{ry,:,strongly,positive,(,34,-,),for,expression,?,E.,5,?,?}","{NN,:,RB,JJ,CD,CD,:,CD,IN,NN,CD,NNP,CD,CD,NN}","{0,0,4,6,6,1,0,6,0,12,12,8,14,15,12}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_18,"o ?","{o,?}","{o,?}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_19,"EPIEEEMKL GROWTH FACTGR RECEPTOR . "","{EPIEEEMKL,GROWTH,FACTGR,RECEPTOR,.,"}","{EPIEEEMKL,growth,factgr,receptor,.,"}","{NNP,NN,NN,NN,.,''}","{0,1,4,2,0,1}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_20,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_21,". ' '","{.,','}","{.,','}","{.,'',''}","{0,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_22,"D9 H332/NEU _ IM4 ' { m ' OHISTOCBEMISTR ? : NEGATIVE ( o ) FOR OVTBREXPRESSION 03 ' 8322/3120 \ : _ Z onconorszza .","{D9,H332/NEU,_,IM4,',{,m,',OHISTOCBEMISTR,?,:,NEGATIVE,(,o,),FOR,OVTBREXPRESSION,03,',8322/3120,\,:,_,Z,onconorszza,.}","{d9,h332/neu,_,im4,',{,m,',ohistocbemistr,?,:,NEGATIVE,(,o,),for,ovtbrexpression,03,',8322/3120,\,:,_,z,onconorszza,.}","{NN,NN,CD,NN,'',NN,NN,'',NN,NN,:,NNP,CD,NN,CD,IN,NN,NN,'',CD,CD,:,CD,NN,NN,.}","{2,0,2,6,0,3,9,0,2,9,0,9,12,12,14,0,18,14,0,21,14,0,24,9,24,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_23,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_24,"L _ < > __ .","{L,_,<,>,__,.}","{l,_,<,>,__,.}","{NN,NN,JJR,JJR,NN,.}","{2,0,2,5,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_25,"p z V W","{p,z,V,W}","{p,z,V,W}","{NN,SYM,NNP,NNP}","{0,3,1,1}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_26,"EGFR FISK ?","{EGFR,FISK,?}","{egfr,fisk,?}","{NN,NN,.}","{2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_27,"RE ? U ? TS WILL BE ISSUED IN AN ADDENDUM TO THIS REPORT J. certizjr that I personally conducctcl eh : diagnostic avnluacion at the above E av.-ac mum ; r z hava randnrnd the above daagnoaistesl .","{RE,?,U,?,TS,WILL,BE,ISSUED,IN,AN,ADDENDUM,TO,THIS,REPORT,J.,certizjr,that,I,personally,conducctcl,eh,:,diagnostic,avnluacion,at,the,above,E,av.-ac,mum,;,r,z,hava,randnrnd,the,above,daagnoaistesl,.}","{re,?,U,?,t,will,be,ISSUED,in,a,ADDENDUM,to,THIS,REPORT,J.,certizjr,that,I,personally,conducctcl,eh,:,diagnostic,avnluacion,at,the,above,e,av.-ac,mum,;,r,z,hava,randnrnd,the,above,daagnoaistesl,.}","{VB,CD,NNP,NNP,NN,MD,VB,NNP,IN,DT,NNP,TO,NNP,NNP,NNP,NN,IN,PRP,RB,VBP,UH,:,JJ,NN,IN,DT,JJ,NN,JJ,NN,:,NN,SYM,FW,FW,DT,JJ,NN,.}","{0,5,5,5,8,8,8,1,0,11,8,16,16,16,16,8,20,20,20,16,20,0,24,8,0,30,30,30,30,24,0,30,24,35,24,38,38,24,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_28,"__ V % ? E ? <","{__,V,%,?,E,?,<}","{__,v,%,?,e,?,<}","{NN,NN,NN,CD,NN,NN,JJR}","{3,3,0,6,6,3,3}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_29,"c : Ann : xnu = 2 ; EGFR ? FISH","{c,:,Ann,:,xnu,=,2,;,EGFR,?,FISH}","{c,:,Ann,:,xnu,=,2,;,egfr,?,fish}","{NN,:,NNP,:,NN,JJ,CD,:,NN,CD,NN}","{0,0,5,0,1,5,6,0,11,11,5}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_30,"?","{?}","{?}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_31,"1uo _ : : e : = encn - in situ hybridization ( FISH ) with probes in : the sum ragion of Ch1 ' ? m ? l0m ? 7 ( 7911-1-qJ .1.1 . )","{1uo,_,:,:,e,:,=,encn,-,in,situ,hybridization,(,FISH,),with,probes,in,:,the,sum,ragion,of,Ch1,',?,m,?,l0m,?,7,(,7911-1-qJ,.1.1,.,)}","{1uo,_,:,:,e,:,=,encn,-,in,situ,hybridization,(,fish,),with,probe,in,:,the,sum,ragion,of,ch1,',?,m,?,l0m,?,7,(,7911-1-qj,.1.1,.,)}","{JJ,NN,:,:,LS,:,JJ,NN,:,FW,FW,NN,CD,NN,NN,IN,NNS,IN,:,DT,NN,NN,IN,NN,'',NN,NN,CD,NN,NN,CD,NN,NN,CD,.,SYM}","{2,0,0,0,8,0,8,2,0,12,10,8,15,15,12,15,33,0,0,22,22,17,0,22,0,17,30,30,30,26,33,33,16,33,0,15}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_32,"and the cencmmu-9 or chromatamo 7 ( 137m ) was paxiormed ani , ? block as .","{and,the,cencmmu-9,or,chromatamo,7,(,137m,),was,paxiormed,ani,,,?,block,as,.}","{and,the,cencmmu-9,or,chromatamo,7,(,137m,),be,paxiormed,anus,,,?,block,as,.}","{CC,DT,NN,CC,NN,CD,CD,NN,NN,VBD,JJ,NNS,,,NN,NN,IN,.}","{3,3,0,0,3,7,9,9,11,11,3,11,0,15,12,11,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_33,"The ram and centromere 7 signals wcra enumerated in 60","{The,ram,and,centromere,7,signals,wcra,enumerated,in,60}","{the,ram,and,centromere,7,signal,wcra,enumerate,in,60}","{DT,NN,CC,NN,CD,NNS,VBP,VBN,IN,CD}","{2,7,0,7,6,2,0,7,0,8}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_34,"nuclei from an area of :11 : tumor located by cctnpariaon with the hemacoxylin and eauin , and / ? or inuuunoscaincd adjacent : sections .","{nuclei,from,an,area,of,:11,:,tumor,located,by,cctnpariaon,with,the,hemacoxylin,and,eauin,,,and,/,?,or,inuuunoscaincd,adjacent,:,sections,.}","{nucleus,from,a,area,of,:11,:,tumor,located,by,cctnpariaon,with,the,hemacoxylin,and,eauin,,,and,/,?,or,inuuunoscaincd,adjacent,:,section,.}","{NNS,IN,DT,NN,IN,CD,:,NN,JJ,IN,NN,IN,DT,NN,CC,NN,,,CC,:,CD,CC,JJ,JJ,:,NNS,.}","{0,0,4,1,0,4,0,1,8,0,9,0,14,11,0,14,0,0,20,25,0,23,20,0,11,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_35,"a : - : sm . '","{a,:,-,:,sm,.,'}","{a,:,-,:,sm,.,'}","{DT,:,:,:,NN,.,''}","{0,0,0,0,1,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_36,": s - = - - V m z Interphaaa I - ? I58 ?","{:,s,-,=,-,-,V,m,z,Interphaaa,I,-,?,I58,?}","{:,s,-,=,-,-,v,m,z,interphaaa,I,-,?,i58,?}","{:,NNS,:,SYM,:,:,NN,NN,SYM,FW,PRP,:,NN,NN,.}","{0,0,0,2,0,0,8,2,10,8,8,0,14,8,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_37,"1 : me ish 7cah ( D17z1x2 ce .","{1,:,me,ish,7cah,(,D17z1x2,ce,.}","{1,:,I,ish,7cah,(,d17z1x2,ce,.}","{CD,:,PRP,JJ,JJ,NN,NN,NN,.}","{0,0,8,7,7,7,8,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_38,"n : rm : ' er : r ~ 7 ratio was 1.11 + % ? - ? 0.35 ( calla selected fox ? analysis . "","{n,:,rm,:,',er,:,r,~,7,ratio,was,1.11,+,%,?,-,?,0.35,(,calla,selected,fox,?,analysis,.,"}","{n,:,rm,:,',er,:,r,~,7,ratio,be,1.11,+,%,?,-,?,0.35,(,calla,select,fox,?,analysis,.,"}","{NN,:,NN,:,'',NN,:,NN,NN,CD,NN,VBD,CD,CC,NN,CD,:,CD,CD,NN,NN,VBN,NN,NN,NN,.,''}","{0,0,1,0,0,3,0,9,6,11,13,13,9,0,13,15,0,19,21,21,1,21,25,25,22,0,1}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_39,"indicatu 26 ?","{indicatu,26,?}","{indicatu,26,?}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_40,": gent ' amp11 .","{:,gent,',amp11,.}","{:,gent,',amp11,.}","{:,NN,'',NN,.}","{0,4,0,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_41,"? icae 2.00 or great : was 7 % ,","{?,icae,2.00,or,great,:,was,7,%,,}","{?,icae,2.00,or,great,:,be,7,%,,}","{RB,FW,CD,CC,JJ,:,VBD,CD,NN,,}","{9,9,2,2,4,0,9,9,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_42,"-1 o ) .7 p12 = rsarrx2-1a ) { sc } .","{-1,o,),.7,p12,=,rsarrx2-1a,),{,sc,},.}","{-1,o,),.7,p12,=,rsarrx2-1a,),{,sc,},.}","{CD,NN,CD,CD,NN,JJ,NN,CD,CD,NN,NN,.}","{2,0,4,2,7,7,4,9,2,11,9,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_43,"The 26:12 to n I total of 60 tumor An 3631 ?","{The,26:12,to,n,I,total,of,60,tumor,An,3631,?}","{the,26:12,to,n,I,total,of,60,tumor,a,3631,?}","{DT,CD,TO,NN,PRP,VBP,IN,CD,NN,DT,CD,.}","{2,0,0,2,6,2,0,9,6,11,9,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_44,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_45,"to D722 ratio greater than 2.00 usually ?","{to,D722,ratio,greater,than,2.00,usually,?}","{to,d722,ratio,greater,than,2.00,usually,?}","{TO,NN,NN,JJR,IN,CD,RB,.}","{0,3,1,5,6,3,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_46,": ? .","{:,?,.}","{:,?,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_47,"an .","{an,.}","{a,.}","{DT,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_48,"The percantaga or can : with a ratio of","{The,percantaga,or,can,:,with,a,ratio,of}","{the,percantaga,or,can,:,with,a,ratio,of}","{DT,NN,CC,MD,:,IN,DT,NN,IN}","{2,0,0,2,0,8,8,4,4}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_49,"1of6","{1of6}","{1of6}","{NN}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_50,"the average ? copy ? number or EGFR was 5.4 : L - ; The part?ntage ? .","{the,average,?,copy,?,number,or,EGFR,was,5.4,:,L,-,;,The,part?ntage,?,.}","{the,average,?,copy,?,number,or,egfr,be,5.4,:,l,-,;,the,part?ntage,?,.}","{DT,JJ,CD,NN,NN,NN,CC,NN,VBD,CD,:,NN,:,:,DT,NN,NN,.}","{6,6,6,6,6,10,0,10,10,0,0,10,0,0,17,17,10,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_51,"of cells wi .","{of,cells,wi,.}","{of,cell,wus,.}","{IN,NNS,NN,.}","{0,3,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_52,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_53,"h ' an sen : copy number of greater than 2.0 was 95 % . "","{h,',an,sen,:,copy,number,of,greater,than,2.0,was,95,%,.,"}","{h,',a,sen,:,copy,number,of,greater,than,2.0,be,95,%,.,"}","{NN,'',DT,NN,:,NN,NN,IN,JJR,IN,CD,VBD,CD,NN,.,''}","{14,0,4,1,0,7,1,0,10,11,7,14,14,0,0,14}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_54,"F , ... a averagu copy number at cantromera 7 was 5.2 .","{F,,,...,a,averagu,copy,number,at,cantromera,7,was,5.2,.}","{f,,,...,a,averagu,copy,number,at,cantromera,7,be,5.2,.}","{NN,,,:,DT,NN,NN,NN,IN,NN,CD,VBD,CD,.}","{0,0,0,7,7,7,1,0,7,9,12,9,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_55,"ms percentage of calls with a ceatromare 7 copy number of gzeater than 1.0 .","{ms,percentage,of,calls,with,a,ceatromare,7,copy,number,of,gzeater,than,1.0,.}","{m,percentage,of,call,with,a,ceatromare,7,copy,number,of,gzeater,than,1.0,.}","{NNS,NN,IN,NNS,IN,DT,NN,CD,NN,NN,IN,NN,IN,CD,.}","{2,0,0,2,0,10,10,10,10,4,0,10,0,2,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_56,"was 35 % .","{was,35,%,.}","{be,35,%,.}","{VBD,CD,NN,.}","{3,3,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_57,"An increased ? number at chromosome 7 cantrcmereu ch : omoa_orm .","{An,increased,?,number,at,chromosome,7,cantrcmereu,ch,:,omoa_orm,.}","{a,increase,?,number,at,chromosome,7,cantrcmereu,ch,:,omoa_orm,.}","{DT,VBN,NN,NN,IN,NN,CD,NN,NN,:,NN,.}","{4,4,4,0,0,9,9,9,4,0,9,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_58,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_59,"7 o ; genaralizedv anauploidy .","{7,o,;,genaralizedv,anauploidy,.}","{7,o,;,genaralizedv,anauploidy,.}","{CD,NN,:,NN,NN,.}","{2,0,0,5,2,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_60,"indicates aneusotny at uh .","{indicates,aneusotny,at,uh,.}","{indicate,aneusotny,at,uh,.}","{VBZ,NN,IN,UH,.}","{0,1,0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_61,"? ~ ? .","{?,~,?,.}","{?,~,?,.}","{NN,NN,CD,.}","{2,0,2,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_62,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_63,"aoqnuubugn _ . <","{aoqnuubugn,_,.,<}","{aoqnuubugn,_,NN,<}","{NN,CD,.,JJR}","{0,3,.,1}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_64,"~ u_p ? ? 71 * ? = ~ pc .","{~,u_p,?,?,71,*,?,=,~,pc,.}","{~,u_p,?,?,71,*,?,=,~,pc,.}","{NN,NN,CD,CD,CD,NN,NN,JJ,CD,NN,.}","{2,0,2,5,10,10,10,10,10,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_65,"i : Gm = E ? i5 ' H ? ? 1 ' tie -- ? ei :1 c ' l " ? : n-5 :71 growth cacao : receptor DNA probe from nod .","{i,:,Gm,=,E,?,i5,',H,?,?,1,',tie,--,?,ei,:1,c,',l,",?,:,n-5,:71,growth,cacao,:,receptor,DNA,probe,from,nod,.}","{i,:,gm,=,e,?,i5,',h,?,?,1,',tie,--,?,ei,:1,c,',l,",?,:,n-5,:71,growth,cacao,:,receptor,dna,probe,from,nod,.}","{LS,:,NN,JJ,NN,CD,NN,'',NN,CD,NN,CD,'',NN,:,CD,FW,FW,NN,'',NN,'',CD,:,CD,CD,NN,NN,:,NN,NN,NN,IN,NN,.}","{0,0,5,5,1,7,5,0,11,11,1,11,0,1,0,1,19,19,16,0,19,1,1,0,1,28,28,25,0,32,32,1,0,32,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_66,"to obtain .","{to,obtain,.}","{to,obtain,.}","{TO,VB,.}","{2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_67,"thud tuulta .","{thud,tuulta,.}","{thud,tuulta,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_68,"The DNA probe is dtsigned : co. daea?r ; ampliricatlan o : the E633 gent via ~ tluozueuncs in ? ? sin : hybridization ( FISH ) .","{The,DNA,probe,is,dtsigned,:,co.,daea?r,;,ampliricatlan,o,:,the,E633,gent,via,~,tluozueuncs,in,?,?,sin,:,hybridization,(,FISH,),.}","{the,dna,probe,be,dtsign,:,co.,daea?r,;,ampliricatlan,o,:,the,e633,gent,via,~,tluozueunc,in,?,?,sin,:,hybridization,(,fish,),.}","{DT,NN,NN,VBZ,VBN,:,NN,NN,:,NN,NN,:,DT,NN,NN,IN,NN,NNS,IN,CD,CD,NN,:,NN,CD,NN,NN,.}","{3,3,5,5,0,0,5,7,0,11,7,0,15,15,11,0,18,15,0,21,22,18,0,27,27,27,11,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_69,"in ? orma1 ' in - Eixcd , ? pm.-a ? :1 n ' - embadctod human cancnr ciasue spcaimcm . "","{in,?,orma1,',in,-,Eixcd,,,?,pm.-a,?,:1,n,',-,embadctod,human,cancnr,ciasue,spcaimcm,.,"}","{in,?,orma1,',in,-,eixcd,,,?,pm.-a,?,:1,n,',-,embadctod,human,cancnr,ciasue,spcaimcm,.,"}","{IN,CD,NN,'',IN,:,NN,,,CD,NN,CD,CD,NN,'',:,NN,JJ,NN,NN,NN,.,''}","{2,0,2,0,0,0,3,0,10,7,12,10,12,0,0,12,20,20,20,16,0,3}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_70,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_71,"? III !","{?,III,!}","{?,iii,!}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_72,"I certify ?","{I,certify,?}","{I,certify,?}","{PRP,VBP,.}","{2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_73,"? ha1 ? : .3 I ? ' pars ? ona11yv conducted tho diagnostic evaluation at the above sgecimenjsl .","{?,ha1,?,:,.3,I,?,',pars,?,ona11yv,conducted,tho,diagnostic,evaluation,at,the,above,sgecimenjsl,.}","{?,ha1,?,:,.3,I,?,',par,?,ona11yv,conduct,tho,diagnostic,evaluation,at,the,above,sgecimenjsl,.}","{NN,NN,CD,:,NN,PRP,VBP,'',VBZ,CD,NN,VBN,NN,JJ,NN,IN,DT,JJ,NN,.}","{2,9,2,0,9,7,5,0,0,11,9,11,15,15,12,0,19,19,15,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_74,"? nt .","{?,nt,.}","{?,nt,.}","{RB,NNS,.}","{2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_75,"? _ I. h _ ? 7e < .","{?,_,I.,h,_,?,7e,<,.}","{?,_,i.,h,_,?,7e,<,.}","{NN,CD,NN,NN,CD,CD,NN,JJR,.}","{4,4,4,0,6,7,8,4,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_76,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_77,"ze ; : dared the ahmra diag { : o ? ? a ( us ) .","{ze,;,:,dared,the,ahmra,diag,{,:,o,?,?,a,(,us,),.}","{ze,;,:,dare,the,ahmra,diag,{,:,o,?,?,a,(,we,),.}","{NN,:,:,VBD,DT,NN,NN,CD,:,NN,CD,CD,DT,NN,PRP,RB,.}","{4,0,0,0,4,7,5,16,0,15,12,10,14,10,8,5,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_78,"Pnztlobrx - _ n $ _ Vd bf ;","{Pnztlobrx,-,_,n,$,_,Vd,bf,;}","{pnztlobrx,-,_,n,$,_,vd,bf,;}","{NN,:,NN,NN,$,CD,NN,NN,:}","{0,0,4,8,4,5,8,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_79,"Patient : 4 A " A '","{Patient,:,4,A,",A,'}","{patient,:,4,a,",a,'}","{NN,:,CD,DT,``,NN,''}","{0,0,1,6,6,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_80,"u _ .","{u,_,.}","{u,_,.}","{FW,FW,.}","{2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_81,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_82,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_83,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_84,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_85,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_86,"_ V Elacuronicallir Siglildr","{_,V,Elacuronicallir,Siglildr}","{_,v,elacuronicallir,siglildr}","{NN,NN,NN,NN}","{4,4,4,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_87,"SUV !","{SUV,!}","{suv,!}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_88,"PathCLINICAL","{PathCLINICAL}","{pathclinical}","{NN}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_89,"HI ' 3TOR1 ' ? .","{HI,',3TOR1,',?,.}","{hus,',3tor1,',?,.}","{NN,'',NN,'',NN,.}","{0,0,5,0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_90,"v L. u : : .","{v,L.,u,:,:,.}","{v,l.,u,:,:,.}","{LS,FW,FW,:,:,.}","{3,3,0,0,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_91,"g. cancer ? .","{g.,cancer,?,.}","{g.,cancer,?,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_92,"left lbwez - ? lobe luion .","{left,lbwez,-,?,lobe,luion,.}","{left,lbwez,-,?,lobe,luion,.}","{RB,SYM,:,NN,NN,NN,.}","{0,4,0,1,6,4,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_93,"GROSS BXAMLVATICN1","{GROSS,BXAMLVATICN1}","{gross,bxamlvaticn1}","{JJ,NN}","{2,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_94,"2of6","{2of6}","{2of6}","{NN}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_95,"A. MR lymph node ( AB ? 1 ) " .","{A.,MR,lymph,node,(,AB,?,1,),",.}","{a.,mr,lymph,node,(,AB,?,1,),",.}","{NN,NN,NN,NN,CD,NNP,CD,CD,CD,``,.}","{4,4,4,0,6,4,6,9,6,9,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_96,"Receiv-d fresh ? for","{Receiv-d,fresh,?,for}","{receiv-d,fresh,?,for}","{JJ,JJ,NN,IN}","{3,3,0,3}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_97,"- erozen section .","{-,erozen,section,.}","{-,erozen,section,.}","{:,NN,NN,.}","{0,3,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_98,"is a 0.5 x 0.3 2 :","{is,a,0.5,x,0.3,2,:}","{be,a,0.5,x,0.3,2,:}","{VBZ,DT,CD,CC,CD,CD,:}","{0,3,1,3,6,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_99,"0.2 cm aggregate of .","{0.2,cm,aggregate,of,.}","{0.2,cm,aggregate,of,.}","{CD,NN,NN,IN,.}","{3,3,0,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_100,"? yin } : - black tissue Irazen entirely as man : submitted in block In ...","{?,yin,},:,-,black,tissue,Irazen,entirely,as,man,:,submitted,in,block,In,...}","{?,yin,},:,-,black,tissue,irazen,entirely,as,man,:,submit,in,block,in,...}","{NN,NN,CD,:,:,JJ,NN,NN,RB,IN,NN,:,VBN,IN,NN,IN,:}","{2,0,2,0,0,8,8,2,8,0,8,0,11,0,13,13,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_101,"3 . "","{3,.,"}","{3,.,"}","{LS,.,''}","{0,0,1}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_102,"412 lymph ncda ( BP1 ) " .","{412,lymph,ncda,(,BP1,),",.}","{412,lymph,ncda,(,bp1,),",.}","{CD,NN,NN,CD,NN,CD,``,.}","{3,3,0,5,3,5,6,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_103,"Received treat : for frozen section is 3 0.5 3 : 0.2 x 0.1 cm aggregate oz p , ? nls ? bleck tissue and the frozen 3 : ' ?","{Received,treat,:,for,frozen,section,is,3,0.5,3,:,0.2,x,0.1,cm,aggregate,oz,p,,,?,nls,?,bleck,tissue,and,the,frozen,3,:,',?}","{receive,treat,:,for,frozen,section,be,3,0.5,3,:,0.2,x,0.1,cm,aggregate,oz,p,,,?,nl,?,bleck,tissue,and,the,frozen,3,:,',?}","{VBN,NN,:,IN,JJ,NN,VBZ,CD,CD,CD,:,CD,CC,CD,NN,NN,NN,NN,,,CD,NNS,CD,NN,NN,CC,DT,JJ,CD,:,'',SYM}","{0,1,0,9,6,9,9,9,1,12,0,9,0,15,1,17,18,15,0,21,18,24,24,21,18,28,28,25,0,0,9}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_104,": epreasn ' caz : : Lva M1","{:,epreasn,',caz,:,:,Lva,M1}","{:,epreasn,',caz,:,:,lva,m1}","{:,NN,'',NN,:,:,NN,NN}","{0,0,0,2,0,0,8,4}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_105,"and the frozen section 2 : :","{and,the,frozen,section,2,:,:}","{and,the,frozen,section,2,:,:}","{CC,DT,JJ,NN,CD,:,:}","{2,0,2,3,4,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_106,"D. " Luz : lover lebe ban.-la : ? seamen section is a 133 gram ( 20.1 x 11 .","{D.,",Luz,:,lover,lebe,ban.-la,:,?,seamen,section,is,a,133,gram,(,20.1,x,11,.}","{D.,",Luz,:,lover,lebe,ban.-la,:,?,seaman,section,be,a,133,gram,(,20.1,x,11,.}","{NNP,``,NNP,:,NN,NN,NN,:,CD,NNS,NN,VBZ,DT,CD,NN,CD,CD,NN,CD,.}","{0,1,1,0,7,7,1,0,10,7,15,15,14,15,10,17,18,15,15,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_107,"? 1un ? ' : hathasa2 .6 x2x","{?,1un,?,',:,hathasa2,.6,x2x}","{?,1un,?,',:,hathasa2,.6,x2x}","{NN,CD,NN,'',:,NN,CD,NN}","{0,1,1,0,0,8,8,3}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_108,"1.2 cm firm gr ' a. y ~ ( - tan .","{1.2,cm,firm,gr,',a.,y,~,(,-,tan,.}","{1.2,cm,firm,gr,',a.,y,~,(,-,tan,.}","{CD,NN,NN,NN,'',FW,FW,FW,SYM,:,NN,.}","{3,3,0,3,0,4,8,6,11,0,6,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_109,"parenchymal circumscribed man .","{parenchymal,circumscribed,man,.}","{parenchymal,circumscribe,man,.}","{NN,VBD,NN,.}","{2,0,2,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_110,"can and w thou : additional lesiana .","{can,and,w,thou,:,additional,lesiana,.}","{can,and,w,thou,:,additional,lesiana,.}","{MD,CC,VB,NN,:,JJ,NN,.}","{0,0,1,3,0,7,4,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_111,"h and gli?taning and intact . '","{h,and,gli?taning,and,intact,.,'}","{h,and,gli?taning,and,intact,.,'}","{NN,CC,NN,CC,JJ,.,''}","{0,0,1,1,4,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_112,"J : ' wo ~ lobar lymph nodes are ? identified ranging ? from 0.3 up ta a. 7 cm in grates : dimension - .","{J,:,',wo,~,lobar,lymph,nodes,are,?,identified,ranging,?,from,0.3,up,ta,a.,7,cm,in,grates,:,dimension,-,.}","{j,:,',will,~,lobar,lymph,node,be,?,identify,range,?,from,0.3,up,ta,a.,7,cm,in,grate,:,dimension,-,.}","{NN,:,'',MD,VB,JJ,NN,NNS,VBP,RB,VBN,VBG,CD,IN,CD,IN,NN,NN,CD,NN,IN,NNS,:,NN,:,.}","{5,0,0,5,11,8,8,5,11,11,0,11,12,0,12,0,18,12,20,11,0,20,0,22,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_113,"A - ' 41 !","{A,-,',41,!}","{a,-,',41,!}","{DT,:,'',CD,.}","{0,0,0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_114,"? lymph ? x : ade * : AE ' 1f - negeeive :02 : malignancy 3 .","{?,lymph,?,x,:,ade,*,:,AE,',1f,-,negeeive,:02,:,malignancy,3,.}","{?,lymph,?,x,:,ade,*,:,ae,',1f,-,negeeive,:02,:,malignancy,3,.}","{NN,NN,CD,NN,:,VB,CD,:,NN,'',SYM,:,JJ,CD,:,NN,CD,.}","{2,4,4,0,0,4,6,0,7,0,7,0,14,4,0,14,16,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_115,"? ' 41 .","{?,',41,.}","{?,',41,.}","{NN,'',CD,.}","{0,0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_116,"lymph ? 1:04 ; " : 531 - negati - : e. for malignancy C. " Level 7-r ? 1yn : ph ; noda " : cF1 - negative { or mu o. ? Let : loves : lobe builaz : segmencecrouxr : D31 ( representative mun ) ? ' carcinama comistenc with .","{lymph,?,1:04,;,",:,531,-,negati,-,:,e.,for,malignancy,C.,",Level,7-r,?,1yn,:,ph,;,noda,",:,cF1,-,negative,{,or,mu,o.,?,Let,:,loves,:,lobe,builaz,:,segmencecrouxr,:,D31,(,representative,mun,),?,',carcinama,comistenc,with,.}","{lymph,?,1:04,;,",:,531,-,negatus,-,:,e.,for,malignancy,c.,",Level,7-r,?,1yn,:,ph,;,noda,",:,cf1,-,negative,{,or,mu,o.,?,let,:,love,:,lobe,builaz,:,segmencecrouxr,:,d31,(,representative,mun,),?,',carcinama,comistenc,with,.}","{NN,CD,CD,:,``,:,CD,:,NN,:,:,VB,IN,NN,NN,'',NNP,JJ,NN,CD,:,NN,:,NNS,``,:,NN,:,JJ,NN,CC,NN,NN,CD,VBD,:,VBZ,:,NN,NN,:,NN,:,NN,CD,JJ,NN,CD,NN,'',NN,NN,IN,.}","{0,3,1,0,3,0,12,0,7,0,0,35,0,15,12,15,15,19,17,19,0,17,0,22,15,0,12,0,30,35,0,33,35,35,3,0,35,0,35,39,0,40,0,35,47,45,35,49,47,0,49,51,49,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_117,"? bronchial alvenlag cgrcinomg","{?,bronchial,alvenlag,cgrcinomg}","{?,bronchial,alvenlag,cgrcinomg}","{NN,JJ,NN,NN}","{0,4,4,1}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_118,"NOTE : Intazmacien on pathology augetransmitted co eh-is zn ? ec1tutz ? .","{NOTE,:,Intazmacien,on,pathology,augetransmitted,co,eh-is,zn,?,ec1tutz,?,.}","{note,:,Intazmacien,on,pathology,augetransmitt,co,eh-is,zn,?,ec1tutz,?,.}","{VB,:,NNP,IN,NN,VBD,NN,JJ,NN,NN,NN,NN,.}","{0,0,6,0,3,1,6,12,12,12,12,7,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_119,"on ' past pau : h. eJ : ogy = inrarmation , imaging studi ? findings .","{on,',past,pau,:,h.,eJ,:,ogy,=,inrarmation,,,imaging,studi,?,findings,.}","{on,',past,pau,:,h.,ej,:,ogy,=,inrarmation,,,imaging,studus,?,finding,.}","{IN,'',JJ,NN,:,VB,NN,:,NN,JJ,NN,,,NN,NN,CD,NNS,.}","{6,0,1,3,0,0,6,0,11,11,7,0,14,11,16,14,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_120,"Pathology stage is only a c d urAdx ? rosrs ' : ? - .","{Pathology,stage,is,only,a,c,d,urAdx,?,rosrs,',:,?,-,.}","{pathology,stage,be,only,a,c,d,uradx,?,rosr,',:,?,-,.}","{NN,NN,VBZ,RB,DT,NN,NN,NN,CD,NNS,POS,:,SYM,:,.}","{2,7,7,7,6,7,0,7,10,8,0,0,7,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_121,"A. " 43 LYMPR NCPE { A-P1 ) " ? ` ~","{A.,",43,LYMPR,NCPE,{,A-P1,),",?,`,~}","{a.,",43,lympr,ncpe,{,a-p1,),",?,`,~}","{NN,'',CD,NN,NN,CD,NN,CD,``,CD,``,FW}","{7,1,4,1,7,5,0,7,10,7,0,10}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_122,"3af6","{3af6}","{3af6}","{NN}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_123,"CARCINGMK OP LUNG ?","{CARCINGMK,OP,LUNG,?}","{carcingmk,op,lung,?}","{CD,NN,NN,NN}","{2,0,4,2}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_124,"Histologic uypu anmmmncrxum wm-3 ? p czu .","{Histologic,uypu,anmmmncrxum,wm-3,?,p,czu,.}","{histologic,uypu,anmmmncrxum,wm-3,?,p,czu,.}","{JJ,NN,NN,NN,NN,NN,NN,.}","{3,3,0,7,7,7,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_125,"PEA : - ujgzs I-Eisnolcgic grade : wsnn-nrprznznrrrn-rm Extsnt of invasicn - Max .","{PEA,:,-,ujgzs,I-Eisnolcgic,grade,:,wsnn-nrprznznrrrn-rm,Extsnt,of,invasicn,-,Max,.}","{pea,:,-,ujgz,i-eisnolcgic,grade,:,wsnn-nrprznznrrrn-rm,extsnt,of,invasicn,-,Max,.}","{NN,:,:,NNS,JJ,NN,:,NN,NN,IN,NN,:,NNP,.}","{0,0,0,6,6,1,0,9,6,0,9,0,9,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_126,"tumor diameter : 1.5 C1 - Mainstem bronchus : NEGATIVE - Viscernl pleura : NEGATIVE ? - Chest : wan : N/A - Med .","{tumor,diameter,:,1.5,C1,-,Mainstem,bronchus,:,NEGATIVE,-,Viscernl,pleura,:,NEGATIVE,?,-,Chest,:,wan,:,N/A,-,Med,.}","{tumor,diameter,:,1.5,c1,-,Mainstem,bronchus,:,negative,-,viscernl,pleuron,:,NEGATIVE,?,-,chest,:,wan,:,n/a,-,Med,.}","{NN,NN,:,CD,NN,:,NNP,VBZ,:,NN,:,NN,NN,:,NNP,SYM,:,NN,:,VB,:,SYM,:,NNP,.}","{2,20,0,5,2,0,8,5,0,8,0,13,10,0,13,10,0,5,0,0,0,24,0,20,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_127,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_128,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_129,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_130,"ast ? inum : - ? N/A .","{ast,?,inum,:,-,?,N/A,.}","{ast,?,inum,:,-,?,n/a,.}","{IN,CD,NN,:,:,NN,NN,.}","{7,3,1,0,0,7,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_131,"- :1 tumor nodules ?","{-,:1,tumor,nodules,?}","{-,:1,tumor,nodule,?}","{:,NN,NN,NNS,.}","{0,0,4,2,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_132,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_133,"usatrnra - Panlehar syn : - o. l _ .","{usatrnra,-,Panlehar,syn,:,-,o.,l,_,.}","{usatrnra,-,panlehar,syn,:,-,o.,l,_,.}","{NN,:,NN,NN,:,:,NN,NN,NN,.}","{0,0,4,1,0,0,9,9,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_134,"ec : asis1 unaawnrs Margin : P y p , - Bronchia-1. : NEGATIVE - Vaaculart ? ? NEGATIV3 - Parenchymtlu manna ? - Pleuxalr ? NEGATIVE othe : ? p1 : : : gnas : ic features ? - vascular iuvasicm ?acarnm Sttgionial ? lymph nodes :","{ec,:,asis1,unaawnrs,Margin,:,P,y,p,,,-,Bronchia-1.,:,NEGATIVE,-,Vaaculart,?,?,NEGATIV3,-,Parenchymtlu,manna,?,-,Pleuxalr,?,NEGATIVE,othe,:,?,p1,:,:,:,gnas,:,ic,features,?,-,vascular,iuvasicm,?acarnm,Sttgionial,?,lymph,nodes,:}","{ec,:,asis1,unaawnr,margin,:,p,y,p,,,-,bronchia-1.,:,negative,-,Vaaculart,?,?,negativ3,-,parenchymtlu,manna,?,-,pleuxalr,?,NEGATIVE,othe,:,?,p1,:,:,:,gna,:,ic,feature,?,-,vascular,iuvasicm,?acarnm,sttgionial,?,lymph,node,:}","{NN,:,NN,VBZ,NN,:,NN,NN,NN,,,:,NN,:,NN,:,NNP,CD,CD,NN,:,NN,NN,SYM,:,NN,CD,NNP,NN,:,CD,NN,:,:,:,NNS,:,JJ,NNS,SYM,:,JJ,NN,NN,JJ,NN,NN,NNS,:}","{0,0,1,3,4,0,5,9,7,0,0,5,0,12,0,14,16,19,16,0,22,19,19,0,16,28,28,25,0,16,30,0,0,0,4,0,38,35,35,0,43,43,1,47,47,47,43,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_135,"uzmrxvi ( 0/2 )","{uzmrxvi,(,0/2,)}","{uzmrxvus,(,0/2,)}","{NN,CD,CD,NN}","{0,3,1,3}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_136,"Addicioul ? in .","{Addicioul,?,in,.}","{addicioul,?,in,.}","{JJ,NN,IN,.}","{2,0,2,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_137,"din .","{din,.}","{din,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_138,"gs :","{gs,:}","{g,:}","{NNS,:}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_139,"2 : . "","{2,:,.,"}","{2,:,.,"}","{CD,:,.,''}","{2,0,0,2}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_140,"LEVEL 10 ? l ; 1 ? l !","{LEVEL,10,?,l,;,1,?,l,!}","{level,10,?,l,;,1,?,l,!}","{NN,CD,NN,NN,:,CD,CD,NN,.}","{4,4,4,0,0,8,8,4,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_141,"4PlI " } IOD3 ? . '","{4PlI,",},IOD3,?,.,'}","{4plus,",},iod3,?,.,'}","{NN,'',CD,NN,NN,.,''}","{0,1,1,1,4,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_142,"( szczsxcw NC !","{(,szczsxcw,NC,!}","{(,szczsxcw,nc,!}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_143,"PATIELOGIC DIAQIOSIS ( NO ? 1 ' UZ ? DR 3331 !","{PATIELOGIC,DIAQIOSIS,(,NO,?,1,',UZ,?,DR,3331,!}","{patielogic,diaqiosis,(,no,?,1,',uz,?,dr,3331,!}","{NN,NN,CD,NN,NN,CD,'',JJ,NN,NN,CD,.}","{2,0,2,3,4,5,0,10,10,2,10,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_144,";","{;}","{;}","{:}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_145,"I ca .","{I,ca,.}","{I,can,.}","{PRP,MD,.}","{2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_146,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_147,"- buy ? than I. ? porno : - .","{-,buy,?,than,I.,?,porno,:,-,.}","{-,buy,?,than,i.,?,porno,:,-,.}","{:,VB,RB,IN,NN,CD,NN,:,:,.}","{0,0,2,0,7,7,2,0,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_148,"uJ .1 y conducted ? the diagnostic cvn luabion .","{uJ,.1,y,conducted,?,the,diagnostic,cvn,luabion,.}","{uj,.1,y,conduct,?,the,diagnostic,cvn,luabion,.}","{NN,CD,NN,VBN,IN,DT,JJ,NN,NN,.}","{3,3,0,3,0,9,9,9,4,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_149,"at ch : above s _ ; : ecimun ( s ) ~ , @ p haw undated eh : lbovc diagncniolee ) .","{at,ch,:,above,s,_,;,:,ecimun,(,s,),~,,,@,p,haw,undated,eh,:,lbovc,diagncniolee,),.}","{at,ch,:,above,s,_,;,:,ecimun,(,s,),~,,,@,p,haw,undated,eh,:,lbovc,diagncniolee,),.}","{IN,NN,:,IN,NNS,VBP,:,:,VB,NN,NNS,VBP,NN,,,IN,NN,NN,JJ,UH,:,NN,NN,NN,.}","{0,12,0,0,2,2,0,0,6,11,12,0,12,0,0,17,12,12,18,0,23,23,12,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_150,"c : P b p 1 : " " Y p Please set ?","{c,:,P,b,p,1,:,",",Y,p,Please,set,?}","{c,:,p,b,p,1,:,",",y,p,please,set,?}","{NN,:,NN,NN,NN,CD,:,``,``,NN,NN,VB,VB,NNS}","{0,0,1,3,4,5,0,5,10,5,10,4,12,13}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_151,"fa : results at supplernentlzy testt . '","{fa,:,results,at,supplernentlzy,testt,.,'}","{fa,:,result,at,supplernentlzy,testt,.,'}","{NN,:,NNS,IN,JJ,NN,.,''}","{0,0,1,0,6,3,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_152,"I","{I}","{I}","{PRP}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_153,".5","{.5}","{.5}","{NN}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_154,"I certify that I personally coaducted thl diagho?tic tvalluav .","{I,certify,that,I,personally,coaducted,thl,diagho?tic,tvalluav,.}","{I,certify,that,I,personally,coaduct,thl,diagho?tic,tvalluav,.}","{PRP,VBP,IN,PRP,RB,VBD,NN,JJ,NN,.}","{2,0,6,6,6,2,9,9,6,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_155,"-.10 : at the above '","{-.10,:,at,the,above,'}","{-.10,:,at,the,above,'}","{CD,:,IN,DT,JJ,''}","{0,0,1,5,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_156,"- .","{-,.}","{-,.}","{:,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_157,"adored the abava diagnolismai .","{adored,the,abava,diagnolismai,.}","{adore,the,abava,diagnolismaus,.}","{VBD,DT,NN,NN,.}","{0,4,4,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_158,"?","{?}","{?}","{NN}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_159,"Eiactzonicnllv signed :","{Eiactzonicnllv,signed,:}","{Eiactzonicnllv,sign,:}","{NNP,VBD,:}","{2,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_160,"E ? - .","{E,?,-,.}","{e,?,-,.}","{NN,SYM,:,.}","{0,1,0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_161,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_162,".","{.}","{.}","{.}","{0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_163,"? .","{?,.}","{?,.}","{NN,.}","{0,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_164,"j " " j " r Dxagrmsn \ T | screP3 ? Q/i p. , m r. .","{j,",",j,",r,Dxagrmsn,\,T,|,screP3,?,Q/i,p.,,,m,r.,.}","{j,",",j,",r,Dxagrmsn,\,t,|,screp3,?,Q/i,p.,,,m,r.,.}","{NN,'',``,NN,'',NN,NNP,CD,NN,CD,NN,CD,NNP,NN,,,NN,NN,.}","{0,1,4,1,4,4,9,9,1,11,9,14,14,1,0,17,14,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_165,"mv. : v Site .","{mv.,:,v,Site,.}","{mv.,:,v,site,.}","{NNP,:,LS,NN,.}","{0,0,4,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_166,"D > s : re ? a_n _ ? V","{D,>,s,:,re,?,a_n,_,?,V}","{d,>,s,:,re,?,a_n,_,?,v}","{NN,JJR,NNS,:,VB,CD,JJ,NN,CD,NN}","{0,5,2,0,1,8,8,10,10,5}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_167,", ? 3.51 - ' uA ? .1 r1 :","{,,?,3.51,-,',uA,?,.1,r1,:}","{,,?,3.51,-,',ua,?,.1,r1,:}","{,,CD,CD,:,'',NN,CD,CD,NN,:}","{0,3,0,0,0,9,8,6,3,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_168,"wewed : .4933 ;","{wewed,:,.4933,;}","{wew,:,.4933,;}","{VBN,:,CD,:}","{0,0,1,0}","{}"
+TCGA-O1-A52J, TCGA-O1-A52JSENT_169,"D _","{D,_}","{d,_}","{NN,SYM}","{0,1}","{}"

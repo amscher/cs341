@@ -1,173 +1,173 @@
-TCGA-37-4129, TCGA-37-4129SENT_1,{},{TCGA,?,37,?,4129},{tcga,?,37,?,4129},{NN,NN,CD,CD,CD},{}
-TCGA-37-4129, TCGA-37-4129SENT_2,{},{TCGA-37-4129},{tcga-37-4129},{NN},{}
-TCGA-37-4129, TCGA-37-4129SENT_3,{},{W.,F.,.},{W.,F.,.},{NNP,NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_4,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_5,{},{H,Wm,.},{h,wm,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_6,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_7,{},{H,H,H,um,HaH,am,H,%,M,.},{h,h,h,um,hah,be,h,%,m,.},{NN,NN,NN,NN,NN,VBP,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_8,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_9,{},{:,WH,.},{:,wh,.},{:,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_10,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_11,{},{m.,H,mm,H,H,H,H,Ac,H,H,H,_,H,Mm,H,_,H,.},{m.,h,mm,h,h,h,h,ac,h,h,h,_,h,mm,h,_,h,.},{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_12,{},{H,H,mm,H,H,H,H,hm,H1H1H,H,mm,H,H,H,H,NC,H,.},{h,h,mm,h,h,h,h,hm,h1h1h,h,mm,h,h,h,h,nc,h,.},{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_13,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_14,{},{H,.....,.....,.....,--,H,.....,--,H,.....,--,H,.},{h,.....,.....,.....,--,h,.....,--,h,.....,--,h,.},{NN,CD,CD,NN,:,NN,CD,:,NN,CD,:,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_15,{},{r,.},{r,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_16,{},{H,H,H,e,H,.,n,.},{h,h,h,e,h,CD,n,.},{NN,NN,NN,SYM,NN,.,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_17,{},{k.,.},{k.,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_18,{},{i,_,c.e.,H,a,.},{i,_,c.e.,h,a,.},{FW,FW,FW,NN,DT,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_19,{},{o.,.},{o.,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_20,{},{D.,.},{D.,.},{NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_21,{},{I,.},{I,.},{PRP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_22,{},{I.U.,.},{I.U.,.},{NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_23,{},{m,HbHi,.},{m,hbhus,.},{NN,NNS,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_24,{},{H,C,.,2,[,*,.....,.....,.....,{,H,.....,-,.},{h,c,NN,2,[,*,.....,.....,.....,{,h,.....,-,.},{NN,NN,.,CD,CD,NN,CD,CD,CD,NN,NN,SYM,:,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_25,{},{H,.....,--,H,.},{h,.....,--,h,.},{NN,CD,:,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_26,{},{n,H,H,H,.},{n,h,h,h,.},{NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_27,{},{et,.},{et,.},{FW,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_28,{},{a,H,HnH,_,H,.},{a,h,hnh,_,h,.},{DT,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_29,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_30,{},{mm,HmHmH,.},{mm,hmhmh,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_31,{},{Cr,:,.,o,.},{Cr,:,CD,o,.},{NNP,:,.,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_32,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_33,{},{Nam,HOH,.},{Nam,HOH,.},{NNP,NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_34,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_35,{},{wH,.},{wh,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_36,{},{S,.},{s,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_37,{},{H,H,H,.....,.....,.....,III1,....,s.,.},{h,h,h,.....,.....,.....,iii1,....,s.,.},{NN,NN,NN,CD,CD,CD,NN,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_38,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_39,{},{....,u,-,?,.},{....,u,-,?,.},{NN,SYM,:,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_40,{},{n,H,H,.},{n,h,h,.},{NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_41,{},{H,ex,HeHdH,H,ma,HwHoH,H,mm,H.,mHmmH,.},{h,ex,hehdh,h,ma,hwhoh,h,mm,h.,mhmmh,.},{NN,FW,FW,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_42,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_43,{},{H,PM,.},{h,pm,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_44,{},{H,|,.,"},{h,|,.,"},{NN,NN,.,''},{}
-TCGA-37-4129, TCGA-37-4129SENT_45,{},{H,H,S,H,H,.},{h,h,s,h,h,.},{NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_46,{},{H,.....,.},{h,.....,.},{NN,CD,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_47,{},{uU,[,*,.....,_,U,[,*,H,H,H,a,.},{uu,[,*,.....,_,U,[,*,h,h,h,a,.},{NN,CD,CD,CD,NN,NNP,NNP,NN,NN,NN,NN,DT,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_48,{},{.1,.},{.1,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_49,{},{H,mm,HmHmH,.},{h,mm,hmhmh,.},{NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_50,{},{Sw?n,Px8,[,*,H,Ema,HWHMH,.},{sw?n,px8,[,*,h,ema,hwhmh,.},{NN,NN,CD,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_51,{},{H,Tn,,,H,H,H,.},{h,tn,,,h,h,h,.},{NN,NN,,,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_52,{},{r,.....,@,@W,*,.....,.},{r,.....,@,@w,*,.....,.},{NN,CD,SYM,FW,FW,FW,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_53,{},{L,:,....,.},{l,:,....,.},{NN,:,CD,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_54,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_55,{},{H.,....,`,>,[,*,H,n,H,H,H,H,.},{H.,....,`,>,[,*,h,n,h,h,h,h,.},{NNP,NNP,``,JJR,CD,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_56,{},{mm,Hm,.},{mm,hm,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_57,{},{HaH,.},{hah,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_58,{},{zrl,.},{zrl,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_59,{},{.1,!,"},{.1,!,"},{NN,.,''},{}
-TCGA-37-4129, TCGA-37-4129SENT_60,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_61,{},{a,.},{a,.},{DT,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_62,{},{m_n,.},{m_n,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_63,{},{uc,H.n.,.},{uc,H.n.,.},{NN,NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_64,{},{H,H,H,_,|,?,.},{h,h,h,_,|,?,.},{NN,NN,NN,CD,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_65,{},{D.,.},{D.,.},{NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_66,{},{H,H,:,-,:,H,.....,-,....,....,.},{h,h,:,-,:,h,.....,-,....,....,.},{NN,NN,:,:,:,NN,SYM,:,CD,CD,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_67,{},{-,H,.},{-,h,.},{:,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_68,{},{:,s,t,u,u,I,n,1,I,u,nu,.,.},{:,s,t,u,u,i,n,1,I,u,nu,.,.},{:,NNS,NN,NN,NN,CD,NN,CD,PRP,VBP,FW,.,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_69,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_70,{},{H,Hm,H,H,H,.},{h,hm,h,h,h,.},{NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_71,{},{i,.},{i,.},{LS,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_72,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_73,{},{d.,H,mm,HmHo,.},{d.,h,mm,hmho,.},{NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_74,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_75,{},{H,ma,HuHmH,.},{h,ma,huhmh,.},{NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_76,{},{a,HLHBH,_,n,.,H,A,H,H,H,.,H,m,I,I,l,l,I,I,I,I,I,I,I,I,I,I,I,Ill.,.},{a,HLHBH,_,n,VBG,h,a,h,h,h,CD,h,m,I,I,l,l,I,I,I,I,I,I,I,I,I,I,I,Ill.,.},{DT,NNP,NN,NN,.,NN,NN,NN,NN,NN,.,NN,NN,PRP,PRP,NN,NN,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_77,{},{I,I,I,I,liml,I,I,I,l,II,.,H,H,H,H,H,H,H,H,H,.},{I,I,I,I,liml,I,I,I,l,ii,NN,h,h,h,h,h,h,h,h,h,.},{PRP,PRP,PRP,PRP,VBP,PRP,PRP,PRP,NN,CD,.,NN,NN,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_78,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_79,{},{H,H,H,.},{h,h,h,.},{NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_80,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_81,{},{TCGA-37,?,-4},{tcga-37,?,-4},{NN,CD,CD},{}
-TCGA-37-4129, TCGA-37-4129SENT_82,{},{M,m,.},{m,m,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_83,{},{H,.},{h,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_84,{},{E,e,H,6,H,e,H,H,m,P,U,n,u,n,H,.},{e,e,h,6,h,e,h,h,m,p,u,n,u,n,h,.},{NN,SYM,NN,CD,NN,SYM,NN,NN,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_85,{},{aw,H,m,H,m,_,.},{aw,h,m,h,m,_,.},{NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_86,{},{ul,?,o,u,H,T,H,H,n,m,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,Ila,I,I,I,I,I,II,.},{ul,?,o,u,h,t,h,h,n,m,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,ila,I,I,I,I,I,ii,.},{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,VBP,PRP,PRP,PRP,PRP,PRP,CD,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_87,{},{I,I,I,I,I,l,I.,e,u,o,u,w.,H,_,u,t,.1,H,a,V,.},{I,I,I,I,I,l,i.,e,u,o,u,w.,h,_,u,t,.1,h,a,v,.},{PRP,PRP,PRP,PRP,PRP,NN,NN,SYM,FW,NN,FW,FW,NN,NN,NN,NN,NN,NN,DT,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_88,{},{S,M,.},{s,m,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_89,{},{o,Ir,.,I,\,.},{o,ir,CD,I,\,.},{NN,NN,.,PRP,VBP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_90,{},{n,.},{n,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_91,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_92,{},{M,.},{m,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_93,{},{_,U,N,H,H,.},{_,u,n,h,h,.},{NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_94,{},{T,.},{t,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_95,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_96,{},{_,I,I,I,I,L,I,I,I,I,l,I,I,l,I,I,ll,:,I,I,E,I,I,U,I,l,I,I,l,I,ll,.},{_,i,I,I,I,l,I,I,I,I,l,I,I,l,I,I,ll,:,I,I,e,I,I,U,I,l,I,I,l,I,ll,.},{NN,CD,PRP,PRP,PRP,NN,PRP,PRP,PRP,PRP,NN,PRP,PRP,NN,PRP,PRP,VBP,:,PRP,PRP,NN,PRP,PRP,NNP,NNP,NN,PRP,PRP,NN,PRP,VBP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_97,{},{_,e,.,9,u,H,.},{_,e,FW,9,u,h,.},{NN,SYM,.,CD,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_98,{},{m.,1,;,.},{m.,1,;,.},{NN,CD,:,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_99,{},{a,.,"},{a,.,"},{DT,.,''},{}
-TCGA-37-4129, TCGA-37-4129SENT_100,{},{sm,N,o,.},{sm,n,o,.},{NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_101,{},{m,_,.},{m,_,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_102,{},{M,.},{m,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_103,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_104,{},{H,N,_,H,_,T,.},{h,n,_,h,_,t,.},{NN,NN,NN,NN,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_105,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_106,{},{o,|,?,t,n,I,l',e,',I,I,I,I,I,I,I,inn,u,I,n,:,v,1,|,:,I,I,I,I,-1,},H,9,H,H,U,m,...,H,a,.},{o,|,?,t,n,I,l',e,',I,I,I,I,I,I,I,inn,u,I,n,:,v,1,|,:,I,I,I,I,-1,},h,9,h,h,U,m,...,h,a,.},{NN,SYM,CD,NN,NN,PRP,VBP,SYM,'',PRP,PRP,PRP,PRP,PRP,PRP,PRP,VBP,NN,PRP,NN,:,LS,CD,NN,:,PRP,PRP,PRP,PRP,CD,NN,NN,CD,NN,NN,NNP,NN,:,NN,DT,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_107,{},{o,Sn,.},{o,sn,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_108,{},{H,2,I,u,H,W,H,n,.},{h,2,I,u,h,w,h,n,.},{NN,CD,PRP,VBP,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_109,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_110,{},{H,T,_,n,v,.....,.....,....,L,.....,.....,...,in,_,.,)},{h,t,_,n,v,.....,.....,....,l,.....,.....,...,in,_,.,)},{NN,NN,NN,NN,LS,FW,FW,FW,NN,CD,CD,:,IN,NN,.,SYM},{}
-TCGA-37-4129, TCGA-37-4129SENT_111,{},{_,H,H,m,w,M,U,u,a,.},{_,h,h,m,w,m,U,u,a,.},{NN,NN,NN,NN,NN,NN,NNP,NNP,DT,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_112,{},{u.,.},{u.,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_113,{},{_,2,ram,H,H,m,o,N,n,.},{_,2,ram,h,h,m,o,n,n,.},{NN,CD,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_114,{},{_,m.,.},{_,m.,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_115,{},{U,H,H,.},{U,H,h,.},{NNP,NNP,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_116,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_117,{},{-,I,I,I,I,I,l,I,I,I,K,3,I,I,I,I,II,.},{-,I,I,I,I,I,l,I,I,I,K,3,I,I,I,I,ii,.},{:,PRP,PRP,PRP,PRP,PRP,NN,PRP,PRP,PRP,NNP,CD,PRP,PRP,PRP,PRP,CD,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_118,{},{I,I,1,I,I,I,I,-,I,I,I,I,I,II,.},{I,I,1,I,I,I,I,-,I,I,I,I,I,ii,.},{PRP,PRP,CD,PRP,PRP,PRP,PRP,:,PRP,PRP,PRP,PRP,PRP,CD,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_119,{},{n,_,.},{n,_,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_120,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_121,{},{m,U,M,U,m.,_,m,.},{m,U,M,U,m.,_,m,.},{NN,NNP,NNP,NNP,NNP,NNP,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_122,{},{r,_,.},{r,_,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_123,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_124,{},{l.,.,.},{l.,CD,.},{NN,.,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_125,{},{w.,.},{w.,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_126,{},{mw,",m,.},{mw,",m,.},{NN,'',NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_127,{},{M,c,_,m,.},{m,c,_,m,.},{NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_128,{},{Im,",t,m,H,3,O,.},{im,",t,m,h,3,o,.},{NN,'',NN,NN,NN,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_129,{},{n,n,ms,o,a,o,Qt,.},{n,n,m,o,a,o,qt,.},{NN,NN,NNS,NN,DT,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_130,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_131,{},{n,.},{n,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_132,{},{o,_,M,.},{o,_,m,.},{NN,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_133,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_134,{},{w,u,m,H,U,+,4,+,_,M,.},{w,u,m,h,u,+,4,+,_,m,.},{NN,NN,NN,NN,NN,CC,CD,CC,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_135,{},{N,H,H,9,I,n,:,I,n,I,n,|,.},{n,h,h,9,I,n,:,I,n,i,n,|,.},{NN,NN,NN,CD,PRP,NN,:,PRP,NN,CD,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_136,{},{n.u,1,I,I,I,u,n,?,Ij,r,:,I,I,I,I,I,:,nlnwunlm,H,...,m,%,U,N,;,nra,.},{n.u,1,I,I,I,u,n,?,ij,r,:,I,I,I,I,I,:,nlnwunlm,h,...,m,%,u,n,;,nra,.},{NN,CD,PRP,PRP,PRP,VBP,NN,CD,NN,NN,:,PRP,PRP,PRP,PRP,PRP,:,NN,NN,:,NN,NN,NN,NN,:,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_137,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_138,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_139,{},{e,rt,",e,.},{e,rt,",e,.},{LS,NN,'',LS,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_140,{},{o,n,H,K,n,H,m.,w,_,-,o,H,T,m,o,s,m,.},{o,n,h,k,n,h,m.,w,_,-,o,h,t,m,o,s,m,.},{NN,NN,NN,NN,NN,NN,NN,NN,SYM,:,NN,NN,NN,NN,NN,VBZ,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_141,{},{?,P,o,b,.},{?,p,o,b,.},{NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_142,{},{u,.....,.....,.....,I.,.....,.....,.},{u,.....,.....,.....,i.,.....,.....,.},{FW,FW,FW,FW,NN,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_143,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_144,{},{I,?,.},{I,?,.},{PRP,VBP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_145,{},{N,_,u,u,u,?,u,.},{n,_,u,u,u,?,u,.},{NN,NN,FW,FW,FW,FW,FW,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_146,{},{E.,.},{E.,.},{NNP,.},{}
-TCGA-37-4129, TCGA-37-4129O,{},{.,.},{.,.},{.,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_148,{},{m,H,M,H,m,H,o,U,.},{m,h,m,h,m,h,o,u,.},{NN,NN,NN,NN,NN,NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_149,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_150,{},{n,_,n,H,",_,.,_,H,H,u,_,_,.},{n,_,n,h,",_,CD,_,h,h,u,_,_,.},{NN,NN,NN,NN,'',CD,.,NN,NN,NN,NN,CD,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_151,{},{TCGA-37-4129},{tcga-37-4129},{NN},{}
-TCGA-37-4129, TCGA-37-4129.,{},{.,I,.},{NN,i,.},{.,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_153,{},{_,H,.},{_,h,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_154,{},{um,U,.},{um,u,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_155,{},{H,c,.,3,.},{h,c,.,3,.},{NN,NN,.,CD,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_156,{},{H,.},{h,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_157,{},{m,%,mmmmm,.},{m,%,mmmmm,.},{NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_158,{},{_,.},{_,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_159,{},{_,.},{_,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_160,{},{u,.},{u,.},{NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_161,{},{u,H,H,T,u,-,?,.,nu,",u,u,?,.,1,",.},{u,h,h,t,u,-,?,.,nu,",u,u,?,FW,1,",.},{NN,NN,NN,NN,SYM,:,NN,.,NN,'',FW,FW,FW,.,CD,``,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_162,{},{--,u.,.....,-,.},{--,u.,.....,-,.},{:,NN,SYM,:,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_163,{},{-,:,_,_,H,.},{-,:,_,_,h,.},{:,:,CD,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_164,{},{n,.,",memmm,",.},{n,CD,",memmm,",.},{NN,.,``,NN,'',.},{}
-TCGA-37-4129, TCGA-37-4129SENT_165,{},{.,"},{.,"},{.,''},{}
-TCGA-37-4129, TCGA-37-4129SENT_166,{},{mmmmm,.,"},{mmmmm,.,"},{NN,.,''},{}
-TCGA-37-4129, TCGA-37-4129SENT_167,{},{m,H,m.,.},{m,h,m.,.},{NN,NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_168,{},{o.,aert,.},{o.,aert,.},{NN,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_169,{},{n.,H.,ummhoe,?,.},{n.,H.,ummhoe,?,.},{NNP,NNP,JJ,NN,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_170,{},{.,"},{.,"},{.,''},{}
-TCGA-37-4129, TCGA-37-4129SENT_171,{},{oHWHo,_,.},{oHWHo,_,.},{NNP,NNP,.},{}
-TCGA-37-4129, TCGA-37-4129SENT_172,{},{.},{.},{.},{}
-TCGA-37-4129, TCGA-37-4129SENT_173,{},{?,CO,.},{?,CO,NNP},{RB,NNP,.},{}
+TCGA-37-4129, TCGA-37-4129SENT_1,"TCGA ? 37 ? 4129","{TCGA,?,37,?,4129}","{tcga,?,37,?,4129}","{NN,NN,CD,CD,CD}","{2,0,4,2,4}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_2,"TCGA-37-4129","{TCGA-37-4129}","{tcga-37-4129}","{NN}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_3,"W. F. .","{W.,F.,.}","{W.,F.,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_4,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_5,"H Wm .","{H,Wm,.}","{h,wm,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_6,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_7,"H H H um HaH am H % M .","{H,H,H,um,HaH,am,H,%,M,.}","{h,h,h,um,hah,be,h,%,m,.}","{NN,NN,NN,NN,NN,VBP,NN,NN,NN,.}","{2,9,5,5,2,9,9,9,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_8,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_9,": WH .","{:,WH,.}","{:,wh,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_10,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_11,"m. H mm H H H H Ac H H H _ H Mm H _ H .","{m.,H,mm,H,H,H,H,Ac,H,H,H,_,H,Mm,H,_,H,.}","{m.,h,mm,h,h,h,h,ac,h,h,h,_,h,mm,h,_,h,.}","{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,.}","{3,3,0,17,17,17,17,17,17,17,17,17,17,17,17,17,3,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_12,"H H mm H H H H hm H1H1H H mm H H H H NC H .","{H,H,mm,H,H,H,H,hm,H1H1H,H,mm,H,H,H,H,NC,H,.}","{h,h,mm,h,h,h,h,hm,h1h1h,h,mm,h,h,h,h,nc,h,.}","{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,.}","{3,3,0,17,17,17,17,17,17,17,17,17,17,17,17,17,3,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_13,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_14,"H ..... ..... ..... -- H ..... -- H ..... -- H .","{H,.....,.....,.....,--,H,.....,--,H,.....,--,H,.}","{h,.....,.....,.....,--,h,.....,--,h,.....,--,h,.}","{NN,CD,CD,NN,:,NN,CD,:,NN,CD,:,NN,.}","{0,3,4,1,0,1,6,0,6,9,0,6,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_15,"r .","{r,.}","{r,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_16,"H H H e H . n .","{H,H,H,e,H,.,n,.}","{h,h,h,e,h,CD,n,.}","{NN,NN,NN,SYM,NN,.,NN,.}","{3,3,7,7,7,.,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_17,"k. .","{k.,.}","{k.,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_18,"i _ c.e. H a .","{i,_,c.e.,H,a,.}","{i,_,c.e.,h,a,.}","{FW,FW,FW,NN,DT,.}","{0,4,4,1,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_19,"o. .","{o.,.}","{o.,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_20,"D. .","{D.,.}","{D.,.}","{NNP,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_21,"I .","{I,.}","{I,.}","{PRP,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_22,"I.U. .","{I.U.,.}","{I.U.,.}","{NNP,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_23,"m HbHi .","{m,HbHi,.}","{m,hbhus,.}","{NN,NNS,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_24,"H C . 2 [ * ..... ..... ..... { H ..... - .","{H,C,.,2,[,*,.....,.....,.....,{,H,.....,-,.}","{h,c,NN,2,[,*,.....,.....,.....,{,h,.....,-,.}","{NN,NN,.,CD,CD,NN,CD,CD,CD,NN,NN,SYM,:,.}","{3,3,.,5,6,3,11,9,11,11,0,11,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_25,"H ..... -- H .","{H,.....,--,H,.}","{h,.....,--,h,.}","{NN,CD,:,NN,.}","{0,1,0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_26,"n H H H .","{n,H,H,H,.}","{n,h,h,h,.}","{NN,NN,NN,NN,.}","{4,4,4,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_27,"et .","{et,.}","{et,.}","{FW,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_28,"a H HnH _ H .","{a,H,HnH,_,H,.}","{a,h,hnh,_,h,.}","{DT,NN,NN,NN,NN,.}","{2,0,5,5,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_29,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_30,"mm HmHmH .","{mm,HmHmH,.}","{mm,hmhmh,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_31,"Cr : . o .","{Cr,:,.,o,.}","{Cr,:,CD,o,.}","{NNP,:,.,NN,.}","{0,0,.,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_32,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_33,"Nam HOH .","{Nam,HOH,.}","{Nam,HOH,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_34,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_35,"wH .","{wH,.}","{wh,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_36,"S .","{S,.}","{s,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_37,"H H H ..... ..... ..... III1 .... s. .","{H,H,H,.....,.....,.....,III1,....,s.,.}","{h,h,h,.....,.....,.....,iii1,....,s.,.}","{NN,NN,NN,CD,CD,CD,NN,CD,NN,.}","{2,0,7,3,3,3,2,9,7,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_38,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_39,".... u - ? .","{....,u,-,?,.}","{....,u,-,?,.}","{NN,SYM,:,NN,.}","{0,1,0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_40,"n H H .","{n,H,H,.}","{n,h,h,.}","{NN,NN,NN,.}","{2,3,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_41,"H ex HeHdH H ma HwHoH H mm H. mHmmH .","{H,ex,HeHdH,H,ma,HwHoH,H,mm,H.,mHmmH,.}","{h,ex,hehdh,h,ma,hwhoh,h,mm,h.,mhmmh,.}","{NN,FW,FW,NN,NN,NN,NN,NN,NN,NN,.}","{0,5,5,5,1,10,10,10,10,5,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_42,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_43,"H PM .","{H,PM,.}","{h,pm,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_44,"H | . "","{H,|,.,"}","{h,|,.,"}","{NN,NN,.,''}","{2,0,0,2}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_45,"H H S H H .","{H,H,S,H,H,.}","{h,h,s,h,h,.}","{NN,NN,NN,NN,NN,.}","{0,5,5,5,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_46,"H ..... .","{H,.....,.}","{h,.....,.}","{NN,CD,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_47,"uU [ * ..... _ U [ * H H H a .","{uU,[,*,.....,_,U,[,*,H,H,H,a,.}","{uu,[,*,.....,_,U,[,*,h,h,h,a,.}","{NN,CD,CD,CD,NN,NNP,NNP,NN,NN,NN,NN,DT,.}","{0,3,1,5,3,9,9,9,1,11,9,11,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_48,".1 .","{.1,.}","{.1,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_49,"H mm HmHmH .","{H,mm,HmHmH,.}","{h,mm,hmhmh,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_50,"Sw?n Px8 [ * H Ema HWHMH .","{Sw?n,Px8,[,*,H,Ema,HWHMH,.}","{sw?n,px8,[,*,h,ema,hwhmh,.}","{NN,NN,CD,NN,NN,NN,NN,.}","{2,0,4,2,7,7,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_51,"H Tn , H H H .","{H,Tn,,,H,H,H,.}","{h,tn,,,h,h,h,.}","{NN,NN,,,NN,NN,NN,.}","{2,0,0,6,6,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_52,"r ..... @ @W * ..... .","{r,.....,@,@W,*,.....,.}","{r,.....,@,@w,*,.....,.}","{NN,CD,SYM,FW,FW,FW,.}","{6,1,6,6,6,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_53,"L : .... .","{L,:,....,.}","{l,:,....,.}","{NN,:,CD,.}","{0,0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_54,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_55,"H. .... ` > [ * H n H H H H .","{H.,....,`,>,[,*,H,n,H,H,H,H,.}","{H.,....,`,>,[,*,h,n,h,h,h,h,.}","{NNP,NNP,``,JJR,CD,NN,NN,NN,NN,NN,NN,NN,.}","{2,0,0,2,7,7,2,12,12,12,12,7,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_56,"mm Hm .","{mm,Hm,.}","{mm,hm,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_57,"HaH .","{HaH,.}","{hah,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_58,"zrl .","{zrl,.}","{zrl,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_59,".1 ! "","{.1,!,"}","{.1,!,"}","{NN,.,''}","{0,0,1}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_60,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_61,"a .","{a,.}","{a,.}","{DT,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_62,"m_n .","{m_n,.}","{m_n,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_63,"uc H.n. .","{uc,H.n.,.}","{uc,H.n.,.}","{NN,NNP,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_64,"H H H _ | ? .","{H,H,H,_,|,?,.}","{h,h,h,_,|,?,.}","{NN,NN,NN,CD,CD,NN,.}","{3,3,0,5,3,5,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_65,"D. .","{D.,.}","{D.,.}","{NNP,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_66,"H H : - : H ..... - .... .... .","{H,H,:,-,:,H,.....,-,....,....,.}","{h,h,:,-,:,h,.....,-,....,....,.}","{NN,NN,:,:,:,NN,SYM,:,CD,CD,.}","{2,0,0,0,0,4,4,0,10,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_67,"- H .","{-,H,.}","{-,h,.}","{:,NN,.}","{0,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_68,": s t u u I n 1 I u nu . .","{:,s,t,u,u,I,n,1,I,u,nu,.,.}","{:,s,t,u,u,i,n,1,I,u,nu,.,.}","{:,NNS,NN,NN,NN,CD,NN,CD,PRP,VBP,FW,.,.}","{0,7,4,2,7,5,10,7,10,0,12,FW,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_69,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_70,"H Hm H H H .","{H,Hm,H,H,H,.}","{h,hm,h,h,h,.}","{NN,NN,NN,NN,NN,.}","{0,5,5,5,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_71,"i .","{i,.}","{i,.}","{LS,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_72,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_73,"d. H mm HmHo .","{d.,H,mm,HmHo,.}","{d.,h,mm,hmho,.}","{NN,NN,NN,NN,.}","{4,4,4,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_74,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_75,"H ma HuHmH .","{H,ma,HuHmH,.}","{h,ma,huhmh,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_76,"a HLHBH _ n . H A H H H . H m I I l l I I I I I I I I I I I Ill. .","{a,HLHBH,_,n,.,H,A,H,H,H,.,H,m,I,I,l,l,I,I,I,I,I,I,I,I,I,I,I,Ill.,.}","{a,HLHBH,_,n,VBG,h,a,h,h,h,CD,h,m,I,I,l,l,I,I,I,I,I,I,I,I,I,I,I,Ill.,.}","{DT,NNP,NN,NN,.,NN,NN,NN,NN,NN,.,NN,NN,PRP,PRP,NN,NN,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,NNP,.}","{4,4,4,0,.,13,13,13,13,13,.,13,5,13,13,13,13,21,18,21,23,21,24,26,24,28,26,13,28,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_77,"I I I I liml I I I l II . H H H H H H H H H .","{I,I,I,I,liml,I,I,I,l,II,.,H,H,H,H,H,H,H,H,H,.}","{I,I,I,I,liml,I,I,I,l,ii,NN,h,h,h,h,h,h,h,h,h,.}","{PRP,PRP,PRP,PRP,VBP,PRP,PRP,PRP,NN,CD,.,NN,NN,NN,NN,NN,NN,NN,NN,NN,.}","{5,1,1,3,0,7,5,12,12,12,.,7,18,18,18,18,18,12,7,19,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_78,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_79,"H H H .","{H,H,H,.}","{h,h,h,.}","{NN,NN,NN,.}","{2,3,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_80,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_81,"TCGA-37 ? -4","{TCGA-37,?,-4}","{tcga-37,?,-4}","{NN,CD,CD}","{0,3,1}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_82,"M m .","{M,m,.}","{m,m,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_83,"H .","{H,.}","{h,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_84,"E e H 6 H e H H m P U n u n H .","{E,e,H,6,H,e,H,H,m,P,U,n,u,n,H,.}","{e,e,h,6,h,e,h,h,m,p,u,n,u,n,h,.}","{NN,SYM,NN,CD,NN,SYM,NN,NN,NN,NN,NN,NN,NN,NN,NN,.}","{0,5,5,5,1,9,9,9,1,15,15,15,15,15,9,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_85,"aw H m H m _ .","{aw,H,m,H,m,_,.}","{aw,h,m,h,m,_,.}","{NN,NN,NN,NN,NN,NN,.}","{2,0,6,6,6,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_86,"ul ? o u H T H H n m I I I I I I I I I I I I I I I Ila I I I I I II .","{ul,?,o,u,H,T,H,H,n,m,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,Ila,I,I,I,I,I,II,.}","{ul,?,o,u,h,t,h,h,n,m,I,I,I,I,I,I,I,I,I,I,I,I,I,I,I,ila,I,I,I,I,I,ii,.}","{NN,NN,NN,NN,NN,NN,NN,NN,NN,NN,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,PRP,VBP,PRP,PRP,PRP,PRP,PRP,CD,.}","{10,10,10,10,10,10,10,10,10,13,10,13,26,13,18,15,18,20,18,21,23,21,26,23,26,0,28,26,28,28,30,30,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_87,"I I I I I l I. e u o u w. H _ u t .1 H a V .","{I,I,I,I,I,l,I.,e,u,o,u,w.,H,_,u,t,.1,H,a,V,.}","{I,I,I,I,I,l,i.,e,u,o,u,w.,h,_,u,t,.1,h,a,v,.}","{PRP,PRP,PRP,PRP,PRP,NN,NN,SYM,FW,NN,FW,FW,NN,NN,NN,NN,NN,NN,DT,NN,.}","{2,0,4,2,4,5,6,9,14,9,14,14,14,5,17,17,14,2,20,18,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_88,"S M .","{S,M,.}","{s,m,.}","{NN,NN,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_89,"o Ir . I \ .","{o,Ir,.,I,\,.}","{o,ir,CD,I,\,.}","{NN,NN,.,PRP,VBP,.}","{2,0,.,5,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_90,"n .","{n,.}","{n,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_91,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_92,"M .","{M,.}","{m,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_93,"_ U N H H .","{_,U,N,H,H,.}","{_,u,n,h,h,.}","{NN,NN,NN,NN,NN,.}","{0,5,5,5,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_94,"T .","{T,.}","{t,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_95,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_96,"_ I I I I L I I I I l I I l I I ll : I I E I I U I l I I l I ll .","{_,I,I,I,I,L,I,I,I,I,l,I,I,l,I,I,ll,:,I,I,E,I,I,U,I,l,I,I,l,I,ll,.}","{_,i,I,I,I,l,I,I,I,I,l,I,I,l,I,I,ll,:,I,I,e,I,I,U,I,l,I,I,l,I,ll,.}","{NN,CD,PRP,PRP,PRP,NN,PRP,PRP,PRP,PRP,NN,PRP,PRP,NN,PRP,PRP,VBP,:,PRP,PRP,NN,PRP,PRP,NNP,NNP,NN,PRP,PRP,NN,PRP,VBP,.}","{5,1,1,5,8,5,6,17,13,9,10,13,17,13,14,17,0,0,20,17,25,21,25,25,31,25,26,31,31,31,17,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_97,"_ e . 9 u H .","{_,e,.,9,u,H,.}","{_,e,FW,9,u,h,.}","{NN,SYM,.,CD,NN,NN,.}","{0,3,.,5,1,5,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_98,"m. 1 ; .","{m.,1,;,.}","{m.,1,;,.}","{NN,CD,:,.}","{0,1,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_99,"a . "","{a,.,"}","{a,.,"}","{DT,.,''}","{0,0,1}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_100,"sm N o .","{sm,N,o,.}","{sm,n,o,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_101,"m _ .","{m,_,.}","{m,_,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_102,"M .","{M,.}","{m,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_103,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_104,"H N _ H _ T .","{H,N,_,H,_,T,.}","{h,n,_,h,_,t,.}","{NN,NN,NN,NN,CD,NN,.}","{4,4,4,0,6,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_105,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_106,"o | ? t n I l' e ' I I I I I I I inn u I n : v 1 | : I I I I -1 } H 9 H H U m ... H a .","{o,|,?,t,n,I,l',e,',I,I,I,I,I,I,I,inn,u,I,n,:,v,1,|,:,I,I,I,I,-1,},H,9,H,H,U,m,...,H,a,.}","{o,|,?,t,n,I,l',e,',I,I,I,I,I,I,I,inn,u,I,n,:,v,1,|,:,I,I,I,I,-1,},h,9,h,h,U,m,...,h,a,.}","{NN,SYM,CD,NN,NN,PRP,VBP,SYM,'',PRP,PRP,PRP,PRP,PRP,PRP,PRP,VBP,NN,PRP,NN,:,LS,CD,NN,:,PRP,PRP,PRP,PRP,CD,NN,NN,CD,NN,NN,NNP,NN,:,NN,DT,.}","{0,5,5,5,1,7,1,10,0,7,14,11,14,17,14,17,7,29,20,18,0,23,18,23,0,18,26,18,17,31,1,37,35,35,37,37,31,0,1,39,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_107,"o Sn .","{o,Sn,.}","{o,sn,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_108,"H 2 I u H W H n .","{H,2,I,u,H,W,H,n,.}","{h,2,I,u,h,w,h,n,.}","{NN,CD,PRP,VBP,NN,NN,NN,NN,.}","{4,1,4,0,8,8,8,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_109,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_110,"H T _ n v ..... ..... .... L ..... ..... ... in _ . )","{H,T,_,n,v,.....,.....,....,L,.....,.....,...,in,_,.,)}","{h,t,_,n,v,.....,.....,....,l,.....,.....,...,in,_,.,)}","{NN,NN,NN,NN,LS,FW,FW,FW,NN,CD,CD,:,IN,NN,.,SYM}","{4,4,4,0,8,8,8,4,8,11,9,0,0,9,0,4}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_111,"_ H H m w M U u a .","{_,H,H,m,w,M,U,u,a,.}","{_,h,h,m,w,m,U,u,a,.}","{NN,NN,NN,NN,NN,NN,NNP,NNP,DT,.}","{6,6,6,6,6,0,8,6,8,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_112,"u. .","{u.,.}","{u.,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_113,"_ 2 ram H H m o N n .","{_,2,ram,H,H,m,o,N,n,.}","{_,2,ram,h,h,m,o,n,n,.}","{NN,CD,NN,NN,NN,NN,NN,NN,NN,.}","{4,4,4,0,9,9,9,9,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_114,"_ m. .","{_,m.,.}","{_,m.,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_115,"U H H .","{U,H,H,.}","{U,H,h,.}","{NNP,NNP,NN,.}","{2,3,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_116,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_117,"- I I I I I l I I I K 3 I I I I II .","{-,I,I,I,I,I,l,I,I,I,K,3,I,I,I,I,II,.}","{-,I,I,I,I,I,l,I,I,I,K,3,I,I,I,I,ii,.}","{:,PRP,PRP,PRP,PRP,PRP,NN,PRP,PRP,PRP,NNP,CD,PRP,PRP,PRP,PRP,CD,.}","{0,5,2,5,8,5,6,10,8,13,10,11,15,13,17,15,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_118,"I I 1 I I I I - I I I I I II .","{I,I,1,I,I,I,I,-,I,I,I,I,I,II,.}","{I,I,1,I,I,I,I,-,I,I,I,I,I,ii,.}","{PRP,PRP,CD,PRP,PRP,PRP,PRP,:,PRP,PRP,PRP,PRP,PRP,CD,.}","{4,1,4,6,4,7,0,0,12,9,12,14,12,7,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_119,"n _ .","{n,_,.}","{n,_,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_120,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_121,"m U M U m. _ m .","{m,U,M,U,m.,_,m,.}","{m,U,M,U,m.,_,m,.}","{NN,NNP,NNP,NNP,NNP,NNP,NN,.}","{0,7,7,7,7,7,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_122,"r _ .","{r,_,.}","{r,_,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_123,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_124,"l. . .","{l.,.,.}","{l.,CD,.}","{NN,.,.}","{0,.,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_125,"w. .","{w.,.}","{w.,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_126,"mw " m .","{mw,",m,.}","{mw,",m,.}","{NN,'',NN,.}","{0,1,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_127,"M c _ m .","{M,c,_,m,.}","{m,c,_,m,.}","{NN,NN,NN,NN,.}","{4,4,4,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_128,"Im " t m H 3 O .","{Im,",t,m,H,3,O,.}","{im,",t,m,h,3,o,.}","{NN,'',NN,NN,NN,CD,NN,.}","{4,4,4,5,0,7,5,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_129,"n n ms o a o Qt .","{n,n,ms,o,a,o,Qt,.}","{n,n,m,o,a,o,qt,.}","{NN,NN,NNS,NN,DT,NN,NN,.}","{4,4,4,0,7,7,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_130,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_131,"n .","{n,.}","{n,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_132,"o _ M .","{o,_,M,.}","{o,_,m,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_133,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_134,"w u m H U + 4 + _ M .","{w,u,m,H,U,+,4,+,_,M,.}","{w,u,m,h,u,+,4,+,_,m,.}","{NN,NN,NN,NN,NN,CC,CD,CC,CD,NN,.}","{2,0,5,5,2,0,2,0,10,5,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_135,"N H H 9 I n : I n I n | .","{N,H,H,9,I,n,:,I,n,I,n,|,.}","{n,h,h,9,I,n,:,I,n,i,n,|,.}","{NN,NN,NN,CD,PRP,NN,:,PRP,NN,CD,NN,NN,.}","{2,0,2,3,6,2,0,2,12,12,12,8,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_136,"n.u 1 I I I u n ? Ij r : I I I I I : nlnwunlm H ... m % U N ; nra .","{n.u,1,I,I,I,u,n,?,Ij,r,:,I,I,I,I,I,:,nlnwunlm,H,...,m,%,U,N,;,nra,.}","{n.u,1,I,I,I,u,n,?,ij,r,:,I,I,I,I,I,:,nlnwunlm,h,...,m,%,u,n,;,nra,.}","{NN,CD,PRP,PRP,PRP,VBP,NN,CD,NN,NN,:,PRP,PRP,PRP,PRP,PRP,:,NN,NN,:,NN,NN,NN,NN,:,NN,.}","{6,1,1,1,4,0,10,10,10,6,0,10,12,12,6,15,0,19,15,0,22,19,24,22,0,19,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_137,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_138,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_139,"e rt " e .","{e,rt,",e,.}","{e,rt,",e,.}","{LS,NN,'',LS,.}","{2,0,2,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_140,"o n H K n H m. w _ - o H T m o s m .","{o,n,H,K,n,H,m.,w,_,-,o,H,T,m,o,s,m,.}","{o,n,h,k,n,h,m.,w,_,-,o,h,t,m,o,s,m,.}","{NN,NN,NN,NN,NN,NN,NN,NN,SYM,:,NN,NN,NN,NN,NN,VBZ,NN,.}","{2,3,0,8,8,8,8,3,13,0,13,13,8,15,17,17,13,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_141,"? P o b .","{?,P,o,b,.}","{?,p,o,b,.}","{NN,NN,NN,NN,.}","{4,4,4,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_142,"u ..... ..... ..... I. ..... ..... .","{u,.....,.....,.....,I.,.....,.....,.}","{u,.....,.....,.....,i.,.....,.....,.}","{FW,FW,FW,FW,NN,CD,NN,.}","{4,4,4,0,7,7,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_143,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_144,"I ? .","{I,?,.}","{I,?,.}","{PRP,VBP,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_145,"N _ u u u ? u .","{N,_,u,u,u,?,u,.}","{n,_,u,u,u,?,u,.}","{NN,NN,FW,FW,FW,FW,FW,.}","{0,1,2,2,2,2,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_146,"E. .","{E.,.}","{E.,.}","{NNP,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129O,". .","{.,.}","{.,.}","{.,.}","{NN,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_148,"m H M H m H o U .","{m,H,M,H,m,H,o,U,.}","{m,h,m,h,m,h,o,u,.}","{NN,NN,NN,NN,NN,NN,NN,NN,.}","{4,4,4,0,8,8,8,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_149,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_150,"n _ n H " _ . _ H H u _ _ .","{n,_,n,H,",_,.,_,H,H,u,_,_,.}","{n,_,n,h,",_,CD,_,h,h,u,_,_,.}","{NN,NN,NN,NN,'',CD,.,NN,NN,NN,NN,CD,NN,.}","{4,4,4,0,4,7,.,11,11,11,4,13,11,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_151,"TCGA-37-4129","{TCGA-37-4129}","{tcga-37-4129}","{NN}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129.,". I .","{.,I,.}","{NN,i,.}","{.,NN,.}","{.,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_153,"_ H .","{_,H,.}","{_,h,.}","{NN,NN,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_154,"um U .","{um,U,.}","{um,u,.}","{NN,NN,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_155,"H c . 3 .","{H,c,.,3,.}","{h,c,.,3,.}","{NN,NN,.,CD,.}","{2,0,NUMBER,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_156,"H .","{H,.}","{h,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_157,"m % mmmmm .","{m,%,mmmmm,.}","{m,%,mmmmm,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_158,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_159,"_ .","{_,.}","{_,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_160,"u .","{u,.}","{u,.}","{NN,.}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_161,"u H H T u - ? . nu " u u ? . 1 " .","{u,H,H,T,u,-,?,.,nu,",u,u,?,.,1,",.}","{u,h,h,t,u,-,?,.,nu,",u,u,?,FW,1,",.}","{NN,NN,NN,NN,SYM,:,NN,.,NN,'',FW,FW,FW,.,CD,``,.}","{2,0,2,3,2,0,2,CD,7,9,14,14,14,.,14,9,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_162,"-- u. ..... - .","{--,u.,.....,-,.}","{--,u.,.....,-,.}","{:,NN,SYM,:,.}","{0,0,2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_163,"- : _ _ H .","{-,:,_,_,H,.}","{-,:,_,_,h,.}","{:,:,CD,NN,NN,.}","{0,0,5,5,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_164,"n . " memmm " .","{n,.,",memmm,",.}","{n,CD,",memmm,",.}","{NN,.,``,NN,'',.}","{0,.,4,1,4,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_165,". "","{.,"}","{.,"}","{.,''}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_166,"mmmmm . "","{mmmmm,.,"}","{mmmmm,.,"}","{NN,.,''}","{0,0,1}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_167,"m H m. .","{m,H,m.,.}","{m,h,m.,.}","{NN,NN,NN,.}","{0,3,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_168,"o. aert .","{o.,aert,.}","{o.,aert,.}","{NN,NN,.}","{0,1,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_169,"n. H. ummhoe ? .","{n.,H.,ummhoe,?,.}","{n.,H.,ummhoe,?,.}","{NNP,NNP,JJ,NN,.}","{2,0,4,2,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_170,". "","{.,"}","{.,"}","{.,''}","{0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_171,"oHWHo _ .","{oHWHo,_,.}","{oHWHo,_,.}","{NNP,NNP,.}","{2,0,0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_172,".","{.}","{.}","{.}","{0}","{}"
+TCGA-37-4129, TCGA-37-4129SENT_173,"? CO .","{?,CO,.}","{?,CO,NNP}","{RB,NNP,.}","{3,3,.}","{}"
