@@ -23,6 +23,17 @@ CREATE TABLE people_mentions(
   mention_id text  -- unique identifier for people_mentions ( sentence_id + start_position)
   );
 
+DROP TABLE IF EXISTS stage_t_mentions CASCADE;
+CREATE TABLE stage_t_mentions(
+  patient_id text, -- patient_id
+  sentence_id text, -- sentence_id
+  start_position int, -- start_position
+  length int,  -- length
+  lemma_phrase text, -- phrase of root words 
+  word_phrase text, -- phrase of document words
+  mention_id text  -- unique identifier for tumour_t_mentions ( sentence_id + start_position)
+  );
+
 
 DROP TABLE IF EXISTS has_spouse CASCADE;
 CREATE TABLE has_spouse(
