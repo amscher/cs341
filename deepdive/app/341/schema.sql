@@ -1,14 +1,13 @@
 DROP TABLE IF EXISTS sentences CASCADE;
 CREATE TABLE sentences(
   document_id text,
-  sentence text, 
+  sentence_id text, -- unique identifier for sentences
+  sentence text,
   words text[],
   lemma text[],
   pos_tags text[],
   dependencies text[],
   ner_tags text[],
-  sentence_offset bigint,
-  sentence_id text -- unique identifier for sentences
   );
 
 
