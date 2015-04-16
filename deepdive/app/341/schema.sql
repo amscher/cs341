@@ -7,7 +7,7 @@ CREATE TABLE sentences(
   lemma text[],
   pos_tags text[],
   dependencies text[],
-  ner_tags text[],
+  ner_tags text[]
   );
 
 
