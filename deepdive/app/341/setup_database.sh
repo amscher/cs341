@@ -15,12 +15,13 @@ createdb $DBNAME
 export APP_HOME=`cd $(dirname $0)/; pwd`
 
 psql -d $DBNAME < $APP_HOME/schema.sql
-echo `pwd`
-#file = `../../../csv_output/testRun.csv`
-export FILE=../../../csv_output/TCGA-XC-AA0X.csv
-psql -d $DBNAME -c "copy sentences from STDIN CSV;" < $FILE
-#FILES=../../../csv_output/*
-#for file in $FILES
-#do
-#  psql -d $DBNAME -c "copy sentences from STDIN CSV;" < $file 
-#done
+#export FILE=../../../csv_output/TCGA-XC-AA0X.csv
+#export FILE=../../../csv_output/TCGA-NC-A5HD.csv
+#psql -d $DBNAME -c "copy sentences from STDIN CSV;" < $FILE
+
+export FILES=../../../csv_output/*
+for file in $FILES
+do
+  psql -d $DBNAME -c "copy sentences from STDIN CSV;" < $file
+done
+

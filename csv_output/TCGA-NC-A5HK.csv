@@ -1,6 +1,6 @@
 TCGA-NC-A5HK, TCGA-NC-A5HKSENT_1,".","{.}","{.}","{.}","{0}","{}"
 TCGA-NC-A5HK, TCGA-NC-A5HKSENT_2,"? ( ? .","{?,(,?,.}","{?,(,?,.}","{NN,CD,NN,.}","{0,3,1,0}","{}"
-TCGA-NC-A5HK, TCGA-NC-A5HKSENT_3,"a 'D - o ' 3 ? a/7 : / no/ray , 8","{a,'D,-,o,',3,?,a/7,:,/,no/ray,,,8}","{a,'d,-,o,',3,?,a/7,:,/,no/ray,,,8}","{DT,NN,:,NN,'',CD,NN,NN,:,:,NN,,,CD}","{0,1,0,2,0,8,8,4,0,11,2,0,11}","{}"
+TCGA-NC-A5HK, TCGA-NC-A5HKSENT_3,"a 'D - o ' 3 ? a/7 : / no/ray 8","{a,'D,-,o,',3,?,a/7,:,/,no/ray,8}","{a,'d,-,o,',3,?,a/7,:,/,no/ray,8}","{DT,NN,:,NN,'',CD,NN,NN,:,:,NN,CD}","{0,1,0,2,0,8,8,4,0,11,2,11}","{}"
 TCGA-NC-A5HK, TCGA-NC-A5HKSENT_4,"( ii / ? fe @ L","{(,ii,/,?,fe,@,L}","{(,ii,/,?,fe,@,l}","{RB,LS,:,CD,NN,IN,NN}","{5,5,5,5,0,0,5}","{}"
 TCGA-NC-A5HK, TCGA-NC-A5HKSENT_5,"Synoptic translated report","{Synoptic,translated,report}","{synoptic,translate,report}","{JJ,VBN,NN}","{2,0,2}","{}"
 TCGA-NC-A5HK, TCGA-NC-A5HKSENT_6,"UUID :074 EAC41-3FCO-4686-B403-44B8351EE5ES","{UUID,:074,EAC41-3FCO-4686-B403-44B8351EE5ES}","{uuid,:074,eac41-3fco-4686-b403-44b8351ee5e}","{NN,CD,NNS}","{0,3,1}","{}"
