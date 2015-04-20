@@ -11,8 +11,8 @@ CREATE TABLE sentences(
   );
 
 
-DROP TABLE IF EXISTS people_mentions CASCADE;
-CREATE TABLE people_mentions(
+DROP TABLE IF EXISTS grade_mentions CASCADE;
+CREATE TABLE grade_mentions(
   sentence_id text,
   start_position int,
   length int,
@@ -21,8 +21,8 @@ CREATE TABLE people_mentions(
   );
 
 
-DROP TABLE IF EXISTS has_spouse CASCADE;
-CREATE TABLE has_spouse(
+DROP TABLE IF EXISTS has_grad CASCADE;
+CREATE TABLE has_grade(
   person1_id text,
   person2_id text,
   sentence_id text,
@@ -32,7 +32,7 @@ CREATE TABLE has_spouse(
   id bigint   -- reserved for DeepDive
   );
 
-DROP TABLE IF EXISTS has_spouse_features CASCADE;
-CREATE TABLE has_spouse_features(
+DROP TABLE IF EXISTS has_grade_features CASCADE;
+CREATE TABLE has_grade_features(
   relation_id text,
   feature text);
