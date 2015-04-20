@@ -5,6 +5,7 @@
 patient_id sentence_id words('~^~') lemma('~^~')
 '''
 import sys
+
 #################################################
 # This function is not used, as it is too slow O(n^2)
 def editDist(correct, misspelled, limit):
@@ -20,7 +21,7 @@ def editDist(correct, misspelled, limit):
 ##################################################
 ARR_DELIM = '~^~'
 
-dictionaryFileName = '/Users/jackywang/Desktop/341/deepDive/app/spouse/udf/test'
+dictionaryFileName = 'grade_keywords'
 with open(dictionaryFileName, 'rb') as inputfile:
   keywords = [row[:-1] for row in inputfile]
 
