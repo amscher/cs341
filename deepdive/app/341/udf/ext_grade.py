@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 
+import csv, os, sys
+
 # Sample input data (piped into STDIN):
 '''
 patient_id sentence_id words('~^~') lemma('~^~')
@@ -13,21 +15,26 @@ def editDist(correct, misspelled, limit):
     return len(correct) + len(misspelled)
   if limit < 0:
     return 1
-  
+
   if (correct[0] == misspelled[0]):
     return editDist(correct[1:], misspelled[1:], limit)
-  return min(editDist(correct, misspelled[1:], limit-1), editDist(correct[1:], misspelled, limit-1), editDist(correct[1:], misspelled[1:], limit-1)) + 1 
+  return min(editDist(correct, misspelled[1:], limit-1), editDist(correct[1:], misspelled, limit-1), editDist(correct[1:], misspelled[1:], limit-1)) + 1
 
 ##################################################
 ARR_DELIM = '~^~'
 
-dictionaryFileName = 'grade_keywords'
+# The directory of this UDF file
+BASE_DIR = os.path.dirname(os.path.realpath(__file__))
+
+dictionaryFileName = BASE_DIR + '/grade_keywords'
 with open(dictionaryFileName, 'rb') as inputfile:
   keywords = [row[:-1] for row in inputfile]
 
 # For-loop for each row in the input query
 for row in sys.stdin:
   # Find phrases that are continuous words tagged with PERSON.
+  if len(row.strip().split('\t')) < 4:
+    continue
   patient_id, sentence_id, words_str, lemma_str = row.strip().split('\t')
   words = words_str.split(ARR_DELIM)
   lemmas = lemma_str.split(ARR_DELIM)
