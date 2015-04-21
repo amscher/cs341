@@ -1,0 +1,18 @@
+1	poorly differentia
+1	poorly-differentia
+1	poor differentia
+1	poor-differentia
+2	moderately to poorly-differentia
+2	moderately to poorly differentia
+2	oderately to poorly differentia
+2	moderate to poorly differentia
+2	moderate to poor differentia
+3	moderately differentia
+3	moderately-differentia
+3	moderate differentia
+3	moderate-differentia
+4	well to moderately differentia
+4	moderately well differentia
+4	moderately well-differentia
+5	well differentia
+5	well-differentia
