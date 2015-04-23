@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mDataLoaderSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mUnloading data using DataLoader[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with COPY basic types[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with COPY array types[0m[0m
+[0m[[0minfo[0m] [0m[32mLoading data using DataLoader[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with COPY[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with COPY with wildcard in filename[0m[0m
+[0m[[0minfo[0m] [0m[33m- should work with gpload (pending)[0m[0m

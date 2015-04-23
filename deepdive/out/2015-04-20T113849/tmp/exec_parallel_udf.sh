@@ -1,0 +1,1 @@
+find /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp -name 'grade_mentions.copy_query_func_ext_grade.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/Users/jackywang/Desktop/341/project/deepdive/app/341/udf/ext_grade.py < "$0" > "$0.out"'

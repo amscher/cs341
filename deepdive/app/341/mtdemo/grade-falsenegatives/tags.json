@@ -1,0 +1,26 @@
+{
+ "version": 1,
+ "key_columns": [
+  "patient_id"
+ ],
+ "by_key": {
+  "TCGA-37-4132": {
+   "ocr error": true
+  },
+  "TCGA-39-5031": {
+   "ocr error": true
+  },
+  "TCGA-75-7030": {
+   "ocr error": true
+  },
+  "TCGA-33-4586": {
+   "ocr error": true
+  },
+  "TCGA-71-8520": {
+   "ocr error": true
+  },
+  "TCGA-22-5481": {
+   "misspelled": true
+  }
+ }
+}

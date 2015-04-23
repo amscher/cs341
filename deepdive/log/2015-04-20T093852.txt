@@ -1,0 +1,7 @@
+09:38:53.105 [][][Slf4jLogger] INFO  Slf4jLogger started
+09:38:53.126 [ScalaTest-running-BrokenTest][EventStream(akka://deepdive)][EventStream] DEBUG logger log1-Slf4jLogger started
+09:38:53.128 [ScalaTest-running-BrokenTest][EventStream(akka://deepdive)][EventStream] DEBUG Default Loggers started
+09:38:53.145 [ScalaTest-running-BrokenTest][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Database settings: user jackywang, dbname deepdive_test, host localhost, port 5432.
+09:38:53.145 [ScalaTest-running-BrokenTest][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  GPFDIST settings: host localhost port 8082 path /tmp
+09:38:53.174 [ScalaTest-running-BrokenTest][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Closing all JDBC data stores
+09:38:53.201 [default-dispatcher-4][EventStream][EventStream] DEBUG shutting down: StandardOutLogger started

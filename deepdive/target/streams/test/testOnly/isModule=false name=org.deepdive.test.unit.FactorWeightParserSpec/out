@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mFactorWeightParserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe FactorWeight parser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a constant factor weight[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a floating point factor weight[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse an unknown weight without variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse an unknown weight with variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a variable with .[0m[0m

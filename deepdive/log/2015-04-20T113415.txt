@@ -1,0 +1,61 @@
+11:34:15.444 [][][Slf4jLogger] INFO  Slf4jLogger started
+11:34:15.454 [main][EventStream(akka://deepdive)][EventStream] DEBUG logger log1-Slf4jLogger started
+11:34:15.456 [main][EventStream(akka://deepdive)][EventStream] DEBUG Default Loggers started
+11:34:15.457 [main][Main$(akka://deepdive)][Main$] INFO  Running pipeline with configuration from /Users/jackywang/Desktop/341/project/deepdive/app/341/application.conf
+11:34:15.466 [main][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Database settings: user jackywang, dbname deepdive-grades, host localhost, port 5432.
+11:34:15.513 [main][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Detected OS: Mac OS X
+11:34:15.514 [main][SettingsParser$(akka://deepdive)][SettingsParser$] DEBUG samplerArgs: -l 300 -s 1 -i 500 --alpha 0.1
+11:34:15.515 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG relearnFrom=null
+11:34:15.516 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG outputDir=/Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113415
+11:34:15.521 [main][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+11:34:15.663 [default-dispatcher-2][profiler][Profiler] INFO  starting at akka://deepdive/user/profiler
+11:34:15.664 [default-dispatcher-3][taskManager][TaskManager] INFO  starting at akka://deepdive/user/taskManager
+11:34:15.670 [default-dispatcher-4][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  Starting
+11:34:15.671 [default-dispatcher-2][factorGraphBuilder][FactorGraphBuilder$PostgresFactorGraphBuilder] INFO  Starting
+11:34:15.672 [default-dispatcher-3][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  starting
+11:34:15.674 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of extractors: 2
+11:34:15.674 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of factors: 0
+11:34:15.677 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Number of active factors: 0
+11:34:15.677 [main][DeepDive$(akka://deepdive)][DeepDive$] INFO  No active factors. Skip inference.
+11:34:15.678 [main][DeepDive$(akka://deepdive)][DeepDive$] INFO  Running pipeline=_default with tasks=List(ext_grade, ext_clear_table, report, shutdown)
+11:34:15.678 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=ext_grade
+11:34:15.679 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=ext_clear_table
+11:34:15.680 [default-dispatcher-4][taskManager][TaskManager] DEBUG Sending task_id=ext_clear_table to Actor[akka://deepdive/user/extractionManager#-1914606073]
+11:34:15.680 [default-dispatcher-3][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_clear_table
+11:34:15.681 [default-dispatcher-5][profiler][Profiler] DEBUG starting report_id=ext_clear_table
+11:34:15.681 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=report
+11:34:15.682 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=shutdown
+11:34:15.682 [default-dispatcher-3][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_clear_table
+11:34:15.693 [default-dispatcher-2][extractorRunner-ext_clear_table][ExtractorRunner] INFO  waiting for tasks
+11:34:15.695 [default-dispatcher-2][extractorRunner-ext_clear_table][ExtractorRunner] INFO  Received task=ext_clear_table. Executing
+11:34:15.695 [default-dispatcher-2][extractorRunner-ext_clear_table][ExtractorRunner] DEBUG Executing SQL query: 
+        DELETE FROM grade_mentions;
+        DELETE FROM has_grade;
+        DELETE FROM has_grade_features;
+        
+11:34:15.733 [default-dispatcher-5][profiler][Profiler] DEBUG ending report_id=ext_clear_table
+11:34:15.734 [default-dispatcher-4][taskManager][TaskManager] INFO  Completed task_id=ext_clear_table with Failure(org.postgresql.util.PSQLException: FATAL: database "deepdive-grades" does not exist)
+11:34:15.736 [default-dispatcher-4][taskManager][TaskManager] ERROR task=ext_clear_table Failed: org.postgresql.util.PSQLException: FATAL: database "deepdive-grades" does not exist
+11:34:15.741 [default-dispatcher-3][extractorRunner-ext_clear_table][OneForOneStrategy] ERROR org.postgresql.util.PSQLException: FATAL: database "deepdive-grades" does not exist
+java.lang.RuntimeException: org.postgresql.util.PSQLException: FATAL: database "deepdive-grades" does not exist
+	at org.deepdive.extraction.ExtractorRunner.executeSqlUpdateOrFail(ExtractorRunner.scala:313) ~[deepdive_2.10-0.0.3.jar:0.0.3]
+	at org.deepdive.extraction.ExtractorRunner$$anonfun$2.applyOrElse(ExtractorRunner.scala:137) ~[deepdive_2.10-0.0.3.jar:0.0.3]
+	at org.deepdive.extraction.ExtractorRunner$$anonfun$2.applyOrElse(ExtractorRunner.scala:100) ~[deepdive_2.10-0.0.3.jar:0.0.3]
+	at scala.runtime.AbstractPartialFunction.apply(AbstractPartialFunction.scala:33) ~[scala-library-2.10.5.jar:na]
+	at akka.actor.FSM$class.processEvent(FSM.scala:587) ~[akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at org.deepdive.extraction.ExtractorRunner.processEvent(ExtractorRunner.scala:59) ~[deepdive_2.10-0.0.3.jar:0.0.3]
+	at akka.actor.FSM$class.akka$actor$FSM$$processMsg(FSM.scala:581) ~[akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at akka.actor.FSM$$anonfun$receive$1.applyOrElse(FSM.scala:575) ~[akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at akka.actor.Actor$class.aroundReceive(Actor.scala:467) ~[akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at org.deepdive.extraction.ExtractorRunner.aroundReceive(ExtractorRunner.scala:59) ~[deepdive_2.10-0.0.3.jar:0.0.3]
+	at akka.actor.ActorCell.receiveMessage(ActorCell.scala:491) [akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at akka.actor.ActorCell.invoke(ActorCell.scala:462) [akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:237) [akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at akka.dispatch.Mailbox.run(Mailbox.scala:219) [akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:385) [akka-actor_2.10-2.3-M2.jar:2.3-M2]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [scala-library-2.10.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [scala-library-2.10.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [scala-library-2.10.5.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [scala-library-2.10.5.jar:na]
+11:34:15.743 [default-dispatcher-4][taskManager][TaskManager] ERROR Forcing shutdown
+11:34:15.743 [default-dispatcher-4][taskManager][TaskManager] ERROR Cancelling task=ext_grade

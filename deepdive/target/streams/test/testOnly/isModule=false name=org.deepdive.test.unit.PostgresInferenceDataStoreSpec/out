@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0m[32mPostgresInferenceDataStoreSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mPostgres inference data store[0m[0m
+[0m[[0minfo[0m] [0m[32m  intializing[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work[0m[0m
+[0m[[0minfo[0m] [0m[32m  testing the variable id assignment[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work[0m[0m
+[0m[[0minfo[0m] [0m[32m  grounding the factor graph with Boolean variables[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with fixed weight[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with weight to learn without weight variables[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with a one-variable factor rule[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with a custom holdout query[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with custom a observation query[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with an observation query[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with weight variables that are null[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with multi-variable factor rules[0m[0m
+[0m[[0minfo[0m] [0m[32m  grounding the factor graph with Multinomial variables[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with weight variables that are null[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with weight variables[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with fixed weight[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work with weight to learn without weight variables[0m[0m
+[0m[[0minfo[0m] [0m[32m  writing back the inference Result[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work[0m[0m
+[0m[[0minfo[0m] [0m[32m  Getting the calibration data[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work for Boolean variables[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should work for categorical variables[0m[0m

@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mTaskManagerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mScheduling tasks[0m[0m
+[0m[[0minfo[0m] [0m[32m- should schedule tasks that have no dependencies[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not schedule tasks that don't have their depenencies satisfied[0m[0m
+[0m[[0minfo[0m] [0m[32m- should schedule tasks that have their depenencies satisfied[0m[0m
+[0m[[0minfo[0m] [0m[32mAdding tasks[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mCompleting Tasks[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for succeeded tasks[0m[0m
+[0m[[0minfo[0m] [0m[33m- should not work for failed tasks (pending)[0m[0m
+[0m[[0minfo[0m] [0m[33m- should not work for actors that are being terminated (pending)[0m[0m
+[0m[[0minfo[0m] [0m[32mSubscribing to tasks[0m[0m
+[0m[[0minfo[0m] [0m[33m- it not being used (pending)[0m[0m
+[0m[[0minfo[0m] [0m[32mUnsubscribing from tasks[0m[0m
+[0m[[0minfo[0m] [0m[33m- it not being used (pending)[0m[0m

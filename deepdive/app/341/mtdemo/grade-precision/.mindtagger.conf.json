@@ -1,0 +1,16 @@
+{
+    "items" : {
+        "file" : "items-with-pdf.csv",
+        "key_columns" : [
+            "sentence_id",
+            "mention_id"
+        ],
+        "storage" : "file"
+    },
+    "tags" : {
+        "file" : "tags.json",
+        "storage" : "file"
+    },
+    "template" : "template.html"
+}
+

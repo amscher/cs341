@@ -1,0 +1,22 @@
+[0m[[0minfo[0m] [0m[32mFactorFunctionParserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing Imply expressions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse imply expressions with one variable[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse imply expressions with multiple variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not parse malformed Imply expressions[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing AND factor functions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing OR factor functions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing XOR factor functions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing EQUAL factor functions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for two variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail for more than two variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail for less than two variables[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing IsTrue factor functions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for one variable[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail for more than one variable[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse expressions with deep identifiers[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse array factor functions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse expression with negated variables[0m[0m

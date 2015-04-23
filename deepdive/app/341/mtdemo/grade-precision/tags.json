@@ -1,0 +1,16 @@
+{
+ "version": 1,
+ "key_columns": [
+  "sentence_id",
+  "mention_id"
+ ],
+ "by_key": {
+  " TCGA-85-7710SENT_18\tTCGA-85-7710_0": {
+   "is_correct": null
+  },
+  " TCGA-77-8153SENT_27\tTCGA-77-8153_7": {
+   "is_correct": false,
+   "some reason": true
+  }
+ }
+}

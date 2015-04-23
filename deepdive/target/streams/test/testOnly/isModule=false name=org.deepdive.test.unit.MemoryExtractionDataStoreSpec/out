@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mMemoryExtractionDataStoreSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mWriting results[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mReading as JSON[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with empty relations[0m[0m
+[0m[[0minfo[0m] [0m[32mReading as Map[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m

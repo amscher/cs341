@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0m[32mPostgresExtractionDataStoreSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mQuerying as a Map[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for simple attributes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for aliased attributes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for aggregated attributes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with empty tables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception for invalid queries[0m[0m
+[0m[[0minfo[0m] [0m[32mQuerying as JSON[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with empty tables[0m[0m
+[0m[[0minfo[0m] [0m[32mSerializing to JSON[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with aggregate data types[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with simple data types[0m[0m
+[0m[[0minfo[0m] [0m[32mBuilding the COPY SQL Statement[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mBuilding the COPY FROM STDIN data[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32mWriting to the data store[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with null values[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly handle null values, and insert arrays with escape characters[0m[0m

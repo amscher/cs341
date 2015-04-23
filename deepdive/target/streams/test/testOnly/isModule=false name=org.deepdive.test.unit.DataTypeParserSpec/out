@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mDataTypeParserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe DataType Parser parser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse Boolean variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse categorical variables[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if not Boolean or categorical variables[0m[0m

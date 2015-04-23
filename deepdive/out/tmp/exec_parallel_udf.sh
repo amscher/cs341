@@ -1,0 +1,1 @@
+find /Users/jackywang/Desktop/341/project/deepdive/out/tmp -name 'testtable.copy_query_func_testExtractor.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/test3889195338066652887.py < "$0" > "$0.out"'

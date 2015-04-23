@@ -1,0 +1,82 @@
+11:38:49.989 [][][Slf4jLogger] INFO  Slf4jLogger started
+11:38:49.998 [main][EventStream(akka://deepdive)][EventStream] DEBUG logger log1-Slf4jLogger started
+11:38:50.000 [main][EventStream(akka://deepdive)][EventStream] DEBUG Default Loggers started
+11:38:50.001 [main][Main$(akka://deepdive)][Main$] INFO  Running pipeline with configuration from /Users/jackywang/Desktop/341/project/deepdive/app/341/application.conf
+11:38:50.011 [main][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Database settings: user jackywang, dbname deepdive-grades, host localhost, port 5432.
+11:38:50.060 [main][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Detected OS: Mac OS X
+11:38:50.061 [main][SettingsParser$(akka://deepdive)][SettingsParser$] DEBUG samplerArgs: -l 300 -s 1 -i 500 --alpha 0.1
+11:38:50.063 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG relearnFrom=null
+11:38:50.064 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG outputDir=/Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849
+11:38:50.069 [main][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+11:38:50.210 [default-dispatcher-4][profiler][Profiler] INFO  starting at akka://deepdive/user/profiler
+11:38:50.211 [default-dispatcher-3][taskManager][TaskManager] INFO  starting at akka://deepdive/user/taskManager
+11:38:50.216 [default-dispatcher-4][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  Starting
+11:38:50.218 [default-dispatcher-3][factorGraphBuilder][FactorGraphBuilder$PostgresFactorGraphBuilder] INFO  Starting
+11:38:50.219 [default-dispatcher-2][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  starting
+11:38:50.221 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of extractors: 2
+11:38:50.221 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of factors: 0
+11:38:50.225 [main][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Number of active factors: 0
+11:38:50.225 [main][DeepDive$(akka://deepdive)][DeepDive$] INFO  No active factors. Skip inference.
+11:38:50.226 [main][DeepDive$(akka://deepdive)][DeepDive$] INFO  Running pipeline=_default with tasks=List(ext_grade, ext_clear_table, report, shutdown)
+11:38:50.227 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=ext_grade
+11:38:50.228 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=ext_clear_table
+11:38:50.228 [default-dispatcher-4][taskManager][TaskManager] DEBUG Sending task_id=ext_clear_table to Actor[akka://deepdive/user/extractionManager#-1493910671]
+11:38:50.229 [default-dispatcher-2][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_clear_table
+11:38:50.229 [default-dispatcher-5][profiler][Profiler] DEBUG starting report_id=ext_clear_table
+11:38:50.229 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=report
+11:38:50.230 [default-dispatcher-4][taskManager][TaskManager] INFO  Added task_id=shutdown
+11:38:50.231 [default-dispatcher-2][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_clear_table
+11:38:50.242 [default-dispatcher-3][extractorRunner-ext_clear_table][ExtractorRunner] INFO  waiting for tasks
+11:38:50.243 [default-dispatcher-3][extractorRunner-ext_clear_table][ExtractorRunner] INFO  Received task=ext_clear_table. Executing
+11:38:50.244 [default-dispatcher-3][extractorRunner-ext_clear_table][ExtractorRunner] DEBUG Executing SQL query: 
+        DELETE FROM grade_mentions;
+        DELETE FROM has_grade_features;
+        
+11:38:50.312 [default-dispatcher-4][profiler][Profiler] DEBUG ending report_id=ext_clear_table
+11:38:50.313 [default-dispatcher-2][taskManager][TaskManager] INFO  Completed task_id=ext_clear_table with Success(Done!)
+11:38:50.313 [default-dispatcher-2][taskManager][TaskManager] DEBUG 1/3 tasks eligible. Waiting tasks: Set(shutdown, report)
+11:38:50.314 [default-dispatcher-2][taskManager][TaskManager] DEBUG Sending task_id=ext_grade to Actor[akka://deepdive/user/extractionManager#-1493910671]
+11:38:50.314 [default-dispatcher-5][profiler][Profiler] DEBUG starting report_id=ext_grade
+11:38:50.314 [default-dispatcher-5][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_grade
+11:38:50.320 [default-dispatcher-5][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_grade
+11:38:50.321 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  waiting for tasks
+11:38:50.321 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  Received task=ext_grade. Executing
+11:38:50.321 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] DEBUG Parallel Loading: false
+11:38:50.322 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/
+11:38:50.323 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  Executing: find /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp -name 'grade_mentions.copy_query_func_ext_grade.tsv*' 2>/dev/null -print0 | xargs -0 rm -f
+11:38:50.323 [default-dispatcher-4][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/exec_delete.sh" 
+11:38:50.546 [default-dispatcher-4][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive-grades  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT patient_id, sentence_id, array_to_string(words, '\''~^~'\''), array_to_string(lemma, '\''~^~'\'') FROM sentences) TO STDOUT;'   > /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/grade_mentions.copy_query_func_ext_grade.tsv
+11:38:50.546 [default-dispatcher-4][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql3620901254525576583.sh" 
+11:38:50.929 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  File dumped to /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/grade_mentions.copy_query_func_ext_grade.tsv
+11:38:50.930 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  Executing split command...
+11:38:51.018 [default-dispatcher-4][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "split -a 10 -l 10000 /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/grade_mentions.copy_query_func_ext_grade.tsv /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/grade_mentions.copy_query_func_ext_grade.tsv-" 
+11:38:51.161 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  Executing parallel UDF command: find /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp -name 'grade_mentions.copy_query_func_ext_grade.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/Users/jackywang/Desktop/341/project/deepdive/app/341/udf/ext_grade.py < "$0" > "$0.out"'
+11:38:51.161 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] DEBUG Temporary UDF file saved to /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/exec_parallel_udf.sh
+11:38:51.161 [default-dispatcher-4][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/exec_parallel_udf.sh" 
+11:38:54.806 [default-dispatcher-4][DataLoader(akka://deepdive)][DataLoader] INFO  find /Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/grade_mentions.copy_query_func_ext_grade.tsv-*.out -print0 | xargs -0 -P 1 -L 1 bash -c 'psql  -d deepdive-grades  -U jackywang  -p 5432  -h localhost -c "COPY grade_mentions FROM STDIN; " < $0'
+11:38:54.806 [default-dispatcher-4][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/grade_mentions.copy1646795423578689919.sh" 
+11:38:54.848 [Thread-13][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 331
+11:38:54.886 [Thread-13][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 337
+11:38:54.915 [Thread-13][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 521
+11:38:54.948 [Thread-13][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 277
+11:38:54.984 [Thread-13][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 83
+11:38:54.986 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  Analyzing output relation.
+11:38:55.084 [default-dispatcher-4][extractorRunner-ext_grade][ExtractorRunner] INFO  Removing temporary files...
+11:38:55.085 [default-dispatcher-4][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/2015-04-20T113849/tmp/exec_delete.sh" 
+11:38:55.159 [default-dispatcher-5][profiler][Profiler] DEBUG ending report_id=ext_grade
+11:38:55.159 [default-dispatcher-3][taskManager][TaskManager] INFO  Completed task_id=ext_grade with Success(Done!)
+11:38:55.160 [default-dispatcher-3][taskManager][TaskManager] DEBUG 1/2 tasks eligible. Waiting tasks: Set(shutdown)
+11:38:55.160 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=report to Actor[akka://deepdive/user/profiler#392975114]
+11:38:55.160 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=report
+11:38:55.161 [default-dispatcher-2][profiler][Profiler] INFO  --------------------------------------------------
+11:38:55.161 [default-dispatcher-2][profiler][Profiler] INFO  Summary Report
+11:38:55.161 [default-dispatcher-2][profiler][Profiler] INFO  --------------------------------------------------
+11:38:55.208 [default-dispatcher-2][profiler][Profiler] INFO  ext_clear_table SUCCESS [84 ms]
+11:38:55.209 [default-dispatcher-2][profiler][Profiler] INFO  ext_grade SUCCESS [4846 ms]
+11:38:55.209 [default-dispatcher-2][profiler][Profiler] INFO  --------------------------------------------------
+11:38:55.209 [default-dispatcher-3][profiler][Profiler] DEBUG ending report_id=report
+11:38:55.210 [default-dispatcher-2][taskManager][TaskManager] INFO  Completed task_id=report with Success(Success(()))
+11:38:55.210 [default-dispatcher-2][taskManager][TaskManager] DEBUG 1/1 tasks eligible. Waiting tasks: Set()
+11:38:55.210 [default-dispatcher-2][taskManager][TaskManager] DEBUG Sending task_id=shutdown to Actor[akka://deepdive/user/taskManager#-240828921]
+11:38:55.210 [default-dispatcher-3][profiler][Profiler] DEBUG starting report_id=shutdown
+11:38:55.252 [default-dispatcher-3][EventStream][EventStream] DEBUG shutting down: StandardOutLogger started

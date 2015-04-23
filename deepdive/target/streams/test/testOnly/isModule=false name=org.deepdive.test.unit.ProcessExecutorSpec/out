@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mProcessExecutorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mRunning a process[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with a small batch size[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with a larger batch size[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when the process crashes[0m[0m

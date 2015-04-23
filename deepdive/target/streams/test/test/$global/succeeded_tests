@@ -1,0 +1,27 @@
+#Successful Tests
+#Mon Apr 20 09:40:49 PDT 2015
+org.deepdive.test.unit.FactorFunctionParserSpec=1429547908287
+org.deepdive.test.unit.FactorGraphBuilderSpec=1429547921459
+org.deepdive.test.unit.InferenceManagerSpec=1429547910299
+org.deepdive.test.unit.ProfilerSpec=1429547908316
+org.deepdive.test.unit.MemoryExtractionDataStoreSpec=1429547921493
+org.deepdive.test.unit.SettingsParserSpec=1429547895200
+org.deepdive.test.integration.PostgresSpouseExample=1429548001163
+org.deepdive.test.unit.DatabaseUtilsSpec=1429547921629
+org.deepdive.test.unit.FileDataUtilsSpec=1429547921506
+org.deepdive.test.unit.InputQueryParserSpec=1429547910313
+org.deepdive.test.unit.SamplerSpec=1429547895289
+org.deepdive.test.integration.BrokenTest=1429547933239
+org.deepdive.test.unit.DataLoaderSpec=1429547921439
+org.deepdive.test.unit.ProcessExecutorSpec=1429547927742
+org.deepdive.test.unit.ExtractorRunnerSpec=1429547920720
+org.deepdive.test.unit.FactorWeightParserSpec=1429547921474
+org.deepdive.test.integration.BiasedCoin=1429547940833
+org.deepdive.test.unit.ExtractionManagerSpec=1429547895889
+org.deepdive.test.unit.HelpersSpec=1429547910366
+org.deepdive.test.unit.DataTypeParserSpec=1429547895915
+org.deepdive.test.unit.BinarySerializerSpec=1429547910384
+org.deepdive.test.unit.TaskManagerSpec=1429547921621
+org.deepdive.test.unit.PostgresExtractionDataStoreSpec=1429547910160
+org.deepdive.test.integration.ChunkingApp=1429548049008
+org.deepdive.test.unit.PostgresInferenceDataStoreSpec=1429547908259

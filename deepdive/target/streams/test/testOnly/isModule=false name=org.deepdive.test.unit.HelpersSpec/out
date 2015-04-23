@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mHelpersSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mExecuting bash script using helper function[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an error when the script fails[0m[0m
+[0m[[0minfo[0m] [0m[32mBuilding psql command helper function[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for queries without quotes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for queries with single-quotes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for queries with double-quotes[0m[0m

@@ -1,0 +1,66 @@
+[0m[[0minfo[0m] [0mCreating a distributable package in target/pack[0m
+[0m[[0minfo[0m] [0mCopying libraries to target/pack/lib[0m
+[0m[[0minfo[0m] [0mproject jars:[0m
+[0m[[0minfo[0m] [0mtarget/scala-2.10/deepdive_2.10-0.0.3.jar[0m
+[0m[[0minfo[0m] [0mproject dependencies:[0m
+[0m[[0minfo[0m] [0mch.qos.logback:logback-classic:1.0.7[0m
+[0m[[0minfo[0m] [0mch.qos.logback:logback-core:1.0.7[0m
+[0m[[0minfo[0m] [0mcom.fasterxml.jackson.core:jackson-annotations:2.2.2[0m
+[0m[[0minfo[0m] [0mcom.fasterxml.jackson.core:jackson-core:2.2.2[0m
+[0m[[0minfo[0m] [0mcom.fasterxml.jackson.core:jackson-databind:2.2.2[0m
+[0m[[0minfo[0m] [0mcom.github.scopt:scopt_2.10:3.2.0[0m
+[0m[[0minfo[0m] [0mcom.google.protobuf:protobuf-java:2.5.0[0m
+[0m[[0minfo[0m] [0mcom.h2database:h2:1.3.166[0m
+[0m[[0minfo[0m] [0mcom.netflix.rxjava:rxjava-core:0.15.1[0m
+[0m[[0minfo[0m] [0mcom.netflix.rxjava:rxjava-scala:0.15.1[0m
+[0m[[0minfo[0m] [0mcom.typesafe:config:1.2.1[0m
+[0m[[0minfo[0m] [0mcom.typesafe.akka:akka-actor_2.10:2.3-M2[0m
+[0m[[0minfo[0m] [0mcom.typesafe.akka:akka-remote_2.10:2.2.1[0m
+[0m[[0minfo[0m] [0mcom.typesafe.akka:akka-slf4j_2.10:2.3-M2[0m
+[0m[[0minfo[0m] [0mcom.typesafe.akka:akka-testkit_2.10:2.3-M2[0m
+[0m[[0minfo[0m] [0mcom.typesafe.atmos:atmos-event_2.10:1.3.0[0m
+[0m[[0minfo[0m] [0mcom.typesafe.atmos:atmos-trace_2.10:1.3.0[0m
+[0m[[0minfo[0m] [0mcom.typesafe.atmos:trace-akka-2.2.1_2.10:1.3.0[0m
+[0m[[0minfo[0m] [0mcom.typesafe.atmos:trace-scala-2.10.2:1.3.0[0m
+[0m[[0minfo[0m] [0mcom.typesafe.play:play-datacommons_2.10:2.2.1[0m
+[0m[[0minfo[0m] [0mcom.typesafe.play:play-functional_2.10:2.2.1[0m
+[0m[[0minfo[0m] [0mcom.typesafe.play:play-iteratees_2.10:2.2.1[0m
+[0m[[0minfo[0m] [0mcom.typesafe.play:play-json_2.10:2.2.1[0m
+[0m[[0minfo[0m] [0mcommons-dbcp:commons-dbcp:1.4[0m
+[0m[[0minfo[0m] [0mcommons-io:commons-io:2.0[0m
+[0m[[0minfo[0m] [0mcommons-pool:commons-pool:1.5.4[0m
+[0m[[0minfo[0m] [0mio.netty:netty:3.6.6.Final[0m
+[0m[[0minfo[0m] [0mjoda-time:joda-time:2.7[0m
+[0m[[0minfo[0m] [0mlog4j:log4j:1.2.15[0m
+[0m[[0minfo[0m] [0mmysql:mysql-connector-java:5.1.12[0m
+[0m[[0minfo[0m] [0mnet.sf.opencsv:opencsv:2.3[0m
+[0m[[0minfo[0m] [0morg.aspectj:aspectjrt:1.7.2[0m
+[0m[[0minfo[0m] [0morg.fusesource:sigar:1.6.4[0m
+[0m[[0minfo[0m] [0morg.joda:joda-convert:1.7[0m
+[0m[[0minfo[0m] [0morg.postgresql:postgresql:9.2-1003-jdbc4[0m
+[0m[[0minfo[0m] [0morg.scala-lang:scala-library:2.10.5[0m
+[0m[[0minfo[0m] [0morg.scala-lang:scala-reflect:2.10.5[0m
+[0m[[0minfo[0m] [0morg.scala-stm:scala-stm_2.10:0.7[0m
+[0m[[0minfo[0m] [0morg.scalikejdbc:scalikejdbc-config_2.10:2.2.5[0m
+[0m[[0minfo[0m] [0morg.scalikejdbc:scalikejdbc-core_2.10:2.2.5[0m
+[0m[[0minfo[0m] [0morg.scalikejdbc:scalikejdbc-interpolation-macro_2.10:2.2.5[0m
+[0m[[0minfo[0m] [0morg.scalikejdbc:scalikejdbc-interpolation_2.10:2.2.5[0m
+[0m[[0minfo[0m] [0morg.scalikejdbc:scalikejdbc_2.10:2.2.5[0m
+[0m[[0minfo[0m] [0morg.slf4j:slf4j-api:1.7.10[0m
+[0m[[0minfo[0m] [0morg.uncommons.maths:uncommons-maths:1.2.2a[0m
+[0m[[0minfo[0m] [0mplay:anorm_2.10:2.1.5[0m
+[0m[[0minfo[0m] [0munmanaged dependencies:[0m
+[0m[[0minfo[0m] [0m/Users/jackywang/Desktop/341/project/deepdive/lib/dw_linux.zip[0m
+[0m[[0minfo[0m] [0m/Users/jackywang/Desktop/341/project/deepdive/lib/dw_mac.zip[0m
+[0m[[0minfo[0m] [0m/Users/jackywang/Desktop/341/project/deepdive/lib/hsqldb.jar[0m
+[0m[[0minfo[0m] [0m/Users/jackywang/Desktop/341/project/deepdive/lib/sqltool.jar[0m
+[0m[[0minfo[0m] [0mexplicit dependencies:[0m
+[0m[[0minfo[0m] [0mCreate a bin folder: target/pack/bin[0m
+[0m[[0minfo[0m] [0mGenerating launch scripts[0m
+[0m[[0minfo[0m] [0mmain class for deepdive: org.deepdive.Main[0m
+[0m[[0minfo[0m] [0mGenerating target/pack/bin/deepdive[0m
+[0m[[0minfo[0m] [0mGenerating target/pack/bin/deepdive.bat[0m
+[0m[[0minfo[0m] [0mpacked resource directories = /Users/jackywang/Desktop/341/project/deepdive/src/pack[0m
+[0m[[0minfo[0m] [0mGenerating target/pack/Makefile[0m
+[0m[[0minfo[0m] [0mGenerating target/pack/VERSION[0m
+[0m[[0minfo[0m] [0mdone.[0m

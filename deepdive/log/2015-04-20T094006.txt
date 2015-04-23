@@ -1,0 +1,409 @@
+09:40:06.253 [][][Slf4jLogger] INFO  Slf4jLogger started
+09:40:06.280 [ScalaTest-running-ChunkingApp][EventStream(akka://deepdive)][EventStream] DEBUG logger log1-Slf4jLogger started
+09:40:06.281 [ScalaTest-running-ChunkingApp][EventStream(akka://deepdive)][EventStream] DEBUG Default Loggers started
+09:40:06.283 [ScalaTest-running-ChunkingApp][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "rm -f out/test_chunking/tmp/*" 
+09:40:06.306 [ScalaTest-running-ChunkingApp][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+09:40:06.570 [ScalaTest-running-ChunkingApp][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: drop schema if exists public cascade
+09:40:06.604 [ScalaTest-running-ChunkingApp][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: create schema public
+09:40:06.614 [ScalaTest-running-ChunkingApp][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: create table words_raw(
+            word_id bigserial,
+            word text,
+            pos text,
+            tag text,
+            id bigint)
+09:40:06.619 [ScalaTest-running-ChunkingApp][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: create table words(
+            sent_id bigint,
+            word_id bigint,
+            word text,
+            pos text,
+            true_tag text,
+            tag int,
+            id bigint)
+09:40:06.621 [ScalaTest-running-ChunkingApp][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: create table word_features(
+            word_id bigint,
+            feature text,
+            id bigint)
+09:40:06.626 [ScalaTest-running-ChunkingApp][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: copy words_raw(word, pos, tag) from '/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/chunking/data/train_null_terminated.txt' 
+            delimiter ' '
+09:40:06.745 [ScalaTest-running-ChunkingApp][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: copy words_raw(word, pos, tag) from '/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/chunking/data/test_null_terminated.txt' 
+            delimiter ' '
+09:40:06.791 [ScalaTest-running-ChunkingApp][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Closing all JDBC data stores
+09:40:06.806 [ScalaTest-running-ChunkingApp][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Database settings: user jackywang, dbname deepdive_test, host localhost, port 5432.
+09:40:06.901 [ScalaTest-running-ChunkingApp][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Detected OS: Mac OS X
+09:40:06.901 [ScalaTest-running-ChunkingApp][SettingsParser$(akka://deepdive)][SettingsParser$] DEBUG samplerArgs: -l 500 -i 500 -s 1 --alpha 0.1 --diminish 0.99 --quiet
+09:40:06.905 [ScalaTest-running-ChunkingApp][DeepDive$(akka://deepdive)][DeepDive$] DEBUG relearnFrom=null
+09:40:06.905 [ScalaTest-running-ChunkingApp][DeepDive$(akka://deepdive)][DeepDive$] DEBUG outputDir=out/test_chunking
+09:40:06.905 [ScalaTest-running-ChunkingApp][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+09:40:07.019 [default-dispatcher-2][taskManager][TaskManager] INFO  starting at akka://deepdive/user/taskManager
+09:40:07.020 [default-dispatcher-3][profiler][Profiler] INFO  starting at akka://deepdive/user/profiler
+09:40:07.031 [default-dispatcher-4][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  Starting
+09:40:07.038 [default-dispatcher-6][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  starting
+09:40:07.040 [default-dispatcher-2][factorGraphBuilder][FactorGraphBuilder$PostgresFactorGraphBuilder] INFO  Starting
+09:40:07.044 [ScalaTest-running-ChunkingApp][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of extractors: 3
+09:40:07.044 [ScalaTest-running-ChunkingApp][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of factors: 2
+09:40:07.045 [ScalaTest-running-ChunkingApp][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Number of active factors: 2
+09:40:07.047 [ScalaTest-running-ChunkingApp][DeepDive$(akka://deepdive)][DeepDive$] INFO  Running pipeline=_default with tasks=List(ext_index, ext_features, ext_training, inference_grounding, inference, calibration, report, shutdown)
+09:40:07.048 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=ext_index
+09:40:07.050 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=ext_features
+09:40:07.050 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=ext_training
+09:40:07.050 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=ext_training to Actor[akka://deepdive/user/extractionManager#1648164828]
+09:40:07.051 [default-dispatcher-4][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_training
+09:40:07.051 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=ext_training
+09:40:07.053 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=inference_grounding
+09:40:07.053 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=inference
+09:40:07.053 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=calibration
+09:40:07.053 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=report
+09:40:07.053 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=shutdown
+09:40:07.054 [default-dispatcher-4][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_training
+09:40:07.075 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  waiting for tasks
+09:40:07.079 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  Received task=ext_training. Executing
+09:40:07.080 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] DEBUG Parallel Loading: false
+09:40:07.081 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  out/test_chunking/tmp/
+09:40:07.082 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  Executing: find out/test_chunking/tmp -name 'words.copy_query_func_ext_training.tsv*' 2>/dev/null -print0 | xargs -0 rm -f
+09:40:07.082 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_delete.sh" 
+09:40:07.122 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (select * from words_raw) TO STDOUT;'   > /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/words.copy_query_func_ext_training.tsv
+09:40:07.122 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql2838989828253308724.sh" 
+09:40:07.199 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  File dumped to out/test_chunking/tmp/words.copy_query_func_ext_training.tsv
+09:40:07.200 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  Executing split command...
+09:40:07.200 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "split -a 10 -l 10000 out/test_chunking/tmp/words.copy_query_func_ext_training.tsv out/test_chunking/tmp/words.copy_query_func_ext_training.tsv-" 
+09:40:07.302 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  Executing parallel UDF command: find out/test_chunking/tmp -name 'words.copy_query_func_ext_training.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/chunking/udf/ext_training.py < "$0" > "$0.out"'
+09:40:07.303 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] DEBUG Temporary UDF file saved to /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_parallel_udf.sh
+09:40:07.303 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_parallel_udf.sh" 
+09:40:08.455 [default-dispatcher-3][DataLoader(akka://deepdive)][DataLoader] INFO  find out/test_chunking/tmp/words.copy_query_func_ext_training.tsv-*.out -print0 | xargs -0 -P 1 -L 1 bash -c 'psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost -c "COPY words FROM STDIN; " < $0'
+09:40:08.456 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/words.copy6442883475654537016.sh" 
+09:40:08.509 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:40:08.561 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:40:08.614 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:40:08.668 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:40:08.723 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:40:08.777 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:40:08.818 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 141
+09:40:08.820 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  Analyzing output relation.
+09:40:09.738 [default-dispatcher-3][extractorRunner-ext_training][ExtractorRunner] INFO  Removing temporary files...
+09:40:09.738 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_delete.sh" 
+09:40:09.760 [default-dispatcher-6][profiler][Profiler] DEBUG ending report_id=ext_training
+09:40:09.760 [default-dispatcher-4][taskManager][TaskManager] INFO  Completed task_id=ext_training with Success(Done!)
+09:40:09.762 [default-dispatcher-4][taskManager][TaskManager] DEBUG 1/7 tasks eligible. Waiting tasks: Set(calibration, inference_grounding, inference, ext_features, shutdown, report)
+09:40:09.763 [default-dispatcher-4][taskManager][TaskManager] DEBUG Sending task_id=ext_index to Actor[akka://deepdive/user/extractionManager#1648164828]
+09:40:09.763 [default-dispatcher-4][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_index
+09:40:09.763 [default-dispatcher-6][profiler][Profiler] DEBUG starting report_id=ext_index
+09:40:09.773 [default-dispatcher-4][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_index
+09:40:09.774 [default-dispatcher-2][extractorRunner-ext_index][ExtractorRunner] INFO  waiting for tasks
+09:40:09.775 [default-dispatcher-2][extractorRunner-ext_index][ExtractorRunner] INFO  Received task=ext_index. Executing
+09:40:09.775 [default-dispatcher-2][extractorRunner-ext_index][ExtractorRunner] DEBUG Executing SQL query: create index words_word_id_idx on words(word_id);
+09:40:09.809 [default-dispatcher-4][profiler][Profiler] DEBUG ending report_id=ext_index
+09:40:09.809 [default-dispatcher-3][taskManager][TaskManager] INFO  Completed task_id=ext_index with Success(Done!)
+09:40:09.810 [default-dispatcher-3][taskManager][TaskManager] DEBUG 1/6 tasks eligible. Waiting tasks: Set(calibration, inference_grounding, inference, shutdown, report)
+09:40:09.810 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=ext_features to Actor[akka://deepdive/user/extractionManager#1648164828]
+09:40:09.810 [default-dispatcher-6][profiler][Profiler] DEBUG starting report_id=ext_features
+09:40:09.810 [default-dispatcher-6][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_features
+09:40:09.811 [default-dispatcher-6][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_features
+09:40:09.811 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  waiting for tasks
+09:40:09.811 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  Received task=ext_features. Executing
+09:40:09.811 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] DEBUG Parallel Loading: false
+09:40:09.812 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  out/test_chunking/tmp/
+09:40:09.812 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  Executing: find out/test_chunking/tmp -name 'word_features.copy_query_func_ext_features.tsv*' 2>/dev/null -print0 | xargs -0 rm -f
+09:40:09.812 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_delete.sh" 
+09:40:09.826 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (select w1.word_id as "w1.word_id", w1.word as "w1.word", w1.pos as "w1.pos", w2.word as "w2.word", w2.pos as "w2.pos" from words w1, words w2 where w1.word_id = w2.word_id + 1 and w1.word is not null) TO STDOUT;'   > /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/word_features.copy_query_func_ext_features.tsv
+09:40:09.827 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql1761209914062907884.sh" 
+09:40:09.950 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  File dumped to out/test_chunking/tmp/word_features.copy_query_func_ext_features.tsv
+09:40:09.950 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  Executing split command...
+09:40:09.950 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "split -a 10 -l 10000 out/test_chunking/tmp/word_features.copy_query_func_ext_features.tsv out/test_chunking/tmp/word_features.copy_query_func_ext_features.tsv-" 
+09:40:10.044 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  Executing parallel UDF command: find out/test_chunking/tmp -name 'word_features.copy_query_func_ext_features.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/chunking/udf/ext_features.py < "$0" > "$0.out"'
+09:40:10.044 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] DEBUG Temporary UDF file saved to /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_parallel_udf.sh
+09:40:10.044 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_parallel_udf.sh" 
+09:40:10.765 [default-dispatcher-3][DataLoader(akka://deepdive)][DataLoader] INFO  find out/test_chunking/tmp/word_features.copy_query_func_ext_features.tsv-*.out -print0 | xargs -0 -P 1 -L 1 bash -c 'psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost -c "COPY word_features FROM STDIN; " < $0'
+09:40:10.765 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/word_features.copy4673728793463364419.sh" 
+09:40:10.829 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 30000
+09:40:10.894 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 30000
+09:40:10.958 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 30000
+09:40:11.045 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 30000
+09:40:11.108 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 30000
+09:40:11.166 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 23115
+09:40:11.168 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  Analyzing output relation.
+09:40:11.577 [default-dispatcher-3][extractorRunner-ext_features][ExtractorRunner] INFO  Removing temporary files...
+09:40:11.577 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/tmp/exec_delete.sh" 
+09:40:11.595 [default-dispatcher-2][taskManager][TaskManager] INFO  Completed task_id=ext_features with Success(Done!)
+09:40:11.595 [default-dispatcher-4][profiler][Profiler] DEBUG ending report_id=ext_features
+09:40:11.596 [default-dispatcher-2][taskManager][TaskManager] DEBUG 1/5 tasks eligible. Waiting tasks: Set(shutdown, inference, report, calibration)
+09:40:11.596 [default-dispatcher-2][taskManager][TaskManager] DEBUG Sending task_id=inference_grounding to Actor[akka://deepdive/user/inferenceManager#603979725]
+09:40:11.596 [default-dispatcher-6][profiler][Profiler] DEBUG starting report_id=inference_grounding
+09:40:11.596 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... 
+    SELECT version() LIKE '%Greenplum%';
+  
+09:40:11.612 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Using Greenplum = false
+09:40:11.613 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Datastore type = psql
+09:40:11.613 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Parallel grounding = false
+09:40:11.613 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] DEBUG Grounding Path = out/test_chunking
+09:40:11.613 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... 
+    SELECT version() LIKE '%Greenplum%';
+  
+09:40:11.614 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_variable_sequence CASCADE
+09:40:11.615 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_variable_sequence MINVALUE -1 START 0
+09:40:11.618 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE words SET id =  nextval('dd_variable_sequence')
+09:40:12.315 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_variables_holdout CASCADE
+09:40:12.315 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_variables_holdout(variable_id bigint primary key)
+09:40:12.319 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_variables_holdout(variable_id) SELECT id FROM words WHERE word_id > 50078
+09:40:12.357 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_variables_observation CASCADE
+09:40:12.357 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_variables_observation(variable_id bigint primary key)
+09:40:12.362 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS words_tag_cardinality CASCADE
+09:40:12.363 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE words_tag_cardinality(cardinality text)
+09:40:12.365 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO words_tag_cardinality VALUES ('00000'), ('00001'), ('00002'), ('00003'), ('00004'), ('00005'), ('00006'), ('00007'), ('00008'), ('00009'), ('00010'), ('00011'), ('00012')
+09:40:12.367 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS words_vtype CASCADE
+09:40:12.368 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE words_vtype AS
+        SELECT t0.id, CASE WHEN t2.variable_id IS NOT NULL AND tag IS NOT NULL THEN 2
+                           WHEN t1.variable_id IS NOT NULL THEN 0
+                           WHEN tag IS NOT NULL THEN 1
+                           ELSE 0
+                      END as __dd_variable_type__
+        FROM words t0 LEFT OUTER JOIN dd_graph_variables_holdout t1 
+        ON t0.id=t1.variable_id LEFT OUTER JOIN dd_graph_variables_observation t2 ON t0.id=t2.variable_id
+09:40:12.441 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT t0.id, t1.__dd_variable_type__,
+        CASE WHEN t1.__dd_variable_type__ = 0 THEN 0 ELSE tag::int::float END AS initvalue,
+        1 AS type, 13 AS cardinality
+        FROM words t0, words_vtype t1
+        WHERE t0.id=t1.id) TO STDOUT;'   > out/test_chunking/dd_variables_words
+09:40:12.441 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql4314687473093445156.sh" 
+09:40:12.648 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_factormeta CASCADE
+09:40:12.649 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_factormeta (name text, funcid int, sign text)
+09:40:12.654 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_factormeta VALUES ('factor_feature', 5, 'true')
+09:40:12.655 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_factormeta VALUES ('factor_linear_chain_crf', 5, 'true true')
+09:40:12.656 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT * FROM dd_graph_factormeta) TO STDOUT;'   > out/test_chunking/dd_factormeta
+09:40:12.656 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql5927053176339506961.sh" 
+09:40:12.688 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_weights CASCADE
+09:40:12.689 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_weights (id bigint, isfixed int, initvalue real, 
+      cardinality text, description text)
+09:40:12.691 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_weight_sequence CASCADE
+09:40:12.691 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_weight_sequence MINVALUE -1 START 0
+09:40:12.693 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_factor_sequence CASCADE
+09:40:12.693 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_factor_sequence MINVALUE -1 START 0
+09:40:12.694 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_feature_statistics_support CASCADE
+09:40:12.694 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_feature_statistics_support(
+            description text, 
+            pos_examples bigint, 
+            neg_examples bigint, 
+            queries bigint)
+09:40:12.699 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_query_factor_feature CASCADE
+09:40:12.700 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_query_factor_feature AS select words.id as "words.id", words.tag as "words.tag", word_features.feature as "feature" from words, word_features where words.word_id = word_features.word_id and words.word is not null
+09:40:12.976 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ALTER TABLE dd_query_factor_feature ADD COLUMN id bigint
+09:40:12.977 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_query_factor_feature SET id =  nextval('dd_factor_sequence')
+09:40:13.893 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_query_factor_feature;
+09:40:13.931 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS factor_feature_cardinality_0 CASCADE
+09:40:13.931 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE  factor_feature_cardinality_0 AS
+            SELECT * FROM words_tag_cardinality
+09:40:13.939 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_weight_factor_feature_temp CASCADE
+09:40:13.939 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_weight_factor_feature_temp AS
+                      SELECT  "feature" , false::int AS isfixed, 0.0::float AS initvalue
+                      FROM dd_query_factor_feature
+                      GROUP BY  "feature"
+09:40:13.990 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_weights_factor_feature CASCADE
+09:40:13.990 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_weights_factor_feature AS 
+            SELECT dd_weight_factor_feature_temp.*, _c0.cardinality AS cardinality
+            FROM dd_weight_factor_feature_temp, factor_feature_cardinality_0 AS _c0 LIMIT 0
+09:40:13.996 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_weights_factor_feature_unsorted CASCADE
+09:40:13.996 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_weights_factor_feature_unsorted AS 
+            SELECT dd_weight_factor_feature_temp.*, _c0.cardinality AS cardinality
+            FROM dd_weight_factor_feature_temp, factor_feature_cardinality_0 AS _c0 LIMIT 0
+09:40:13.999 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ALTER TABLE dd_weights_factor_feature ADD COLUMN id bigint
+09:40:14.000 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ALTER TABLE dd_weights_factor_feature_unsorted ADD COLUMN id bigint
+09:40:14.001 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_weights_factor_feature_unsorted
+            SELECT dd_weight_factor_feature_temp.*, _c0.cardinality as cardinality, 0 AS id
+            FROM dd_weight_factor_feature_temp, factor_feature_cardinality_0 AS _c0
+            ORDER BY  "feature" , cardinality
+09:40:17.212 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_weights_factor_feature
+            SELECT * FROM dd_weights_factor_feature_unsorted
+            ORDER BY  "feature" , cardinality
+09:40:22.162 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_weights_factor_feature SET id =  nextval('dd_weight_sequence')
+09:40:22.864 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_weights_factor_feature;
+09:40:22.892 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_weights(id, isfixed, initvalue, cardinality, description) 
+            SELECT id, isfixed, initvalue, cardinality, 'factor_feature-'  || (CASE WHEN "feature" IS NULL THEN '' ELSE "feature"::text END) FROM dd_weights_factor_feature
+09:40:23.295 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT t0.id AS factor_id, t1.id AS weight_id,  "words.id"
+             FROM dd_query_factor_feature t0, dd_weights_factor_feature t1
+             WHERE  t0."feature" = t1."feature"  AND t1.cardinality = '\''00000'\'') TO STDOUT;'   > out/test_chunking/dd_factors_factor_feature_out
+09:40:23.295 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql8027232739365280325.sh" 
+09:40:23.490 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_query_factor_linear_chain_crf CASCADE
+09:40:23.490 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_query_factor_linear_chain_crf AS select w1.id as "words.w1.id", w2.id as "words.w2.id", w1.tag as "words.w1.tag", w2.tag as "words.w2.tag" from words w1, words w2 where w2.word_id = w1.word_id + 1
+09:40:23.595 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ALTER TABLE dd_query_factor_linear_chain_crf ADD COLUMN id bigint
+09:40:23.597 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_query_factor_linear_chain_crf SET id =  nextval('dd_factor_sequence')
+09:40:24.409 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_query_factor_linear_chain_crf;
+09:40:24.423 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS factor_linear_chain_crf_cardinality_0 CASCADE
+09:40:24.424 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE  factor_linear_chain_crf_cardinality_0 AS
+            SELECT * FROM words_tag_cardinality
+09:40:24.635 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS factor_linear_chain_crf_cardinality_1 CASCADE
+09:40:24.635 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE  factor_linear_chain_crf_cardinality_1 AS
+            SELECT * FROM words_tag_cardinality
+09:40:24.639 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_weights_factor_linear_chain_crf CASCADE
+09:40:24.639 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_weights_factor_linear_chain_crf AS
+            SELECT false::int AS isfixed, 0.0 AS initvalue, _c0.cardinality || ',' || _c1.cardinality AS cardinality, 118157 AS id
+            FROM factor_linear_chain_crf_cardinality_0 AS _c0, factor_linear_chain_crf_cardinality_1 AS _c1
+            ORDER BY cardinality
+09:40:24.646 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_weights_factor_linear_chain_crf SET id =  nextval('dd_weight_sequence')
+09:40:24.650 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_weights(id, isfixed, initvalue, cardinality, description) 
+            SELECT id, isfixed, initvalue, cardinality, 'factor_linear_chain_crf-'  FROM dd_weights_factor_linear_chain_crf
+09:40:24.652 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT id AS factor_id, 118157 AS weight_id,  "words.w1.id" ,  "words.w2.id"  FROM dd_query_factor_linear_chain_crf) TO STDOUT;'   > out/test_chunking/dd_factors_factor_linear_chain_crf_out
+09:40:24.653 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql6199322727634032324.sh" 
+09:40:24.718 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_weights_factor_linear_chain_crf;
+09:40:24.719 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT id, isfixed, COALESCE(initvalue, 0) FROM dd_graph_weights) TO STDOUT;'   > out/test_chunking/dd_weights
+09:40:24.719 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql5602636186167890291.sh" 
+09:40:24.832 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_variables CASCADE
+09:40:24.833 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_variables(
+      id bigint, 
+      category bigint, 
+      expectation double precision)
+09:40:24.838 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_weights CASCADE
+09:40:24.838 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_weights(
+      id bigint primary key, 
+      weight double precision)
+09:40:24.840 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Converting grounding file format...
+09:40:24.840 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] DEBUG Executing: python /Users/jackywang/Desktop/341/project/deepdive/util/tobinary.py out/test_chunking /Users/jackywang/Desktop/341/project/deepdive/util/format_converter_mac out/test_chunking
+09:40:26.952 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING factor_feature ...
+09:40:26.953 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  factor_feature ...
+09:40:26.953 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING factor_linear_chain_crf ...
+09:40:26.953 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  factor_linear_chain_crf ...
+09:40:26.953 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING dd_variables_words ...
+09:40:26.953 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  dd_variables_words ...
+09:40:26.953 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  weights ...
+09:40:26.954 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING variables ...
+09:40:26.954 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING factors ...
+09:40:26.954 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING weights ...
+09:40:26.954 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  CONCATENATING FILES...
+09:40:26.954 [Thread-60][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Cleaning up files
+09:40:26.954 [default-dispatcher-6][profiler][Profiler] DEBUG ending report_id=inference_grounding
+09:40:26.954 [default-dispatcher-2][taskManager][TaskManager] INFO  Completed task_id=inference_grounding with Success(OK)
+09:40:26.954 [default-dispatcher-2][taskManager][TaskManager] DEBUG 1/4 tasks eligible. Waiting tasks: Set(shutdown, report, calibration)
+09:40:26.954 [default-dispatcher-2][taskManager][TaskManager] DEBUG Sending task_id=inference to Actor[akka://deepdive/user/inferenceManager#603979725]
+09:40:26.954 [default-dispatcher-6][profiler][Profiler] DEBUG starting report_id=inference
+09:40:26.956 [default-dispatcher-3][sampler][Sampler] INFO  starting
+09:40:26.957 [default-dispatcher-3][sampler][Sampler] INFO  /Users/jackywang/Desktop/341/project/deepdive/util/sampler-dw-mac gibbs
+09:40:26.957 [default-dispatcher-3][sampler][Sampler] INFO  Executing: /Users/jackywang/Desktop/341/project/deepdive/util/sampler-dw-mac gibbs -w /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.weights -v /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.variables -f /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.factors -e /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.edges -m /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.meta -o /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking -l 500 -i 500 -s 1 --alpha 0.1 --diminish 0.99 --quiet
+09:40:26.967 [Thread-63][sampler][Sampler] INFO  
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  #################MACHINE CONFIG#################
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  # # NUMA Node        : 1
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  # # Thread/NUMA Node : 8
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  ################################################
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  #################GIBBS SAMPLING#################
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  # fg_file            : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.meta
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  # edge_file          : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.edges
+09:40:26.968 [Thread-63][sampler][Sampler] INFO  # weight_file        : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.weights
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # variable_file      : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.variables
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # factor_file        : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/graph.factors
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # output_folder      : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # n_learning_epoch   : 500
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # n_samples/l. epoch : 1
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # n_inference_epoch  : 500
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # stepsize           : 0.1
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # decay              : 0.99
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  ################################################
+09:40:26.969 [Thread-63][sampler][Sampler] INFO  # IGNORE -s (n_samples/l. epoch). ALWAYS -s 1. #
+09:40:26.970 [Thread-63][sampler][Sampler] INFO  # IGNORE -t (threads). ALWAYS USE ALL THREADS. #
+09:40:26.970 [Thread-63][sampler][Sampler] INFO  ################################################
+09:40:26.970 [Thread-63][sampler][Sampler] INFO  # nvar               : 60141
+09:40:26.970 [Thread-63][sampler][Sampler] INFO  # nfac               : 233255
+09:40:26.970 [Thread-63][sampler][Sampler] INFO  # nweight            : 118326
+09:40:26.970 [Thread-63][sampler][Sampler] INFO  # nedge              : 293395
+09:40:26.970 [Thread-63][sampler][Sampler] INFO  ################################################
+09:40:26.989 [Thread-63][sampler][Sampler] INFO  LOADED VARIABLES: #60141
+09:40:26.990 [Thread-63][sampler][Sampler] INFO           N_QUERY: #10063
+09:40:26.990 [Thread-63][sampler][Sampler] INFO           N_EVID : #50078
+09:40:27.014 [Thread-63][sampler][Sampler] INFO  LOADED FACTORS: #233255
+09:40:27.025 [Thread-63][sampler][Sampler] INFO  LOADED WEIGHTS: #118326
+09:40:27.141 [Thread-63][sampler][Sampler] INFO  LOADED EDGES: #293395
+09:40:27.156 [Thread-63][sampler][Sampler] INFO  FACTOR GRAPH: Safety Checking Passed...
+09:40:36.933 [Thread-63][sampler][Sampler] INFO  TOTAL LEARNING TIME: 9.77715 sec.
+09:40:36.933 [Thread-63][sampler][Sampler] INFO  DUMPING... PROTOCOL: /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/inference_result.out.weights
+09:40:36.933 [Thread-63][sampler][Sampler] INFO  DUMPING... TEXT    : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/inference_result.out.weights.text
+09:40:42.877 [Thread-63][sampler][Sampler] INFO  TOTAL INFERENCE TIME: 5.54942 sec.
+09:40:42.881 [Thread-63][sampler][Sampler] INFO  DUMPING... PROTOCOL: /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/inference_result.out
+09:40:42.881 [Thread-63][sampler][Sampler] INFO  DUMPING... TEXT    : /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/inference_result.out.text
+09:40:43.345 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_variables CASCADE
+09:40:43.355 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_variables(
+      id bigint, 
+      category bigint, 
+      expectation double precision)
+09:40:43.357 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_weights CASCADE
+09:40:43.358 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_weights(
+      id bigint primary key, 
+      weight double precision)
+09:40:43.360 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Copying inference result weights...
+09:40:43.360 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c "\COPY dd_inference_result_weights(id, weight) FROM '/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/inference_result.out.weights.text' DELIMITER ' ';"
+09:40:43.361 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/copy8972490680271584073.sh" 
+09:40:43.811 [Thread-66][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 118326
+09:40:43.813 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Copying inference result variables...
+09:40:43.813 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c "\COPY dd_inference_result_variables(id, category, expectation) FROM '/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/inference_result.out.text' DELIMITER ' ';"
+09:40:43.813 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/copy9218789442542917998.sh" 
+09:40:44.279 [Thread-69][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 130819
+09:40:44.280 [default-dispatcher-6][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Creating indices on the inference result...
+09:40:44.280 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP INDEX IF EXISTS dd_inference_result_weights_idx CASCADE
+09:40:44.280 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP INDEX IF EXISTS dd_inference_result_variables_idx CASCADE
+09:40:44.281 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE INDEX dd_inference_result_weights_idx ON dd_inference_result_weights (weight)
+09:40:44.406 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE INDEX dd_inference_result_variables_idx ON dd_inference_result_variables (expectation)
+09:40:44.518 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_inference_result_weights_mapping AS
+    SELECT dd_graph_weights.*, dd_inference_result_weights.weight FROM
+    dd_graph_weights JOIN dd_inference_result_weights ON dd_graph_weights.id = dd_inference_result_weights.id
+    ORDER BY abs(weight) DESC
+09:40:44.522 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_inference_result_variables_mapped_weights AS
+    SELECT * FROM dd_inference_result_weights_mapping
+    ORDER BY abs(weight) DESC
+09:40:44.523 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_feature_statistics AS
+        SELECT w.*, f.pos_examples, f.neg_examples, f.queries
+        FROM dd_inference_result_weights_mapping w LEFT OUTER JOIN dd_feature_statistics_support f
+        ON w.description = f.description
+        ORDER BY abs(weight) DESC
+09:40:44.526 [default-dispatcher-6][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW words_tag_inference AS
+    (SELECT words.*, mir.category, mir.expectation FROM
+    words, dd_inference_result_variables mir
+    WHERE words.id = mir.id
+    ORDER BY mir.expectation DESC)
+09:40:44.528 [default-dispatcher-2][profiler][Profiler] DEBUG ending report_id=inference
+09:40:44.528 [default-dispatcher-6][taskManager][TaskManager] INFO  Completed task_id=inference with Success(())
+09:40:44.528 [default-dispatcher-6][taskManager][TaskManager] DEBUG 1/3 tasks eligible. Waiting tasks: Set(shutdown, report)
+09:40:44.528 [default-dispatcher-6][taskManager][TaskManager] DEBUG Sending task_id=calibration to Actor[akka://deepdive/user/inferenceManager#603979725]
+09:40:44.528 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=calibration
+09:40:44.528 [default-dispatcher-2][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  writing calibration data
+09:40:44.531 [default-dispatcher-3][$a][CalibrationDataWriter] INFO  starting
+09:40:44.551 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW words_tag_inference_bucketed AS
+      SELECT words_tag_inference.*, CASE WHEN expectation >= 0.0 AND expectation <= 0.1 THEN 0
+WHEN expectation >= 0.1 AND expectation <= 0.2 THEN 1
+WHEN expectation >= 0.2 AND expectation <= 0.30000000000000004 THEN 2
+WHEN expectation >= 0.30000000000000004 AND expectation <= 0.4 THEN 3
+WHEN expectation >= 0.4 AND expectation <= 0.5 THEN 4
+WHEN expectation >= 0.5 AND expectation <= 0.6 THEN 5
+WHEN expectation >= 0.6000000000000001 AND expectation <= 0.7000000000000001 THEN 6
+WHEN expectation >= 0.7000000000000001 AND expectation <= 0.8 THEN 7
+WHEN expectation >= 0.8 AND expectation <= 0.9 THEN 8
+WHEN expectation >= 0.9 AND expectation <= 1.0 THEN 9 END bucket
+      FROM words_tag_inference ORDER BY bucket ASC
+09:40:44.554 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  created calibration_view=words_tag_calibration
+09:40:44.554 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW words_tag_calibration AS
+      SELECT b1.bucket, b1.num_variables, b2.num_correct, b3.num_incorrect FROM
+      (SELECT bucket, COUNT(*) AS num_variables from words_tag_inference_bucketed GROUP BY bucket) b1
+      LEFT JOIN (SELECT bucket, COUNT(*) AS num_correct from words_tag_inference_bucketed 
+        WHERE tag = category GROUP BY bucket) b2 ON b1.bucket = b2.bucket
+      LEFT JOIN (SELECT bucket, COUNT(*) AS num_incorrect from words_tag_inference_bucketed 
+        WHERE tag != category GROUP BY bucket) b3 ON b1.bucket = b3.bucket 
+      ORDER BY b1.bucket ASC
+09:40:47.475 [default-dispatcher-3][$a][CalibrationDataWriter] INFO  Wrote calibration_file=/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/calibration/words.tag.tsv
+09:40:47.477 [default-dispatcher-3][$a][CalibrationDataWriter] INFO  Running 'List(gnuplot, -e, input_file='/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/calibration/words.tag.tsv';output_file='/Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/calibration/words.tag.png', /Users/jackywang/Desktop/341/project/deepdive/util/calibration.plg)' to generate the calibration plot.
+09:40:47.522 [default-dispatcher-4][profiler][Profiler] DEBUG ending report_id=calibration
+09:40:47.523 [default-dispatcher-2][taskManager][TaskManager] INFO  Completed task_id=calibration with Success(List(Success(())))
+09:40:47.523 [default-dispatcher-2][taskManager][TaskManager] DEBUG 1/2 tasks eligible. Waiting tasks: Set(shutdown)
+09:40:47.523 [default-dispatcher-2][taskManager][TaskManager] DEBUG Sending task_id=report to Actor[akka://deepdive/user/profiler#-1903794707]
+09:40:47.523 [default-dispatcher-4][profiler][Profiler] DEBUG starting report_id=report
+09:40:47.523 [default-dispatcher-4][profiler][Profiler] INFO  --------------------------------------------------
+09:40:47.523 [default-dispatcher-4][profiler][Profiler] INFO  Summary Report
+09:40:47.523 [default-dispatcher-4][profiler][Profiler] INFO  --------------------------------------------------
+09:40:47.524 [default-dispatcher-4][profiler][Profiler] INFO  ext_training SUCCESS [2711 ms]
+09:40:47.524 [default-dispatcher-4][profiler][Profiler] INFO  ext_index SUCCESS [47 ms]
+09:40:47.524 [default-dispatcher-4][profiler][Profiler] INFO  ext_features SUCCESS [1786 ms]
+09:40:47.525 [default-dispatcher-4][profiler][Profiler] INFO  inference_grounding SUCCESS [15358 ms]
+09:40:47.525 [default-dispatcher-4][profiler][Profiler] INFO  inference SUCCESS [17574 ms]
+09:40:47.525 [default-dispatcher-4][profiler][Profiler] INFO  calibration plot written to /Users/jackywang/Desktop/341/project/deepdive/out/test_chunking/calibration/words.tag.png [0 ms]
+09:40:47.525 [default-dispatcher-4][profiler][Profiler] INFO  calibration SUCCESS [2994 ms]
+09:40:47.525 [default-dispatcher-4][profiler][Profiler] INFO  --------------------------------------------------
+09:40:47.525 [default-dispatcher-4][taskManager][TaskManager] INFO  Completed task_id=report with Success(Success(()))
+09:40:47.525 [default-dispatcher-2][profiler][Profiler] DEBUG ending report_id=report
+09:40:47.525 [default-dispatcher-4][taskManager][TaskManager] DEBUG 1/1 tasks eligible. Waiting tasks: Set()
+09:40:47.526 [default-dispatcher-4][taskManager][TaskManager] DEBUG Sending task_id=shutdown to Actor[akka://deepdive/user/taskManager#74796208]
+09:40:47.526 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=shutdown
+09:40:47.535 [default-dispatcher-4][EventStream][EventStream] DEBUG shutting down: StandardOutLogger started

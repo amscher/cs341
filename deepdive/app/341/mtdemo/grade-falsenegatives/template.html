@@ -1,0 +1,16 @@
+<mindtagger mode="inspection">
+
+  <template for="each-item">
+  <big>
+  <strong>
+    <a href="mindtagger/tasks/grade-falsenegatives/{{item.pdf_url}}">{{item.patient_id}}</a>
+  </strong>
+  </big>
+  </template>
+
+  <template for="tags">
+    <span mindtagger-adhoc-tags></span>
+    <span mindtagger-note-tags></span>
+  </template>
+
+</mindtagger>

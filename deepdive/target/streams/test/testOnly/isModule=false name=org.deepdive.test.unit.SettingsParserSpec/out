@@ -1,0 +1,32 @@
+[0m[[0minfo[0m] [0m[32mSettingsParserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing Schema Settings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if variable column is missing[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if variable table is malformed[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing Extractor Settings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with json_extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with tsv_extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with plpy_extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with cmd_extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with sql_extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when the input query is not defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when the udf is not defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when the output_relation is not defined[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when the extractor style is not valid[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with loader configuration[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with default loader configuration[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail with wrong loader configuration (no connection)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail with wrong loader configuration (no schema)[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing Inference Settings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an exception when there's a syntax error[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing Calibration Settings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when specified[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when not specified[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing Sampler Settings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when specified[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when not specified[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing Pipelines Settings[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when specified[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when not specified[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when relearn_from[0m[0m

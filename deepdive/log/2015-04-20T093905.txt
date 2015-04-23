@@ -1,0 +1,444 @@
+09:39:05.602 [][][Slf4jLogger] INFO  Slf4jLogger started
+09:39:05.624 [ScalaTest-running-PostgresSpouseExample][EventStream(akka://deepdive)][EventStream] DEBUG logger log1-Slf4jLogger started
+09:39:05.626 [ScalaTest-running-PostgresSpouseExample][EventStream(akka://deepdive)][EventStream] DEBUG Default Loggers started
+09:39:05.630 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+09:39:05.913 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS articles CASCADE
+09:39:05.918 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: CREATE TABLE articles(
+  article_id bigint,
+  text text
+)
+09:39:05.924 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS sentences CASCADE
+09:39:05.924 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: CREATE TABLE sentences(
+  document_id bigint,
+  sentence text, 
+  words text[],
+  lemma text[],
+  pos_tags text[],
+  dependencies text[],
+  ner_tags text[],
+  sentence_offset bigint,
+  sentence_id text -- unique identifier for sentences
+  )
+09:39:05.930 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS people_mentions CASCADE
+09:39:05.931 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: CREATE TABLE people_mentions(
+  sentence_id text,
+  start_position int,
+  length int,
+  text text,
+  mention_id text  -- unique identifier for people_mentions
+  )
+09:39:05.933 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS has_spouse CASCADE
+09:39:05.934 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: CREATE TABLE has_spouse(
+  person1_id text,
+  person2_id text,
+  sentence_id text,
+  description text,
+  is_true boolean,
+  relation_id text, -- unique identifier for has_spouse
+  id bigint   -- reserved for DeepDive
+  )
+09:39:05.936 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS has_spouse_features CASCADE
+09:39:05.937 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] DEBUG Executing query via JDBC: CREATE TABLE has_spouse_features(
+  relation_id text,
+  feature text)
+09:39:05.943 [ScalaTest-running-PostgresSpouseExample][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c '\COPY sentences FROM '\''/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/spouse/data/sentences_dump.csv'\'' CSV;'  
+09:39:05.943 [ScalaTest-running-PostgresSpouseExample][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql3706058206466637609.sh" 
+09:39:10.513 [Thread-3][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 43789
+09:39:10.522 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Closing all JDBC data stores
+09:39:10.524 [ScalaTest-running-PostgresSpouseExample][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "rm -f out/test_spouse/tmp/*" 
+09:39:10.544 [ScalaTest-running-PostgresSpouseExample][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Database settings: user jackywang, dbname deepdive_test, host localhost, port 5432.
+09:39:10.544 [ScalaTest-running-PostgresSpouseExample][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  GPFDIST settings: host localhost port 8082 path /tmp
+09:39:10.638 [ScalaTest-running-PostgresSpouseExample][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Detected OS: Mac OS X
+09:39:10.639 [ScalaTest-running-PostgresSpouseExample][SettingsParser$(akka://deepdive)][SettingsParser$] DEBUG samplerArgs: -l 500 -i 500 -s 1 --alpha 0.1 --diminish 0.99 --quiet
+09:39:10.646 [ScalaTest-running-PostgresSpouseExample][DeepDive$(akka://deepdive)][DeepDive$] DEBUG relearnFrom=null
+09:39:10.647 [ScalaTest-running-PostgresSpouseExample][DeepDive$(akka://deepdive)][DeepDive$] DEBUG outputDir=out/test_spouse
+09:39:10.647 [ScalaTest-running-PostgresSpouseExample][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+09:39:10.757 [default-dispatcher-4][taskManager][TaskManager] INFO  starting at akka://deepdive/user/taskManager
+09:39:10.758 [default-dispatcher-2][profiler][Profiler] INFO  starting at akka://deepdive/user/profiler
+09:39:10.770 [default-dispatcher-3][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  Starting
+09:39:10.774 [default-dispatcher-2][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  starting
+09:39:10.775 [default-dispatcher-4][factorGraphBuilder][FactorGraphBuilder$PostgresFactorGraphBuilder] INFO  Starting
+09:39:10.782 [ScalaTest-running-PostgresSpouseExample][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of extractors: 5
+09:39:10.782 [ScalaTest-running-PostgresSpouseExample][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of factors: 2
+09:39:10.782 [ScalaTest-running-PostgresSpouseExample][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Number of active factors: 2
+09:39:10.785 [ScalaTest-running-PostgresSpouseExample][DeepDive$(akka://deepdive)][DeepDive$] INFO  Running pipeline=nonlp with tasks=List(ext_people, ext_has_spouse_features, ext_has_spouse_candidates, inference_grounding, inference, calibration, report, shutdown)
+09:39:10.786 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=ext_people
+09:39:10.788 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=ext_people to Actor[akka://deepdive/user/extractionManager#-416675236]
+09:39:10.789 [default-dispatcher-4][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_people
+09:39:10.790 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=ext_people
+09:39:10.791 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=ext_has_spouse_features
+09:39:10.791 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=ext_has_spouse_candidates
+09:39:10.791 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=inference_grounding
+09:39:10.792 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=inference
+09:39:10.792 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=calibration
+09:39:10.792 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=report
+09:39:10.792 [default-dispatcher-3][taskManager][TaskManager] INFO  Added task_id=shutdown
+09:39:10.792 [default-dispatcher-4][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_people
+09:39:10.813 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  waiting for tasks
+09:39:10.819 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  Received task=ext_people. Executing
+09:39:10.820 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] DEBUG Parallel Loading: false
+09:39:10.821 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  out/test_spouse/tmp/
+09:39:10.822 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  Executing: find out/test_spouse/tmp -name 'people_mentions.copy_query_func_ext_people.tsv*' 2>/dev/null -print0 | xargs -0 rm -f
+09:39:10.822 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_delete.sh" 
+09:39:10.843 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT sentence_id, array_to_string(words, '\''~^~'\''), array_to_string(ner_tags, '\''~^~'\'') FROM sentences) TO STDOUT;'   > /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/people_mentions.copy_query_func_ext_people.tsv
+09:39:10.843 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql7803575002025965093.sh" 
+09:39:11.465 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  File dumped to out/test_spouse/tmp/people_mentions.copy_query_func_ext_people.tsv
+09:39:11.466 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  Executing split command...
+09:39:11.466 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "split -a 10 -l 4000 out/test_spouse/tmp/people_mentions.copy_query_func_ext_people.tsv out/test_spouse/tmp/people_mentions.copy_query_func_ext_people.tsv-" 
+09:39:11.626 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  Executing parallel UDF command: find out/test_spouse/tmp -name 'people_mentions.copy_query_func_ext_people.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/spouse/udf/ext_people.py < "$0" > "$0.out"'
+09:39:11.626 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] DEBUG Temporary UDF file saved to /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_parallel_udf.sh
+09:39:11.626 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_parallel_udf.sh" 
+09:39:16.636 [default-dispatcher-6][DataLoader(akka://deepdive)][DataLoader] INFO  find out/test_spouse/tmp/people_mentions.copy_query_func_ext_people.tsv-*.out -print0 | xargs -0 -P 1 -L 1 bash -c 'psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost -c "COPY people_mentions FROM STDIN; " < $0'
+09:39:16.637 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/people_mentions.copy7412918316314492185.sh" 
+09:39:16.682 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3233
+09:39:16.723 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3401
+09:39:16.766 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3349
+09:39:16.811 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3507
+09:39:16.860 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3575
+09:39:16.905 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3757
+09:39:16.950 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3562
+09:39:16.996 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3488
+09:39:17.041 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3594
+09:39:17.088 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 3710
+09:39:17.134 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 4089
+09:39:17.136 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  Analyzing output relation.
+09:39:18.173 [default-dispatcher-6][extractorRunner-ext_people][ExtractorRunner] INFO  Removing temporary files...
+09:39:18.175 [default-dispatcher-6][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_delete.sh" 
+09:39:18.197 [default-dispatcher-3][profiler][Profiler] DEBUG ending report_id=ext_people
+09:39:18.198 [default-dispatcher-4][taskManager][TaskManager] INFO  Completed task_id=ext_people with Success(Done!)
+09:39:18.199 [default-dispatcher-4][taskManager][TaskManager] DEBUG 1/7 tasks eligible. Waiting tasks: Set(calibration, inference_grounding, inference, shutdown, report, ext_has_spouse_features)
+09:39:18.199 [default-dispatcher-4][taskManager][TaskManager] DEBUG Sending task_id=ext_has_spouse_candidates to Actor[akka://deepdive/user/extractionManager#-416675236]
+09:39:18.200 [default-dispatcher-5][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_has_spouse_candidates
+09:39:18.200 [default-dispatcher-3][profiler][Profiler] DEBUG starting report_id=ext_has_spouse_candidates
+09:39:18.209 [default-dispatcher-5][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_has_spouse_candidates
+09:39:18.209 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  waiting for tasks
+09:39:18.210 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  Received task=ext_has_spouse_candidates. Executing
+09:39:18.210 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] DEBUG Parallel Loading: false
+09:39:18.210 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  out/test_spouse/tmp/
+09:39:18.210 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  Executing: find out/test_spouse/tmp -name 'has_spouse.copy_query_func_ext_has_spouse_candidates.tsv*' 2>/dev/null -print0 | xargs -0 rm -f
+09:39:18.210 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_delete.sh" 
+09:39:18.225 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT p1.sentence_id, p1.mention_id, p1.text, p2.mention_id, p2.text FROM people_mentions p1, people_mentions p2 WHERE p1.sentence_id = p2.sentence_id AND p1.mention_id != p2.mention_id) TO STDOUT;'   > /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/has_spouse.copy_query_func_ext_has_spouse_candidates.tsv
+09:39:18.226 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql7900832792527184920.sh" 
+09:39:19.362 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  File dumped to out/test_spouse/tmp/has_spouse.copy_query_func_ext_has_spouse_candidates.tsv
+09:39:19.363 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  Executing split command...
+09:39:19.363 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "split -a 10 -l 10000 out/test_spouse/tmp/has_spouse.copy_query_func_ext_has_spouse_candidates.tsv out/test_spouse/tmp/has_spouse.copy_query_func_ext_has_spouse_candidates.tsv-" 
+09:39:19.499 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  Executing parallel UDF command: find out/test_spouse/tmp -name 'has_spouse.copy_query_func_ext_has_spouse_candidates.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/spouse/udf/ext_has_spouse.py < "$0" > "$0.out"'
+09:39:19.500 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] DEBUG Temporary UDF file saved to /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_parallel_udf.sh
+09:39:19.500 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_parallel_udf.sh" 
+09:39:22.922 [default-dispatcher-2][DataLoader(akka://deepdive)][DataLoader] INFO  find out/test_spouse/tmp/has_spouse.copy_query_func_ext_has_spouse_candidates.tsv-*.out -print0 | xargs -0 -P 1 -L 1 bash -c 'psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost -c "COPY has_spouse FROM STDIN; " < $0'
+09:39:22.923 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/has_spouse.copy3257557283339631133.sh" 
+09:39:22.986 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:39:23.051 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:39:23.112 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:39:23.174 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:39:23.235 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:39:23.294 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:39:23.421 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10000
+09:39:23.482 [Thread-39][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 5414
+09:39:23.484 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  Analyzing output relation.
+09:39:25.209 [default-dispatcher-2][extractorRunner-ext_has_spouse_candidates][ExtractorRunner] INFO  Removing temporary files...
+09:39:25.209 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_delete.sh" 
+09:39:25.228 [default-dispatcher-6][profiler][Profiler] DEBUG ending report_id=ext_has_spouse_candidates
+09:39:25.228 [default-dispatcher-5][taskManager][TaskManager] INFO  Completed task_id=ext_has_spouse_candidates with Success(Done!)
+09:39:25.228 [default-dispatcher-5][taskManager][TaskManager] DEBUG 1/6 tasks eligible. Waiting tasks: Set(calibration, inference_grounding, inference, shutdown, report)
+09:39:25.229 [default-dispatcher-5][taskManager][TaskManager] DEBUG Sending task_id=ext_has_spouse_features to Actor[akka://deepdive/user/extractionManager#-416675236]
+09:39:25.229 [default-dispatcher-3][profiler][Profiler] DEBUG starting report_id=ext_has_spouse_features
+09:39:25.229 [default-dispatcher-3][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  Adding task_name=ext_has_spouse_features
+09:39:25.229 [default-dispatcher-3][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  executing extractorName=ext_has_spouse_features
+09:39:25.229 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  waiting for tasks
+09:39:25.230 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  Received task=ext_has_spouse_features. Executing
+09:39:25.230 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] DEBUG Parallel Loading: false
+09:39:25.230 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  out/test_spouse/tmp/
+09:39:25.230 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  Executing: find out/test_spouse/tmp -name 'has_spouse_features.copy_query_func_ext_has_spouse_features.tsv*' 2>/dev/null -print0 | xargs -0 rm -f
+09:39:25.230 [default-dispatcher-5][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_delete.sh" 
+09:39:25.244 [default-dispatcher-5][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT array_to_string(words, '\''~^~'\''), has_spouse.relation_id, p1.start_position, p1.length, p2.start_position, p2.length FROM has_spouse, people_mentions p1, people_mentions p2, sentences WHERE has_spouse.person1_id = p1.mention_id AND has_spouse.person2_id = p2.mention_id AND has_spouse.sentence_id = sentences.sentence_id) TO STDOUT;'   > /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/has_spouse_features.copy_query_func_ext_has_spouse_features.tsv
+09:39:25.245 [default-dispatcher-5][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql2903220703742201109.sh" 
+09:39:29.181 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  File dumped to out/test_spouse/tmp/has_spouse_features.copy_query_func_ext_has_spouse_features.tsv
+09:39:29.181 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  Executing split command...
+09:39:29.182 [default-dispatcher-5][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "split -a 10 -l 10000 out/test_spouse/tmp/has_spouse_features.copy_query_func_ext_has_spouse_features.tsv out/test_spouse/tmp/has_spouse_features.copy_query_func_ext_has_spouse_features.tsv-" 
+09:39:29.476 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  Executing parallel UDF command: find out/test_spouse/tmp -name 'has_spouse_features.copy_query_func_ext_has_spouse_features.tsv-*' 2>/dev/null -print0 | xargs -0 -P 1 -L 1 bash -c '/Users/jackywang/Desktop/341/project/deepdive/target/scala-2.10/test-classes/spouse/udf/ext_has_spouse_features.py < "$0" > "$0.out"'
+09:39:29.476 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] DEBUG Temporary UDF file saved to /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_parallel_udf.sh
+09:39:29.477 [default-dispatcher-5][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_parallel_udf.sh" 
+09:39:31.466 [default-dispatcher-5][DataLoader(akka://deepdive)][DataLoader] INFO  find out/test_spouse/tmp/has_spouse_features.copy_query_func_ext_has_spouse_features.tsv-*.out -print0 | xargs -0 -P 1 -L 1 bash -c 'psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost -c "COPY has_spouse_features FROM STDIN; " < $0'
+09:39:31.466 [default-dispatcher-5][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/has_spouse_features.copy5545303215831157092.sh" 
+09:39:31.547 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 20116
+09:39:31.635 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 20142
+09:39:31.847 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 20058
+09:39:31.961 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 20170
+09:39:32.060 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 20110
+09:39:32.144 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 20112
+09:39:32.226 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 20122
+09:39:32.294 [Thread-57][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 10914
+09:39:32.296 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  Analyzing output relation.
+09:39:33.424 [default-dispatcher-5][extractorRunner-ext_has_spouse_features][ExtractorRunner] INFO  Removing temporary files...
+09:39:33.426 [default-dispatcher-5][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/tmp/exec_delete.sh" 
+09:39:33.448 [default-dispatcher-3][taskManager][TaskManager] INFO  Completed task_id=ext_has_spouse_features with Success(Done!)
+09:39:33.448 [default-dispatcher-4][profiler][Profiler] DEBUG ending report_id=ext_has_spouse_features
+09:39:33.448 [default-dispatcher-3][taskManager][TaskManager] DEBUG 1/5 tasks eligible. Waiting tasks: Set(shutdown, inference, report, calibration)
+09:39:33.448 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=inference_grounding to Actor[akka://deepdive/user/inferenceManager#-706373054]
+09:39:33.449 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=inference_grounding
+09:39:33.449 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... 
+    SELECT version() LIKE '%Greenplum%';
+  
+09:39:33.466 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Using Greenplum = false
+09:39:33.466 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Datastore type = psql
+09:39:33.466 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Parallel grounding = false
+09:39:33.466 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] DEBUG Grounding Path = out/test_spouse
+09:39:33.467 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... 
+    SELECT version() LIKE '%Greenplum%';
+  
+09:39:33.467 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_variable_sequence CASCADE
+09:39:33.470 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_variable_sequence MINVALUE -1 START 0
+09:39:33.473 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE has_spouse SET id =  nextval('dd_variable_sequence')
+09:39:33.999 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_variables_holdout CASCADE
+09:39:34.003 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_variables_holdout(variable_id bigint primary key)
+09:39:34.007 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_variables_observation CASCADE
+09:39:34.009 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_variables_observation(variable_id bigint primary key)
+09:39:34.012 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_variables_holdout
+            SELECT id FROM has_spouse
+            WHERE RANDOM() < 0.25 AND is_true IS NOT NULL
+09:39:34.031 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS has_spouse_is_true_cardinality CASCADE
+09:39:34.031 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE has_spouse_is_true_cardinality(cardinality text)
+09:39:34.034 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO has_spouse_is_true_cardinality VALUES ('00001')
+09:39:34.035 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS has_spouse_vtype CASCADE
+09:39:34.035 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE has_spouse_vtype AS
+        SELECT t0.id, CASE WHEN t2.variable_id IS NOT NULL AND is_true IS NOT NULL THEN 2
+                           WHEN t1.variable_id IS NOT NULL THEN 0
+                           WHEN is_true IS NOT NULL THEN 1
+                           ELSE 0
+                      END as __dd_variable_type__
+        FROM has_spouse t0 LEFT OUTER JOIN dd_graph_variables_holdout t1 
+        ON t0.id=t1.variable_id LEFT OUTER JOIN dd_graph_variables_observation t2 ON t0.id=t2.variable_id
+09:39:34.105 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT t0.id, t1.__dd_variable_type__,
+        CASE WHEN t1.__dd_variable_type__ = 0 THEN 0 ELSE is_true::int::float END AS initvalue,
+        0 AS type, 2 AS cardinality
+        FROM has_spouse t0, has_spouse_vtype t1
+        WHERE t0.id=t1.id) TO STDOUT;'   > out/test_spouse/dd_variables_has_spouse
+09:39:34.105 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql5252694141754547915.sh" 
+09:39:34.339 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_factormeta CASCADE
+09:39:34.343 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_factormeta (name text, funcid int, sign text)
+09:39:34.347 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_factormeta VALUES ('f_has_spouse_features', 4, 'true')
+09:39:34.348 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_factormeta VALUES ('f_has_spouse_symmetry', 3, 'true true')
+09:39:34.349 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT * FROM dd_graph_factormeta) TO STDOUT;'   > out/test_spouse/dd_factormeta
+09:39:34.349 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql1913731178069009532.sh" 
+09:39:34.381 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_weights CASCADE
+09:39:34.383 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_weights (id bigint, isfixed int, initvalue real, 
+      cardinality text, description text)
+09:39:34.386 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_weight_sequence CASCADE
+09:39:34.387 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_weight_sequence MINVALUE -1 START 0
+09:39:34.389 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_factor_sequence CASCADE
+09:39:34.390 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_factor_sequence MINVALUE -1 START 0
+09:39:34.393 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_feature_statistics_support CASCADE
+09:39:34.395 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_feature_statistics_support(
+            description text, 
+            pos_examples bigint, 
+            neg_examples bigint, 
+            queries bigint)
+09:39:34.401 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_query_f_has_spouse_features CASCADE
+09:39:34.402 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_query_f_has_spouse_features AS SELECT has_spouse.id AS "has_spouse.id", has_spouse.is_true AS "has_spouse.is_true", feature FROM has_spouse, has_spouse_features WHERE has_spouse_features.relation_id = has_spouse.relation_id
+09:39:35.061 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ALTER TABLE dd_query_f_has_spouse_features ADD COLUMN id bigint
+09:39:35.062 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_query_f_has_spouse_features SET id =  nextval('dd_factor_sequence')
+09:39:37.648 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_query_f_has_spouse_features;
+09:39:37.678 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_weights_f_has_spouse_features CASCADE
+09:39:37.678 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_weights_f_has_spouse_features AS
+              SELECT  "feature" , false::int AS isfixed, 0.0::float AS initvalue, 
+                0::bigint AS id
+              FROM dd_query_f_has_spouse_features
+              GROUP BY  "feature"
+09:39:37.812 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_weights_f_has_spouse_features SET id =  nextval('dd_weight_sequence')
+09:39:38.182 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_weights_f_has_spouse_features;
+09:39:38.193 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_weights(id, isfixed, initvalue, description) 
+            SELECT id, isfixed, initvalue, 'f_has_spouse_features-'  || (CASE WHEN "feature" IS NULL THEN '' ELSE "feature"::text END) FROM dd_weights_f_has_spouse_features
+09:39:39.072 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_query_f_has_spouse_features WHERE  "feature" IS NULL 
+09:39:39.094 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT t0.id AS factor_id, t1.id AS weight_id,  "has_spouse.id"
+             FROM dd_query_f_has_spouse_features t0, dd_weights_f_has_spouse_features t1
+             WHERE  t0."feature" = t1."feature") TO STDOUT;'   > out/test_spouse/dd_factors_f_has_spouse_features_out
+09:39:39.094 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql1757891066065325455.sh" 
+09:39:47.628 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_feature_statistics_support
+        SELECT 'f_has_spouse_features-'  || (CASE WHEN "feature" IS NULL THEN '' ELSE "feature"::text END) as description,
+               count(CASE WHEN  "has_spouse.is_true" =TRUE THEN 1 ELSE NULL END) AS pos_examples,
+               count(CASE WHEN  "has_spouse.is_true" =FALSE THEN 1 ELSE NULL END) AS neg_examples,
+               count(CASE WHEN  "has_spouse.is_true"  IS NULL THEN 1 ELSE NULL END) AS queries
+        FROM dd_query_f_has_spouse_features
+        GROUP BY  "feature"
+09:39:47.898 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ANALYZE dd_feature_statistics_support
+09:39:49.293 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_query_f_has_spouse_symmetry CASCADE
+09:39:49.294 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_query_f_has_spouse_symmetry AS SELECT r1.is_true AS "has_spouse.r1.is_true", r2.is_true AS "has_spouse.r2.is_true", r1.id AS "has_spouse.r1.id", r2.id AS "has_spouse.r2.id" FROM has_spouse r1, has_spouse r2 WHERE r1.person1_id = r2.person2_id AND r1.person2_id = r2.person1_id
+09:39:52.984 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ALTER TABLE dd_query_f_has_spouse_symmetry ADD COLUMN id bigint
+09:39:52.985 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_query_f_has_spouse_symmetry SET id =  nextval('dd_factor_sequence')
+09:39:53.346 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_query_f_has_spouse_symmetry;
+09:39:53.363 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_weights_f_has_spouse_symmetry CASCADE
+09:39:53.363 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_weights_f_has_spouse_symmetry AS
+              SELECT false::int AS isfixed, 0.0::float AS initvalue, 
+                0::bigint AS id
+09:39:53.368 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_weights_f_has_spouse_symmetry SET id =  nextval('dd_weight_sequence')
+09:39:53.370 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_weights_f_has_spouse_symmetry;
+09:39:53.371 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_weights(id, isfixed, initvalue, description) 
+            SELECT id, isfixed, initvalue, 'f_has_spouse_symmetry-'  FROM dd_weights_f_has_spouse_symmetry
+09:39:53.374 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT t0.id AS factor_id, t1.id AS weight_id,  "has_spouse.r1.id" ,  "has_spouse.r2.id"
+             FROM dd_query_f_has_spouse_symmetry t0, dd_weights_f_has_spouse_symmetry t1) TO STDOUT;'   > out/test_spouse/dd_factors_f_has_spouse_symmetry_out
+09:39:53.374 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql2305846031717371470.sh" 
+09:39:53.567 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT id, isfixed, COALESCE(initvalue, 0) FROM dd_graph_weights) TO STDOUT;'   > out/test_spouse/dd_weights
+09:39:53.567 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql8088446601430967338.sh" 
+09:39:53.623 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_variables CASCADE
+09:39:53.626 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_variables(
+      id bigint, 
+      category bigint, 
+      expectation double precision)
+09:39:53.627 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_weights CASCADE
+09:39:53.629 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_weights(
+      id bigint primary key, 
+      weight double precision)
+09:39:53.631 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Converting grounding file format...
+09:39:53.631 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] DEBUG Executing: python /Users/jackywang/Desktop/341/project/deepdive/util/tobinary.py out/test_spouse /Users/jackywang/Desktop/341/project/deepdive/util/format_converter_mac out/test_spouse
+09:39:55.371 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING f_has_spouse_features ...
+09:39:55.371 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  f_has_spouse_features ...
+09:39:55.371 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING f_has_spouse_symmetry ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  f_has_spouse_symmetry ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING dd_variables_has_spouse ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  dd_variables_has_spouse ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  weights ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING variables ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING factors ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING weights ...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  CONCATENATING FILES...
+09:39:55.372 [Thread-78][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Cleaning up files
+09:39:55.373 [default-dispatcher-3][profiler][Profiler] DEBUG ending report_id=inference_grounding
+09:39:55.373 [default-dispatcher-2][taskManager][TaskManager] INFO  Completed task_id=inference_grounding with Success(OK)
+09:39:55.373 [default-dispatcher-2][taskManager][TaskManager] DEBUG 1/4 tasks eligible. Waiting tasks: Set(shutdown, report, calibration)
+09:39:55.373 [default-dispatcher-2][taskManager][TaskManager] DEBUG Sending task_id=inference to Actor[akka://deepdive/user/inferenceManager#-706373054]
+09:39:55.373 [default-dispatcher-3][profiler][Profiler] DEBUG starting report_id=inference
+09:39:55.375 [default-dispatcher-5][sampler][Sampler] INFO  starting
+09:39:55.375 [default-dispatcher-5][sampler][Sampler] INFO  /Users/jackywang/Desktop/341/project/deepdive/util/sampler-dw-mac gibbs
+09:39:55.376 [default-dispatcher-5][sampler][Sampler] INFO  Executing: /Users/jackywang/Desktop/341/project/deepdive/util/sampler-dw-mac gibbs -w /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.weights -v /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.variables -f /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.factors -e /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.edges -m /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.meta -o /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse -l 500 -i 500 -s 1 --alpha 0.1 --diminish 0.99 --quiet
+09:39:55.648 [Thread-81][sampler][Sampler] INFO  
+09:39:55.648 [Thread-81][sampler][Sampler] INFO  #################MACHINE CONFIG#################
+09:39:55.648 [Thread-81][sampler][Sampler] INFO  # # NUMA Node        : 1
+09:39:55.649 [Thread-81][sampler][Sampler] INFO  # # Thread/NUMA Node : 8
+09:39:55.649 [Thread-81][sampler][Sampler] INFO  ################################################
+09:39:55.649 [Thread-81][sampler][Sampler] INFO  
+09:39:55.649 [Thread-81][sampler][Sampler] INFO  #################GIBBS SAMPLING#################
+09:39:55.649 [Thread-81][sampler][Sampler] INFO  # fg_file            : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.meta
+09:39:55.649 [Thread-81][sampler][Sampler] INFO  # edge_file          : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.edges
+09:39:55.649 [Thread-81][sampler][Sampler] INFO  # weight_file        : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.weights
+09:39:55.650 [Thread-81][sampler][Sampler] INFO  # variable_file      : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.variables
+09:39:55.650 [Thread-81][sampler][Sampler] INFO  # factor_file        : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/graph.factors
+09:39:55.650 [Thread-81][sampler][Sampler] INFO  # output_folder      : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse
+09:39:55.650 [Thread-81][sampler][Sampler] INFO  # n_learning_epoch   : 500
+09:39:55.650 [Thread-81][sampler][Sampler] INFO  # n_samples/l. epoch : 1
+09:39:55.650 [Thread-81][sampler][Sampler] INFO  # n_inference_epoch  : 500
+09:39:55.650 [Thread-81][sampler][Sampler] INFO  # stepsize           : 0.1
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  # decay              : 0.99
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  ################################################
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  # IGNORE -s (n_samples/l. epoch). ALWAYS -s 1. #
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  # IGNORE -t (threads). ALWAYS USE ALL THREADS. #
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  ################################################
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  # nvar               : 75414
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  # nfac               : 227158
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  # nweight            : 30450
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  # nedge              : 302572
+09:39:55.651 [Thread-81][sampler][Sampler] INFO  ################################################
+09:39:55.672 [Thread-81][sampler][Sampler] INFO  LOADED VARIABLES: #75414
+09:39:55.672 [Thread-81][sampler][Sampler] INFO           N_QUERY: #70967
+09:39:55.672 [Thread-81][sampler][Sampler] INFO           N_EVID : #4447
+09:39:55.699 [Thread-81][sampler][Sampler] INFO  LOADED FACTORS: #227158
+09:39:55.703 [Thread-81][sampler][Sampler] INFO  LOADED WEIGHTS: #30450
+09:39:55.843 [Thread-81][sampler][Sampler] INFO  LOADED EDGES: #302572
+09:39:55.863 [Thread-81][sampler][Sampler] INFO  FACTOR GRAPH: Safety Checking Passed...
+09:39:56.281 [Thread-81][sampler][Sampler] INFO  TOTAL LEARNING TIME: 0.418203 sec.
+09:39:56.281 [Thread-81][sampler][Sampler] INFO  DUMPING... PROTOCOL: /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/inference_result.out.weights
+09:39:56.282 [Thread-81][sampler][Sampler] INFO  DUMPING... TEXT    : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/inference_result.out.weights.text
+09:39:58.067 [Thread-81][sampler][Sampler] INFO  TOTAL INFERENCE TIME: 1.68352 sec.
+09:39:58.069 [Thread-81][sampler][Sampler] INFO  DUMPING... PROTOCOL: /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/inference_result.out
+09:39:58.069 [Thread-81][sampler][Sampler] INFO  DUMPING... TEXT    : /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/inference_result.out.text
+09:39:58.345 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_variables CASCADE
+09:39:58.350 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_variables(
+      id bigint, 
+      category bigint, 
+      expectation double precision)
+09:39:58.352 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_weights CASCADE
+09:39:58.353 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_weights(
+      id bigint primary key, 
+      weight double precision)
+09:39:58.356 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Copying inference result weights...
+09:39:58.357 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c "\COPY dd_inference_result_weights(id, weight) FROM '/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/inference_result.out.weights.text' DELIMITER ' ';"
+09:39:58.357 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/copy5587868432517803223.sh" 
+09:39:58.534 [Thread-84][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 30450
+09:39:58.536 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Copying inference result variables...
+09:39:58.536 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c "\COPY dd_inference_result_variables(id, category, expectation) FROM '/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/inference_result.out.text' DELIMITER ' ';"
+09:39:58.536 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/copy8784382636853807320.sh" 
+09:39:58.874 [Thread-87][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 70967
+09:39:58.876 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Creating indices on the inference result...
+09:39:58.876 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP INDEX IF EXISTS dd_inference_result_weights_idx CASCADE
+09:39:58.877 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP INDEX IF EXISTS dd_inference_result_variables_idx CASCADE
+09:39:58.877 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE INDEX dd_inference_result_weights_idx ON dd_inference_result_weights (weight)
+09:39:58.926 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE INDEX dd_inference_result_variables_idx ON dd_inference_result_variables (expectation)
+09:39:59.004 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_inference_result_weights_mapping AS
+    SELECT dd_graph_weights.*, dd_inference_result_weights.weight FROM
+    dd_graph_weights JOIN dd_inference_result_weights ON dd_graph_weights.id = dd_inference_result_weights.id
+    ORDER BY abs(weight) DESC
+09:39:59.008 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_inference_result_variables_mapped_weights AS
+    SELECT * FROM dd_inference_result_weights_mapping
+    ORDER BY abs(weight) DESC
+09:39:59.010 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_feature_statistics AS
+        SELECT w.*, f.pos_examples, f.neg_examples, f.queries
+        FROM dd_inference_result_weights_mapping w LEFT OUTER JOIN dd_feature_statistics_support f
+        ON w.description = f.description
+        ORDER BY abs(weight) DESC
+09:39:59.012 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW has_spouse_is_true_inference AS
+    (SELECT has_spouse.*, mir.category, mir.expectation FROM
+    has_spouse, dd_inference_result_variables mir
+    WHERE has_spouse.id = mir.id
+    ORDER BY mir.expectation DESC)
+09:39:59.014 [default-dispatcher-2][profiler][Profiler] DEBUG ending report_id=inference
+09:39:59.015 [default-dispatcher-3][taskManager][TaskManager] INFO  Completed task_id=inference with Success(())
+09:39:59.015 [default-dispatcher-3][taskManager][TaskManager] DEBUG 1/3 tasks eligible. Waiting tasks: Set(shutdown, report)
+09:39:59.015 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=calibration to Actor[akka://deepdive/user/inferenceManager#-706373054]
+09:39:59.015 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=calibration
+09:39:59.015 [default-dispatcher-2][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  writing calibration data
+09:39:59.018 [default-dispatcher-5][$a][CalibrationDataWriter] INFO  starting
+09:39:59.038 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW has_spouse_is_true_inference_bucketed AS
+      SELECT has_spouse_is_true_inference.*, CASE WHEN expectation >= 0.0 AND expectation <= 0.1 THEN 0
+WHEN expectation >= 0.1 AND expectation <= 0.2 THEN 1
+WHEN expectation >= 0.2 AND expectation <= 0.30000000000000004 THEN 2
+WHEN expectation >= 0.30000000000000004 AND expectation <= 0.4 THEN 3
+WHEN expectation >= 0.4 AND expectation <= 0.5 THEN 4
+WHEN expectation >= 0.5 AND expectation <= 0.6 THEN 5
+WHEN expectation >= 0.6000000000000001 AND expectation <= 0.7000000000000001 THEN 6
+WHEN expectation >= 0.7000000000000001 AND expectation <= 0.8 THEN 7
+WHEN expectation >= 0.8 AND expectation <= 0.9 THEN 8
+WHEN expectation >= 0.9 AND expectation <= 1.0 THEN 9 END bucket
+      FROM has_spouse_is_true_inference ORDER BY bucket ASC
+09:39:59.043 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  created calibration_view=has_spouse_is_true_calibration
+09:39:59.043 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW has_spouse_is_true_calibration AS
+      SELECT b1.bucket, b1.num_variables, b2.num_correct, b3.num_incorrect FROM
+      (SELECT bucket, COUNT(*) AS num_variables from has_spouse_is_true_inference_bucketed GROUP BY bucket) b1
+      LEFT JOIN (SELECT bucket, COUNT(*) AS num_correct from has_spouse_is_true_inference_bucketed 
+        WHERE is_true=true GROUP BY bucket) b2 ON b1.bucket = b2.bucket
+      LEFT JOIN (SELECT bucket, COUNT(*) AS num_incorrect from has_spouse_is_true_inference_bucketed 
+        WHERE is_true=false GROUP BY bucket) b3 ON b1.bucket = b3.bucket 
+      ORDER BY b1.bucket ASC
+09:40:00.646 [default-dispatcher-5][$a][CalibrationDataWriter] INFO  Wrote calibration_file=/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/calibration/has_spouse.is_true.tsv
+09:40:00.647 [default-dispatcher-5][$a][CalibrationDataWriter] INFO  Running 'List(gnuplot, -e, input_file='/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/calibration/has_spouse.is_true.tsv';output_file='/Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/calibration/has_spouse.is_true.png', /Users/jackywang/Desktop/341/project/deepdive/util/calibration.plg)' to generate the calibration plot.
+09:40:00.807 [default-dispatcher-6][profiler][Profiler] DEBUG ending report_id=calibration
+09:40:00.807 [default-dispatcher-2][taskManager][TaskManager] INFO  Completed task_id=calibration with Success(List(Success(())))
+09:40:00.807 [default-dispatcher-2][taskManager][TaskManager] DEBUG 1/2 tasks eligible. Waiting tasks: Set(shutdown)
+09:40:00.807 [default-dispatcher-2][taskManager][TaskManager] DEBUG Sending task_id=report to Actor[akka://deepdive/user/profiler#1666657106]
+09:40:00.807 [default-dispatcher-6][profiler][Profiler] DEBUG starting report_id=report
+09:40:00.807 [default-dispatcher-6][profiler][Profiler] INFO  --------------------------------------------------
+09:40:00.808 [default-dispatcher-6][profiler][Profiler] INFO  Summary Report
+09:40:00.808 [default-dispatcher-6][profiler][Profiler] INFO  --------------------------------------------------
+09:40:00.808 [default-dispatcher-6][profiler][Profiler] INFO  ext_people SUCCESS [7411 ms]
+09:40:00.809 [default-dispatcher-6][profiler][Profiler] INFO  ext_has_spouse_candidates SUCCESS [7028 ms]
+09:40:00.809 [default-dispatcher-6][profiler][Profiler] INFO  ext_has_spouse_features SUCCESS [8220 ms]
+09:40:00.809 [default-dispatcher-6][profiler][Profiler] INFO  inference_grounding SUCCESS [21924 ms]
+09:40:00.809 [default-dispatcher-6][profiler][Profiler] INFO  inference SUCCESS [3642 ms]
+09:40:00.809 [default-dispatcher-6][profiler][Profiler] INFO  calibration plot written to /Users/jackywang/Desktop/341/project/deepdive/out/test_spouse/calibration/has_spouse.is_true.png [0 ms]
+09:40:00.809 [default-dispatcher-6][profiler][Profiler] INFO  calibration SUCCESS [1792 ms]
+09:40:00.810 [default-dispatcher-6][profiler][Profiler] INFO  --------------------------------------------------
+09:40:00.810 [default-dispatcher-6][taskManager][TaskManager] INFO  Completed task_id=report with Success(Success(()))
+09:40:00.810 [default-dispatcher-2][profiler][Profiler] DEBUG ending report_id=report
+09:40:00.810 [default-dispatcher-6][taskManager][TaskManager] DEBUG 1/1 tasks eligible. Waiting tasks: Set()
+09:40:00.810 [default-dispatcher-6][taskManager][TaskManager] DEBUG Sending task_id=shutdown to Actor[akka://deepdive/user/taskManager#106986801]
+09:40:00.810 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=shutdown
+09:40:00.820 [default-dispatcher-5][EventStream][EventStream] DEBUG shutting down: StandardOutLogger started

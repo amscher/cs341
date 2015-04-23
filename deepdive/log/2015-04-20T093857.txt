@@ -1,0 +1,266 @@
+09:38:58.168 [][][Slf4jLogger] INFO  Slf4jLogger started
+09:38:58.192 [ScalaTest-running-BiasedCoin][EventStream(akka://deepdive)][EventStream] DEBUG logger log1-Slf4jLogger started
+09:38:58.193 [ScalaTest-running-BiasedCoin][EventStream(akka://deepdive)][EventStream] DEBUG Default Loggers started
+09:38:58.197 [ScalaTest-running-BiasedCoin][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+09:38:58.513 [ScalaTest-running-BiasedCoin][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Closing all JDBC data stores
+09:38:58.526 [ScalaTest-running-BiasedCoin][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Database settings: user jackywang, dbname deepdive_test, host localhost, port 5432.
+09:38:58.526 [ScalaTest-running-BiasedCoin][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  GPFDIST settings: host localhost port 8082 path /tmp
+09:38:58.582 [ScalaTest-running-BiasedCoin][SettingsParser$(akka://deepdive)][SettingsParser$] INFO  Detected OS: Mac OS X
+09:38:58.584 [ScalaTest-running-BiasedCoin][SettingsParser$(akka://deepdive)][SettingsParser$] DEBUG samplerArgs: -l 500 -i 500 -s 1 --alpha 0.1 --diminish 0.99 --quiet
+09:38:58.586 [ScalaTest-running-BiasedCoin][DeepDive$(akka://deepdive)][DeepDive$] DEBUG relearnFrom=null
+09:38:58.587 [ScalaTest-running-BiasedCoin][DeepDive$(akka://deepdive)][DeepDive$] DEBUG outputDir=out/test_coin
+09:38:58.587 [ScalaTest-running-BiasedCoin][JdbcDataStore$(akka://deepdive)][JdbcDataStore$] INFO  Intializing all JDBC data stores
+09:38:58.699 [default-dispatcher-2][taskManager][TaskManager] INFO  starting at akka://deepdive/user/taskManager
+09:38:58.701 [default-dispatcher-5][profiler][Profiler] INFO  starting at akka://deepdive/user/profiler
+09:38:58.712 [default-dispatcher-3][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  Starting
+09:38:58.721 [default-dispatcher-5][factorGraphBuilder][FactorGraphBuilder$PostgresFactorGraphBuilder] INFO  Starting
+09:38:58.721 [default-dispatcher-2][extractionManager][ExtractionManager$PostgresExtractionManager] INFO  starting
+09:38:58.726 [ScalaTest-running-BiasedCoin][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of extractors: 0
+09:38:58.726 [ScalaTest-running-BiasedCoin][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Total number of factors: 1
+09:38:58.727 [ScalaTest-running-BiasedCoin][DeepDive$(akka://deepdive)][DeepDive$] DEBUG Number of active factors: 1
+09:38:58.729 [ScalaTest-running-BiasedCoin][DeepDive$(akka://deepdive)][DeepDive$] INFO  Running pipeline=_default with tasks=List(inference_grounding, inference, calibration, report, shutdown)
+09:38:58.730 [default-dispatcher-6][taskManager][TaskManager] INFO  Added task_id=inference_grounding
+09:38:58.732 [default-dispatcher-6][taskManager][TaskManager] DEBUG Sending task_id=inference_grounding to Actor[akka://deepdive/user/inferenceManager#-1607689617]
+09:38:58.733 [default-dispatcher-3][profiler][Profiler] DEBUG starting report_id=inference_grounding
+09:38:58.734 [default-dispatcher-6][taskManager][TaskManager] INFO  Added task_id=inference
+09:38:58.735 [default-dispatcher-6][taskManager][TaskManager] INFO  Added task_id=calibration
+09:38:58.735 [default-dispatcher-6][taskManager][TaskManager] INFO  Added task_id=report
+09:38:58.735 [default-dispatcher-6][taskManager][TaskManager] INFO  Added task_id=shutdown
+09:38:58.736 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... 
+    SELECT version() LIKE '%Greenplum%';
+  
+09:38:58.759 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Using Greenplum = false
+09:38:58.761 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Datastore type = psql
+09:38:58.761 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Parallel grounding = false
+09:38:58.761 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] DEBUG Grounding Path = out/test_coin
+09:38:58.761 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... 
+    SELECT version() LIKE '%Greenplum%';
+  
+09:38:58.763 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_variable_sequence CASCADE
+09:38:58.764 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_variable_sequence MINVALUE -1 START 0
+09:38:58.770 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE coin SET id =  nextval('dd_variable_sequence')
+09:38:58.773 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_variables_holdout CASCADE
+09:38:58.773 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_variables_holdout(variable_id bigint primary key)
+09:38:58.776 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_variables_observation CASCADE
+09:38:58.777 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_variables_observation(variable_id bigint primary key)
+09:38:58.781 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_variables_holdout
+            SELECT id FROM coin
+            WHERE RANDOM() < 0.0 AND is_correct IS NOT NULL
+09:38:58.782 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS coin_is_correct_cardinality CASCADE
+09:38:58.782 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE coin_is_correct_cardinality(cardinality text)
+09:38:58.785 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO coin_is_correct_cardinality VALUES ('00001')
+09:38:58.786 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS coin_vtype CASCADE
+09:38:58.786 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE coin_vtype AS
+        SELECT t0.id, CASE WHEN t2.variable_id IS NOT NULL AND is_correct IS NOT NULL THEN 2
+                           WHEN t1.variable_id IS NOT NULL THEN 0
+                           WHEN is_correct IS NOT NULL THEN 1
+                           ELSE 0
+                      END as __dd_variable_type__
+        FROM coin t0 LEFT OUTER JOIN dd_graph_variables_holdout t1 
+        ON t0.id=t1.variable_id LEFT OUTER JOIN dd_graph_variables_observation t2 ON t0.id=t2.variable_id
+09:38:58.793 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT t0.id, t1.__dd_variable_type__,
+        CASE WHEN t1.__dd_variable_type__ = 0 THEN 0 ELSE is_correct::int::float END AS initvalue,
+        0 AS type, 2 AS cardinality
+        FROM coin t0, coin_vtype t1
+        WHERE t0.id=t1.id) TO STDOUT;'   > out/test_coin/dd_variables_coin
+09:38:58.793 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql4809022604183167609.sh" 
+09:38:58.834 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_factormeta CASCADE
+09:38:58.835 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_factormeta (name text, funcid int, sign text)
+09:38:58.839 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_factormeta VALUES ('test', 4, 'true')
+09:38:58.840 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT * FROM dd_graph_factormeta) TO STDOUT;'   > out/test_coin/dd_factormeta
+09:38:58.841 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql5905804140961847489.sh" 
+09:38:58.875 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_graph_weights CASCADE
+09:38:58.876 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_graph_weights (id bigint, isfixed int, initvalue real, 
+      cardinality text, description text)
+09:38:58.880 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_weight_sequence CASCADE
+09:38:58.881 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_weight_sequence MINVALUE -1 START 0
+09:38:58.882 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP SEQUENCE IF EXISTS dd_factor_sequence CASCADE
+09:38:58.883 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE SEQUENCE dd_factor_sequence MINVALUE -1 START 0
+09:38:58.885 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_feature_statistics_support CASCADE
+09:38:58.885 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_feature_statistics_support(
+            description text, 
+            pos_examples bigint, 
+            neg_examples bigint, 
+            queries bigint)
+09:38:58.890 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_query_test CASCADE
+09:38:58.891 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_query_test AS select id as "coin.id", is_correct as "coin.is_correct" from coin
+09:38:58.893 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ALTER TABLE dd_query_test ADD COLUMN id bigint
+09:38:58.895 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_query_test SET id =  nextval('dd_factor_sequence')
+09:38:58.898 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_query_test;
+09:38:58.901 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_weights_test CASCADE
+09:38:58.901 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_weights_test AS
+              SELECT false::int AS isfixed, 0.0::float AS initvalue, 
+                0::bigint AS id
+09:38:58.904 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: UPDATE dd_weights_test SET id =  nextval('dd_weight_sequence')
+09:38:58.907 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing SQL with callback... SELECT COUNT(*) FROM dd_weights_test;
+09:38:58.908 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_graph_weights(id, isfixed, initvalue, description) 
+            SELECT id, isfixed, initvalue, 'test-'  FROM dd_weights_test
+09:38:58.911 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT t0.id AS factor_id, t1.id AS weight_id,  "coin.id"
+             FROM dd_query_test t0, dd_weights_test t1) TO STDOUT;'   > out/test_coin/dd_factors_test_out
+09:38:58.911 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql7834950838589169615.sh" 
+09:38:58.943 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: INSERT INTO dd_feature_statistics_support
+        SELECT 'test-'  as description,
+               count(CASE WHEN  "coin.is_correct" =TRUE THEN 1 ELSE NULL END) AS pos_examples,
+               count(CASE WHEN  "coin.is_correct" =FALSE THEN 1 ELSE NULL END) AS neg_examples,
+               count(CASE WHEN  "coin.is_correct"  IS NULL THEN 1 ELSE NULL END) AS queries
+        FROM dd_query_test
+09:38:58.944 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: ANALYZE dd_feature_statistics_support
+09:38:58.947 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] DEBUG Executing queries by file: psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c 'COPY (SELECT id, isfixed, COALESCE(initvalue, 0) FROM dd_graph_weights) TO STDOUT;'   > out/test_coin/dd_weights
+09:38:58.947 [default-dispatcher-2][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/exec_sql3331455804804893664.sh" 
+09:38:58.983 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_variables CASCADE
+09:38:58.983 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_variables(
+      id bigint, 
+      category bigint, 
+      expectation double precision)
+09:38:58.984 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_weights CASCADE
+09:38:58.985 [default-dispatcher-2][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_weights(
+      id bigint primary key, 
+      weight double precision)
+09:38:58.987 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Converting grounding file format...
+09:38:58.987 [default-dispatcher-2][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] DEBUG Executing: python /Users/jackywang/Desktop/341/project/deepdive/util/tobinary.py out/test_coin /Users/jackywang/Desktop/341/project/deepdive/util/format_converter_mac out/test_coin
+09:38:59.274 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING test ...
+09:38:59.275 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  test ...
+09:38:59.276 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  SPLITTING dd_variables_coin ...
+09:38:59.276 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  dd_variables_coin ...
+09:38:59.276 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  BINARIZE  weights ...
+09:38:59.276 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING variables ...
+09:38:59.276 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING factors ...
+09:38:59.277 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  COUNTING weights ...
+09:38:59.277 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  CONCATENATING FILES...
+09:38:59.277 [Thread-15][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Cleaning up files
+09:38:59.278 [default-dispatcher-6][profiler][Profiler] DEBUG ending report_id=inference_grounding
+09:38:59.279 [default-dispatcher-5][taskManager][TaskManager] INFO  Completed task_id=inference_grounding with Success(OK)
+09:38:59.280 [default-dispatcher-5][taskManager][TaskManager] DEBUG 1/4 tasks eligible. Waiting tasks: Set(shutdown, report, calibration)
+09:38:59.280 [default-dispatcher-5][taskManager][TaskManager] DEBUG Sending task_id=inference to Actor[akka://deepdive/user/inferenceManager#-1607689617]
+09:38:59.281 [default-dispatcher-6][profiler][Profiler] DEBUG starting report_id=inference
+09:38:59.283 [default-dispatcher-2][sampler][Sampler] INFO  starting
+09:38:59.284 [default-dispatcher-2][sampler][Sampler] INFO  /Users/jackywang/Desktop/341/project/deepdive/util/sampler-dw-mac gibbs
+09:38:59.284 [default-dispatcher-2][sampler][Sampler] INFO  Executing: /Users/jackywang/Desktop/341/project/deepdive/util/sampler-dw-mac gibbs -w /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.weights -v /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.variables -f /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.factors -e /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.edges -m /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.meta -o /Users/jackywang/Desktop/341/project/deepdive/out/test_coin -l 500 -i 500 -s 1 --alpha 0.1 --diminish 0.99 --quiet
+09:38:59.378 [Thread-18][sampler][Sampler] INFO  
+09:38:59.379 [Thread-18][sampler][Sampler] INFO  #################MACHINE CONFIG#################
+09:38:59.379 [Thread-18][sampler][Sampler] INFO  # # NUMA Node        : 1
+09:38:59.379 [Thread-18][sampler][Sampler] INFO  # # Thread/NUMA Node : 8
+09:38:59.379 [Thread-18][sampler][Sampler] INFO  ################################################
+09:38:59.379 [Thread-18][sampler][Sampler] INFO  
+09:38:59.380 [Thread-18][sampler][Sampler] INFO  #################GIBBS SAMPLING#################
+09:38:59.380 [Thread-18][sampler][Sampler] INFO  # fg_file            : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.meta
+09:38:59.380 [Thread-18][sampler][Sampler] INFO  # edge_file          : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.edges
+09:38:59.380 [Thread-18][sampler][Sampler] INFO  # weight_file        : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.weights
+09:38:59.380 [Thread-18][sampler][Sampler] INFO  # variable_file      : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.variables
+09:38:59.380 [Thread-18][sampler][Sampler] INFO  # factor_file        : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/graph.factors
+09:38:59.380 [Thread-18][sampler][Sampler] INFO  # output_folder      : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin
+09:38:59.381 [Thread-18][sampler][Sampler] INFO  # n_learning_epoch   : 500
+09:38:59.381 [Thread-18][sampler][Sampler] INFO  # n_samples/l. epoch : 1
+09:38:59.381 [Thread-18][sampler][Sampler] INFO  # n_inference_epoch  : 500
+09:38:59.381 [Thread-18][sampler][Sampler] INFO  # stepsize           : 0.1
+09:38:59.381 [Thread-18][sampler][Sampler] INFO  # decay              : 0.99
+09:38:59.382 [Thread-18][sampler][Sampler] INFO  ################################################
+09:38:59.382 [Thread-18][sampler][Sampler] INFO  # IGNORE -s (n_samples/l. epoch). ALWAYS -s 1. #
+09:38:59.382 [Thread-18][sampler][Sampler] INFO  # IGNORE -t (threads). ALWAYS USE ALL THREADS. #
+09:38:59.382 [Thread-18][sampler][Sampler] INFO  ################################################
+09:38:59.382 [Thread-18][sampler][Sampler] INFO  # nvar               : 18
+09:38:59.382 [Thread-18][sampler][Sampler] INFO  # nfac               : 18
+09:38:59.383 [Thread-18][sampler][Sampler] INFO  # nweight            : 1
+09:38:59.383 [Thread-18][sampler][Sampler] INFO  # nedge              : 18
+09:38:59.383 [Thread-18][sampler][Sampler] INFO  ################################################
+09:38:59.384 [Thread-18][sampler][Sampler] INFO  LOADED VARIABLES: #18
+09:38:59.384 [Thread-18][sampler][Sampler] INFO           N_QUERY: #9
+09:38:59.384 [Thread-18][sampler][Sampler] INFO           N_EVID : #9
+09:38:59.384 [Thread-18][sampler][Sampler] INFO  LOADED FACTORS: #18
+09:38:59.385 [Thread-18][sampler][Sampler] INFO  LOADED WEIGHTS: #1
+09:38:59.386 [Thread-18][sampler][Sampler] INFO  LOADED EDGES: #18
+09:38:59.387 [Thread-18][sampler][Sampler] INFO  FACTOR GRAPH: Safety Checking Passed...
+09:38:59.445 [Thread-18][sampler][Sampler] INFO  TOTAL LEARNING TIME: 0.058707 sec.
+09:38:59.445 [Thread-18][sampler][Sampler] INFO  DUMPING... PROTOCOL: /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/inference_result.out.weights
+09:38:59.446 [Thread-18][sampler][Sampler] INFO  DUMPING... TEXT    : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/inference_result.out.weights.text
+09:38:59.504 [Thread-18][sampler][Sampler] INFO  TOTAL INFERENCE TIME: 0.058313 sec.
+09:38:59.505 [Thread-18][sampler][Sampler] INFO  DUMPING... PROTOCOL: /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/inference_result.out
+09:38:59.505 [Thread-18][sampler][Sampler] INFO  DUMPING... TEXT    : /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/inference_result.out.text
+09:38:59.507 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_variables CASCADE
+09:38:59.509 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_variables(
+      id bigint, 
+      category bigint, 
+      expectation double precision)
+09:38:59.511 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP TABLE IF EXISTS dd_inference_result_weights CASCADE
+09:38:59.512 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE TABLE dd_inference_result_weights(
+      id bigint primary key, 
+      weight double precision)
+09:38:59.515 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Copying inference result weights...
+09:38:59.515 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c "\COPY dd_inference_result_weights(id, weight) FROM '/Users/jackywang/Desktop/341/project/deepdive/out/test_coin/inference_result.out.weights.text' DELIMITER ' ';"
+09:38:59.516 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/copy8125559399232107541.sh" 
+09:38:59.549 [Thread-21][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 1
+09:38:59.550 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Copying inference result variables...
+09:38:59.551 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  psql  -d deepdive_test  -U jackywang  -p 5432  -h localhost  -c "\COPY dd_inference_result_variables(id, category, expectation) FROM '/Users/jackywang/Desktop/341/project/deepdive/out/test_coin/inference_result.out.text' DELIMITER ' ';"
+09:38:59.551 [default-dispatcher-3][Helpers$(akka://deepdive)][Helpers$] INFO  Executing command: "/var/folders/2f/pgh5dvbs1_s71k9nbgb8lzdr0000gn/T/copy7051825169970135223.sh" 
+09:38:59.584 [Thread-24][Helpers$(akka://deepdive)][Helpers$] INFO  COPY 9
+09:38:59.585 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  Creating indices on the inference result...
+09:38:59.585 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP INDEX IF EXISTS dd_inference_result_weights_idx CASCADE
+09:38:59.586 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: DROP INDEX IF EXISTS dd_inference_result_variables_idx CASCADE
+09:38:59.586 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE INDEX dd_inference_result_weights_idx ON dd_inference_result_weights (weight)
+09:38:59.589 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE INDEX dd_inference_result_variables_idx ON dd_inference_result_variables (expectation)
+09:38:59.594 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_inference_result_weights_mapping AS
+    SELECT dd_graph_weights.*, dd_inference_result_weights.weight FROM
+    dd_graph_weights JOIN dd_inference_result_weights ON dd_graph_weights.id = dd_inference_result_weights.id
+    ORDER BY abs(weight) DESC
+09:38:59.597 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_inference_result_variables_mapped_weights AS
+    SELECT * FROM dd_inference_result_weights_mapping
+    ORDER BY abs(weight) DESC
+09:38:59.599 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW dd_feature_statistics AS
+        SELECT w.*, f.pos_examples, f.neg_examples, f.queries
+        FROM dd_inference_result_weights_mapping w LEFT OUTER JOIN dd_feature_statistics_support f
+        ON w.description = f.description
+        ORDER BY abs(weight) DESC
+09:38:59.602 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW coin_is_correct_inference AS
+    (SELECT coin.*, mir.category, mir.expectation FROM
+    coin, dd_inference_result_variables mir
+    WHERE coin.id = mir.id
+    ORDER BY mir.expectation DESC)
+09:38:59.604 [default-dispatcher-3][profiler][Profiler] DEBUG ending report_id=inference
+09:38:59.604 [default-dispatcher-5][taskManager][TaskManager] INFO  Completed task_id=inference with Success(())
+09:38:59.604 [default-dispatcher-5][taskManager][TaskManager] DEBUG 1/3 tasks eligible. Waiting tasks: Set(shutdown, report)
+09:38:59.604 [default-dispatcher-5][taskManager][TaskManager] DEBUG Sending task_id=calibration to Actor[akka://deepdive/user/inferenceManager#-1607689617]
+09:38:59.604 [default-dispatcher-3][profiler][Profiler] DEBUG starting report_id=calibration
+09:38:59.605 [default-dispatcher-3][inferenceManager][InferenceManager$PostgresInferenceManager] INFO  writing calibration data
+09:38:59.607 [default-dispatcher-2][$a][CalibrationDataWriter] INFO  starting
+09:38:59.631 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW coin_is_correct_inference_bucketed AS
+      SELECT coin_is_correct_inference.*, CASE WHEN expectation >= 0.0 AND expectation <= 0.1 THEN 0
+WHEN expectation >= 0.1 AND expectation <= 0.2 THEN 1
+WHEN expectation >= 0.2 AND expectation <= 0.30000000000000004 THEN 2
+WHEN expectation >= 0.30000000000000004 AND expectation <= 0.4 THEN 3
+WHEN expectation >= 0.4 AND expectation <= 0.5 THEN 4
+WHEN expectation >= 0.5 AND expectation <= 0.6 THEN 5
+WHEN expectation >= 0.6000000000000001 AND expectation <= 0.7000000000000001 THEN 6
+WHEN expectation >= 0.7000000000000001 AND expectation <= 0.8 THEN 7
+WHEN expectation >= 0.8 AND expectation <= 0.9 THEN 8
+WHEN expectation >= 0.9 AND expectation <= 1.0 THEN 9 END bucket
+      FROM coin_is_correct_inference ORDER BY bucket ASC
+09:38:59.634 [default-dispatcher-3][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore(akka://deepdive)][PostgresInferenceDataStoreComponent$PostgresInferenceDataStore] INFO  created calibration_view=coin_is_correct_calibration
+09:38:59.634 [default-dispatcher-3][PostgresDataStore$(akka://deepdive)][PostgresDataStore$] DEBUG Executing query via JDBC: CREATE OR REPLACE VIEW coin_is_correct_calibration AS
+      SELECT b1.bucket, b1.num_variables, b2.num_correct, b3.num_incorrect FROM
+      (SELECT bucket, COUNT(*) AS num_variables from coin_is_correct_inference_bucketed GROUP BY bucket) b1
+      LEFT JOIN (SELECT bucket, COUNT(*) AS num_correct from coin_is_correct_inference_bucketed 
+        WHERE is_correct=true GROUP BY bucket) b2 ON b1.bucket = b2.bucket
+      LEFT JOIN (SELECT bucket, COUNT(*) AS num_incorrect from coin_is_correct_inference_bucketed 
+        WHERE is_correct=false GROUP BY bucket) b3 ON b1.bucket = b3.bucket 
+      ORDER BY b1.bucket ASC
+09:38:59.751 [default-dispatcher-5][$a][CalibrationDataWriter] INFO  Wrote calibration_file=/Users/jackywang/Desktop/341/project/deepdive/out/test_coin/calibration/coin.is_correct.tsv
+09:38:59.753 [default-dispatcher-5][$a][CalibrationDataWriter] INFO  Running 'List(gnuplot, -e, input_file='/Users/jackywang/Desktop/341/project/deepdive/out/test_coin/calibration/coin.is_correct.tsv';output_file='/Users/jackywang/Desktop/341/project/deepdive/out/test_coin/calibration/coin.is_correct.png', /Users/jackywang/Desktop/341/project/deepdive/util/calibration.plg)' to generate the calibration plot.
+09:39:00.637 [default-dispatcher-6][profiler][Profiler] DEBUG ending report_id=calibration
+09:39:00.637 [default-dispatcher-3][taskManager][TaskManager] INFO  Completed task_id=calibration with Success(List(Success(())))
+09:39:00.637 [default-dispatcher-3][taskManager][TaskManager] DEBUG 1/2 tasks eligible. Waiting tasks: Set(shutdown)
+09:39:00.638 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=report to Actor[akka://deepdive/user/profiler#-95307238]
+09:39:00.638 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=report
+09:39:00.638 [default-dispatcher-2][profiler][Profiler] INFO  --------------------------------------------------
+09:39:00.638 [default-dispatcher-2][profiler][Profiler] INFO  Summary Report
+09:39:00.639 [default-dispatcher-2][profiler][Profiler] INFO  --------------------------------------------------
+09:39:00.639 [default-dispatcher-2][profiler][Profiler] INFO  inference_grounding SUCCESS [548 ms]
+09:39:00.639 [default-dispatcher-2][profiler][Profiler] INFO  inference SUCCESS [322 ms]
+09:39:00.640 [default-dispatcher-2][profiler][Profiler] INFO  calibration plot written to /Users/jackywang/Desktop/341/project/deepdive/out/test_coin/calibration/coin.is_correct.png [0 ms]
+09:39:00.640 [default-dispatcher-2][profiler][Profiler] INFO  calibration SUCCESS [1032 ms]
+09:39:00.640 [default-dispatcher-2][profiler][Profiler] INFO  --------------------------------------------------
+09:39:00.640 [default-dispatcher-2][profiler][Profiler] DEBUG ending report_id=report
+09:39:00.640 [default-dispatcher-3][taskManager][TaskManager] INFO  Completed task_id=report with Success(Success(()))
+09:39:00.640 [default-dispatcher-3][taskManager][TaskManager] DEBUG 1/1 tasks eligible. Waiting tasks: Set()
+09:39:00.640 [default-dispatcher-3][taskManager][TaskManager] DEBUG Sending task_id=shutdown to Actor[akka://deepdive/user/taskManager#-820092822]
+09:39:00.641 [default-dispatcher-2][profiler][Profiler] DEBUG starting report_id=shutdown
+09:39:00.653 [default-dispatcher-6][EventStream][EventStream] DEBUG shutting down: StandardOutLogger started

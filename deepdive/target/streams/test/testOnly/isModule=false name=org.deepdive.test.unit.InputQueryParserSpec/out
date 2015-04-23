@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0m[32mInputQueryParserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing filename expressions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with simple file names[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with file paths[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing CSV input query expressions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not work on wrong CSV filename[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing TSV input query expressions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should not work on wrong TSV filename[0m[0m
+[0m[[0minfo[0m] [0m[32mParsing arbitary datastore input query expressions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work[0m[0m
+[0m[[0minfo[0m] [0m[32m- should remove trailing semicolons[0m[0m

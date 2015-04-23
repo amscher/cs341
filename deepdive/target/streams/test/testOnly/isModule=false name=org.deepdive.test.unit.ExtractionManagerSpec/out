@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mExtractionManagerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mExtraction Manager[0m[0m
+[0m[[0minfo[0m] [0m[32m- should execute one task[0m[0m
+[0m[[0minfo[0m] [0m[32m- should execute tasks when parallelism=1[0m[0m
+[0m[[0minfo[0m] [0m[32m- should execute tasks when paralleism > 1[0m[0m

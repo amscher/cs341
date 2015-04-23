@@ -1,0 +1,32 @@
+[0m[[0minfo[0m] [0m[32mExtractorRunnerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mRunning extractor-type-independent task (e.g., before/after script)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for before script[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if before script is not executable[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if before script is executable but contains errors[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for after script[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if after script is not executable[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if after script is executable but contains errors[0m[0m
+[0m[[0minfo[0m] [0m[32mRunning an json_extractor extraction task[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work without parallelism[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work when the input is empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work with parallelism[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return failure when the task failes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly execute the before and after scripts[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a failure when the query is invalid[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a failure when the before script crashes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a failure when the after script crashes[0m[0m
+[0m[[0minfo[0m] [0m[32mRunning an TSV extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for trivial TSV extractor with one single column output and trivial input (not from SQL)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for TSV extractor when output and input are from the same table[0m[0m
+[0m[[0minfo[0m] [0m[33m- should work for NULL escaping (pending)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for TSV extractor when input query contains multiple columns[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if extractor contain errors (json_extractor)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if SQL queries contain errors (json_extractor)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if extractor contain errors (tsv_extractor)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail if SQL queries contain errors (tsv_extractor)[0m[0m
+[0m[[0minfo[0m] [0m[32mRunning an SQL extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for SQL extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail for SQL extractor if SQL query is wrong[0m[0m
+[0m[[0minfo[0m] [0m[32mRunning an CMD extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work for CMD extractor[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail for CMD extractor when the script contain errors[0m[0m
