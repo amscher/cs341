@@ -11,6 +11,12 @@
   " TCGA-77-8153SENT_27\tTCGA-77-8153_7": {
    "is_correct": false,
    "some reason": true
+  },
+  " TCGA-66-2734SENT_52\tTCGA-66-2734_22": {
+   "is_correct": false
+  },
+  " TCGA-05-4434SENT_5\tTCGA-05-4434_20": {
+   "is_correct": "UNKNOWN"
   }
  }
 }
