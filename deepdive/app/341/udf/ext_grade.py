@@ -1,6 +1,7 @@
 #! /usr/bin/env python
 
 import csv, os, sys
+import re
 
 # Sample input data (piped into STDIN):
 '''
@@ -36,8 +37,9 @@ for row in sys.stdin:
   if len(row.strip().split('\t')) < 4:
     continue
   patient_id, sentence_id, words_str, lemma_str = row.strip().split('\t')
-  words = words_str.split(ARR_DELIM)
-  lemmas = lemma_str.split(ARR_DELIM)
+  words = words_str.split(ARR_DELIM);
+  lemmas = lemma_str.split(ARR_DELIM);
+
   start_index = 0
   phrases = []
 
@@ -45,14 +47,14 @@ for row in sys.stdin:
     # Checking if there is a grade related phrase starting from start_index
     index = start_index
     while 1:
-      if index < len(words) and lemmas[index] in keywords:
+      if index < len(words) and lemmas[index].lower() in keywords:
         index += 1
-      elif index+1 < len(words) and lemmas[index] + ' ' + lemmas[index+1] in keywords:
-        index += 2
+        if index+1 < len(words) and lemmas[index] in [":", "4", "3", "2", "1"]:
+          index += 1
       else:
         break
 
-    if index != start_index:   # found a person from "start_index" to "index"
+    if index != start_index:   # found a grade mention from "start_index" to "index"
       lemma_phrase = ' '.join(lemmas[start_index:index])
       word_phrase = ' '.join(words[start_index:index])
       length = index - start_index
