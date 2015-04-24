@@ -71,5 +71,5 @@ for row in sys.stdin:
         length, # length
         lemma_phrase,  # phrase of concatenated root words
         word_phrase,
-        '%s_%d' % (patient_id, start_position)        # mention_id
+        '%s_%d' % (sentence_id, start_position)        # mention_id
       ]])
