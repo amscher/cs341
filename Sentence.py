@@ -3,6 +3,7 @@ class Sentence:
     def __init__(self, docId, sentId):
         self.patient_id = docId
         self.sentence_id = sentId
+        self.orig = []
         self.words = []
         self.lemma = []
         self.pos_tags = []
@@ -20,6 +21,6 @@ class Sentence:
 
 
     def to_string(self):
-      return str(self.patient_id) + ", " + str(self.sentence_id) + ",\"" + " ".join(self.words) + "\"," + self.array_to_str(self.words) + "," + self.array_to_str(self.lemma) + "," + self.array_to_str(self.pos_tags) + "," + self.array_to_str(self.dep_tags) + "," + self.array_to_str(self.ner_tags)
+      return str(self.patient_id) + ", " + str(self.sentence_id) + ",\"" + " ".join(self.orig) + "\"," + self.array_to_str(self.words) + "," + self.array_to_str(self.lemma) + "," + self.array_to_str(self.pos_tags) + "," + self.array_to_str(self.dep_tags) + "," + self.array_to_str(self.ner_tags)
 
 
