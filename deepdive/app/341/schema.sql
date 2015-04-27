@@ -14,14 +14,23 @@ CREATE TABLE sentences(
 DROP TABLE IF EXISTS grade_mentions CASCADE;
 CREATE TABLE grade_mentions(
     patient_id text,
-    sentence_id text,
+    sentence_id text, --patient_id + sent
     start_position text,   -- start_position
     length text, -- length
     lemma_phrase text,  -- phrase of concatenated root words
     word_phrase text,
-    mention_id text
+    mention_id text --sentence_id + start_id
   );
 
+DROP TABLE IF EXISTS grade_candidates CASCADE;
+CREATE TABLE grade_candidates(
+    patient_id text,
+    grade text, --predicted grade
+    predict_words text, --words led to prediction
+    predict_mention_id text, --mention id corresponding to predict 
+    nonpredict_words text,  --words not used for prediction
+    nonpredict_mention_id text, --mention id corresponding to nonpredict words
+  );
 
 DROP TABLE IF EXISTS has_1 CASCADE;
 CREATE TABLE has_1(

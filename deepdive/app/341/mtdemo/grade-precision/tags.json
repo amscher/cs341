@@ -6,17 +6,27 @@
  ],
  "by_key": {
   " TCGA-85-7710SENT_18\tTCGA-85-7710_0": {
-   "is_correct": null
+   "is_correct": false,
+   "note": "nlp markup incorrectly parses the columns of table incorrectly, leading to moderately differentiated and next column 4. tumor size=2.3cm as differentiated 4.",
+   "bad nlp": true
   },
   " TCGA-77-8153SENT_27\tTCGA-77-8153_7": {
-   "is_correct": false,
-   "some reason": true
+   "is_correct": null,
+   "some reason": null
   },
   " TCGA-66-2734SENT_52\tTCGA-66-2734_22": {
-   "is_correct": false
+   "is_correct": false,
+   "note": "\"well\" should only be valid if followed by \"differentiated\" or similar but misspelled version",
+   "wrong well context": true
   },
   " TCGA-05-4434SENT_5\tTCGA-05-4434_20": {
    "is_correct": "UNKNOWN"
+  },
+  " TCGA-NC-A5HHSENT_9\tTCGA-NC-A5HH_37": {
+   "is_correct": true
+  },
+  " TCGA-44-2655SENT_105\tTCGA-44-2655_16": {
+   "is_correct": true
   }
  }
 }
