@@ -4,7 +4,7 @@ if [ $# = 1 ]; then
   export DBNAME=$1
 else
   echo "Usage: bash setup_database DBNAME"
-  DBNAME=deepdive_grades
+  DBNAME=deepdive-grades
 fi
 echo "Set DB_NAME to ${DBNAME}."
 echo "HOST is ${PGHOST}, PORT is ${PGPORT}."

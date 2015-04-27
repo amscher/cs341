@@ -29,7 +29,7 @@ CREATE TABLE grade_candidates(
     predict_words text, --words led to prediction
     predict_mention_id text, --mention id corresponding to predict 
     nonpredict_words text,  --words not used for prediction
-    nonpredict_mention_id text, --mention id corresponding to nonpredict words
+    nonpredict_mention_id text --mention id corresponding to nonpredict words
   );
 
 DROP TABLE IF EXISTS has_1 CASCADE;
