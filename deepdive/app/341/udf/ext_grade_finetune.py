@@ -79,10 +79,18 @@ for row in sys.stdin:
   # Looping over special keywords like "grade", "differentiate"
   for sp_token, sp_weight, sp_mention_id in featureBins[0]:
     sp_sent_id = int(sp_mention_id.split("_")[1])
+    
+    sent_diff = [int(mention_id.split("_")[1]) - sp_sent_id \
+                  for grade in xrange(1,5) \
+                  for token, weight, mention_id in featureBins[grade]]
+
+    sp_in_same_sentence = 0 in sent_diff
     for grade in xrange(1,5):
       for token, weight, mention_id in featureBins[grade]:
         sent_id = int(mention_id.split("_")[1])
-        tallyBins[grade] += max(0, sp_weight - abs(sp_sent_id - sent_id))
+        if ( (not sp_in_same_sentence) or (sent_id - sp_sent_id == 0) ):
+          tallyBins[grade] += max(0, sp_weight - abs(sp_sent_id - sent_id))
+        
 
   # Looping over remaining grade keywords
   for grade in xrange(1,5):
@@ -102,7 +110,7 @@ for row in sys.stdin:
     # Directly add the special words into predicted_grade
     sortedIndex.remove(0)
 
-    if ( BETWEEN_RATIO *tallyBins[sortedIndex[1]] > tallyBins[sortedIndex[0]] and 
+    if ( BETWEEN_RATIO * tallyBins[sortedIndex[1]] > tallyBins[sortedIndex[0]] and 
          abs(sortedIndex[1] - sortedIndex[0]) <= 1 ):
       # transition between two grades
       predicted_grade = str((sortedIndex[0]+sortedIndex[1])/2.0)
@@ -112,19 +120,25 @@ for row in sys.stdin:
       predicted_grade = str(sortedIndex[0])
       predictedFeatures = featureBins[sortedIndex[0]]  
       unpredictedFeatures = featureBins[sortedIndex[1]] + featureBins[sortedIndex[2]] + featureBins[sortedIndex[3]]
-    '''
+    
     # Put the special words either into predicted_features or unpredictedFeatures depending on if they are close to
     # predicted features
     for sp_feature in featureBins[0]:
       sp_token, sp_weight, sp_mention_id = sp_feature
       sp_sent_id = int(sp_mention_id.split("_")[1])
+      sp_used_to_predict = False
+      # Loop through to find if special token is used in predicted feature
       for token, weight, mention_id in predictedFeatures:
         sent_id = int(mention_id.split("_")[1])
         if ( sp_weight - abs(sp_sent_id - sent_id) > 0 ):
-          predictedFeatures.append(sp_feature)
-        else:
-          unpredictedFeatures.append(sp_feature)
-    '''
+          sp_used_to_predict = True
+          break
+      # Update features correspondingly
+      if (sp_used_to_predict):
+        predictedFeatures.append(sp_feature)
+      else:
+        unpredictedFeatures.append(sp_feature)
+    
   # Prepare output to table
   predict_words = []
   predict_mention_ids = []

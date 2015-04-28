@@ -27,7 +27,7 @@ ARR_DELIM = '~^~'
 # The directory of this UDF file
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 
-dictionaryFileName = BASE_DIR + '/grade_keywords'
+dictionaryFileName = BASE_DIR + '/grade_keywords.txt'
 with open(dictionaryFileName, 'rb') as inputfile:
   keywords = [row[:-1] for row in inputfile]
 
