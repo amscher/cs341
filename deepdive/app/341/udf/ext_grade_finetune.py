@@ -65,13 +65,22 @@ for row in sys.stdin:
   # Looping over all lemmas to populate the featureBins
   for i in xrange(len(lemmas)):
     lemma = lemmas[i].lower()
-    tokens = lemma.split(" ");
+    tokens = lemma.split(" ")
     for token in tokens:
       if token in keys:
         ind = keys.index(token)
         label = labels[ind]
         weight = weights[ind]
         featureBins[label].append((token, weight, mention_ids[i]))
+      else:
+       subtokens = re.split('~|-', token)
+        for subtoken in subtokens:
+          if subtoken in keys:
+            ind = keys.index(subtoken)
+            label = labels[ind]
+            weight = weights[ind]
+            featureBins[label].append((subtoken, weight, mention_ids[i]))
+   
     
   # Tally featureBins
   tallyBins = [0 for i in xrange(5)]

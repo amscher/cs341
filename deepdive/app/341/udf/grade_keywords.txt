@@ -2,11 +2,18 @@ moderately-differentiated
 poorly-differentiated
 well-differentiated
 gradei
+gradel
 grade/differentiation
 differentiat
 differentiate
+differentiated
 differentiation
+di?arenllaled
 fferentiate
+erentiate
+erentiated
+rcntiate
+undifferentiated
 grade
 g1
 g2
@@ -14,10 +21,18 @@ g3
 g4
 moderately
 moderate
+mooerately
+moderateiy
+halfway
 poorly
 poor
 poordtus
+badly
 well
+weii
+welt
+nell
+slightly
 anaplastic
 g 1
 g 2
@@ -26,4 +41,12 @@ g 4
 g1-2
 g2-3
 g3-4
-
+high
+low
+1-2
+2-3
+3-4
+i
+ii
+iii
+iv
