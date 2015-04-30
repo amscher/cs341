@@ -49,7 +49,7 @@ for row in sys.stdin:
     while 1:
       if index < len(words) and lemmas[index].lower() in keywords:
         index += 1
-        while index+1 < len(words) and lemmas[index] in [":", "~", "4", "3", "2", "1"]:
+        while index < len(words) and lemmas[index] in [":", "~", "4", "3", "2", "1"]:
           index += 1
       else:
         break

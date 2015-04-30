@@ -73,7 +73,7 @@ for row in sys.stdin:
         weight = weights[ind]
         featureBins[label].append((token, weight, mention_ids[i]))
       else:
-       subtokens = re.split('~|-', token)
+        subtokens = re.split('~|-', token)
         for subtoken in subtokens:
           if subtoken in keys:
             ind = keys.index(subtoken)
