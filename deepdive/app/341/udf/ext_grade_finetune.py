@@ -6,6 +6,7 @@ import re
 # Sample input data (piped into STDIN):
 ARR_DELIM = '~^~'
 BETWEEN_RATIO = 1.2 # ratio between the highest weight and the second highest such that it's a between grade
+SP_DIST = 2
 
 '''
 patient_id sentence_id(~^~) start_position(~^~)  mention_id(~^~)  lemma_phrase(~^~) 
@@ -73,7 +74,7 @@ for row in sys.stdin:
         weight = weights[ind]
         featureBins[label].append((token, weight, mention_ids[i]))
       else:
-        subtokens = re.split('~|-', token)
+        subtokens = re.split('~|-|/', token)
         for subtoken in subtokens:
           if subtoken in keys:
             ind = keys.index(subtoken)
@@ -88,17 +89,28 @@ for row in sys.stdin:
   # Looping over special keywords like "grade", "differentiate"
   for sp_token, sp_weight, sp_mention_id in featureBins[0]:
     sp_sent_id = int(sp_mention_id.split("_")[1])
-    
-    sent_diff = [int(mention_id.split("_")[1]) - sp_sent_id \
+    sp_prefix = sp_weight < 0 # if the special token is a prefix ie grade
+    # Finding the sentence distance is to ensure if there is 1 keyword that
+    # is in same sentence as in the special token, then only those keywords in 
+    # same sentence get higher weights
+    sent_dist = [int(mention_id.split("_")[1]) - sp_sent_id \
                   for grade in xrange(1,5) \
                   for token, weight, mention_id in featureBins[grade]]
 
-    sp_in_same_sentence = 0 in sent_diff
+    sp_in_same_sentence = 0 in sent_dist
     for grade in xrange(1,5):
       for token, weight, mention_id in featureBins[grade]:
         sent_id = int(mention_id.split("_")[1])
         if ( (not sp_in_same_sentence) or (sent_id - sp_sent_id == 0) ):
-          tallyBins[grade] += max(0, sp_weight - abs(sp_sent_id - sent_id))
+          # Limit the distance that sp can affect and linearly tailored the weight
+          dist = sp_sent_id - sent_id
+          if (sp_prefix and -SP_DIST < dist and dist <= 0) or \
+             (not sp_prefix and dist >= 0 and dist < SP_DIST):
+            #tallyBins[grade] += abs(sp_weight)/SP_DIST * max(0, SP_DIST - max(0, sent_id - sp_sent_id))
+            tallyBins[grade] += abs(sp_weight)/SP_DIST * (SP_DIST - abs(dist))
+          #elif not sp_prefix and 
+          #  tallyBins[grade] += abs(sp_weight)/SP_DIST * max(0, SP_DIST - max(0, sp_sent_id - sent_id))
+
         
 
   # Looping over remaining grade keywords
@@ -136,12 +148,24 @@ for row in sys.stdin:
       sp_token, sp_weight, sp_mention_id = sp_feature
       sp_sent_id = int(sp_mention_id.split("_")[1])
       sp_used_to_predict = False
+      sp_prefix = sp_weight < 0
+      
+      sent_dist = [int(mention_id.split("_")[1]) - sp_sent_id \
+                  for grade in xrange(1,5) \
+                  for token, weight, mention_id in featureBins[grade]]
+
+      sp_in_same_sentence = 0 in sent_dist
       # Loop through to find if special token is used in predicted feature
       for token, weight, mention_id in predictedFeatures:
         sent_id = int(mention_id.split("_")[1])
-        if ( sp_weight - abs(sp_sent_id - sent_id) > 0 ):
-          sp_used_to_predict = True
-          break
+        
+        if ( (not sp_in_same_sentence) or (sent_id - sp_sent_id == 0) ):
+          # Limit the distance that sp can affect and linearly tailored the weight
+          dist = sp_sent_id - sent_id
+          if (sp_prefix and -SP_DIST < dist and dist <= 0) or \
+             (not sp_prefix and dist >= 0 and dist < SP_DIST):
+            sp_used_to_predict = True
+            break
       # Update features correspondingly
       if (sp_used_to_predict):
         predictedFeatures.append(sp_feature)
@@ -160,15 +184,16 @@ for row in sys.stdin:
     unpredict_words.append(formatForToken(token))
     unpredict_mention_ids.append(mention_id)
   
-  '''
   # DEBUG START
-  predicted_grade = str(1)
-  predict_words = lemmas
-  predict_mention_ids = mention_ids
-  unpredict_words = []
-  unpredict_mention_ids = []
+  #predicted_grade = str(1)
+  #predict_words = lemmas
+  #predict_mention_ids = mention_ids
+  #unpredict_words = []
+  #unpredict_mention_ids = []
+  weight_str = ""
+  for i in xrange(len(tallyBins)):
+    weight_str += str(tallyBins[i]) + " "
   # DEBUG END
-  '''
   
   # print out...
   print '\t'.join([
@@ -177,6 +202,7 @@ for row in sys.stdin:
                   array_to_str(predict_words), 
                   array_to_str(predict_mention_ids),
                   array_to_str(unpredict_words),
-                  array_to_str(unpredict_mention_ids)
+                  array_to_str(unpredict_mention_ids),
+                  weight_str
                   ])
 

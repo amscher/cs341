@@ -1,5 +1,8 @@
-0	20	gradei
-0	20	gradel
+0	-20	gradei
+0	-20	gradel
+0	-20	grade
+0	-20	rade
+0	-10	g
 0	20	grade/differentiation
 0	20	differentiat
 0	20	differentiate
@@ -8,11 +11,10 @@
 0	20	fferentiate
 0	20	erentiate
 0	20	erentiated
+0	20	efferentiated
 0	20	rcntiate
 0	20	di?arenllaled
-0	20	grade
-0	20	rade
-0	10	g
+0	20	differehtiated
 1	23	well-differentiated
 1	10	g1
 1	3	low
@@ -31,6 +33,7 @@
 2	3	moderatedly
 2	3	moderateiy
 2	3	mooerately
+2	3	moderretly
 2	3	halfway
 2	0	2
 2	0	ii
@@ -41,6 +44,8 @@
 3	3	poordtus
 3	3	poorly
 3	3	poor
+3	3	poority
+3	3	porcily
 3	0	high
 3	0	badly
 3	0	3

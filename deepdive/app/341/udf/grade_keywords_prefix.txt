@@ -1,0 +1,5 @@
+0	20	gradei
+0	20	gradel
+0	20	grade
+0	20	rade
+0	10	g
