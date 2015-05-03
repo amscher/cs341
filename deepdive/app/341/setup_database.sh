@@ -25,7 +25,7 @@ do
   psql -d $DBNAME -c "copy sentences from STDIN CSV;" < $file
 done
 
-export true_grades_file=true_grades.csv
-psql -d $DBNAME -c "copy true_grades from STDIN CSV;" < $true_grades_file
+#export true_grades_file=true_grades.csv
+#psql -d $DBNAME -c "copy true_grades from STDIN CSV;" < $true_grades_file
 
 

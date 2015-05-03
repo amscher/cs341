@@ -13,7 +13,8 @@ CREATE TABLE sentences(
 DROP TABLE IF EXISTS true_grades CASCADE;
 CREATE TABLE true_grades(
   patient_id text,
-  true_grade text
+  true_grade text,
+  id bigint --reserved for deepdive inference
  );
 
 DROP TABLE IF EXISTS grade_mentions CASCADE;
@@ -38,56 +39,9 @@ CREATE TABLE grade_candidates(
     weights text -- debugging purpose, weight of all labels
   );
 
-DROP TABLE IF EXISTS has_1 CASCADE;
-CREATE TABLE has_1(
-  person1_id text,
-  person2_id text,
-  sentence_id text,
-  description text,
-  is_true boolean,
-  relation_id text, -- unique identifier for has_spouse
-  id bigint   -- reserved for DeepDive
+DROP TABLE IF EXISTS grade_features CASCADE;
+CREATE TABLE grade_features(
+    patient_id text,
+    feature text
   );
 
-
-DROP TABLE IF EXISTS has_2 CASCADE;
-CREATE TABLE has_2(
-  person1_id text,
-  person2_id text,
-  sentence_id text,
-  description text,
-  is_true boolean,
-  relation_id text, -- unique identifier for has_spouse
-  id bigint   -- reserved for DeepDive
-  );
-
-
-DROP TABLE IF EXISTS has_3 CASCADE;
-CREATE TABLE has_3(
-  person1_id text,
-  person2_id text,
-  sentence_id text,
-  description text,
-  is_true boolean,
-  relation_id text, -- unique identifier for has_spouse
-  id bigint   -- reserved for DeepDive
-  );
-
-
-
-DROP TABLE IF EXISTS has_4 CASCADE;
-CREATE TABLE has_4(
-  person1_id text,
-  person2_id text,
-  sentence_id text,
-  description text,
-  is_true boolean,
-  relation_id text, -- unique identifier for has_spouse
-  id bigint   -- reserved for DeepDive
-  );
-
-
-DROP TABLE IF EXISTS has_grade_features CASCADE;
-CREATE TABLE has_grade_features(
-  relation_id text,
-  feature text);
