@@ -45,3 +45,10 @@ CREATE TABLE grade_features(
     feature text
   );
 
+DROP TABLE IF EXISTS has_g1 CASCADE;
+CREATE TABLE has_g1(
+    patient_id text,
+    is_true Boolean,
+    id bigint
+  );
+
