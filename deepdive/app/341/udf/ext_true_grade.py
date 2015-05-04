@@ -6,7 +6,7 @@ import re
 # The directory of this UDF file
 BASE_DIR = os.path.dirname(os.path.realpath(__file__))
 
-true_grades_file = BASE_DIR + '/true_grades.csv'
+true_grades_file = BASE_DIR + '/old_true_grades_multi.csv'
 
 recorded_id = set()
 for row in sys.stdin:

@@ -13,7 +13,7 @@ CREATE TABLE sentences(
 DROP TABLE IF EXISTS true_grades CASCADE;
 CREATE TABLE true_grades(
   patient_id text,
-  true_grade text,
+  true_grade int,
   id bigint --reserved for deepdive inference
  );
 
