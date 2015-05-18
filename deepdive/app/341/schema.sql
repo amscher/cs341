@@ -50,6 +50,10 @@ CREATE TABLE grade_expand_mentions(
     mention_id text --sentence_id + start_id
   );
 
+DROP TABLE IF EXISTS feature_list CASCADE;
+CREATE TABLE feature_list(
+    feature text
+  );
 
 DROP TABLE IF EXISTS grade_candidates CASCADE;
 CREATE TABLE grade_candidates(
