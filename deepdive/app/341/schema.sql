@@ -28,6 +28,29 @@ CREATE TABLE grade_mentions(
     mention_id text --sentence_id + start_id
   );
 
+DROP TABLE IF EXISTS grade_correct_mentions CASCADE;
+CREATE TABLE grade_correct_mentions(
+    patient_id text,
+    sentence_id text, --patient_id + sent
+    start_position text,   -- start_position
+    length text, -- length
+    lemma_phrase text,  -- phrase of concatenated root words
+    word_phrase text,
+    mention_id text --sentence_id + start_id
+  );
+
+DROP TABLE IF EXISTS grade_expand_mentions CASCADE;
+CREATE TABLE grade_expand_mentions(
+    patient_id text,
+    sentence_id text, --patient_id + sent
+    start_position text,   -- start_position
+    length text, -- length
+    lemma_phrase text,  -- phrase of concatenated root words
+    word_phrase text,
+    mention_id text --sentence_id + start_id
+  );
+
+
 DROP TABLE IF EXISTS grade_candidates CASCADE;
 CREATE TABLE grade_candidates(
     patient_id text,
